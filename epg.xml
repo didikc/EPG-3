@@ -5676,1359 +5676,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260110043400 +0000" stop="20260110063900 +0000">
-    <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
-    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
-    <credits>
-      <actor>John Bloom</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29551244_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110063900 +0000" stop="20260110091100 +0000">
-    <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
-    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
-    <credits>
-      <actor>John Bloom</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29551244_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110091100 +0000" stop="20260110110000 +0000">
-    <title lang="en">V/H/S/99</title>
-    <desc lang="en">A teen's home videos lead to a series of horrifying revelations.</desc>
-    <credits>
-      <actor>Kim Abunuwara</actor>
-      <actor>Duncan Anderson</actor>
-      <actor>Kyle Bales</actor>
-      <director>Flying Lotus</director>
-      <director>Maggie Levin</director>
-      <director>Tyler MacIntyre</director>
-      <director>Johannes Roberts</director>
-      <director>Joseph Winter</director>
-      <director>Vanessa Winter</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23062376_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110110000 +0000" stop="20260110114600 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Date of Death</sub-title>
-    <desc lang="en">Madison struggles to cope as a large number of refugees flood into the hotel, including someone familiar but unexpected.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Christoph Schrewe</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110114600 +0000" stop="20260110123000 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Wrath</sub-title>
-    <desc lang="en">New refugees throw off Travis; Nick must decide if he should stay at the Colonia with Luciana or leave.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Stefan Schwartz</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110123000 +0000" stop="20260110131900 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">North</sub-title>
-    <desc lang="en">When Travis' rage causes unrest at the hotel, Madison has to choose whether or not she will stand by him; Nick becomes leader of the Colonia as Narcos close in.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Andrew Bernstein</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110131900 +0000" stop="20260110140500 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Monster</sub-title>
-    <desc lang="en">The families flee Los Angeles on Strand's yacht and find yet more danger at sea.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110140500 +0000" stop="20260110145200 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">We All Fall Down</sub-title>
-    <desc lang="en">The group seeks shelter with a survivalist family; Madison searches for the family's true motives while Salazar tries to uncover Strand's.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110145200 +0000" stop="20260110153800 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Ouroboros</sub-title>
-    <desc lang="en">Madison confronts Strand about his undisclosed destination; Nick, Alicia and others inspect a plane crash site.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110153800 +0000" stop="20260110162500 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Blood in the Streets</sub-title>
-    <desc lang="en">The group lets a family in distress board the Abigail; Strand's past begins to come to light; Nick looks for an associate of Strand's.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110162500 +0000" stop="20260110171000 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Captive</sub-title>
-    <desc lang="en">Alicia works toward reuniting with her family; Travis comes across a familiar face; Madison and Nick try to save their family against all odds.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110171000 +0000" stop="20260110175800 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Sicut Cervus</sub-title>
-    <desc lang="en">Conflict arises as the Abigail approaches its destination; Chris makes a staggering decision; Nick meets a new maternal figure.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110175800 +0000" stop="20260110184400 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Shiva</sub-title>
-    <desc lang="en">The family faces their biggest test yet; Nick, Madison, Travis and others try to stay close to each other.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110184400 +0000" stop="20260110193200 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Grotesque</sub-title>
-    <desc lang="en">Nick's search for answers leads him into deadly terrain; a dark part of his past is revealed.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110193200 +0000" stop="20260110201900 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Los Muertos</sub-title>
-    <desc lang="en">Madison, Strand and others move forward after the compound falls; Nick gets picked for a dangerous assignment.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Deborah Chow</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110201900 +0000" stop="20260110210500 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Do Not Disturb</sub-title>
-    <desc lang="en">Travis has a hard time connecting with Chris while looking for shelter; Alicia meets a woman with a bloody past.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110210500 +0000" stop="20260110215100 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Pablo &amp; Jessica</sub-title>
-    <desc lang="en">Alicia and Madison try to bring two competing factions together; Nick uses skills from his past for his new role.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110215100 +0000" stop="20260110223700 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Pillar of Salt</sub-title>
-    <desc lang="en">At the Colonia, Alejandro reveals his darker side; a hotel resident becomes violent and Madison springs into action.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Gerardo Naranjo</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110223700 +0000" stop="20260110232400 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Date of Death</sub-title>
-    <desc lang="en">Madison struggles to cope as a large number of refugees flood into the hotel, including someone familiar but unexpected.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Christoph Schrewe</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110232400 +0000" stop="20260111001100 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Wrath</sub-title>
-    <desc lang="en">New refugees throw off Travis; Nick must decide if he should stay at the Colonia with Luciana or leave.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Stefan Schwartz</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111001100 +0000" stop="20260111010000 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">North</sub-title>
-    <desc lang="en">When Travis' rage causes unrest at the hotel, Madison has to choose whether or not she will stand by him; Nick becomes leader of the Colonia as Narcos close in.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <director>Andrew Bernstein</director>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111010000 +0000" stop="20260111014600 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Monster</sub-title>
-    <desc lang="en">The families flee Los Angeles on Strand's yacht and find yet more danger at sea.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111014600 +0000" stop="20260111023300 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">We All Fall Down</sub-title>
-    <desc lang="en">The group seeks shelter with a survivalist family; Madison searches for the family's true motives while Salazar tries to uncover Strand's.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111023300 +0000" stop="20260111031900 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Ouroboros</sub-title>
-    <desc lang="en">Madison confronts Strand about his undisclosed destination; Nick, Alicia and others inspect a plane crash site.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111031900 +0000" stop="20260111040600 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Blood in the Streets</sub-title>
-    <desc lang="en">The group lets a family in distress board the Abigail; Strand's past begins to come to light; Nick looks for an associate of Strand's.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111040600 +0000" stop="20260111045100 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Captive</sub-title>
-    <desc lang="en">Alicia works toward reuniting with her family; Travis comes across a familiar face; Madison and Nick try to save their family against all odds.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260111045100 +0000" stop="20260111053900 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Sicut Cervus</sub-title>
-    <desc lang="en">Conflict arises as the Abigail approaches its destination; Chris makes a staggering decision; Nick meets a new maternal figure.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260111053900 +0000" stop="20260111062500 +0000">
     <title lang="en">Fear the Walking Dead</title>
     <sub-title lang="en">Shiva</sub-title>
@@ -10016,56 +8675,926 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260110073000 +0000" stop="20260110123000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 9 Semifinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260114062700 +0000" stop="20260114071700 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">A case of mistaken identity leads to the wrong woman being summoned to court; law enforcement begins to piece together the back story of the Chameleon Killer and uncover a string of stolen identities.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114071700 +0000" stop="20260114080800 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">When the police follow up on a tip-off, the Chameleon Killer manages to slip through their grasp; it isn't long before another tip-off leads the police right to her doorstep.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114080800 +0000" stop="20260114090000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">The global hunt for 'The Chameleon Killer,' Elaine Parent, wanted for the 1990 murder of 34-year-old Beverly McGowan; when a body is discovered in a Florida canal, law enforcement pieces together a timeline of the victim's final days.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260110123000 +0000" stop="20260110203000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 9 Semfinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260114090000 +0000" stop="20260114095000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">A case of mistaken identity leads to the wrong woman being summoned to court; law enforcement begins to piece together the back story of the Chameleon Killer and uncover a string of stolen identities.</desc>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E12</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260110203000 +0000" stop="20260111033000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 9 Semfinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E12</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260111033000 +0000" stop="20260111040000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260111040000 +0000" stop="20260111060000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Auckland-WTA Singles Final</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260114095000 +0000" stop="20260114103900 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">When the police follow up on a tip-off, the Chameleon Killer manages to slip through their grasp; it isn't long before another tip-off leads the police right to her doorstep.</desc>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E11</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114103900 +0000" stop="20260114110000 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Cryptozoic Men</sub-title>
+    <desc lang="en">The guys try to create their own comic book; Walt buys a signed issue of Creepy.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p9179962_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114110000 +0000" stop="20260114114800 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114114800 +0000" stop="20260114123600 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114123600 +0000" stop="20260114132200 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">America Divided</sub-title>
+    <desc lang="en">In order to ensure the survival of his family, Jesse James forms a gang; Custer seeks glory in the Indian Wars; Crazy Horse fights against the U.S.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114132200 +0000" stop="20260114140900 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Two Front War</sub-title>
+    <desc lang="en">Jesse James targets the railroads; Custer goes on a secret mission in Sioux Territory; Grant contends with the growing unrest in the South and West.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114140900 +0000" stop="20260114145600 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Blood &amp; Gold</sub-title>
+    <desc lang="en">Allan Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114145600 +0000" stop="20260114154300 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Showdown</sub-title>
+    <desc lang="en">Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114154300 +0000" stop="20260114163000 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Outlaw Rising</sub-title>
+    <desc lang="en">Billy the Kid uses his talent with a gun to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114163000 +0000" stop="20260114171700 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Big Killing</sub-title>
+    <desc lang="en">Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114171700 +0000" stop="20260114180400 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114180400 +0000" stop="20260114185200 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114185200 +0000" stop="20260114193900 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">America Divided</sub-title>
+    <desc lang="en">In order to ensure the survival of his family, Jesse James forms a gang; Custer seeks glory in the Indian Wars; Crazy Horse fights against the U.S.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114193900 +0000" stop="20260114202500 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Two Front War</sub-title>
+    <desc lang="en">Jesse James targets the railroads; Custer goes on a secret mission in Sioux Territory; Grant contends with the growing unrest in the South and West.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114202500 +0000" stop="20260114211100 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Blood &amp; Gold</sub-title>
+    <desc lang="en">Allan Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114211100 +0000" stop="20260114215700 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Showdown</sub-title>
+    <desc lang="en">Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114215700 +0000" stop="20260114224300 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Outlaw Rising</sub-title>
+    <desc lang="en">Billy the Kid uses his talent with a gun to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114224300 +0000" stop="20260114232900 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Big Killing</sub-title>
+    <desc lang="en">Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114232900 +0000" stop="20260115001500 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115001500 +0000" stop="20260115010000 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115010000 +0000" stop="20260115015100 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">First Son of Texas</sub-title>
+    <desc lang="en">Eli McCullough survives a Comanche attack in 1849, and in 1915, leads his family's empire through difficult times.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115015100 +0000" stop="20260115023600 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Plum Tree</sub-title>
+    <desc lang="en">Young Eli learns to live among the Comanches; Eli and Pete clash over a response to an attack on their home.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115023600 +0000" stop="20260115032000 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Second Empire</sub-title>
+    <desc lang="en">Young Eli trains as a warrior, but makes enemies; Eli and Phineas struggle to help the family in Austin; Pete faces his demons.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115032000 +0000" stop="20260115040500 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Death Song</sub-title>
+    <desc lang="en">Young Eli faces a test of survival; the McCulloughs enact a dangerous plan to take the fight to their enemy.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115040500 +0000" stop="20260115045000 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">No Prisoners</sub-title>
+    <desc lang="en">An enemy forces Young Eli to question his loyalties; the McCulloughs' past comes back to haunt them, with deadly results.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115045000 +0000" stop="20260115053500 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Buffalo Hunter</sub-title>
+    <desc lang="en">Young Eli makes a choice with dangerous consequences; the McCulloughs deal with a tragedy; Jeannie wants to save the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260115053500 +0000" stop="20260115062100 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Marriage Bond</sub-title>
+    <desc lang="en">Young Eli must navigate tribal politics; a crisis forces Pete and Sally into a decision that will change the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260111060000 +0000" stop="20260111063000 +0000">
     <title lang="en">Academy Life</title>
@@ -10225,6 +9754,52 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E15</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260114063000 +0000" stop="20260114120000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260114120000 +0000" stop="20260114190000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E16</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260114190000 +0000" stop="20260114220000 +0000">
+    <title lang="en">2026 Australian Open 1 Point Slam</title>
+    <desc lang="en">A unique, high-stakes event where pros, amateurs, and celebrities compete in a winner-takes-all, one point-per-match format for a $1 million prize. From Melbourne Park in Melbourne, Australia.</desc>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p32084621_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260114220000 +0000" stop="20260114223000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260114223000 +0000" stop="20260115063000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E16</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="MotorRacing.distro">
