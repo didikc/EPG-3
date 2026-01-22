@@ -3554,726 +3554,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260120055800 +0000" stop="20260120064900 +0000">
-    <title lang="en">The Ipcress File</title>
-    <desc lang="en">During the Cold War, ex-smuggler Harry Palmer is enrolled as a reluctant but talented spy; sent to Berlin, Harry embarks on a dangerous mission and his survival depends on his own wits and the interventions of Maddox.</desc>
-    <credits>
-      <actor>Joe Cole</actor>
-      <actor>Lucy Boynton</actor>
-      <actor>Tom Hollander</actor>
-      <director>James Watkins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21722426_b_h8_aj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120064900 +0000" stop="20260120074000 +0000">
-    <title lang="en">The Ipcress File</title>
-    <desc lang="en">Palmer embraces his intuition, but gun-for-hire Randall is always one step ahead; a tip-off from a key witness draws Jean and Palmer closer to the truth, but their discovery only opens the door to a mystery.</desc>
-    <credits>
-      <actor>Joe Cole</actor>
-      <actor>Lucy Boynton</actor>
-      <actor>Tom Hollander</actor>
-      <director>James Watkins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21722426_b_h8_aj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120074000 +0000" stop="20260120083000 +0000">
-    <title lang="en">The Ipcress File</title>
-    <desc lang="en">As they chase Randall to Beirut where he holds Dawson, Harry and Jean's relationship intensifies; suspicious Americans watch Dalby and find him in secret talks with a Russian spy; Colonel Stok offers Dalby a tempting trade.</desc>
-    <credits>
-      <actor>Charles De'Ath</actor>
-      <actor>Petar Cvirn</actor>
-      <actor>Lucy Boynton</actor>
-      <director>James Watkins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21722426_b_h8_aj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120083000 +0000" stop="20260120092000 +0000">
-    <title lang="en">The Ipcress File</title>
-    <desc lang="en">Suspecting an American hand in Dawson's abduction, Dalby challenges General Cathcart by sending Harry and Jean to the neutron bomb test; Harry follows a trail of clues into big trouble; Maddox undermines Jean's trust in her colleague.</desc>
-    <credits>
-      <actor>Vigo Vlajic</actor>
-      <actor>Vibor Krekovic</actor>
-      <actor>Matt Weyland</actor>
-      <director>James Watkins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21722426_b_h8_aj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120092000 +0000" stop="20260120101200 +0000">
-    <title lang="en">The Ipcress File</title>
-    <desc lang="en">Harry is handed over to the Chinese military where he is subjected to a bewildering regime of mental torture; Dalby's love for Dr. Lavotchkin takes its toll on his better judgement.</desc>
-    <credits>
-      <actor>Joe Cole</actor>
-      <actor>Lucy Boynton</actor>
-      <actor>Tom Hollander</actor>
-      <director>James Watkins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21722426_b_h8_aj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120101200 +0000" stop="20260120110000 +0000">
-    <title lang="en">The Ipcress File</title>
-    <desc lang="en">Harry Palmer runs from the brainwashing but cannot hide from the agents of Cathcart's conspiracy; Jean discovers the origin of Maddox's conflict; Dalby learns his organization is to be axed; Harry worries about what has been planted in his mind.</desc>
-    <credits>
-      <actor>Paul Bazely</actor>
-      <actor>Jaz Hutchins</actor>
-      <actor>Matthew Steer</actor>
-      <director>James Watkins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21722426_b_h8_aj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120110000 +0000" stop="20260120115100 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">In 1990, Marlene is shot by a clown and detectives try to find a motive for her murder; her husband Michael becomes the prime suspect after detectives learn their marriage was on the rocks, but an anonymous tip leads investigators to another suspect.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120115100 +0000" stop="20260120124100 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">Michael's affair leads detectives to investigate his alleged mistress Sheila; a lead on the costume from a store puts Sheila firmly in the frame, but without evidence the case goes cold; then in 2017, new DNA evidence leads detectives to an arrest.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120124100 +0000" stop="20260120133000 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">After Sheila's arrest, the prosecution prepare for trial and the stakes are high; the prosecution's case centers on new DNA and fiber evidence; Sheila's defense attorney attempts to get the evidence thrown out.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120133000 +0000" stop="20260120142100 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">In 1990, Marlene is shot by a clown and detectives try to find a motive for her murder; her husband Michael becomes the prime suspect after detectives learn their marriage was on the rocks, but an anonymous tip leads investigators to another suspect.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120142100 +0000" stop="20260120151000 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">Michael's affair leads detectives to investigate his alleged mistress Sheila; a lead on the costume from a store puts Sheila firmly in the frame, but without evidence the case goes cold; then in 2017, new DNA evidence leads detectives to an arrest.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120151000 +0000" stop="20260120155800 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">After Sheila's arrest, the prosecution prepare for trial and the stakes are high; the prosecution's case centers on new DNA and fiber evidence; Sheila's defense attorney attempts to get the evidence thrown out.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120155800 +0000" stop="20260120164300 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Absorb Attention</sub-title>
-    <desc lang="en">At North Port High School in Florida, three students die within months of each other; as the community learns more, they discover a common thread: all three students were hynotized by their principal, Dr. George Kenney, not long before they died.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120164300 +0000" stop="20260120172800 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Bypass the Critical</sub-title>
-    <desc lang="en">Dr. George Kenney begins to reveal his side of the story; as details emerge about the deaths and Marcus, Wesley and Brittany's parents speak out, an investigation into Kenney's hypnosis practice begins; the North Port community grows suspicious.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120172800 +0000" stop="20260120181300 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Activate the Unconscious</sub-title>
-    <desc lang="en">The press catches wind of the story and it captures headlines worldwide; Dr. Kenney is asked to leave North Port High, and as the criminal trial heats up, the community is split on his culpability; a student comes forward with a new perspective.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E29</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120181300 +0000" stop="20260120185800 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: The Outcome</sub-title>
-    <desc lang="en">Pressure mounts against the school board to take accountability; Dr. Kenney leaves North Port for what seems like the final time; the community grapples with guilt and grief; Stephen offers an intimate look into Kenney's hypnosis practice.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120185800 +0000" stop="20260120194300 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Absorb Attention</sub-title>
-    <desc lang="en">At North Port High School in Florida, three students die within months of each other; as the community learns more, they discover a common thread: all three students were hynotized by their principal, Dr. George Kenney, not long before they died.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120194300 +0000" stop="20260120202800 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Bypass the Critical</sub-title>
-    <desc lang="en">Dr. George Kenney begins to reveal his side of the story; as details emerge about the deaths and Marcus, Wesley and Brittany's parents speak out, an investigation into Kenney's hypnosis practice begins; the North Port community grows suspicious.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120202800 +0000" stop="20260120211300 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Activate the Unconscious</sub-title>
-    <desc lang="en">The press catches wind of the story and it captures headlines worldwide; Dr. Kenney is asked to leave North Port High, and as the criminal trial heats up, the community is split on his culpability; a student comes forward with a new perspective.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E29</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120211300 +0000" stop="20260120215900 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: The Outcome</sub-title>
-    <desc lang="en">Pressure mounts against the school board to take accountability; Dr. Kenney leaves North Port for what seems like the final time; the community grapples with guilt and grief; Stephen offers an intimate look into Kenney's hypnosis practice.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120215900 +0000" stop="20260120224400 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Absorb Attention</sub-title>
-    <desc lang="en">At North Port High School in Florida, three students die within months of each other; as the community learns more, they discover a common thread: all three students were hynotized by their principal, Dr. George Kenney, not long before they died.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120224400 +0000" stop="20260120232900 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Bypass the Critical</sub-title>
-    <desc lang="en">Dr. George Kenney begins to reveal his side of the story; as details emerge about the deaths and Marcus, Wesley and Brittany's parents speak out, an investigation into Kenney's hypnosis practice begins; the North Port community grows suspicious.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260120232900 +0000" stop="20260121001400 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: Activate the Unconscious</sub-title>
-    <desc lang="en">The press catches wind of the story and it captures headlines worldwide; Dr. Kenney is asked to leave North Port High, and as the criminal trial heats up, the community is split on his culpability; a student comes forward with a new perspective.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E29</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121001400 +0000" stop="20260121010000 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Look Into My Eyes: The Outcome</sub-title>
-    <desc lang="en">Pressure mounts against the school board to take accountability; Dr. Kenney leaves North Port for what seems like the final time; the community grapples with guilt and grief; Stephen offers an intimate look into Kenney's hypnosis practice.</desc>
-    <credits>
-      <director>Brent Hodge</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121010000 +0000" stop="20260121014800 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">In 1990, Marlene is shot by a clown and detectives try to find a motive for her murder; her husband Michael becomes the prime suspect after detectives learn their marriage was on the rocks, but an anonymous tip leads investigators to another suspect.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121014800 +0000" stop="20260121023500 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">Michael's affair leads detectives to investigate his alleged mistress Sheila; a lead on the costume from a store puts Sheila firmly in the frame, but without evidence the case goes cold; then in 2017, new DNA evidence leads detectives to an arrest.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121023500 +0000" stop="20260121032300 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">After Sheila's arrest, the prosecution prepare for trial and the stakes are high; the prosecution's case centers on new DNA and fiber evidence; Sheila's defense attorney attempts to get the evidence thrown out.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121032300 +0000" stop="20260121041100 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">In 1990, Marlene is shot by a clown and detectives try to find a motive for her murder; her husband Michael becomes the prime suspect after detectives learn their marriage was on the rocks, but an anonymous tip leads investigators to another suspect.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121041100 +0000" stop="20260121045800 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">Michael's affair leads detectives to investigate his alleged mistress Sheila; a lead on the costume from a store puts Sheila firmly in the frame, but without evidence the case goes cold; then in 2017, new DNA evidence leads detectives to an arrest.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260121045800 +0000" stop="20260121054600 +0000">
-    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
-    <desc lang="en">After Sheila's arrest, the prosecution prepare for trial and the stakes are high; the prosecution's case centers on new DNA and fiber evidence; Sheila's defense attorney attempts to get the evidence thrown out.</desc>
-    <credits>
-      <director>Ellie Merz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260121054600 +0000" stop="20260121063100 +0000">
     <title lang="en">True Crime Story</title>
     <sub-title lang="en">Look Into My Eyes: Absorb Attention</sub-title>
@@ -7295,69 +6587,1144 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120053000 +0000" stop="20260120110000 +0000">
-    <title lang="en">Wimbledon Encore</title>
-    <desc lang="en">Liudmila Samsonova vs. Iga Swiatek.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15518799_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120110000 +0000" stop="20260120120000 +0000">
-    <title lang="en">Laver Cup Review Show</title>
-    <desc lang="en">Tennis highlights from the Laver Cup event.</desc>
-    <date>2025</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31024441_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120120000 +0000" stop="20260120170000 +0000">
-    <title lang="en">2026 Australian Open Tennis</title>
-    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120170000 +0000" stop="20260120200000 +0000">
-    <title lang="en">Roland Garros Encore</title>
-    <desc lang="en">Classic French Open matches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18168270_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120200000 +0000" stop="20260120210000 +0000">
-    <title lang="en">2026 Australian Open Tennis</title>
-    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120210000 +0000" stop="20260120220000 +0000">
-    <title lang="en">2026 Australian Open Tennis</title>
-    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260120220000 +0000" stop="20260121000000 +0000">
-    <title lang="en">Tennis Channel Live at the Australian Open</title>
-    <desc lang="en">From Melbourne, Australia.</desc>
-    <date>2016</date>
-    <category lang="en">Special</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p12467292_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260124064000 +0000" stop="20260124084800 +0000">
+    <title lang="en">Rare Objects</title>
+    <desc lang="en">A young woman with a traumatic past seeks to rebuild her life when she begins working at a New York City antique shop.</desc>
+    <credits>
+      <actor>Julia Mayorga</actor>
+      <actor>Katie Holmes</actor>
+      <actor>Alan Cumming</actor>
+      <director>Katie Holmes</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23827366_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260121000000 +0000" stop="20260121050000 +0000">
-    <title lang="en">Wimbledon Encore</title>
-    <desc lang="en">Mirra Andreeva vs. Belinda Bencic.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15518799_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E1</episode-num>
+  <programme channel="AMC+.us2" start="20260124084800 +0000" stop="20260124101700 +0000">
+    <title lang="en">God's Time</title>
+    <desc lang="en">Two best friends race against time to stop the woman they're both in love with from committing murder.</desc>
+    <credits>
+      <actor>Christiane Seidel</actor>
+      <actor>Jared Abrahamson</actor>
+      <actor>Ben Groh</actor>
+      <director>Daniel Antebi</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23249108_v_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260124101700 +0000" stop="20260124110000 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Con Gone Wrong</sub-title>
+    <desc lang="en">Walt and the guys take a road trip to an unexpected convention; the guys find a treasure in the trash; a customer brings in an item Mike wants for himself.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p9009550_b_h10_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124110000 +0000" stop="20260124115800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">... I Lose Myself</sub-title>
+    <desc lang="en">Morgan struggles to find the strength to help friends in dire need before it's too late.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Colman Domingo</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124115800 +0000" stop="20260124125100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">What's Your Story?</sub-title>
+    <desc lang="en">A lone traveler's wearying journey is interrupted by new acquaintances, some who become friend, others who become foe.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>John Polson</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124125100 +0000" stop="20260124133900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Another Day in the Diamond</sub-title>
+    <desc lang="en">A troubled survivor finds allies in an unexpected place; the life Madison has fought to build comes under threat.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124133900 +0000" stop="20260124142800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Good Out Here</sub-title>
+    <desc lang="en">Madison and Morgan try to help Nick find inner peace; a quest for revenge exacts its toll on the group.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Dan Liu</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124142800 +0000" stop="20260124151800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Buried</sub-title>
+    <desc lang="en">Al's questioning uncovers some surprising truths about the group's past; John Dorie receives unexpected news.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124151800 +0000" stop="20260124160900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Laura</sub-title>
+    <desc lang="en">The arrival of a wounded visitor in John Dorie's life forces him to change his ways.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124160900 +0000" stop="20260124165700 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Just in Case</sub-title>
+    <desc lang="en">Strand has a hard time coming to terms with Madison's decisions, while the situation at the stadium takes an unexpected turn.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124165700 +0000" stop="20260124174300 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Wrong Side of Where You Are Now</sub-title>
+    <desc lang="en">Madison's decision to help an adversary has unintended consequences; John Dorie's life hangs in the balance.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Sarah Boyd</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124174300 +0000" stop="20260124183200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">No One's Gone</sub-title>
+    <desc lang="en">Madison fights to preserve the life she worked so hard to build; Morgan tries to do the right thing.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124183200 +0000" stop="20260124191900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">People Like Us</sub-title>
+    <desc lang="en">Morgan tries to help Alicia and the fractured group of survivors as a storm brews.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Colman Domingo</actor>
+      <director>Magnus Martens</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124191900 +0000" stop="20260124200900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Close Your Eyes</sub-title>
+    <desc lang="en">Alicia's forced to reckon with an agonizing past while seeking refuge from a storm.</desc>
+    <credits>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alexa Nisenson</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124200900 +0000" stop="20260124205800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Code</sub-title>
+    <desc lang="en">Morgan's journey is derailed by some new acquaintances.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Daryl Mitchell</actor>
+      <actor>Mo Collins</actor>
+      <director>Tara Nicole Weyr</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124205800 +0000" stop="20260124214400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Weak</sub-title>
+    <desc lang="en">June helps when Al's health deteriorates; Morgan searches for friends lost in the storm.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Maggie Grace</actor>
+      <director>Colman Domingo</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124214400 +0000" stop="20260124223100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Blackjack</sub-title>
+    <desc lang="en">Strand and Dorie are marooned; Luciana aids a man in need; the group's efforts to help a stranger put everyone in danger.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Colman Domingo</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124223100 +0000" stop="20260124231700 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">MM 54</sub-title>
+    <desc lang="en">Difficult decisions lead the group into uncertainty; Alicia delivers on a promise to Charlie.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Danay Garcia</actor>
+      <director>Lou Diamond Phillips</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260124231700 +0000" stop="20260125000400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">I Lose People..</sub-title>
+    <desc lang="en">The group's hope falters as they seek a way out; Alicia and Charlie reunite with friends.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Colman Domingo</actor>
+      <director>David Barrett</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125000400 +0000" stop="20260125010000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">... I Lose Myself</sub-title>
+    <desc lang="en">Morgan struggles to find the strength to help friends in dire need before it's too late.</desc>
+    <credits>
+      <actor>Lennie James</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Colman Domingo</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125010000 +0000" stop="20260125015200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">What's Your Story?</sub-title>
+    <desc lang="en">A lone traveler's wearying journey is interrupted by new acquaintances, some who become friend, others who become foe.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>John Polson</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125015200 +0000" stop="20260125023800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Another Day in the Diamond</sub-title>
+    <desc lang="en">A troubled survivor finds allies in an unexpected place; the life Madison has fought to build comes under threat.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125023800 +0000" stop="20260125032800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Good Out Here</sub-title>
+    <desc lang="en">Madison and Morgan try to help Nick find inner peace; a quest for revenge exacts its toll on the group.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Dan Liu</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125032800 +0000" stop="20260125041800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Buried</sub-title>
+    <desc lang="en">Al's questioning uncovers some surprising truths about the group's past; John Dorie receives unexpected news.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125041800 +0000" stop="20260125050800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Laura</sub-title>
+    <desc lang="en">The arrival of a wounded visitor in John Dorie's life forces him to change his ways.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125050800 +0000" stop="20260125055500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Just in Case</sub-title>
+    <desc lang="en">Strand has a hard time coming to terms with Madison's decisions, while the situation at the stadium takes an unexpected turn.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260125055500 +0000" stop="20260125063900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Wrong Side of Where You Are Now</sub-title>
+    <desc lang="en">Madison's decision to help an adversary has unintended consequences; John Dorie's life hangs in the balance.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <director>Sarah Boyd</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260121050000 +0000" stop="20260121083000 +0000">
     <title lang="en">Indian Wells-ATP</title>
     <sub-title lang="en">2025 Semifinal 2 'Jack Draper;Carlos Alcaraz'</sub-title>
@@ -7604,6 +7971,57 @@
     <category lang="en">Classic Sport Event</category>
     <icon src="http://dshm.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E20</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260124073000 +0000" stop="20260124110000 +0000">
+    <title lang="en">WTA Encore</title>
+    <desc lang="en">Aryna Sabalenka vs. Elina Svitolina.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p14665955_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260124110000 +0000" stop="20260124150000 +0000">
+    <title lang="en">Cincinnati-ATP</title>
+    <desc lang="en">A look back at tennis action from Cincinnati.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21278440_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260124150000 +0000" stop="20260124220000 +0000">
+    <title lang="en">2026 Australian Open Tennis</title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260124220000 +0000" stop="20260125000000 +0000">
+    <title lang="en">Tennis Channel Live at the Australian Open</title>
+    <desc lang="en">From Melbourne, Australia.</desc>
+    <date>2016</date>
+    <category lang="en">Special</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12467292_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260125000000 +0000" stop="20260125050000 +0000">
+    <title lang="en">Miami-ATP</title>
+    <sub-title lang="en">2025 Semifinal 2 'Taylor Fritz; Jakub Mensik'</sub-title>
+    <desc lang="en">Replay of tennis matches from the ATP event in Miami.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28548441_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260125050000 +0000" stop="20260125073000 +0000">
+    <title lang="en">ATP Encore</title>
+    <desc lang="en">Jack Draper vs. Casper Ruud.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
     <previously-shown /></programme>
   <channel id="Horizon.Sports.distro">
     <url>http://www.distro.tv</url>
