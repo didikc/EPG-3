@@ -5028,1234 +5028,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260122053600 +0000" stop="20260122062100 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Somebody Get a Shovel</sub-title>
-    <desc lang="en">The Comanches go to war in 1852; in 1916, the McCulloughs' fight with Standard Oil reaches a breaking point; Eli takes a scalp.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Ellen Kuras</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122062100 +0000" stop="20260122070600 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">All Their Guilty Stains</sub-title>
-    <desc lang="en">In 1852, Young Eli's Comanche band are forced to survive on their own; in 1916, the McCulloughs search for Maria; Jeannie discovers a devastating secret.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Jeremy Webb</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122070600 +0000" stop="20260122075100 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Bear</sub-title>
-    <desc lang="en">In 1852, Young Eli's tribe encounters soldiers that make an unexpected offer; in 1916, Pete makes a decision that could tear the family apart.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Jeremy Webb</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122075100 +0000" stop="20260122084000 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Legend</sub-title>
-    <desc lang="en">In 1852, Young Eli is forced into a life-changing decision; in 1916, Eli wages a final war with Standard Oil, forcing a confrontation with Pete.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Dan Sackheim</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122084000 +0000" stop="20260122093000 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Numunuu</sub-title>
-    <desc lang="en">Young Eli leads a daring Comanche raid into Mexico in 1852; in 1915, the McCullough family confronts a threat to their growing oil business.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122093000 +0000" stop="20260122101700 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Ten Dollars and a Plucked Goose</sub-title>
-    <desc lang="en">After a devastating attack, Young Eli must help the Comanches regroup in 1852; in 1915, Pete's return causes fractures in the McCullough family.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122101700 +0000" stop="20260122110000 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Blind Tiger</sub-title>
-    <desc lang="en">Young Eli's Comanches must survive a dangerous journey in 1852; in 1915, Eli and Pete are forced to work together to deal with a new enemy.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122110000 +0000" stop="20260122114300 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Fix Everything</sub-title>
-    <desc lang="en">Cops, cults, assassins, detectives, Pararibulitis, vampires, a lottery ticket, a corgi and Ken all connect.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122114300 +0000" stop="20260122122500 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Weaponized Soul</sub-title>
-    <desc lang="en">Dirk and Todd make a discovery about the nature of their case, and are given a unique opportunity.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122122500 +0000" stop="20260122130800 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Two Sane Guys Doing Normal Things</sub-title>
-    <desc lang="en">Dirk, Todd, Farah and Detective Estevez must save Lydia Spring or face certain death.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122130800 +0000" stop="20260122140200 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Horizons</sub-title>
-    <desc lang="en">After discovering a murder scene, Todd Brotzman meets a self-proclaimed detective and gets drawn into the case.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122140200 +0000" stop="20260122144500 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Lost and Found</sub-title>
-    <desc lang="en">Todd becomes drawn further into the case, as they learn more about the kidnappers; an absurd hostage exchange occurs.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122144500 +0000" stop="20260122152800 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Rogue Wall Enthusiasts</sub-title>
-    <desc lang="en">While digging into Spring's past, Farah and Dirk find their first big clue; Todd learns he has no safe harbor; Amanda deals with a presence.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122152800 +0000" stop="20260122161100 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Watkin</sub-title>
-    <desc lang="en">Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122161100 +0000" stop="20260122165400 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Very Erectus</sub-title>
-    <desc lang="en">As Dirk and Todd embark on a hunt for Patrick Springs' dark enigmas, Todd reveals a deep-seated secret of his own; Detectives Estevez and Zimmerfield take big risks as they inch closer to the truth of their missing persons investigation.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122165400 +0000" stop="20260122173700 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Fix Everything</sub-title>
-    <desc lang="en">Cops, cults, assassins, detectives, Pararibulitis, vampires, a lottery ticket, a corgi and Ken all connect.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122173700 +0000" stop="20260122181900 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Weaponized Soul</sub-title>
-    <desc lang="en">Dirk and Todd make a discovery about the nature of their case, and are given a unique opportunity.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122181900 +0000" stop="20260122190200 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Two Sane Guys Doing Normal Things</sub-title>
-    <desc lang="en">Dirk, Todd, Farah and Detective Estevez must save Lydia Spring or face certain death.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122190200 +0000" stop="20260122195600 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Horizons</sub-title>
-    <desc lang="en">After discovering a murder scene, Todd Brotzman meets a self-proclaimed detective and gets drawn into the case.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122195600 +0000" stop="20260122203900 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Lost and Found</sub-title>
-    <desc lang="en">Todd becomes drawn further into the case, as they learn more about the kidnappers; an absurd hostage exchange occurs.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122203900 +0000" stop="20260122212200 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Rogue Wall Enthusiasts</sub-title>
-    <desc lang="en">While digging into Spring's past, Farah and Dirk find their first big clue; Todd learns he has no safe harbor; Amanda deals with a presence.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122212200 +0000" stop="20260122220500 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Watkin</sub-title>
-    <desc lang="en">Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122220500 +0000" stop="20260122224800 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Very Erectus</sub-title>
-    <desc lang="en">As Dirk and Todd embark on a hunt for Patrick Springs' dark enigmas, Todd reveals a deep-seated secret of his own; Detectives Estevez and Zimmerfield take big risks as they inch closer to the truth of their missing persons investigation.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122224800 +0000" stop="20260122233200 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Fix Everything</sub-title>
-    <desc lang="en">Cops, cults, assassins, detectives, Pararibulitis, vampires, a lottery ticket, a corgi and Ken all connect.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260122233200 +0000" stop="20260123001500 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Weaponized Soul</sub-title>
-    <desc lang="en">Dirk and Todd make a discovery about the nature of their case, and are given a unique opportunity.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123001500 +0000" stop="20260123010000 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Two Sane Guys Doing Normal Things</sub-title>
-    <desc lang="en">Dirk, Todd, Farah and Detective Estevez must save Lydia Spring or face certain death.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123010000 +0000" stop="20260123015500 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Horizons</sub-title>
-    <desc lang="en">After discovering a murder scene, Todd Brotzman meets a self-proclaimed detective and gets drawn into the case.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123015500 +0000" stop="20260123023900 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Lost and Found</sub-title>
-    <desc lang="en">Todd becomes drawn further into the case, as they learn more about the kidnappers; an absurd hostage exchange occurs.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123023900 +0000" stop="20260123032300 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Rogue Wall Enthusiasts</sub-title>
-    <desc lang="en">While digging into Spring's past, Farah and Dirk find their first big clue; Todd learns he has no safe harbor; Amanda deals with a presence.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123032300 +0000" stop="20260123040700 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Watkin</sub-title>
-    <desc lang="en">Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123040700 +0000" stop="20260123045100 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Very Erectus</sub-title>
-    <desc lang="en">As Dirk and Todd embark on a hunt for Patrick Springs' dark enigmas, Todd reveals a deep-seated secret of his own; Detectives Estevez and Zimmerfield take big risks as they inch closer to the truth of their missing persons investigation.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260123045100 +0000" stop="20260123053500 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Fix Everything</sub-title>
-    <desc lang="en">Cops, cults, assassins, detectives, Pararibulitis, vampires, a lottery ticket, a corgi and Ken all connect.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260123053500 +0000" stop="20260123061800 +0000">
     <title lang="en">Dirk Gently's Holistic Detective Agency</title>
     <sub-title lang="en">Weaponized Soul</sub-title>
@@ -9092,86 +7876,722 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122033000 +0000" stop="20260122073000 +0000">
-    <title lang="en">WTA Encore</title>
-    <desc lang="en">A replay of a classic WTA tennis match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14665955_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E13</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122073000 +0000" stop="20260122090000 +0000">
-    <title lang="en">WTA Encore</title>
-    <desc lang="en">A replay of a classic WTA tennis match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14665955_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E15</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122090000 +0000" stop="20260122110000 +0000">
-    <title lang="en">Monte Carlo-ATP ENCORE</title>
-    <sub-title lang="en">2025 Singles Final: Carlos Alcaraz vs. Lorenzo Musetti</sub-title>
-    <desc lang="en">Highlights from the Rolex Monte Carlo Masters event in Monaco.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28548521_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122110000 +0000" stop="20260122113000 +0000">
-    <title lang="en">Academy Life</title>
-    <sub-title lang="en">IMG Tennis Academy</sub-title>
-    <desc lang="en">Behind-the-scenes at top tennis academies.</desc>
+  <programme channel="AMC+.us2" start="20260126060600 +0000" stop="20260126070000 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">The Thing Lay Still</sub-title>
+    <desc lang="en">The vampire family plans to leave town after a big Mardi Gras ball; Claudia and Louis operate outside of Lestat's knowledge; in Dubai, Louis reveals a new element to the interview that changes everything.</desc>
+    <credits>
+      <actor>Jacob Anderson</actor>
+      <actor>Sam Reid</actor>
+      <actor>Bailey Bass</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
     <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21058753_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122113000 +0000" stop="20260122120000 +0000">
-    <title lang="en">Nadal: The No. 1 Story</title>
-    <desc lang="en">Coach Carlos Moya narrates the remarkable career journey of his fellow Mallorcan and former No. 1, Rafael Nadal.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22633146_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>18</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126070000 +0000" stop="20260126075500 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">What Can the Damned Really Say to the Damned</sub-title>
+    <desc lang="en">Louis recounts about Claudia's quest to find Old World Vampires amid the backdrop of Europe during WWII.</desc>
+    <credits>
+      <actor>Jacob Anderson</actor>
+      <actor>Sam Reid</actor>
+      <actor>Delainey Hayles</actor>
+      <director>Craig Zisk</director>
+    </credits>
     <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28944428_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122120000 +0000" stop="20260122190000 +0000">
-    <title lang="en">2026 Australian Open Tennis</title>
-    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122190000 +0000" stop="20260122220000 +0000">
-    <title lang="en">PPA Tour Pickleball- Live</title>
-    <sub-title lang="en">PPA Lakeville, MN Round of 16</sub-title>
-    <desc lang="en">Action from the PPA Tour.</desc>
-    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Pickleball</category>
-    <icon src="http://dshm.tmsimg.com/assets/p24599766_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26990361_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260122220000 +0000" stop="20260123000000 +0000">
-    <title lang="en">Tennis Channel Live at the Australian Open</title>
-    <desc lang="en">From Melbourne, Australia.</desc>
-    <date>2016</date>
-    <category lang="en">Special</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p12467292_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260123000000 +0000" stop="20260123050000 +0000">
-    <title lang="en">Indian Wells-WTA</title>
-    <sub-title lang="en">2025 Semifinal 1 'Mirra Andreeva;Iga Swiatek'</sub-title>
-    <desc lang="en">Classic WTA matches from the Indian Wells event.</desc>
-    <date>2025</date>
+  <programme channel="AMC+.us2" start="20260126075500 +0000" stop="20260126084700 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">Do You Know What It Means to Be Loved by Death</sub-title>
+    <desc lang="en">Armand joins the interview, and he and Louis tell Molloy the story of how they met.</desc>
+    <credits>
+      <actor>Jacob Anderson</actor>
+      <actor>Sam Reid</actor>
+      <actor>Delainey Hayles</actor>
+      <director>Craig Zisk</director>
+    </credits>
+    <date>2024</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29499786_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22633146_b_h8_aj.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126084700 +0000" stop="20260126094400 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">No Pain</sub-title>
+    <desc lang="en">Armand tells the history of the Theatre des Vampires; Louis tells of his reluctance to join.</desc>
+    <credits>
+      <actor>Jacob Anderson</actor>
+      <actor>Sam Reid</actor>
+      <actor>Delainey Hayles</actor>
+      <director>Levan Akin</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26990361_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126094400 +0000" stop="20260126103900 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">I Want You More Than Anything in the World</sub-title>
+    <desc lang="en">The coven questions Louis and Armand's special relationship; Claudia finds a new friend.</desc>
+    <credits>
+      <actor>Jacob Anderson</actor>
+      <actor>Sam Reid</actor>
+      <actor>Delainey Hayles</actor>
+      <director>Levan Akin</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26990361_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126103900 +0000" stop="20260126110000 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">To the Bat Cave</sub-title>
+    <desc lang="en">Walt and the guys are invited to an actual bat cave; a customer wants to sell his original Star Wars action figures.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10167271_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126110000 +0000" stop="20260126115800 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">Spade gets more than he bargained for when he questions his eccentric neighbors, and learns more about the boy's mysterious abilities; Teresa continues her investigation alone; Jean-Pierre faces his past and confronts Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126115800 +0000" stop="20260126130700 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Spade discovers who has been following him; Philippe sets up a deal for the boy that quickly goes sideways, leading to a dangerous confrontation on the old town bridge; a mysterious newcomer arrives, uncovering secret identities and agendas.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126130700 +0000" stop="20260126141700 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Spade arrives in Bozouls; a brief trip becomes a new chapter as he falls for a local vineyard owner; years later, Spade remains, a widower and retiree quietly living out his golden years in peace, but the return of his adversary changes everything.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126141700 +0000" stop="20260126150800 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">The tragedy of the horrific murders is felt by all in the town; pulled out of retirement, Spade begins to investigate, while Teresa keeps her cards close to her chest; no one is safe, and Spade may unknowingly put himself in the crosshairs.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126150800 +0000" stop="20260126160200 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Spade searches for answers regarding the mysterious young boy that everyone seems to be looking for; Samir takes him into hiding, but no one knows what to make of his incessant writing; Spade gets a call from the elusive Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126160200 +0000" stop="20260126165700 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Spade interrogates the intruder and learns that there are people who still very much want him dead; another body is discovered, and Teresa begins her own investigation into the whereabouts of her father, Philippe Saint-Andre.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126165700 +0000" stop="20260126175500 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">Spade gets more than he bargained for when he questions his eccentric neighbors, and learns more about the boy's mysterious abilities; Teresa continues her investigation alone; Jean-Pierre faces his past and confronts Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126175500 +0000" stop="20260126190400 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Spade discovers who has been following him; Philippe sets up a deal for the boy that quickly goes sideways, leading to a dangerous confrontation on the old town bridge; a mysterious newcomer arrives, uncovering secret identities and agendas.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126190400 +0000" stop="20260126201400 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Spade arrives in Bozouls; a brief trip becomes a new chapter as he falls for a local vineyard owner; years later, Spade remains, a widower and retiree quietly living out his golden years in peace, but the return of his adversary changes everything.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126201400 +0000" stop="20260126210500 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">The tragedy of the horrific murders is felt by all in the town; pulled out of retirement, Spade begins to investigate, while Teresa keeps her cards close to her chest; no one is safe, and Spade may unknowingly put himself in the crosshairs.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126210500 +0000" stop="20260126215900 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Spade searches for answers regarding the mysterious young boy that everyone seems to be looking for; Samir takes him into hiding, but no one knows what to make of his incessant writing; Spade gets a call from the elusive Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126215900 +0000" stop="20260126225400 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Spade interrogates the intruder and learns that there are people who still very much want him dead; another body is discovered, and Teresa begins her own investigation into the whereabouts of her father, Philippe Saint-Andre.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126225400 +0000" stop="20260126235100 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">Spade gets more than he bargained for when he questions his eccentric neighbors, and learns more about the boy's mysterious abilities; Teresa continues her investigation alone; Jean-Pierre faces his past and confronts Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260126235100 +0000" stop="20260127010000 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Spade discovers who has been following him; Philippe sets up a deal for the boy that quickly goes sideways, leading to a dangerous confrontation on the old town bridge; a mysterious newcomer arrives, uncovering secret identities and agendas.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260127010000 +0000" stop="20260127020800 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Spade arrives in Bozouls; a brief trip becomes a new chapter as he falls for a local vineyard owner; years later, Spade remains, a widower and retiree quietly living out his golden years in peace, but the return of his adversary changes everything.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260127020800 +0000" stop="20260127025700 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">The tragedy of the horrific murders is felt by all in the town; pulled out of retirement, Spade begins to investigate, while Teresa keeps her cards close to her chest; no one is safe, and Spade may unknowingly put himself in the crosshairs.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260127025700 +0000" stop="20260127035000 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Spade searches for answers regarding the mysterious young boy that everyone seems to be looking for; Samir takes him into hiding, but no one knows what to make of his incessant writing; Spade gets a call from the elusive Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260127035000 +0000" stop="20260127044500 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Spade interrogates the intruder and learns that there are people who still very much want him dead; another body is discovered, and Teresa begins her own investigation into the whereabouts of her father, Philippe Saint-Andre.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260127044500 +0000" stop="20260127054200 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">Spade gets more than he bargained for when he questions his eccentric neighbors, and learns more about the boy's mysterious abilities; Teresa continues her investigation alone; Jean-Pierre faces his past and confronts Philippe.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260127054200 +0000" stop="20260127065000 +0000">
+    <title lang="en">Monsieur Spade</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Spade discovers who has been following him; Philippe sets up a deal for the boy that quickly goes sideways, leading to a dangerous confrontation on the old town bridge; a mysterious newcomer arrives, uncovering secret identities and agendas.</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Cara Bossom</actor>
+      <actor>Denis Ménochet</actor>
+      <director>Scott Frank</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26240323_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260123050000 +0000" stop="20260123063000 +0000">
     <title lang="en">Houston-ATP ENCORE</title>
     <sub-title lang="en">2025 Singles Final 'Jenson Brooksby;Frances Tiafoe'</sub-title>
@@ -9223,7 +8643,7 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260123190000 +0000" stop="20260123220000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260123190000 +0000" stop="20260123210000 +0000">
     <title lang="en">PPA Tour Pickleball- Live</title>
     <sub-title lang="en">PPA Lakeville, MN Quarterfinals</sub-title>
     <desc lang="en">Action from the PPA Tour.</desc>
@@ -9234,7 +8654,14 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260123220000 +0000" stop="20260124000000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260123210000 +0000" stop="20260123220000 +0000">
+    <title lang="en">2026 Australian Open Tennis</title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260123220000 +0000" stop="20260123230000 +0000">
     <title lang="en">Tennis Channel Live at the Australian Open</title>
     <desc lang="en">From Melbourne, Australia.</desc>
     <date>2016</date>
@@ -9243,11 +8670,29 @@
     <icon src="http://dshm.tmsimg.com/assets/p12467292_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260124000000 +0000" stop="20260124033000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260123230000 +0000" stop="20260124000000 +0000">
+    <title lang="en">Indian Wells-ATP</title>
+    <sub-title lang="en">2018 ATP Semifinal 1 'Roger Federer;Borna Coric'</sub-title>
+    <desc lang="en">Replay of tennis matches from the ATP event in Indian Wells.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28548447_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260124000000 +0000" stop="20260124020000 +0000">
     <title lang="en">Indian Wells-ATP</title>
     <sub-title lang="en">2025 Semifinal 2 'Jack Draper;Carlos Alcaraz'</sub-title>
     <desc lang="en">Replay of tennis matches from the ATP event in Indian Wells.</desc>
     <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28548447_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260124020000 +0000" stop="20260124033000 +0000">
+    <title lang="en">Indian Wells-ATP</title>
+    <sub-title lang="en">2025 Singles Final 'Jack Draper;Holger Rune'</sub-title>
+    <desc lang="en">Replay of tennis matches from the ATP event in Indian Wells.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p28548447_b_h8_ab.jpg?w=960&amp;h=540" />
@@ -9396,6 +8841,105 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p28548447_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126060000 +0000" stop="20260126073000 +0000">
+    <title lang="en">ATP Encore</title>
+    <desc lang="en">A replay of a top match from ATP Tour history.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E404</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126073000 +0000" stop="20260126110000 +0000">
+    <title lang="en">Wimbledon Encore</title>
+    <desc lang="en">Roger Federer vs. Rafael Nadal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15518799_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126110000 +0000" stop="20260126120000 +0000">
+    <title lang="en">Laver Cup Review Show</title>
+    <desc lang="en">Tennis highlights from the Laver Cup event.</desc>
+    <date>2025</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31024441_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126120000 +0000" stop="20260126170000 +0000">
+    <title lang="en">2026 Australian Open Tennis</title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126170000 +0000" stop="20260126183000 +0000">
+    <title lang="en">Houston-ATP ENCORE</title>
+    <sub-title lang="en">2025 Singles Final 'Jenson Brooksby;Frances Tiafoe'</sub-title>
+    <desc lang="en">Review the action from the Houston ATP stop.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31675521_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126183000 +0000" stop="20260126200000 +0000">
+    <title lang="en">WTA Encore</title>
+    <desc lang="en">A replay of a classic WTA tennis match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p14665955_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126200000 +0000" stop="20260126210000 +0000">
+    <title lang="en">2026 Australian Open Tennis</title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126210000 +0000" stop="20260126220000 +0000">
+    <title lang="en">2026 Australian Open Tennis</title>
+    <desc lang="en">From Melbourne Park in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31639028_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260126220000 +0000" stop="20260127000000 +0000">
+    <title lang="en">Tennis Channel Live at the Australian Open</title>
+    <desc lang="en">From Melbourne, Australia.</desc>
+    <date>2016</date>
+    <category lang="en">Special</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12467292_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260127000000 +0000" stop="20260127030000 +0000">
+    <title lang="en">Washington D.C.-ATP ENCORE</title>
+    <sub-title lang="en">2025 Singles Final 'Alex de Minaur; Alejanr Davidovich Fokina'</sub-title>
+    <desc lang="en">Replay action from the Washington, D.C. ATP event.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21247700_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260127030000 +0000" stop="20260127053000 +0000">
+    <title lang="en">Cincinnati-ATP</title>
+    <desc lang="en">A look back at tennis action from Cincinnati.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21278440_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260127053000 +0000" stop="20260127070000 +0000">
+    <title lang="en">Houston-ATP ENCORE</title>
+    <sub-title lang="en">2025 Singles Final 'Jenson Brooksby;Frances Tiafoe'</sub-title>
+    <desc lang="en">Review the action from the Houston ATP stop.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p31675521_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <channel id="Horizon.Sports.distro">
     <url>http://www.distro.tv</url>
