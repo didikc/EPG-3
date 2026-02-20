@@ -5151,1150 +5151,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260218054500 +0000" stop="20260218063000 +0000">
-    <title lang="en">Cold Blooded: The Clutter Family Murders</title>
-    <sub-title lang="en">Farm Family Slain</sub-title>
-    <desc lang="en">In November 1959, four members of the Clutter family are brutally murdered in their home in a small Kansas farming community.</desc>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14809597_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1 P1/4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218063000 +0000" stop="20260218071500 +0000">
-    <title lang="en">Cold Blooded: The Clutter Family Murders</title>
-    <sub-title lang="en">Killers on the Run</sub-title>
-    <desc lang="en">Kansas law enforcement survey the aftermath of the seemingly unmotivated crime, while criminals Perry Smith and Richard Hickock go on the lam.</desc>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14809597_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2 P2/4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218071500 +0000" stop="20260218080000 +0000">
-    <title lang="en">Cold Blooded: The Clutter Family Murders</title>
-    <sub-title lang="en">The Intruders on Trial</sub-title>
-    <desc lang="en">Detailing the resulting investigation and convictions of Perry Smith and Richard Hickock, along with the ensuing media coverage.</desc>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14809597_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3 P3/4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218080000 +0000" stop="20260218084500 +0000">
-    <title lang="en">Cold Blooded: The Clutter Family Murders</title>
-    <sub-title lang="en">The Gallows and the Novel</sub-title>
-    <desc lang="en">As Perry Smith and Richard Hickock face a death sentence, Truman Capote's coverage of the infamous case and his ensuing novel, "In Cold Blood," spawns the modern American True Crime genre.</desc>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14809597_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4 P4/4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218084500 +0000" stop="20260218093100 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218093100 +0000" stop="20260218101700 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218101700 +0000" stop="20260218110000 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218110000 +0000" stop="20260218114800 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Hooghandi</sub-title>
-    <desc lang="en">Leaphorn suspects all of the crimes on the reservation are related; there is a big break in the case; Leaphorn invites Chee over for dinner; Manuelito makes a discovery of her own.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Sanford Bookstaver</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218114800 +0000" stop="20260218123600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ha'íínlni</sub-title>
-    <desc lang="en">With a major suspect in custody, Leaphorn discovers that there is more to this crime than he would have ever imagined; Manuelito faces her worst fears; Chee must make a choice between his career and his people.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Sanford Bookstaver</director>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218123600 +0000" stop="20260218132000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">HózhóoNaasháa</sub-title>
-    <desc lang="en">Leaphorn, Chee and Manuelito descend on the hiding place of the Buffalo Society, only to be confronted with hard decisions that could change the outcome of the rest of their lives.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-      <director>Sanford Bookstaver</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218132000 +0000" stop="20260218141000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Na'niłkaadii</sub-title>
-    <desc lang="en">Navajo Tribal Policeman Joe Leaphorn investigates the death of a man involved in a mysterious cult, while Jim Chee, moonlighting as a PI, works a case of his own; when their investigations collide, Leaphorn and Chee find themselves in grave danger.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218141000 +0000" stop="20260218150000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Wonders of the Unknown</sub-title>
-    <desc lang="en">Leaphorn explores personal ties to an increasingly mysterious case; Chee is questioned by a reluctant Sgt. Manuelito; the discovery of a body sends Leaphorn and Manuelito in pursuit of a child in danger.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218150000 +0000" stop="20260218155000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Antigonish</sub-title>
-    <desc lang="en">After facing off with a dangerous man, Chee strikes out on his own; Leaphorn and Manuelito partner with the sheriff's department, leading Leaphorn to identify a vital clue.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218155000 +0000" stop="20260218164000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">The March</sub-title>
-    <desc lang="en">Leaphorn risks his life in pursuit of a suspect; Manuelito stands up to the sheriff in a bid to rescue her boss; seeking answers on a case, Chee considers a dangerous proposition.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218164000 +0000" stop="20260218173000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Black Hole Sun</sub-title>
-    <desc lang="en">With his suspect in custody, Leaphorn races against the clock to get a confession while Chee goes under cover at the cult that ties their investigations together; Manuelito counsels a teenager who is nervous about the draft.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Billy Luther</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218173000 +0000" stop="20260218182600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Hózhó náhásdlįį</sub-title>
-    <desc lang="en">Leaphorn and Chee discover evidence that connects their cases, only for Leaphorn to realize justice won't be easily served; Manuelito prepares for a big life change.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218182600 +0000" stop="20260218191600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218191600 +0000" stop="20260218200600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
-    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218200600 +0000" stop="20260218205600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
-    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218205600 +0000" stop="20260218214600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
-    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218214600 +0000" stop="20260218223600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
-    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218223600 +0000" stop="20260218232400 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ábidoo'niidę́ę́ (What We Had Been Told)</sub-title>
-    <desc lang="en">Leaphorn is forced to confront his worst fears and darkest memories when he puts his life on the line to prevent another murder.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Erica Tremblay</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260218232400 +0000" stop="20260219001100 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">T'áá Áłts'íísígo (Just a Small Piece)</sub-title>
-    <desc lang="en">Leaphorn and Chee retrace their steps after uncovering a vital clue; Special Agent Washington presses for more information; Manuelito moves quickly to execute a search warrant.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Steven Judd</director>
-      <director>Steven Paul Judd</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219001100 +0000" stop="20260219010000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
-    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219010000 +0000" stop="20260219014700 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Craig Zisk</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219014700 +0000" stop="20260219023500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Craig Zisk</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219023500 +0000" stop="20260219032500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219032500 +0000" stop="20260219041300 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
-    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219041300 +0000" stop="20260219050100 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
-    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260219050100 +0000" stop="20260219055200 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
-    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260219055200 +0000" stop="20260219064300 +0000">
     <title lang="en">Dark Winds</title>
     <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
@@ -9333,48 +8201,1270 @@
       <value>-16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260218030000 +0000" stop="20260218070000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260222060600 +0000" stop="20260222065300 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Anton</sub-title>
+    <desc lang="en">Strand fights to maintain the peace of his new life after the sudden arrival of an old friend threatens it with ghosts of the past.</desc>
+    <credits>
+      <actor>Colman Domingo</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Ruben Blades</actor>
+      <director>Danay Garcia</director>
+    </credits>
+    <date>2023</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E30</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260218070000 +0000" stop="20260218150000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E30</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260218150000 +0000" stop="20260218230000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260222065300 +0000" stop="20260222074400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Iron Tiger</sub-title>
+    <desc lang="en">The search for fuel to replenish Padre's dwindling supply leads the survivors to a reunion that gives Madison an unexpected opportunity for revenge and reconciliation.</desc>
+    <credits>
+      <actor>Colman Domingo</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Ruben Blades</actor>
+      <director>SJ Main Muñoz</director>
+    </credits>
+    <date>2023</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E30</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E8</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260218230000 +0000" stop="20260219030000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260222074400 +0000" stop="20260222083600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Sanctuary</sub-title>
+    <desc lang="en">The survivors reckon with ghosts of their past.</desc>
+    <credits>
+      <actor>Colman Domingo</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Ruben Blades</actor>
+      <director>Phil McLaughlin</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222083600 +0000" stop="20260222092400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Keeping Her Alive</sub-title>
+    <desc lang="en">A survivor is at odds with the rest of the island and is forced to turn to another for help.</desc>
+    <credits>
+      <actor>Colman Domingo</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Ruben Blades</actor>
+      <director>James Armstrong</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222092400 +0000" stop="20260222100900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Fighting Like You</sub-title>
+    <desc lang="en">Enemies become temporary allies as the desire for revenge gives way to survival in the fight for the future of Padre.</desc>
+    <credits>
+      <actor>Colman Domingo</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Ruben Blades</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222100900 +0000" stop="20260222110000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Road Ahead</sub-title>
+    <desc lang="en">The survivors and their allies get tied up in a mission.</desc>
+    <credits>
+      <actor>Colman Domingo</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Ruben Blades</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E12</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222110000 +0000" stop="20260222114900 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
+    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222114900 +0000" stop="20260222124000 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
+    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222124000 +0000" stop="20260222132800 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
+    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Michael Nankin</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222132800 +0000" stop="20260222141500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
+    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222141500 +0000" stop="20260222150700 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
+    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222150700 +0000" stop="20260222155800 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
+    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222155800 +0000" stop="20260222164600 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ábidoo'niidę́ę́ (What We Had Been Told)</sub-title>
+    <desc lang="en">Leaphorn is forced to confront his worst fears and darkest memories when he puts his life on the line to prevent another murder.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Erica Tremblay</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222164600 +0000" stop="20260222173200 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">T'áá Áłts'íísígo (Just a Small Piece)</sub-title>
+    <desc lang="en">Leaphorn and Chee retrace their steps after uncovering a vital clue; Special Agent Washington presses for more information; Manuelito moves quickly to execute a search warrant.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Steven Judd</director>
+      <director>Steven Paul Judd</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222173200 +0000" stop="20260222182200 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
+    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222182200 +0000" stop="20260222191400 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
+    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222191400 +0000" stop="20260222200500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
+    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Michael Nankin</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222200500 +0000" stop="20260222205300 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
+    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222205300 +0000" stop="20260222214500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
+    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222214500 +0000" stop="20260222223600 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
+    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222223600 +0000" stop="20260222232400 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ábidoo'niidę́ę́ (What We Had Been Told)</sub-title>
+    <desc lang="en">Leaphorn is forced to confront his worst fears and darkest memories when he puts his life on the line to prevent another murder.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Erica Tremblay</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260222232400 +0000" stop="20260223001000 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">T'áá Áłts'íísígo (Just a Small Piece)</sub-title>
+    <desc lang="en">Leaphorn and Chee retrace their steps after uncovering a vital clue; Special Agent Washington presses for more information; Manuelito moves quickly to execute a search warrant.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Steven Judd</director>
+      <director>Steven Paul Judd</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223001000 +0000" stop="20260223010000 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
+    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223010000 +0000" stop="20260223014700 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
+    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Craig Zisk</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E30</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223014700 +0000" stop="20260223023500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
+    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Craig Zisk</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223023500 +0000" stop="20260223032500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
+    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223032500 +0000" stop="20260223041300 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
+    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Michael Nankin</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223041300 +0000" stop="20260223050100 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
+    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223050100 +0000" stop="20260223055200 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
+    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260223055200 +0000" stop="20260223064300 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
+    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260219030000 +0000" stop="20260219100000 +0000">
     <title lang="en">Center Court</title>
@@ -9386,10 +9476,10 @@
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E31</episode-num>
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260219100000 +0000" stop="20260219140000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260219100000 +0000" stop="20260219180000 +0000">
     <title lang="en">Center Court Live</title>
     <sub-title lang="en">Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+    <desc lang="en">C. Tauson vs. J. Pegula; M. Andreeva vs. A. Anisimova; S. Tsitsipas vs. A. Rublev; C. Gauff vs. A. Eala; J. Lechecka vs. A. Fils; A. Ruzic vs. E. Svitolina; C. Alcaraz vs. K. Khachanov; J. Mensik vs. J. Sinner; L. Tien vs. M. Kecmanovic; Z. Svajda vs. F. Tiafoe; A. Walton vs. F. Tiafoe; T. Fritz vs. R. Jobar.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
@@ -9397,36 +9487,26 @@
     <episode-num system="onscreen">E31</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260219140000 +0000" stop="20260219150000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Early Rounds; Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E32</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260219150000 +0000" stop="20260219230000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260219180000 +0000" stop="20260220020000 +0000">
     <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Early Rounds; Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+    <sub-title lang="en">Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
+    <desc lang="en">C. Tauson vs. J. Pegula; M. Andreeva vs. A. Anisimova; S. Tsitsipas vs. A. Rublev; C. Gauff vs. A. Eala; J. Lechecka vs. A. Fils; A. Ruzic vs. E. Svitolina; C. Alcaraz vs. K. Khachanov; J. Mensik vs. J. Sinner; L. Tien vs. M. Kecmanovic; Z. Svajda vs. F. Tiafoe; A. Walton vs. F. Tiafoe; T. Fritz vs. R. Jobar.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E32</episode-num>
+    <episode-num system="onscreen">E31</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260219230000 +0000" stop="20260220030000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260220020000 +0000" stop="20260220030000 +0000">
     <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Early Rounds; Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+    <sub-title lang="en">Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
+    <desc lang="en">C. Tauson vs. J. Pegula; M. Andreeva vs. A. Anisimova; S. Tsitsipas vs. A. Rublev; C. Gauff vs. A. Eala; J. Lechecka vs. A. Fils; A. Ruzic vs. E. Svitolina; C. Alcaraz vs. K. Khachanov; J. Mensik vs. J. Sinner; L. Tien vs. M. Kecmanovic; Z. Svajda vs. F. Tiafoe; A. Walton vs. F. Tiafoe; T. Fritz vs. R. Jobar.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E32</episode-num>
+    <episode-num system="onscreen">E31</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260220030000 +0000" stop="20260220110000 +0000">
@@ -9551,6 +9631,56 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E36</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260222110000 +0000" stop="20260222170000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Semifinals; Doha-ATP &amp; Dubai-WTA Finals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E36</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260222170000 +0000" stop="20260222210000 +0000">
+    <title lang="en">PPA Tour Pickleball- Live</title>
+    <sub-title lang="en">PPA Mesa, AZ Championship Sunday</sub-title>
+    <desc lang="en">Action from the PPA Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Pickleball</category>
+    <icon src="http://dshm.tmsimg.com/assets/p24599766_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E4</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260222210000 +0000" stop="20260222230000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Delray Beach-ATP Singles Final</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E37</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260222230000 +0000" stop="20260222233000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260222233000 +0000" stop="20260223073000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Finals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E37</episode-num>
     <previously-shown /></programme>
   <channel id="Horizon.Sports.distro">
     <url>http://www.distro.tv</url>
