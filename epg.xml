@@ -5409,564 +5409,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260220053500 +0000" stop="20260220061800 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Weaponized Soul</sub-title>
-    <desc lang="en">Dirk and Todd make a discovery about the nature of their case, and are given a unique opportunity.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220061800 +0000" stop="20260220070300 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Two Sane Guys Doing Normal Things</sub-title>
-    <desc lang="en">Dirk, Todd, Farah and Detective Estevez must save Lydia Spring or face certain death.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220070300 +0000" stop="20260220080000 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Horizons</sub-title>
-    <desc lang="en">After discovering a murder scene, Todd Brotzman meets a self-proclaimed detective and gets drawn into the case.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220080000 +0000" stop="20260220084600 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Lost and Found</sub-title>
-    <desc lang="en">Todd becomes drawn further into the case, as they learn more about the kidnappers; an absurd hostage exchange occurs.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220084600 +0000" stop="20260220093200 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Rogue Wall Enthusiasts</sub-title>
-    <desc lang="en">While digging into Spring's past, Farah and Dirk find their first big clue; Todd learns he has no safe harbor; Amanda deals with a presence.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220093200 +0000" stop="20260220101800 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Watkin</sub-title>
-    <desc lang="en">Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220101800 +0000" stop="20260220110000 +0000">
-    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
-    <sub-title lang="en">Very Erectus</sub-title>
-    <desc lang="en">As Dirk and Todd embark on a hunt for Patrick Springs' dark enigmas, Todd reveals a deep-seated secret of his own; Detectives Estevez and Zimmerfield take big risks as they inch closer to the truth of their missing persons investigation.</desc>
-    <credits>
-      <actor>Samuel Barnett</actor>
-      <actor>Elijah Wood</actor>
-      <actor>Aaron Douglas</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13210843_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220110000 +0000" stop="20260220124300 +0000">
-    <title lang="en">Bad Axe</title>
-    <desc lang="en">A real-time portrait of 2020 unfolds as an Asian American family in rural Michigan fights to keep its restaurant and American dream alive.</desc>
-    <credits>
-      <director>David Siev</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22026277_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220124300 +0000" stop="20260220142200 +0000">
-    <title lang="en">The Cow</title>
-    <desc lang="en">Upon arriving at a remote cabin for a getaway, a woman and her boyfriend discover another couple already staying there. They decide to share the rental for the night, but the boyfriend's disappearance sparks a race for answers.</desc>
-    <credits>
-      <actor>Winona Ryder</actor>
-      <actor>Dermot Mulroney</actor>
-      <actor>John Gallagher</actor>
-      <director>Eli Horowitz</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22500846_b_h8_ai.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220142200 +0000" stop="20260220161200 +0000">
-    <title lang="en">The Torch</title>
-    <desc lang="en">Guitar icon Buddy Guy reflects on his legacy and passes along the blues lessons he received from legends Muddy Waters and Howlin' Wolf.</desc>
-    <credits>
-      <actor>Buddy Guy</actor>
-      <actor>Quinn Sullivan</actor>
-      <actor>Tom Hambridge</actor>
-      <director>Jim Farrell</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
-    <category lang="en">Blues</category>
-    <category lang="en">Rock</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21167685_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260220161200 +0000" stop="20260220174800 +0000">
-    <title lang="en">Clean</title>
-    <desc lang="en">An insight into the world of trauma cleaning through the journey of larger-than-life business owner Sandra Pankhurst and the workers at Melbourne's Specialized Cleaning Services.</desc>
-    <credits>
-      <actor>Sandra Pankhurst</actor>
-      <director>Lachlan Mcleod</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22983675_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220174800 +0000" stop="20260220193600 +0000">
-    <title lang="en">American Star</title>
-    <desc lang="en">An assassin on his last assignment travels to Fuerteventura to kill a man he's never met.</desc>
-    <credits>
-      <actor>Ian McShane</actor>
-      <actor>Nora Arnezeder</actor>
-      <actor>Fanny Ardant</actor>
-      <director>Gonzalo López-Gallego</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25896966_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220193600 +0000" stop="20260220211700 +0000">
-    <title lang="en">Inheritance</title>
-    <desc lang="en">When Maya learns that her father was once a spy, she suddenly finds herself at the center of an international conspiracy. In her quest for answers, she must travel the globe, mastering her father's skills and unraveling the mysteries of his past.</desc>
-    <credits>
-      <actor>Phoebe Dynevor</actor>
-      <actor>Rhys Ifans</actor>
-      <actor>Necar Zadegan</actor>
-      <director>Neil Burger</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28418378_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220211700 +0000" stop="20260220231600 +0000">
-    <title lang="en">Lakota Nation vs. United States</title>
-    <desc lang="en">The Lakota people fight to reclaim their sacred land and protect it from government and corporate interests.</desc>
-    <credits>
-      <director>Jesse Short Bull</director>
-      <director>Laura Tomaselli</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p24634844_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260220231600 +0000" stop="20260221010000 +0000">
-    <title lang="en">God's Country</title>
-    <desc lang="en">A college professor gets drawn into an escalating battle of wills after she catches two hunters trespassing on her property in the remote mountains of the American West.</desc>
-    <credits>
-      <actor>Thandiwe Newton</actor>
-      <actor>Joris Jarsky</actor>
-      <actor>Jefferson White</actor>
-      <director>Julian Higgins</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22085322_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260221010000 +0000" stop="20260221023300 +0000">
-    <title lang="en">Tornado</title>
-    <desc lang="en">When her father's puppet samurai show gets ambushed by a notorious gang, Tornado vows to seek vengeance and forge her own destiny by stealing their ill-gotten gold.</desc>
-    <credits>
-      <actor>Tim Roth</actor>
-      <actor>Jack Lowden</actor>
-      <actor>Takehiro Hira</actor>
-      <director>John Maclean</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29674460_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260221023300 +0000" stop="20260221044200 +0000">
-    <title lang="en">Murder at Yellowstone City</title>
-    <desc lang="en">The once peaceful and booming Yellowstone City has fallen on hard times, but when a local prospector strikes gold, things seem to turn around. However, any hope is soon shattered when the prospector is found dead and the sheriff quickly arrests a mysterious newcomer. As the brutal murders continue, worried residents start to prepare for a final showdown that pits neighbor against neighbor.</desc>
-    <credits>
-      <actor>Gabriel Byrne</actor>
-      <actor>Thomas Jane</actor>
-      <actor>Isaiah Mustafa</actor>
-      <director>Richard Gray</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21796760_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260221044200 +0000" stop="20260221061400 +0000">
     <title lang="en">Sympathy for the Devil</title>
     <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
@@ -9559,47 +9013,705 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260220030000 +0000" stop="20260220110000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Early Rounds; Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260224062700 +0000" stop="20260224071300 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Blood &amp; Gold</sub-title>
+    <desc lang="en">Allan Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E33</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260220110000 +0000" stop="20260220130000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Early Rounds; Doha-ATP &amp; Dubai-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E33</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260220130000 +0000" stop="20260220210000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Quarterfinals; Doha-ATP &amp; Dubai-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E33</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260220210000 +0000" stop="20260221030000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Quarterfinals; Doha-ATP &amp; Dubai-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260224071300 +0000" stop="20260224075900 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Showdown</sub-title>
+    <desc lang="en">Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224075900 +0000" stop="20260224084500 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Outlaw Rising</sub-title>
+    <desc lang="en">Billy the Kid uses his talent with a gun to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224084500 +0000" stop="20260224093100 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Big Killing</sub-title>
+    <desc lang="en">Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224093100 +0000" stop="20260224101700 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224101700 +0000" stop="20260224110000 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dshm.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224110000 +0000" stop="20260224114700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Atwater, Ohio</sub-title>
+    <desc lang="en">In this true crime story, cold case investigators looking into a double murder elicit a series of confessions from a group of teens; years later, the teens recant their statements; aggressive tactics may have sent an innocent man to death row.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224114700 +0000" stop="20260224123400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Turlock, California</sub-title>
+    <desc lang="en">A criminal defense attorney known for uncovering corruption finds himself on trial; accused of a complex murder-for-hire plot, along with eight others, he fights to clear his name and show the holes in the state's case.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224123400 +0000" stop="20260224132100 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Royse City, Texas</sub-title>
+    <desc lang="en">A couple are found brutally murdered in their home; investigators learn that the last person to see them alive had secrets of his own; some question whether prejudice led police to arrest the wrong man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224132100 +0000" stop="20260224140800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Edgewater, Florida</sub-title>
+    <desc lang="en">A dentist is killed by a masked gunman; the media reports salacious details as investigators uncover a sinister plot led by the dentist's wife and stepson, but a private investigator shares a startling alternate theory.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224140800 +0000" stop="20260224145800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Adel, Georgia</sub-title>
+    <desc lang="en">The town of Adel, Ga., is rocked by a brutal robbery homicide, and locals quickly point to an outsider as the killer; over 20 years later, new evidence raises the startling question if an innocent man is serving life for another man's crime.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224145800 +0000" stop="20260224154600 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Sauquoit, New York</sub-title>
+    <desc lang="en">When a beloved chiropractor in Sauquoit, N.Y., dies suddenly under strange circumstances, investigators discover she's been murdered with a rare poison; the killer could only be someone she knew closely, and the case divides the town.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224154600 +0000" stop="20260224163400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: St. Augustine, Florida</sub-title>
+    <desc lang="en">A young woman in St. Augustine, Fla., with everything to live for is found shot to death with the gun belonging to her boyfriend, a deputy sheriff; he says it was suicide, but her family believes it was murder.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224163400 +0000" stop="20260224172200 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Cookeville, Tennessee</sub-title>
+    <desc lang="en">When an immigrant couple who settled in the Tennessee town of Cookeville is executed in their sleep and their house set on fire, investigators identify a suspect with motive; in their rush to make an arrest, they may have gotten the wrong man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224172200 +0000" stop="20260224181000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Shelbyville, Kentucky</sub-title>
+    <desc lang="en">In rural Shelbyville, Ky., a body is found in the river; years go by until the police catch the killer, but some in town question if the suspect is even capable of committing the crime.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224181000 +0000" stop="20260224185800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Rockville/Ellington, Connecticut</sub-title>
+    <desc lang="en">When a 22-year-old dancer goes missing, the men of the neighboring town who frequented the club she worked at become the suspect pool; wealth and status may protect a killer; a determined police officer works the case.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224185800 +0000" stop="20260224194500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Dallas, Ga</sub-title>
+    <desc lang="en">In this true crime story, after a woman is found shot in her bathroom officials launch a death investigation to determine if it was suicide -- as her husband claimed -- or murder; years later, the case remains open and the town still has questions.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224194500 +0000" stop="20260224203000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Pocomoke City, Md</sub-title>
+    <desc lang="en">In this true crime story, a young single mother disappears without a trace; an investigation suggests she abandoned her children, while her family spends years proving she was murdered and finding her killers.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224203000 +0000" stop="20260224211500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Angier, N.C</sub-title>
+    <desc lang="en">In this true crime atory, a man claims he shot his daughter's estranged husband, Chirstian Griggs, in self-defense -- but after investigators close the case, Christian's family discovers evidence that the killing was not justified.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224211500 +0000" stop="20260224220000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Iaeger, W.Va</sub-title>
+    <desc lang="en">In this true crime story, a beloved town doctor perishes in a deadly house fire -- which investigators conclude was arson; but after securing a murder conviction, the prosecutor doubts his own evidence and joins the fight to free an innocent man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224220000 +0000" stop="20260224224500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Atwater, Ohio</sub-title>
+    <desc lang="en">In this true crime story, cold case investigators looking into a double murder elicit a series of confessions from a group of teens; years later, the teens recant their statements; aggressive tactics may have sent an innocent man to death row.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224224500 +0000" stop="20260224233000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Turlock, California</sub-title>
+    <desc lang="en">A criminal defense attorney known for uncovering corruption finds himself on trial; accused of a complex murder-for-hire plot, along with eight others, he fights to clear his name and show the holes in the state's case.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260224233000 +0000" stop="20260225001500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Royse City, Texas</sub-title>
+    <desc lang="en">A couple are found brutally murdered in their home; investigators learn that the last person to see them alive had secrets of his own; some question whether prejudice led police to arrest the wrong man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225001500 +0000" stop="20260225010000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Edgewater, Florida</sub-title>
+    <desc lang="en">A dentist is killed by a masked gunman; the media reports salacious details as investigators uncover a sinister plot led by the dentist's wife and stepson, but a private investigator shares a startling alternate theory.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225010000 +0000" stop="20260225014500 +0000">
+    <title lang="en">True Crime Story: It Couldn't Happen Here</title>
+    <sub-title lang="en">Corsicana, Texas</sub-title>
+    <desc lang="en">When a young woman from a wealthy family is found dead in a river, suspicion falls on her well-connected husband; a district attorney's shady misdeeds forever alter the course of the investigation.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Po Kutchins</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E33</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Crime drama</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20605209_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225014500 +0000" stop="20260225023000 +0000">
+    <title lang="en">True Crime Story: It Couldn't Happen Here</title>
+    <sub-title lang="en">Corsicana, Texas</sub-title>
+    <desc lang="en">When a young woman from a wealthy family is found dead in a river, suspicion falls on her well-connected husband; a district attorney's shady misdeeds forever alter the course of the investigation.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Po Kutchins</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20605209_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225023000 +0000" stop="20260225032000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Adel, Georgia</sub-title>
+    <desc lang="en">The town of Adel, Ga., is rocked by a brutal robbery homicide, and locals quickly point to an outsider as the killer; over 20 years later, new evidence raises the startling question if an innocent man is serving life for another man's crime.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225032000 +0000" stop="20260225040800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Sauquoit, New York</sub-title>
+    <desc lang="en">When a beloved chiropractor in Sauquoit, N.Y., dies suddenly under strange circumstances, investigators discover she's been murdered with a rare poison; the killer could only be someone she knew closely, and the case divides the town.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225040800 +0000" stop="20260225045600 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: St. Augustine, Florida</sub-title>
+    <desc lang="en">A young woman in St. Augustine, Fla., with everything to live for is found shot to death with the gun belonging to her boyfriend, a deputy sheriff; he says it was suicide, but her family believes it was murder.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225045600 +0000" stop="20260225054400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Cookeville, Tennessee</sub-title>
+    <desc lang="en">When an immigrant couple who settled in the Tennessee town of Cookeville is executed in their sleep and their house set on fire, investigators identify a suspect with motive; in their rush to make an arrest, they may have gotten the wrong man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260225054400 +0000" stop="20260225063000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Shelbyville, Kentucky</sub-title>
+    <desc lang="en">In rural Shelbyville, Ky., a body is found in the river; years go by until the police catch the killer, but some in town question if the suspect is even capable of committing the crime.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260221030000 +0000" stop="20260221110000 +0000">
     <title lang="en">Center Court</title>
@@ -9783,6 +9895,59 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E40</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260224060000 +0000" stop="20260224100000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E38</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260224100000 +0000" stop="20260224140000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Dubai-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E39</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260224140000 +0000" stop="20260224150000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E38</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260224150000 +0000" stop="20260224230000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E41</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260224230000 +0000" stop="20260225060000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E41</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="MotorRacing.distro">
