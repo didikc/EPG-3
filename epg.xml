@@ -5871,1296 +5871,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260222051200 +0000" stop="20260222060600 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">All I See Is Red</sub-title>
-    <desc lang="en">Morgan fights his past as he and Madison race to stop Padre's expansion.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E6</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222060600 +0000" stop="20260222065300 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Anton</sub-title>
-    <desc lang="en">Strand fights to maintain the peace of his new life after the sudden arrival of an old friend threatens it with ghosts of the past.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>Danay Garcia</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E7</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222065300 +0000" stop="20260222074400 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Iron Tiger</sub-title>
-    <desc lang="en">The search for fuel to replenish Padre's dwindling supply leads the survivors to a reunion that gives Madison an unexpected opportunity for revenge and reconciliation.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>SJ Main Muñoz</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E8</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222074400 +0000" stop="20260222083600 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Sanctuary</sub-title>
-    <desc lang="en">The survivors reckon with ghosts of their past.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>Phil McLaughlin</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E9</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222083600 +0000" stop="20260222092400 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Keeping Her Alive</sub-title>
-    <desc lang="en">A survivor is at odds with the rest of the island and is forced to turn to another for help.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>James Armstrong</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E10</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222092400 +0000" stop="20260222100900 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Fighting Like You</sub-title>
-    <desc lang="en">Enemies become temporary allies as the desire for revenge gives way to survival in the fight for the future of Padre.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E11</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222100900 +0000" stop="20260222110000 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">The Road Ahead</sub-title>
-    <desc lang="en">The survivors and their allies get tied up in a mission.</desc>
-    <credits>
-      <actor>Colman Domingo</actor>
-      <actor>Danay Garcia</actor>
-      <actor>Ruben Blades</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E12</episode-num>
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222110000 +0000" stop="20260222114900 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
-    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222114900 +0000" stop="20260222124000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222124000 +0000" stop="20260222132800 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
-    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222132800 +0000" stop="20260222141500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
-    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222141500 +0000" stop="20260222150700 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
-    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222150700 +0000" stop="20260222155800 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
-    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222155800 +0000" stop="20260222164600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ábidoo'niidę́ę́ (What We Had Been Told)</sub-title>
-    <desc lang="en">Leaphorn is forced to confront his worst fears and darkest memories when he puts his life on the line to prevent another murder.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Erica Tremblay</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222164600 +0000" stop="20260222173200 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">T'áá Áłts'íísígo (Just a Small Piece)</sub-title>
-    <desc lang="en">Leaphorn and Chee retrace their steps after uncovering a vital clue; Special Agent Washington presses for more information; Manuelito moves quickly to execute a search warrant.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Steven Judd</director>
-      <director>Steven Paul Judd</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222173200 +0000" stop="20260222182200 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
-    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222182200 +0000" stop="20260222191400 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222191400 +0000" stop="20260222200500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
-    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222200500 +0000" stop="20260222205300 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
-    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222205300 +0000" stop="20260222214500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
-    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222214500 +0000" stop="20260222223600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
-    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222223600 +0000" stop="20260222232400 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ábidoo'niidę́ę́ (What We Had Been Told)</sub-title>
-    <desc lang="en">Leaphorn is forced to confront his worst fears and darkest memories when he puts his life on the line to prevent another murder.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Erica Tremblay</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260222232400 +0000" stop="20260223001000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">T'áá Áłts'íísígo (Just a Small Piece)</sub-title>
-    <desc lang="en">Leaphorn and Chee retrace their steps after uncovering a vital clue; Special Agent Washington presses for more information; Manuelito moves quickly to execute a search warrant.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Steven Judd</director>
-      <director>Steven Paul Judd</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223001000 +0000" stop="20260223010000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
-    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Chris Eyre</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223010000 +0000" stop="20260223014700 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Craig Zisk</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223014700 +0000" stop="20260223023500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Craig Zisk</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223023500 +0000" stop="20260223032500 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223032500 +0000" stop="20260223041300 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
-    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Michael Nankin</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223041300 +0000" stop="20260223050100 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
-    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260223050100 +0000" stop="20260223055200 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
-    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260223055200 +0000" stop="20260223064300 +0000">
     <title lang="en">Dark Winds</title>
     <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
@@ -9697,66 +8419,1109 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260222030000 +0000" stop="20260222110000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Semifinals; Doha-ATP &amp; Dubai-WTA Finals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260226064300 +0000" stop="20260226073500 +0000">
+    <title lang="en">That Dirty Black Bag</title>
+    <sub-title lang="en">Chapter Three: Alliances</sub-title>
+    <desc lang="en">Red Bill travels the barren wastes with McCoy and Kurt; in Greenvale, Eve's struggle to maintain her business is threatened; Thompson's claim to Steve's land is taken up a notch.</desc>
+    <credits>
+      <actor>Douglas Booth</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Niv Sultan</actor>
+      <director>Mauro Aragoni</director>
+      <director>Brian O'Malley</director>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E36</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260222110000 +0000" stop="20260222170000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP &amp; Rio de Janeiro-ATP Semifinals; Doha-ATP &amp; Dubai-WTA Finals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E36</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260222170000 +0000" stop="20260222210000 +0000">
-    <title lang="en">PPA Tour Pickleball- Live</title>
-    <sub-title lang="en">PPA Mesa, AZ Championship Sunday</sub-title>
-    <desc lang="en">Action from the PPA Tour.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Pickleball</category>
-    <icon src="http://dshm.tmsimg.com/assets/p24599766_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260222210000 +0000" stop="20260222230000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Delray Beach-ATP Singles Final</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260226073500 +0000" stop="20260226082800 +0000">
+    <title lang="en">That Dirty Black Bag</title>
+    <sub-title lang="en">Chapter Four: Genesis</sub-title>
+    <desc lang="en">Fifteen years earlier, Red Bill learns about being a man from a rugged Civil War veteran, Anderson; McCoy and his vile older brother, Bronson, must resort to increasingly dark means as they struggle to survive the desert.</desc>
+    <credits>
+      <actor>Douglas Booth</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Niv Sultan</actor>
+      <director>Mauro Aragoni</director>
+      <director>Brian O'Malley</director>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E37</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260222230000 +0000" stop="20260222233000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2013</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260222233000 +0000" stop="20260223073000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Finals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260226082800 +0000" stop="20260226092200 +0000">
+    <title lang="en">That Dirty Black Bag</title>
+    <sub-title lang="en">Chapter Five: Justice</sub-title>
+    <desc lang="en">Red Bill, McCoy and Kurt enter the mines, where trouble ensues; Eve faces dire consequences for her actions; a modern-day Bronson runs for governor.</desc>
+    <credits>
+      <actor>Douglas Booth</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Niv Sultan</actor>
+      <director>Mauro Aragoni</director>
+      <director>Brian O'Malley</director>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E37</episode-num>
-    <previously-shown /></programme>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226092200 +0000" stop="20260226101300 +0000">
+    <title lang="en">That Dirty Black Bag</title>
+    <sub-title lang="en">Chapter Six: To Hell</sub-title>
+    <desc lang="en">Rain comes to Greenvale, bringing with it great struggle; Bronson's men encounter McCoy and Red Bill; unexpected reunions abound.</desc>
+    <credits>
+      <actor>Douglas Booth</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Niv Sultan</actor>
+      <director>Mauro Aragoni</director>
+      <director>Brian O'Malley</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226101300 +0000" stop="20260226110000 +0000">
+    <title lang="en">That Dirty Black Bag</title>
+    <sub-title lang="en">Chapter Seven: The Plan</sub-title>
+    <desc lang="en">In the wake of the shoot-offs with Bronson's men, Red Bill and McCoy must come together for a common goal; Thompson's pressure on Steve reaches a boiling point.</desc>
+    <credits>
+      <actor>Douglas Booth</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Niv Sultan</actor>
+      <director>Mauro Aragoni</director>
+      <director>Brian O'Malley</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226110000 +0000" stop="20260226114400 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Fans of Wet Circles</sub-title>
+    <desc lang="en">Dirk, Todd and Farah reunite and investigate the case, following the clues to discover that a body connects to a cold case.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226114400 +0000" stop="20260226122700 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Two Broken Fingers</sub-title>
+    <desc lang="en">While investing a cold case, Dirk and the others are joined by Bart, who says she has been assaulted, spinning the case in a new direction.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226122700 +0000" stop="20260226131000 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">The House Within the House</sub-title>
+    <desc lang="en">The investigation leads to a startling discovery in the Cardenas homestead; Bart and Panto forge a relationship; Amanda tries to understand her hidden powers.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226131000 +0000" stop="20260226135400 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Shapes and Colors</sub-title>
+    <desc lang="en">The son of the dead couple shows up; Amanda goes to a mystical coven in the woods of Wendimoor, where she masters her unique powers.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226135400 +0000" stop="20260226143800 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Girl Power</sub-title>
+    <desc lang="en">As answers to the case and the identity of The Boy grow closer, the villains converge to stop the heroes.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226143800 +0000" stop="20260226152200 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">That Is Not Miami</sub-title>
+    <desc lang="en">Lost in Wendimoor, Dirk has a crisis of confidence as he and Todd struggle with hostile natives, deadly misunderstandings and evil knights.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226152200 +0000" stop="20260226160500 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Little Guy, Black Hair</sub-title>
+    <desc lang="en">Dirk must take charge to rescue the feuding Brotzman siblings; Panto offers Bart a better life; Farah and the police must contend with the disappearance of Dirk and Todd.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226160500 +0000" stop="20260226164700 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Trouble Is Bad</sub-title>
+    <desc lang="en">Wendimoor falls into chaos; the Mage enacts his final solution, putting both worlds in jeopardy; Amanda and Todd must overcome their differences.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226164700 +0000" stop="20260226173100 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Nice Jacket</sub-title>
+    <desc lang="en">Dirk fulfills the prophecy and restores order after returning to Blackwing; Todd and Amanda face off against Suzie Boreton.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226173100 +0000" stop="20260226181600 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Space Rabbit</sub-title>
+    <desc lang="en">Todd and Farah are on the run, and in search of Dirk; Bart's search for Ken takes her to Montana, where unexplainable events are taking place.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226181600 +0000" stop="20260226190100 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Fans of Wet Circles</sub-title>
+    <desc lang="en">Dirk, Todd and Farah reunite and investigate the case, following the clues to discover that a body connects to a cold case.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226190100 +0000" stop="20260226194600 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Two Broken Fingers</sub-title>
+    <desc lang="en">While investing a cold case, Dirk and the others are joined by Bart, who says she has been assaulted, spinning the case in a new direction.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226194600 +0000" stop="20260226203100 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">The House Within the House</sub-title>
+    <desc lang="en">The investigation leads to a startling discovery in the Cardenas homestead; Bart and Panto forge a relationship; Amanda tries to understand her hidden powers.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226203100 +0000" stop="20260226211600 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Shapes and Colors</sub-title>
+    <desc lang="en">The son of the dead couple shows up; Amanda goes to a mystical coven in the woods of Wendimoor, where she masters her unique powers.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226211600 +0000" stop="20260226220100 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Girl Power</sub-title>
+    <desc lang="en">As answers to the case and the identity of The Boy grow closer, the villains converge to stop the heroes.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226220100 +0000" stop="20260226224500 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">That Is Not Miami</sub-title>
+    <desc lang="en">Lost in Wendimoor, Dirk has a crisis of confidence as he and Todd struggle with hostile natives, deadly misunderstandings and evil knights.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226224500 +0000" stop="20260226233100 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Little Guy, Black Hair</sub-title>
+    <desc lang="en">Dirk must take charge to rescue the feuding Brotzman siblings; Panto offers Bart a better life; Farah and the police must contend with the disappearance of Dirk and Todd.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260226233100 +0000" stop="20260227001500 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Trouble Is Bad</sub-title>
+    <desc lang="en">Wendimoor falls into chaos; the Mage enacts his final solution, putting both worlds in jeopardy; Amanda and Todd must overcome their differences.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227001500 +0000" stop="20260227010000 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Nice Jacket</sub-title>
+    <desc lang="en">Dirk fulfills the prophecy and restores order after returning to Blackwing; Todd and Amanda face off against Suzie Boreton.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227010000 +0000" stop="20260227014300 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Space Rabbit</sub-title>
+    <desc lang="en">Todd and Farah are on the run, and in search of Dirk; Bart's search for Ken takes her to Montana, where unexplainable events are taking place.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227014300 +0000" stop="20260227022600 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Fans of Wet Circles</sub-title>
+    <desc lang="en">Dirk, Todd and Farah reunite and investigate the case, following the clues to discover that a body connects to a cold case.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227022600 +0000" stop="20260227030900 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Two Broken Fingers</sub-title>
+    <desc lang="en">While investing a cold case, Dirk and the others are joined by Bart, who says she has been assaulted, spinning the case in a new direction.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227030900 +0000" stop="20260227035300 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">The House Within the House</sub-title>
+    <desc lang="en">The investigation leads to a startling discovery in the Cardenas homestead; Bart and Panto forge a relationship; Amanda tries to understand her hidden powers.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227035300 +0000" stop="20260227043700 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Shapes and Colors</sub-title>
+    <desc lang="en">The son of the dead couple shows up; Amanda goes to a mystical coven in the woods of Wendimoor, where she masters her unique powers.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227043700 +0000" stop="20260227052100 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">Girl Power</sub-title>
+    <desc lang="en">As answers to the case and the identity of The Boy grow closer, the villains converge to stop the heroes.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260227052100 +0000" stop="20260227060300 +0000">
+    <title lang="en">Dirk Gently's Holistic Detective Agency</title>
+    <sub-title lang="en">That Is Not Miami</sub-title>
+    <desc lang="en">Lost in Wendimoor, Dirk has a crisis of confidence as he and Todd struggle with hostile natives, deadly misunderstandings and evil knights.</desc>
+    <credits>
+      <actor>Samuel Barnett</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Aaron Douglas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p13210841_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260223073000 +0000" stop="20260223100000 +0000">
     <title lang="en">Center Court</title>
     <sub-title lang="en">Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Finals</sub-title>
@@ -9786,28 +9551,28 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E39</episode-num>
+    <episode-num system="onscreen">E40</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260223150000 +0000" stop="20260223230000 +0000">
     <title lang="en">Center Court Live</title>
     <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+    <desc lang="en">Echargui vs. Mpetshi Perricard; Wawrinka vs. Hassan; Auger-Aliassime vs. Zhang; Halys vs. Draper; Lajovic vs. Hanfmann; Pellegrino vs. Barrena; Volynets vs. Bartunkova; Bondar vs. Rakhimova; Comesana vs. Martinez; Jarry vs. Prizmic.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E40</episode-num>
+    <episode-num system="onscreen">E41</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260223230000 +0000" stop="20260224060000 +0000">
     <title lang="en">Center Court Live</title>
     <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+    <desc lang="en">Echargui vs. Mpetshi Perricard; Wawrinka vs. Hassan; Auger-Aliassime vs. Zhang; Halys vs. Draper; Lajovic vs. Hanfmann; Pellegrino vs. Barrena; Volynets vs. Bartunkova; Bondar vs. Rakhimova; Comesana vs. Martinez; Jarry vs. Prizmic.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E40</episode-num>
+    <episode-num system="onscreen">E41</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260224060000 +0000" stop="20260224100000 +0000">
@@ -9818,7 +9583,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E38</episode-num>
+    <episode-num system="onscreen">E39</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260224100000 +0000" stop="20260224140000 +0000">
     <title lang="en">Center Court Live</title>
@@ -9828,7 +9593,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E39</episode-num>
+    <episode-num system="onscreen">E40</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260224140000 +0000" stop="20260224150000 +0000">
@@ -9839,7 +9604,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E38</episode-num>
+    <episode-num system="onscreen">E39</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260224150000 +0000" stop="20260224230000 +0000">
     <title lang="en">Center Court Live</title>
@@ -9849,7 +9614,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E41</episode-num>
+    <episode-num system="onscreen">E42</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260224230000 +0000" stop="20260225060000 +0000">
@@ -9860,7 +9625,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E41</episode-num>
+    <episode-num system="onscreen">E42</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260225060000 +0000" stop="20260225100000 +0000">
@@ -9871,7 +9636,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E40</episode-num>
+    <episode-num system="onscreen">E41</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260225100000 +0000" stop="20260225140000 +0000">
     <title lang="en">Center Court Live</title>
@@ -9881,7 +9646,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E42</episode-num>
+    <episode-num system="onscreen">E43</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260225140000 +0000" stop="20260225150000 +0000">
@@ -9892,7 +9657,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E40</episode-num>
+    <episode-num system="onscreen">E41</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260225150000 +0000" stop="20260225230000 +0000">
     <title lang="en">Center Court Live</title>
@@ -9902,7 +9667,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E44</episode-num>
+    <episode-num system="onscreen">E45</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260225230000 +0000" stop="20260226060000 +0000">
@@ -9913,7 +9678,60 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E45</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260226060000 +0000" stop="20260226100000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E42</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260226100000 +0000" stop="20260226140000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Dubai-ATP Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E44</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260226140000 +0000" stop="20260226150000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Acapulco-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds; Dubai-ATP Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E43</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260226150000 +0000" stop="20260226230000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Acapulco-ATP &amp; Dubai-ATP Quarterfinals; Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E46</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260226230000 +0000" stop="20260227060000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Acapulco-ATP &amp; Dubai-ATP Quarterfinals; Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E46</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="Horizon.Sports.distro">
