@@ -6092,1187 +6092,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260301054000 +0000" stop="20260301063600 +0000">
-    <title lang="en">The Walking Dead: Daryl Dixon</title>
-    <sub-title lang="en">Coming Home</sub-title>
-    <desc lang="en">Genet ensures to strengthen her base of power; Daryl has a job to do before he can go back to America.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Louis Puech Scigliuzzi</actor>
-      <director>Daniel Percival</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25148115_b_h8_aw.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301063600 +0000" stop="20260301073700 +0000">
-    <title lang="en">The Walking Dead: Daryl Dixon</title>
-    <sub-title lang="en">L'ame Perdue</sub-title>
-    <desc lang="en">Daryl Dixon's arrival to France sets off a violent chain of events that inadvertently puts a young boy at the heart of a growing religious movement in danger; Daryl agrees to help shepherd the boy to safety in exchange for help returning to America.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Louis Puech Scigliuzzi</actor>
-      <director>Daniel Percival</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25148115_b_h8_aw.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301073700 +0000" stop="20260301083900 +0000">
-    <title lang="en">The Walking Dead: Daryl Dixon</title>
-    <sub-title lang="en">Alouette</sub-title>
-    <desc lang="en">Daryl, Isabelle, Laurent and Sylvie face trouble on the road; Isabelle remembers the day the hungry ones appeared; Laurent struggles to fit in.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Louis Puech Scigliuzzi</actor>
-      <director>Daniel Percival</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25148115_b_h8_aw.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301083900 +0000" stop="20260301092900 +0000">
-    <title lang="en">The Walking Dead: Daryl Dixon</title>
-    <sub-title lang="en">Paris Sera Toujours Paris</sub-title>
-    <desc lang="en">The group arrives in Paris, where Isabelle confronts her past while growing closer to Daryl; Codron seeks help from the leader of a growing nationalist movement called Pouvoir, putting the Union of Hope and Laurent under dangerous scrutiny.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Louis Puech Scigliuzzi</actor>
-      <director>Tim Southam</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25148115_b_h8_aw.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301092900 +0000" stop="20260301101700 +0000">
-    <title lang="en">The Walking Dead: Daryl Dixon</title>
-    <sub-title lang="en">La Dame de Fer</sub-title>
-    <desc lang="en">Daryl and Isabelle must negotiate with Quinn, the proprietor of the underground Demimonde club, the last vestige of art and expression in Paris.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Louis Puech Scigliuzzi</actor>
-      <director>Tim Southam</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25148115_b_h8_aw.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301101700 +0000" stop="20260301103900 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Uhura's Uhura</sub-title>
-    <desc lang="en">A woman is looking for an Uhura Mego doll from the '70s; an X-Men fan buys the first appearance of Phoenix.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10167271_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301103900 +0000" stop="20260301110000 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Pinheads</sub-title>
-    <desc lang="en">Walt is inspired to form a bowling team; an ill-conceived action figure shows up.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10167271_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301110000 +0000" stop="20260301114700 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Second Empire</sub-title>
-    <desc lang="en">Young Eli trains as a warrior, but makes enemies; Eli and Phineas struggle to help the family in Austin; Pete faces his demons.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301114700 +0000" stop="20260301123500 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Death Song</sub-title>
-    <desc lang="en">Young Eli faces a test of survival; the McCulloughs enact a dangerous plan to take the fight to their enemy.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301123500 +0000" stop="20260301132300 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">No Prisoners</sub-title>
-    <desc lang="en">An enemy forces Young Eli to question his loyalties; the McCulloughs' past comes back to haunt them, with deadly results.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301132300 +0000" stop="20260301141100 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Buffalo Hunter</sub-title>
-    <desc lang="en">Young Eli makes a choice with dangerous consequences; the McCulloughs deal with a tragedy; Jeannie wants to save the family.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301141100 +0000" stop="20260301145900 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Marriage Bond</sub-title>
-    <desc lang="en">Young Eli must navigate tribal politics; a crisis forces Pete and Sally into a decision that will change the family.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301145900 +0000" stop="20260301154700 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Honey Hunt</sub-title>
-    <desc lang="en">Prairie Flower is torn between love and duty; Pete grows closer to Maria; Eli brings Phineas in on a dangerous secret.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301154700 +0000" stop="20260301163500 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Prophecy</sub-title>
-    <desc lang="en">Young Eli must trust a strange ally to survive; Eli's past guides him to a choice that puts him and Phineas at odds.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301163500 +0000" stop="20260301172200 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Scalps</sub-title>
-    <desc lang="en">The tribe faces an unexpected return; Eli's plan for the future forces Pete into a life-or-death decision about his loyalties.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301172200 +0000" stop="20260301181400 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">First Son of Texas</sub-title>
-    <desc lang="en">Eli McCullough survives a Comanche attack in 1849, and in 1915, leads his family's empire through difficult times.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301181400 +0000" stop="20260301185900 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Plum Tree</sub-title>
-    <desc lang="en">Young Eli learns to live among the Comanches; Eli and Pete clash over a response to an attack on their home.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301185900 +0000" stop="20260301194300 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Second Empire</sub-title>
-    <desc lang="en">Young Eli trains as a warrior, but makes enemies; Eli and Phineas struggle to help the family in Austin; Pete faces his demons.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301194300 +0000" stop="20260301202800 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Death Song</sub-title>
-    <desc lang="en">Young Eli faces a test of survival; the McCulloughs enact a dangerous plan to take the fight to their enemy.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301202800 +0000" stop="20260301211300 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">No Prisoners</sub-title>
-    <desc lang="en">An enemy forces Young Eli to question his loyalties; the McCulloughs' past comes back to haunt them, with deadly results.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301211300 +0000" stop="20260301215800 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Buffalo Hunter</sub-title>
-    <desc lang="en">Young Eli makes a choice with dangerous consequences; the McCulloughs deal with a tragedy; Jeannie wants to save the family.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301215800 +0000" stop="20260301224400 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Marriage Bond</sub-title>
-    <desc lang="en">Young Eli must navigate tribal politics; a crisis forces Pete and Sally into a decision that will change the family.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301224400 +0000" stop="20260301232900 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Honey Hunt</sub-title>
-    <desc lang="en">Prairie Flower is torn between love and duty; Pete grows closer to Maria; Eli brings Phineas in on a dangerous secret.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260301232900 +0000" stop="20260302001400 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Prophecy</sub-title>
-    <desc lang="en">Young Eli must trust a strange ally to survive; Eli's past guides him to a choice that puts him and Phineas at odds.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302001400 +0000" stop="20260302010000 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Scalps</sub-title>
-    <desc lang="en">The tribe faces an unexpected return; Eli's plan for the future forces Pete into a life-or-death decision about his loyalties.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302010000 +0000" stop="20260302014800 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Craig Zisk</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302014800 +0000" stop="20260302023600 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Bikéé' Doo Éédahoozįįdę́ę́góó (Toward Their Unknown Paths)</sub-title>
-    <desc lang="en">Leaphorn, Chee, and Manuelito uncover new clues to the missing girl's whereabouts in the wake of a deadly shooting.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Zahn McClarnon</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302023600 +0000" stop="20260302032300 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Kǫ'Tsiitáá' Álnééh (Baptism by Fire)</sub-title>
-    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee search for a runaway boarding school student; Manuelito considers returning to the NTP; a menacing killer comes to the reservation in search of a target close to the investigation.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Craig Zisk</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302032300 +0000" stop="20260302041000 +0000">
-    <title lang="en">Dark Winds</title>
-    <sub-title lang="en">Bikéé' Doo Éédahoozįįdę́ę́góó (Toward Their Unknown Paths)</sub-title>
-    <desc lang="en">Leaphorn, Chee, and Manuelito uncover new clues to the missing girl's whereabouts in the wake of a deadly shooting.</desc>
-    <credits>
-      <actor>Zahn McClarnon</actor>
-      <actor>Kiowa Gordon</actor>
-      <actor>Jessica Matten</actor>
-      <director>Zahn McClarnon</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302041000 +0000" stop="20260302050100 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">First Son of Texas</sub-title>
-    <desc lang="en">Eli McCullough survives a Comanche attack in 1849, and in 1915, leads his family's empire through difficult times.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260302050100 +0000" stop="20260302054600 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Plum Tree</sub-title>
-    <desc lang="en">Young Eli learns to live among the Comanches; Eli and Pete clash over a response to an attack on their home.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260302054600 +0000" stop="20260302063000 +0000">
     <title lang="en">The Son</title>
     <sub-title lang="en">Second Empire</sub-title>
@@ -7940,6 +6771,7 @@
       <actor>Zahn McClarnon</actor>
       <actor>Kiowa Gordon</actor>
       <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -8059,6 +6891,7 @@
       <actor>Zahn McClarnon</actor>
       <actor>Kiowa Gordon</actor>
       <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -8178,6 +7011,7 @@
       <actor>Zahn McClarnon</actor>
       <actor>Kiowa Gordon</actor>
       <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -9736,6 +8570,7 @@
       <actor>Zahn McClarnon</actor>
       <actor>Kiowa Gordon</actor>
       <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -9855,6 +8690,7 @@
       <actor>Zahn McClarnon</actor>
       <actor>Kiowa Gordon</actor>
       <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -9974,6 +8810,7 @@
       <actor>Zahn McClarnon</actor>
       <actor>Kiowa Gordon</actor>
       <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -10004,6 +8841,972 @@
       <value>TV14</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305063300 +0000" stop="20260305072400 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Monster Slayer</sub-title>
+    <desc lang="en">Navajo Tribal Policeman Joe Leaphorn must solve a series of crimes; he partners with new deputy, Jim Chee, who is back on the reservation for the first time since he was a child; together they face down evil forces, both earthly and supernatural.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305072400 +0000" stop="20260305080800 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">The Male Rain Approaches</sub-title>
+    <desc lang="en">Leaphorn and Chee interview the surviving witness to the Big Rock Motel murders; Chee meets with the coroner; the cause of death remains a mystery; Sgt. Manuelito makes a chilling discovery of her own.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305080800 +0000" stop="20260305085300 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">K'e</sub-title>
+    <desc lang="en">Leaphorn's niece celebrates her Kinaaldá as Leaphorn retrieves the bodies of the murder victims; Manuelito and Chee investigate the whereabouts of the missing Mormon family.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305085300 +0000" stop="20260305093700 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Hooghandi</sub-title>
+    <desc lang="en">Leaphorn suspects all of the crimes on the reservation are related; there is a big break in the case; Leaphorn invites Chee over for dinner; Manuelito makes a discovery of her own.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305093700 +0000" stop="20260305102100 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ha'íínlni</sub-title>
+    <desc lang="en">With a major suspect in custody, Leaphorn discovers that there is more to this crime than he would have ever imagined; Manuelito faces her worst fears; Chee must make a choice between his career and his people.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Sanford Bookstaver</director>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305102100 +0000" stop="20260305110000 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">HózhóoNaasháa</sub-title>
+    <desc lang="en">Leaphorn, Chee and Manuelito descend on the hiding place of the Buffalo Society, only to be confronted with hard decisions that could change the outcome of the rest of their lives.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305110000 +0000" stop="20260305114800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">First Shot a Winner, Lads</sub-title>
+    <desc lang="en">A strange illness begins to show itself while another more familiar one jeopardizes the expedition's most valuable resource: its captain's judgment.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305114800 +0000" stop="20260305124000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">A Mercy</sub-title>
+    <desc lang="en">With the end of their provisions in sight, officers contemplate an 800-mile walkout while planning a party to raise the men's worsening spirits.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305124000 +0000" stop="20260305133200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Horrible From Supper</sub-title>
+    <desc lang="en">As the men begin their long march south, shocking events underscore how vulnerable and exposed their situation has become.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305133200 +0000" stop="20260305142400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Terror Camp Clear</sub-title>
+    <desc lang="en">The death of an officer under mysterious circumstances creates paranoia among the men; Capt. Crozier discovers some of the crew members may be considering mutiny.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305142400 +0000" stop="20260305152600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">The C, the C, the Open C</sub-title>
+    <desc lang="en">While hope comes in strange forms, the question of what the men are willing to do to survive begins to be settled in both noble and horrifying ways.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305152600 +0000" stop="20260305162500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">We Are Gone</sub-title>
+    <desc lang="en">The expedition's journey reaches its climax as men find themselves in a final confrontation with the Inuit mythology they've trespassed into.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305162500 +0000" stop="20260305171600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Go for Broke</sub-title>
+    <desc lang="en">An accident at sea cripples a Royal Navy expedition 200 miles from finding the Northwest Passage, forcing its captains to make a dire choice.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Edward Berger</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305171600 +0000" stop="20260305180400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Gore</sub-title>
+    <desc lang="en">After a long winter trapped in the ice, scouting parties are sent out in search of open water; one of the teams makes a frightening discovery.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Edward Berger</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305180400 +0000" stop="20260305185200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">The Ladder</sub-title>
+    <desc lang="en">With something now stalking the ships, the captains debate their options, testing their loyalty to one another against their duty to their crews.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305185200 +0000" stop="20260305194400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Punished, as a Boy</sub-title>
+    <desc lang="en">A cunning attack on the ships proves the men are not battling an ordinary bear and that the region's Inuit culture may hold a key to their survival.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Edward Berger</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305194400 +0000" stop="20260305203200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">First Shot a Winner, Lads</sub-title>
+    <desc lang="en">A strange illness begins to show itself while another more familiar one jeopardizes the expedition's most valuable resource: its captain's judgment.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305203200 +0000" stop="20260305212400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">A Mercy</sub-title>
+    <desc lang="en">With the end of their provisions in sight, officers contemplate an 800-mile walkout while planning a party to raise the men's worsening spirits.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305212400 +0000" stop="20260305221600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Horrible From Supper</sub-title>
+    <desc lang="en">As the men begin their long march south, shocking events underscore how vulnerable and exposed their situation has become.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305221600 +0000" stop="20260305230500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Terror Camp Clear</sub-title>
+    <desc lang="en">The death of an officer under mysterious circumstances creates paranoia among the men; Capt. Crozier discovers some of the crew members may be considering mutiny.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260305230500 +0000" stop="20260306000400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">The C, the C, the Open C</sub-title>
+    <desc lang="en">While hope comes in strange forms, the question of what the men are willing to do to survive begins to be settled in both noble and horrifying ways.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306000400 +0000" stop="20260306010000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">We Are Gone</sub-title>
+    <desc lang="en">The expedition's journey reaches its climax as men find themselves in a final confrontation with the Inuit mythology they've trespassed into.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306010000 +0000" stop="20260306014900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Go for Broke</sub-title>
+    <desc lang="en">An accident at sea cripples a Royal Navy expedition 200 miles from finding the Northwest Passage, forcing its captains to make a dire choice.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Edward Berger</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306014900 +0000" stop="20260306023400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Gore</sub-title>
+    <desc lang="en">After a long winter trapped in the ice, scouting parties are sent out in search of open water; one of the teams makes a frightening discovery.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Edward Berger</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306023400 +0000" stop="20260306032000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">The Ladder</sub-title>
+    <desc lang="en">With something now stalking the ships, the captains debate their options, testing their loyalty to one another against their duty to their crews.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306032000 +0000" stop="20260306041000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Punished, as a Boy</sub-title>
+    <desc lang="en">A cunning attack on the ships proves the men are not battling an ordinary bear and that the region's Inuit culture may hold a key to their survival.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Edward Berger</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306041000 +0000" stop="20260306045600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">First Shot a Winner, Lads</sub-title>
+    <desc lang="en">A strange illness begins to show itself while another more familiar one jeopardizes the expedition's most valuable resource: its captain's judgment.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306045600 +0000" stop="20260306054600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">A Mercy</sub-title>
+    <desc lang="en">With the end of their provisions in sight, officers contemplate an 800-mile walkout while planning a party to raise the men's worsening spirits.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260306054600 +0000" stop="20260306063600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Horrible From Supper</sub-title>
+    <desc lang="en">As the men begin their long march south, shocking events underscore how vulnerable and exposed their situation has become.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating>
   </programme>
