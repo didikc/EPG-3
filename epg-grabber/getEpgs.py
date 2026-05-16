@@ -65,7 +65,6 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz',
 ]
 
