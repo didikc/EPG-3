@@ -6,64 +6,8 @@
   <channel id="Motorvision+.de">
     <display-name lang="de">Motorvision+</display-name>
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
-    <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260605000000 +0000" stop="20260605003000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260605003000 +0000" stop="20260605010000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260605010000 +0000" stop="20260605012500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Schwarzwald Winter Challenge 2026</sub-title>
-    <desc lang="de">Moderator Martin Utberg und sein Teampartner Sven Bössow nehmen an der Schwarzwald Winter Challenge teil, organisiert vom unter Oldtimer-Liebhabern bekannten Hotel Ritter in Durbach. Martin und Sven fahren zu diesem Anlass einen Porsche 924 S aus dem Jahr 1987. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">NL</country>
-    <episode-num system="onscreen">E238</episode-num>
-  </programme>
-  <programme start="20260605012500 +0000" stop="20260605015500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Classic Ride</title>
-    <sub-title lang="de">Glas GT</sub-title>
-    <desc lang="de">Er sieht wie ein Ferrari, kommt aber aus der niederbayerischen Provinz: der Glas GT. Uwe Gusen ist einer der wenigen, die sich noch für die Marke Glas interessieren – denn die rast mit Vollgas in die Vergessenheit. Wer einen kaufen will, sollte sich beeilen, und auskennen. (Senderinfo).</desc>
-    <date>2012</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260605015500 +0000" stop="20260605022000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Abenteuer Allrad</title>
-    <sub-title lang="de">_ Offroadseminar für Jäger</sub-title>
-    <desc lang="de">Abenteuer Allrad, ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. (Senderinfo).</desc>
-    <date>2010</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260605022000 +0000" stop="20260605025000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">BMW</sub-title>
-    <desc lang="de">Aus Freude am Fahren: Dafür steht BMW, einer der erfolgreichsten Automobilkonzerne der Welt. Die betont sportlichen Automobile und Motorräder der Bayrischen Motorenwerke AG sind bei Kunden und im Rennsport gleichermaßen erfolgreich. Doch der Einstieg des einstigen Flugzeugmotorenbauers in die Automobilproduktion drohte frühzeitig zu scheitern. (Senderinfo).</desc>
-    <credits>
-      <director>Peter Schöllhorn</director>
-    </credits>
-    <date>2013</date>
-    <category lang="de">Dokuserie</category>
-    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E25</episode-num>
-  </programme>
   <programme start="20260605025000 +0000" stop="20260605032000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Grüne Welle</title>
     <sub-title lang="de">Elektro Newcomer</sub-title>
@@ -541,6 +485,7 @@
   </programme>
   <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="Motorvision.TV.de">
     <title lang="de">FastZone 2026</title>
+    <desc lang="de">Das Format zeigt die Höhepunkte verschiedenster Wettbewerbe aus dem internationalen Motorsport-Universum. Im Fokus stehen emotionale Rennmomente, spektakuläre Bilder und die Geschichten hinter den wichtigsten Events der Szene. (Senderinfo).</desc>
     <date>2025</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
@@ -993,6 +938,7 @@
   </programme>
   <programme start="20260607223000 +0000" stop="20260607230000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Fastzone 2026</title>
+    <desc lang="de">Das Format zeigt die Höhepunkte verschiedenster Wettbewerbe aus dem internationalen Motorsport-Universum. Im Fokus stehen emotionale Rennmomente, spektakuläre Bilder und die Geschichten hinter den wichtigsten Events der Szene. (Senderinfo).</desc>
     <date>2025</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
@@ -1035,2241 +981,314 @@
     <country lang="de">USA</country>
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20260605000000 +0000" stop="20260605003000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605003000 +0000" stop="20260605010000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605010000 +0000" stop="20260605012500 +0000" channel="Motorvision+.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Schwarzwald Winter Challenge 2026</sub-title>
-    <desc lang="de">Moderator Martin Utberg und sein Teampartner Sven Bössow nehmen an der Schwarzwald Winter Challenge teil, organisiert vom unter Oldtimer-Liebhabern bekannten Hotel Ritter in Durbach.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S6 E238</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605012500 +0000" stop="20260605015500 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic Ride</title>
-    <sub-title lang="de">Glas GT</sub-title>
-    <desc lang="de">Er sieht wie ein Ferrari, kommt aber aus der niederbayerischen Provinz: der Glas GT. Uwe Gusen ist einer der wenigen, die sich noch für die Marke Glas interessieren - denn die rast mit Vollgas in die Vergessenheit und ist schwer zu bekommen.</desc>
-    <date>2015</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605015500 +0000" stop="20260605022000 +0000" channel="Motorvision+.de">
-    <title lang="de">Abenteuer Allrad</title>
-    <sub-title lang="de">Folge 40 - Offroadseminar für Jäger</sub-title>
-    <desc lang="de">Dieses Magazin beschäftigt sich mit verschiedenen Offroad-tauglichen und allradgetriebenen Fahrzeugen. Es informiert über Gelände-Urgesteine und PKW mit Allradantrieb. Die Fahrzeuge werden präsentiert und deren Qualitäten genauer untersucht.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S4 E40</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605022000 +0000" stop="20260605025000 +0000" channel="Motorvision+.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">BMW</sub-title>
-    <desc lang="de">Die Bayerischen Motorenwerke AG zählt zu den besten Automobilkonzernen der Welt. Sowohl die Motorräder als auch die Fahrzeuge sind im Rennsport und beim Kunden gleichermaßen erfolgreich. Jedoch ist zu Beginn nicht alles glattgelaufen.</desc>
-    <date>2018</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605025000 +0000" stop="20260605032000 +0000" channel="Motorvision+.de">
-    <title lang="de">Grüne Welle</title>
-    <sub-title lang="de">Elektro Newcomer</sub-title>
-    <desc lang="de">Das Rezept für ein erfolgreiches Auto in der heutigen Zeit besteht meist aus: SUV-Form und Elektroantrieb. Der Avenger ist Jeeps neues kleinstes Auto in der Fahrzeugpalette.</desc>
-    <date>2025</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E67</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605032000 +0000" stop="20260605034500 +0000" channel="Motorvision+.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Performance</sub-title>
-    <desc lang="de">Der Mitsubishi Lancer beginnt im Jahr 1993 als Evolution I seine Karriere in der Rallye-WM. Abseits der Straße zeigt er, was er kann und das mit großem Erfolg. 1996 fährt Tommi Mäkinen mit Dem EVO III fünf WM-Lauf-Siege ein und gewinnt den Titel.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605034500 +0000" stop="20260605040000 +0000" channel="Motorvision+.de">
-    <title lang="de">Crash</title>
-    <sub-title lang="de">Folge 4</sub-title>
-    <desc lang="de">Wir sehen, was passiert, wenn der Ehrgeiz das Fahrkönnen übersteigt und Rennprofis aus der Kurve getragen werden. Präsentiert werden atemberaubende Stunts professioneller Fahrer und spektakuläre Szenen, bei denen niemand Schaden nimmt.</desc>
-    <date>2009</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605040000 +0000" stop="20260605045000 +0000" channel="Motorvision+.de">
-    <title lang="de">Spotted</title>
-    <sub-title lang="de">England Special</sub-title>
-    <desc lang="de">Dieses Mal werden die besonderen Cabrios, Coupés und Supercars aus Großbritannien vorgestellt.</desc>
-    <date>2017</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Nachrichten</category>
-    <category lang="de">Reisen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E17</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605045000 +0000" stop="20260605051500 +0000" channel="Motorvision+.de">
-    <title lang="de">4x4 - Das Allrad Magazin</title>
-    <sub-title lang="de">Porsche Cayenne eHybrid</sub-title>
-    <desc lang="de">Porsche steigt aus dem Diesel-Geschäft aus. Dafür sollen Hybride wie der Cayenne E-Hybrid an Bedeutung gewinnen. Getestet wurde der 3,2 Liter Durchschnittsverbrauch. Außerdem wurde mit dem BMW X4 die Region rund um Spartenburg erkundet.</desc>
-    <date>2019</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Magazin</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S3 E74</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605051500 +0000" stop="20260605054500 +0000" channel="Motorvision+.de">
-    <title lang="de">Cars + Life</title>
-    <sub-title lang="de">Folge 3</sub-title>
-    <desc lang="de">Anlässlich des 125-jährigen Firmenjubiläums von Skoda blickt diese Sendung zurück auf die ereignisreiche Geschichte eines der ältesten Automobilhersteller der Welt. Außerdem geht es um einen Praxistest des Volkswagen ID.3.</desc>
-    <date>2020</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Ratgeber</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605054500 +0000" stop="20260605061000 +0000" channel="Motorvision+.de">
-    <title lang="de">Tuning - Tiefer geht`s nicht!</title>
-    <sub-title lang="de">Fighterama</sub-title>
-    <desc lang="de">Die Sport- und Tuningmesse `Fighterama' ist der jährliche Treffpunkt für Customizing und Tuning.</desc>
-    <date>2014</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605061000 +0000" stop="20260605064000 +0000" channel="Motorvision+.de">
-    <title lang="de">Stunt Heroes</title>
-    <sub-title lang="de">Salto im Cola-Laster</sub-title>
-    <desc lang="de">Stunt-Koordinator Christoph Domanski testet für einen neuen Filmdreh eine Unfallsequenz auf ihre Machbarkeit. Ein Pkw soll sich an einer Kreuzung nach vorne durch einen querstehenden Getränkelaster überschlagen - inklusive herumfliegender Getränkekisten. Schlosser Uwe bereitet gemeinsam mit den Stuntfrauen Tina und Teresa den Laster für den Durchschuss vor, Stuntman Nick polstert den Käfig seines Stuntautos.</desc>
-    <date>2014</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Unterhaltung</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605064000 +0000" stop="20260605070500 +0000" channel="Motorvision+.de">
-    <title lang="de">Dumbest Stuff on Wheels</title>
-    <sub-title lang="de">Folge 25</sub-title>
-    <desc lang="de">Mensch und Maschine ergeben manchmal keine gute Mischung. Besonders wenn es um die Bedienung von sehr schweren oder schnellen Fahrzeugen geht. In der Sendung werden Videoaufnahmen gezeigt, die den Beweis antreten wollen.</desc>
-    <credits>
-      <producer>Burt Kearns</producer>
-      <producer>Frank Sinton</producer>
-      <producer>Arthur Smith</producer>
-      <producer>Kent Weed</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="de">Reality</category>
-    <category lang="de">Auto</category>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605070500 +0000" stop="20260605073000 +0000" channel="Motorvision+.de">
-    <title lang="de">Made in....</title>
-    <sub-title lang="de">ABT Sportsline</sub-title>
-    <desc lang="de">Abt Sportsline ist international der größte Veredler von Autos aus dem Volkswagen-Konzern. Hinzu kommt, dass sich das Unternehmen dem Motorsport verschrieben hat und bei GT-Sport, Formel und DTM ganz vorne mitspielt.</desc>
-    <date>2018</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605073000 +0000" stop="20260605075500 +0000" channel="Motorvision+.de">
-    <title lang="de">Mission Mobility</title>
-    <sub-title lang="de">Folge 28</sub-title>
-    <desc lang="de">Die Leidenschaft von Karim Al Azhari ist schnelle Autos. Er ist Rennfahrer und Präsident des Porsche Clubs in den Vereinigten Arabischen Emiraten. Karim liebt und lebt den Luxus, aber hin und wieder ist er auch richtig im Stress.</desc>
-    <date>2019</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Reality</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S3 E28</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605075500 +0000" stop="20260605082500 +0000" channel="Motorvision+.de">
-    <title lang="de">Motorcycles</title>
-    <sub-title lang="de">Von Retro bis Elektro</sub-title>
-    <desc lang="de">Motorrad-Fahrspaß ist vielfältig. Die einen stehen auf Retro, die anderen schauen in die Zukunft. Wir testen die Royal Enfield Shotgun 650 im Oldschool-Look und verraten spannende Facts zum indischen Hersteller mit britischen Wurzeln.</desc>
-    <date>2026</date>
-    <category lang="de">Magazin</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605082500 +0000" stop="20260605085000 +0000" channel="Motorvision+.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">Porsche Motorlegenden</sub-title>
-    <desc lang="de">Welcher Sportwagenfan träumt nicht insgeheim von einem Porsche 911. Es ist DER Sportwagen aus Deutschland. Kompakt, ikonisch und wertstabil. Und das, obwohl er mit über 1,3 Millionen Einheiten einer der meistgebauten Sportwagen aller Zeiten ist.</desc>
-    <date>2026</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S16 E234</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605085000 +0000" stop="20260605092000 +0000" channel="Motorvision+.de">
-    <title lang="de">Biker Lifestyle</title>
-    <sub-title lang="de">Sardinien ERfahren 2023, Teil 2</sub-title>
-    <desc lang="de">Das Magazin für Motorradfans berichtet über Biker-Clubs, Touren, Treffen und Events.</desc>
-    <date>2023</date>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S12</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605092000 +0000" stop="20260605095000 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic</title>
-    <sub-title lang="de">Folge 100</sub-title>
-    <desc lang="de">Ein bärenstarker V8-Motor, eingebettet in eine zierliche Roadsterkarosse: Der AC Cobra ist mehr Tier als Auto mit einem schlichtweg abenteuerlichen Fahrverhalten. Rolf Versen fährt seit 30 Jahren einen Cobra und hält seinem Auto noch immer die Treue.</desc>
-    <date>2018</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605095000 +0000" stop="20260605101500 +0000" channel="Motorvision+.de">
-    <title lang="de">Crash</title>
-    <sub-title lang="de">Folge 34</sub-title>
-    <desc lang="de">Wir sehen, was passiert, wenn der Ehrgeiz das Fahrkönnen übersteigt und Rennprofis aus der Kurve getragen werden. Präsentiert werden atemberaubende Stunts professioneller Fahrer und spektakuläre Szenen, bei denen niemand Schaden nimmt.</desc>
-    <date>2016</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E34</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605101500 +0000" stop="20260605104000 +0000" channel="Motorvision+.de">
-    <title lang="de">Dream Cars</title>
-    <sub-title lang="de">Luxus-Cabrios</sub-title>
-    <desc lang="de">Vorgestellt werden die spektakulärsten Cabriolets der Welt, gebaut für Höchstgeschwindigkeiten jenseits der 300 km/h, gebaut für ein einzigartiges Fahrvergnügen. Dazu zählen Ferrari, Lamborghini, Porsche, Bentley und McLaren.</desc>
-    <date>2017</date>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605104000 +0000" stop="20260605111000 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic</title>
-    <sub-title lang="de">Folge 21</sub-title>
-    <desc lang="de">In Deutschland ist der Reliant Scimitar so gut wie unbekannt, in England aber ein Auto mit einer Art von Kultstatus. Wohl deshalb benutzte auch die britische Königsfamilie dieses Fahrzeug über viele Jahre als Fortbewegungsmittel.</desc>
-    <date>2023</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605111000 +0000" stop="20260605113500 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic Ride</title>
-    <sub-title lang="de">Cobra Pacer</sub-title>
-    <desc lang="de">Die Sendung kramt in der automobilen Schatzkiste und befördert teils fast vergessene, teils edle, teils skurrile Autos aus den letzten Jahrzehnten ans Tageslicht. Egal wo - diese außergewöhnlichen Fahrzeuge sind absolute Hingucker.</desc>
-    <date>2015</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605113500 +0000" stop="20260605120500 +0000" channel="Motorvision+.de">
-    <title lang="de">Abenteuer Allrad</title>
-    <sub-title lang="de">Folge 47</sub-title>
-    <desc lang="de">Dieses Magazin beschäftigt sich mit verschiedenen Offroad-tauglichen und allradgetriebenen Fahrzeugen. Es informiert über Gelände-Urgesteine und PKW mit Allradantrieb. Die Fahrzeuge werden präsentiert und deren Qualitäten genauer untersucht.</desc>
-    <date>2020</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S4 E47</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605120500 +0000" stop="20260605123500 +0000" channel="Motorvision+.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">60 Jahre Porsche 550 Spyder</sub-title>
-    <desc lang="de">In dem Porsche 550 Spyder kam damals James Dean ums Leben. Der Wagen wird 60 Jahre alt. Dabei legte der flache und schnelle Wagen damals den Grundstein für die unglaubliche Erfolgsgeschichte des Stuttgarter Sportwagenbauers.</desc>
-    <date>2014</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605123500 +0000" stop="20260605130500 +0000" channel="Motorvision+.de">
-    <title lang="de">Grüne Welle</title>
-    <sub-title lang="de">Sportliche Stromer</sub-title>
-    <desc lang="de">Elektroautos sind emotionslos und langweilig? Diese Stromer wollen das Gegenteil beweisen: der VW ID. Buzz GTX schmeißt Allrad und 340 PS in den Ring. Doch wie sportlich ist er wirklich? Und der hier ist gar kein E-Auto.</desc>
-    <date>2025</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E68</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605130500 +0000" stop="20260605133000 +0000" channel="Motorvision+.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Wegweisend, Innovativ und Sportlich</sub-title>
-    <desc lang="de">Im Vergleichstest stehen sich der Audi A1 quattro und der Renault Clio R.S. gegenüber. Im Audi A1 quattro ist ein 1,2 Liter 4-Zylinder-Turbo-Motor mit 256 PS verbaut. Die Höchstgeschwindigkeit liegt bei 245 Kilometern pro Stunde.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605133000 +0000" stop="20260605142500 +0000" channel="Motorvision+.de">
-    <title lang="de">Australian Superbike Championship 2024</title>
-    <sub-title lang="de">2024 Junior, Goulburn Speedway, NSW</sub-title>
-    <desc lang="de">Im dritten Teil vom 6. Event der ASBK auf dem One Raceway widmen wir uns wieder den Junioren im Oceania Junior Cup, dem R3 Cup und der Supersport 300 Klasse.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605142500 +0000" stop="20260605145000 +0000" channel="Motorvision+.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Folge 259</sub-title>
-    <desc lang="de">Es geht um schnelle Autos und die berühmtesten Renn- und Rallyestrecken. Der Moderator Martin Utberg nimmt aktiv an den schönsten Oldtimerveranstaltungen der Welt teil. Man erlebt die ganze Geschichte der klassischen Juwelen.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S6 E252</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605145000 +0000" stop="20260605152000 +0000" channel="Motorvision+.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">Mercedes - Motorsport Geschichte</sub-title>
-    <desc lang="de">In der Folge geht es um die Erfolge von Mercedes. Die Marke schreibt seit 120 Jahren Geschichte.</desc>
-    <date>2017</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E24</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605152000 +0000" stop="20260605154500 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic</title>
-    <sub-title lang="de">Folge 32</sub-title>
-    <desc lang="de">In der Sendung werden Oldtimer und alles, was dazu gehört, gezeigt, sowie Events, Rennsport, Porträts, Schraubertipps und die schönsten Bilder der Automobilarchive aus aller Welt. Außerdem werden Oldies, die schärfsten Rennwagen vorgestellt.</desc>
-    <date>2021</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E32</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605154500 +0000" stop="20260605161500 +0000" channel="Motorvision+.de">
-    <title lang="de">Belcar Endurance Championship 2025</title>
-    <sub-title lang="de">American Festival Nascar, Zolder</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">BE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605161500 +0000" stop="20260605164500 +0000" channel="Motorvision+.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Folge 255</sub-title>
-    <desc lang="de">In Top Speed dreht sich alles um klassische Automobile. Moderator Martin Utberg nimmt aktiv an den schönsten Oldtimerveranstaltungen der Welt teil.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S6 E248</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605164500 +0000" stop="20260605173000 +0000" channel="Motorvision+.de">
-    <title lang="de">Pikes Peak International Hillclimb 2025</title>
-    <sub-title lang="de">Highlights 2025</sub-title>
-    <desc lang="de">Ein Auto-Bergrennen zum Gipfel des Pikes Peak in Colorado, USA.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605173000 +0000" stop="20260605180000 +0000" channel="Motorvision+.de">
-    <title lang="de">Racing Files</title>
-    <sub-title lang="de">McLaren - von der Fomel 1 bis Can Am</sub-title>
-    <desc lang="de">McLaren ist das zweitälteste noch aktive Team in der Formel 1 und genießt weltweite Bekanntheit. Heute ist das von Bruce McLaren gegründete Team ein Schwergewicht in der Welt der Supersportwagen und eines der bekanntesten im Motorsport.</desc>
-    <date>2019</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605180000 +0000" stop="20260605185500 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2026</title>
-    <desc lang="de">Erneut wetterbedingter Totalausfall des Renntags auf der Isle of Man, aber dafür die Gelegenheit uns ausführlicher mit den Crowe-Brüdern und Davey Todd zu unterhalten und einen Blick zurück auf die spektakulärsten Rennen der Woche zu werfen.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605185500 +0000" stop="20260605193000 +0000" channel="Motorvision+.de">
-    <title lang="de">Icelandic Formula Offroad 2025</title>
-    <sub-title lang="de">Egilsstadir, Runde 1</sub-title>
-    <desc lang="de">Die Sendung berichtet von der „Formula Off Road", die in Island ihren Ursprung hat.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">IS</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605193000 +0000" stop="20260605200000 +0000" channel="Motorvision+.de">
-    <title lang="de">All Wheel Drive Safari Challenge 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605200000 +0000" stop="20260605202500 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM Quadcross World Championship 2026</title>
-    <sub-title lang="de">GP France, Castelnau de Levis</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605202500 +0000" stop="20260605205000 +0000" channel="Motorvision+.de">
-    <title lang="de">Monster Jam Championship 2024</title>
-    <sub-title lang="de">2024 Seattle, Washinton</sub-title>
-    <desc lang="de">Riesige, vier Meter lange Monstertrucks kämpfen gegeneinander in Rennen und Freestyle-Wettbewerben rund um die Welt.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605205000 +0000" stop="20260605214000 +0000" channel="Motorvision+.de">
-    <title lang="de">UK National Legends Cars Championship 2024</title>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605214000 +0000" stop="20260605220500 +0000" channel="Motorvision+.de">
-    <title lang="de">US Pro Pulling 2023</title>
-    <sub-title lang="de">US Pro Pulling 2023 - Evansville, Indiana, 2 Wheel Drive Trucks</sub-title>
-    <desc lang="de">Die Sendung zeigt Höhepunkte und Zusammenfassungen aus der Welt des Motorsports.</desc>
-    <date>2024</date>
-    <category lang="de">Sport</category>
-    <country lang="de">GB</country>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">E385</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605220500 +0000" stop="20260605223000 +0000" channel="Motorvision+.de">
-    <title lang="de">EMX Quad European Championship 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605223000 +0000" stop="20260605230000 +0000" channel="Motorvision+.de">
-    <title lang="de">Africa Eco Race 2025</title>
-    <sub-title lang="de">Stage 7 &amp; 8, Benichab-Amodjar / Amodjar-Amodjar</sub-title>
-    <desc lang="de">Ein Cross-Country-Rallye-Wettbewerb, der durch Marokko, Mauretanien und Senegal führt.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260605233000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260605233000 +0000" stop="20260606000000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606000000 +0000" stop="20260606003000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606012500 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic Races</title>
-    <sub-title lang="de">BMW-Motorsport 1976</sub-title>
-    <desc lang="de">In 1976 und auch den darauffolgenden Jahren war BMW besonders erfolgreich im Motorsport. Sie haben es geschafft, in dieser Zeit zahlreiche Siege und Erfolge mit unterschiedlichen Fahrzeugen für den BMW-Motorsport einzufahren.</desc>
-    <date>2014</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606012500 +0000" stop="20260606015500 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic Ride</title>
-    <sub-title lang="de">Cobra Pacer</sub-title>
-    <desc lang="de">Die Sendung kramt in der automobilen Schatzkiste und befördert teils fast vergessene, teils edle, teils skurrile Autos aus den letzten Jahrzehnten ans Tageslicht. Egal wo - diese außergewöhnlichen Fahrzeuge sind absolute Hingucker.</desc>
-    <date>2015</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606015500 +0000" stop="20260606022000 +0000" channel="Motorvision+.de">
-    <title lang="de">Abenteuer Allrad</title>
-    <sub-title lang="de">Folge 47</sub-title>
-    <desc lang="de">Dieses Magazin beschäftigt sich mit verschiedenen Offroad-tauglichen und allradgetriebenen Fahrzeugen. Es informiert über Gelände-Urgesteine und PKW mit Allradantrieb. Die Fahrzeuge werden präsentiert und deren Qualitäten genauer untersucht.</desc>
-    <date>2020</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S4 E47</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606022000 +0000" stop="20260606025000 +0000" channel="Motorvision+.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">60 Jahre Porsche 550 Spyder</sub-title>
-    <desc lang="de">In dem Porsche 550 Spyder kam damals James Dean ums Leben. Der Wagen wird 60 Jahre alt. Dabei legte der flache und schnelle Wagen damals den Grundstein für die unglaubliche Erfolgsgeschichte des Stuttgarter Sportwagenbauers.</desc>
-    <date>2014</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606025000 +0000" stop="20260606032000 +0000" channel="Motorvision+.de">
-    <title lang="de">Grüne Welle</title>
-    <sub-title lang="de">Sportliche Stromer</sub-title>
-    <desc lang="de">Elektroautos sind emotionslos und langweilig? Diese Stromer wollen das Gegenteil beweisen: der VW ID. Buzz GTX schmeißt Allrad und 340 PS in den Ring. Doch wie sportlich ist er wirklich? Und der hier ist gar kein E-Auto.</desc>
-    <date>2025</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E68</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606032000 +0000" stop="20260606034500 +0000" channel="Motorvision+.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Wegweisend, Innovativ und Sportlich</sub-title>
-    <desc lang="de">Im Vergleichstest stehen sich der Audi A1 quattro und der Renault Clio R.S. gegenüber. Im Audi A1 quattro ist ein 1,2 Liter 4-Zylinder-Turbo-Motor mit 256 PS verbaut. Die Höchstgeschwindigkeit liegt bei 245 Kilometern pro Stunde.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606034500 +0000" stop="20260606040000 +0000" channel="Motorvision+.de">
-    <title lang="de">Crash</title>
-    <sub-title lang="de">Folge 5</sub-title>
-    <desc lang="de">Wir sehen, was passiert, wenn der Ehrgeiz das Fahrkönnen übersteigt und Rennprofis aus der Kurve getragen werden. Präsentiert werden atemberaubende Stunts professioneller Fahrer und spektakuläre Szenen, bei denen niemand Schaden nimmt.</desc>
-    <date>2009</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="Motorvision+.de">
-    <title lang="de">Gearing Up 2026</title>
-    <desc lang="de">Die Sendung gibt Einblicke in das Geschehen der weltweit einzigartigsten Motorsport-Events.</desc>
-    <date>2026</date>
-    <category lang="de">Auto</category>
-    <country lang="de">GR</country>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="Motorvision+.de">
-    <title lang="de">FastZone 2026</title>
-    <desc lang="de">Die Sendung zeigt einige der besten Motorsport-Momente, von Karts bis zur Formel Eins.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="Motorvision+.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">BMW M2</sub-title>
-    <desc lang="de">High-Performance-Modelle haben bei BMW eine langjährige Tradition. Wir nehmen den aktuellen M2 unter die Lupe und testen Driftpotential, Racing- und Alltagsqualitäten. Was kann er am besten? Außerdem schauen wir uns seine Historie und Entwicklung an.</desc>
-    <date>2024</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <category lang="de">Abenteuer</category>
-    <category lang="de">Action</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S16</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="Motorvision+.de">
-    <title lang="de">4x4 - Das Allrad Magazin</title>
-    <sub-title lang="de">Smart Adventures</sub-title>
-    <desc lang="de">Der Can-Am Outlander und Maverick R sind die ultimativen Fun-Geräte für Offroad-Fahrspaß.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Magazin</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S3 E86</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="Motorvision+.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Robust und beliebt</sub-title>
-    <desc lang="de">Subaru hat den XV umbenannt. Erneuert und mit dem neuen Namen Crosstrek geht das SUV nun auf Kundenfang - wir verraten, was dahintersteckt. Cupra spendiert seinem Bestseller Formentor ein Update, das vor allem optisch für Furore sorgt.</desc>
-    <date>2025</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E102</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606063000 +0000" stop="20260606070500 +0000" channel="Motorvision+.de">
-    <title lang="de">Biker Lifestyle</title>
-    <sub-title lang="de">Ride Thailand 2025, Motorradabenteuer Nordthailand Teil 5</sub-title>
-    <desc lang="de">Der Norden Thailands ist ein beliebtes Reiseziel, nicht nur für abenteuerlustige individuelle Touristen. Bekannt ist der Norden für seine bergigen, dicht bewaldeten Gebiete und somit ist diese Region auch ein Paradies für Motorradfahrer. Tausende von Kurven auf gut ausgebauten Straßen mit wenig Verkehr und einer Vielfalt an Kultur und Landschaft machen diese Region für uns nun schon zum 4. Mal zu einem perfekten Urlaubsziel, um den Winter in Deutschland zu entfliehen.</desc>
-    <date>2026</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S14</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606070500 +0000" stop="20260606075500 +0000" channel="Motorvision+.de">
-    <title lang="de">UIM E1 World Championship 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606075500 +0000" stop="20260606084000 +0000" channel="Motorvision+.de">
-    <title lang="de">NZ Jetsprint Championship 2025</title>
-    <desc lang="de">The New Zealand Jetsprint Championship is the most important sprint boat competition from New Zealand, the country where the sport was founded in 1981. Jetsprinting is comparable to rally sports, but there is only one boat on the track at any given time and boats drive at very high speeds. The up to 500 HP strong jet sprint boats therefore try to achieve the best time on the tracks.</desc>
-    <country lang="de">NZ</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606084000 +0000" stop="20260606094000 +0000" channel="Motorvision+.de">
-    <title lang="de">Australian Boat Racing 2026</title>
-    <desc lang="de">6-Liter National Driver's Championship, Mildura.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">NZ</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606094000 +0000" stop="20260606101000 +0000" channel="Motorvision+.de">
-    <title lang="de">UIM F1H2O World Powerboat Championship 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606101000 +0000" stop="20260606113500 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM X-Trial World Championship 2026</title>
-    <sub-title lang="de">FIM X-Trial World Championship 2026 - Grand Prix of Tarragona, Spain</sub-title>
-    <desc lang="de">Die Übertragung von nationalen und internationalen Trial-Wettkämpfen.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606113500 +0000" stop="20260606122500 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2025</title>
-    <desc lang="de">Würde das Superstockrennen zu einer Blaupause des Superbike-Rennens werden? Mit einer weiteren dominanten Vorstellung von Hicky? Darüber waren sich die Experten nicht so ganz einig. Ein Rennen voller Überraschungen und einem interessanten Podium.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606122500 +0000" stop="20260606125500 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM Supermoto World and European Championship 2025</title>
-    <sub-title lang="de">GP Belgium, Mettet</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606125500 +0000" stop="20260606132500 +0000" channel="Motorvision+.de">
-    <title lang="de">Red Bull Romaniacs</title>
-    <sub-title lang="de">Highlight 2025</sub-title>
-    <desc lang="de">"Red Bull Romaniacs" ist als härteste Hard-Enduro-Rallye der Welt bekannt und bietet einzigartige Fahrten sowohl durch urbane Gegenden als auch durch die bergige Wildnis Rumäniens. Es nehmen 450 Teilnehmer aus über 35 verschiedenen Nationen teil.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606132500 +0000" stop="20260606142000 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM Sidecarcross World Championship 2024</title>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606142000 +0000" stop="20260606145000 +0000" channel="Motorvision+.de">
-    <title lang="de">Icelandic Formula Offroad 2025</title>
-    <sub-title lang="de">Egilsstadir, Runde 1</sub-title>
-    <desc lang="de">Die Sendung berichtet von der „Formula Off Road", die in Island ihren Ursprung hat.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">IS</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606145000 +0000" stop="20260606152000 +0000" channel="Motorvision+.de">
-    <title lang="de">All Wheel Drive Safari Challenge 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606152000 +0000" stop="20260606154500 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM Quadcross World Championship 2026</title>
-    <sub-title lang="de">GP France, Castelnau de Levis</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606154500 +0000" stop="20260606161500 +0000" channel="Motorvision+.de">
-    <title lang="de">Monster Jam Championship 2024</title>
-    <sub-title lang="de">2024 Seattle, Washinton</sub-title>
-    <desc lang="de">Riesige, vier Meter lange Monstertrucks kämpfen gegeneinander in Rennen und Freestyle-Wettbewerben rund um die Welt.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606161500 +0000" stop="20260606170500 +0000" channel="Motorvision+.de">
-    <title lang="de">UK National Legends Cars Championship 2024</title>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606170500 +0000" stop="20260606173000 +0000" channel="Motorvision+.de">
-    <title lang="de">US Pro Pulling 2023</title>
-    <sub-title lang="de">US Pro Pulling 2023 - Evansville, Indiana, 2 Wheel Drive Trucks</sub-title>
-    <desc lang="de">Die Sendung zeigt Höhepunkte und Zusammenfassungen aus der Welt des Motorsports.</desc>
-    <date>2024</date>
-    <category lang="de">Sport</category>
-    <country lang="de">GB</country>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">E385</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606173000 +0000" stop="20260606180000 +0000" channel="Motorvision+.de">
-    <title lang="de">EMX Quad European Championship 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606180000 +0000" stop="20260606185000 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2026</title>
-    <desc lang="de">Bei einem auf 3 Runden verkürzten ersten Supersport-Rennen war die Frage ob Hicky seine Dominanz aus dem Superbikerennen wieder ausspielen könnte, ob Lee Johnston seinen Vorjahreserfolg wiederholen kann oder ob Michael Dunlup hier seiner Favoritenrolle gerecht wird. Es war ein heißer Kampf!</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606185000 +0000" stop="20260606192000 +0000" channel="Motorvision+.de">
-    <title lang="de">Belgian Rally Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">BE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606192000 +0000" stop="20260606201500 +0000" channel="Motorvision+.de">
-    <title lang="de">BTRDA Rallycross 2025</title>
-    <sub-title lang="de">BTRDA Rallycross 2025 - Round 8, Knockhill</sub-title>
-    <desc lang="de">Die Sendung präsentiert Highlights und Zusammenfassungen vom Rallycross.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606201500 +0000" stop="20260606210500 +0000" channel="Motorvision+.de">
-    <title lang="de">British Rally Championship 2025</title>
-    <sub-title lang="de">2025 Season Review</sub-title>
-    <desc lang="de">Gezeigt werden die Höhepunkte und Zusammenfassungen der British Rally Championship.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606210500 +0000" stop="20260606220000 +0000" channel="Motorvision+.de">
-    <title lang="de">NZ Rally Championship 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">NZ</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606220000 +0000" stop="20260606223000 +0000" channel="Motorvision+.de">
-    <title lang="de">Tour European Rally 2026</title>
-    <desc lang="de">Die Tour European Rally 2023 startet traditionell mit dem Promo-Event in Finnland. Die 58. Ausgabe der spektakulären Arctic Lapland Rally bietet Action sowie Spannung pur und das auf den Schnee- und Eispisten von Finnland.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606223000 +0000" stop="20260606230000 +0000" channel="Motorvision+.de">
-    <title lang="de">Scottish Rally Championship 2026</title>
-    <sub-title lang="de">Gravel</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606230000 +0000" stop="20260606233000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260606233000 +0000" stop="20260607000000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607000000 +0000" stop="20260607003000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607003000 +0000" stop="20260607010000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607010000 +0000" stop="20260607012500 +0000" channel="Motorvision+.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Folge 259</sub-title>
-    <desc lang="de">Es geht um schnelle Autos und die berühmtesten Renn- und Rallyestrecken. Der Moderator Martin Utberg nimmt aktiv an den schönsten Oldtimerveranstaltungen der Welt teil. Man erlebt die ganze Geschichte der klassischen Juwelen.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S6 E252</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607012500 +0000" stop="20260607015500 +0000" channel="Motorvision+.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">Mercedes - Motorsport Geschichte</sub-title>
-    <desc lang="de">In der Folge geht es um die Erfolge von Mercedes. Die Marke schreibt seit 120 Jahren Geschichte.</desc>
-    <date>2017</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E24</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607015500 +0000" stop="20260607022000 +0000" channel="Motorvision+.de">
-    <title lang="de">Belcar Endurance Championship 2025</title>
-    <sub-title lang="de">American Festival Nascar, Zolder</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">BE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607022000 +0000" stop="20260607024500 +0000" channel="Motorvision+.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Folge 255</sub-title>
-    <desc lang="de">In Top Speed dreht sich alles um klassische Automobile. Moderator Martin Utberg nimmt aktiv an den schönsten Oldtimerveranstaltungen der Welt teil.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S6 E248</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607024500 +0000" stop="20260607033000 +0000" channel="Motorvision+.de">
-    <title lang="de">Pikes Peak International Hillclimb 2025</title>
-    <sub-title lang="de">Highlights 2025</sub-title>
-    <desc lang="de">Ein Auto-Bergrennen zum Gipfel des Pikes Peak in Colorado, USA.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607033000 +0000" stop="20260607040000 +0000" channel="Motorvision+.de">
-    <title lang="de">Racing Files</title>
-    <sub-title lang="de">McLaren - von der Fomel 1 bis Can Am</sub-title>
-    <desc lang="de">McLaren ist das zweitälteste noch aktive Team in der Formel 1 und genießt weltweite Bekanntheit. Heute ist das von Bruce McLaren gegründete Team ein Schwergewicht in der Welt der Supersportwagen und eines der bekanntesten im Motorsport.</desc>
-    <date>2019</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607040000 +0000" stop="20260607044500 +0000" channel="Motorvision+.de">
-    <title lang="de">A&amp;E</title>
-    <desc lang="de">Der Rettungssanitäter Ste Hill eilt zu einem Unfall am Straßenrand. Ein Motorradfahrer ist von der Straße abgekommen und mit einem Stromkasten am Straßenrand kollidiert. Ste Hill tut sein Bestes für den Motorradfahrer, bevor er ins Krankenhaus kommt.</desc>
-    <credits>
-      <producer>Steve Warr</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Ratgeber</category>
-    <category lang="de">Reality</category>
-    <country lang="de">US</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607044500 +0000" stop="20260607053500 +0000" channel="Motorvision+.de">
-    <title lang="de">British GT Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607053500 +0000" stop="20260607063000 +0000" channel="Motorvision+.de">
-    <title lang="de">British GT Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607063000 +0000" stop="20260607073000 +0000" channel="Motorvision+.de">
-    <title lang="de">NZ Speedway Championship 2026</title>
-    <sub-title lang="de">Super Stock Teams NZ vs UK</sub-title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">NZ</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607073000 +0000" stop="20260607101500 +0000" channel="Motorvision+.de">
-    <title lang="de">IMSA WeatherTech SportsCar Championship 2026</title>
-    <sub-title lang="de">Motul Course de Monterey powered by Hyundai, WeatherTech Raceway Laguna Seca</sub-title>
-    <desc lang="de">Die Sendereihe überträgt die Rennen der IMSA WeatherTech SportsCar Championship.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607101500 +0000" stop="20260607112000 +0000" channel="Motorvision+.de">
-    <title lang="de">IndyNXT 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607112000 +0000" stop="20260607122000 +0000" channel="Motorvision+.de">
-    <title lang="de">IndyNXT 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607122000 +0000" stop="20260607140000 +0000" channel="Motorvision+.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Indianapolis 500: Qualifying</sub-title>
-    <desc lang="de">Vom Indianapolis Motor Speedway in Indianapolis, USA.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607153500 +0000" channel="Motorvision+.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Indianapolis 500: Qualifying</sub-title>
-    <desc lang="de">Vom Indianapolis Motor Speedway in Indianapolis, USA.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607153500 +0000" stop="20260607171500 +0000" channel="Motorvision+.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Chevrolet Detroit GP: Qualifying</sub-title>
-    <desc lang="de">Vom Streets of Detroit Circuit in Detroit, Michigan, USA.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607171500 +0000" stop="20260607181500 +0000" channel="Motorvision+.de">
-    <title lang="de">IndyNXT 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607181500 +0000" stop="20260607190500 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2026</title>
-    <desc lang="de">Würde das Superstockrennen zu einer Blaupause des Superbike-Rennens werden? Mit einer weiteren dominanten Vorstellung von Hicky? Darüber waren sich die Experten nicht so ganz einig. Ein Rennen voller Überraschungen und einem interessanten Podium.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607190500 +0000" stop="20260607195500 +0000" channel="Motorvision+.de">
-    <title lang="de">GT World Challenge Australia 2026</title>
-    <sub-title lang="de">Australia 2026 - Phillip Island Grand Prix Circuit</sub-title>
-    <desc lang="de">Aufnahmen zeigen die Höhepunkte der Blancpain GT World Challenge aus Asien, Europa und Amerika.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">AU</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607195500 +0000" stop="20260607204500 +0000" channel="Motorvision+.de">
-    <title lang="de">GT World Challenge Australia 2026</title>
-    <sub-title lang="de">Australia 2026 - The Bend Motorsport Park</sub-title>
-    <desc lang="de">Aufnahmen zeigen die Höhepunkte der Blancpain GT World Challenge aus Asien, Europa und Amerika.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">AU</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607204500 +0000" stop="20260607223000 +0000" channel="Motorvision+.de">
-    <title lang="de">IMSA WeatherTech SportsCar Championship 2026</title>
-    <sub-title lang="de">Detroit Grand Prix, Detroit Street Circuit</sub-title>
-    <desc lang="de">Vom Streets of Detroit Circuit in Detroit, Michigan, USA.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607223000 +0000" stop="20260607230000 +0000" channel="Motorvision+.de">
+  <programme start="20260608033500 +0000" stop="20260608040000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Fastzone 2026</title>
-    <sub-title lang="de">Folge 2</sub-title>
-    <desc lang="de">Die Sendung zeigt einige der besten Motorsport-Momente, von Karts bis zur Formel Eins.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607230000 +0000" stop="20260607233000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260607233000 +0000" stop="20260608000000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260608000000 +0000" stop="20260608003000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260608003000 +0000" stop="20260608010000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260608010000 +0000" stop="20260608033500 +0000" channel="Motorvision+.de">
-    <title lang="de">NTT Indycar Series 2026</title>
-    <sub-title lang="de">Bommarito Automotive Group 500, WW Technology Raceway, Illinois</sub-title>
-    <desc lang="de">From World Wide Technology Raceway at Gateway in Madison, Ill.</desc>
+    <desc lang="de">Das Format zeigt die Höhepunkte verschiedenster Wettbewerbe aus dem internationalen Motorsport-Universum. Im Fokus stehen emotionale Rennmomente, spektakuläre Bilder und die Geschichten hinter den wichtigsten Events der Szene. (Senderinfo).</desc>
     <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608033500 +0000" stop="20260608040000 +0000" channel="Motorvision+.de">
-    <title lang="de">Fastzone 2026</title>
-    <sub-title lang="de">Folge 2</sub-title>
-    <desc lang="de">Die Sendung zeigt einige der besten Motorsport-Momente, von Karts bis zur Formel Eins.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260608040000 +0000" stop="20260608044500 +0000" channel="Motorvision+.de">
+  <programme start="20260608040000 +0000" stop="20260608044500 +0000" channel="Motorvision.TV.de">
     <title lang="de">A&amp;E</title>
-    <desc lang="de">In dieser Folge behandelt das Merit-Team einen Mann, der von einem Lastwagen auf der M6-Autobahn angefahren wurde. Inzwischen betreut ein Rettungsangestellter eine 18-Jährige, die wegen Endometriose extreme Schmerzen hat.</desc>
-    <credits>
-      <producer>Steve Warr</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Ratgeber</category>
-    <category lang="de">Reality</category>
-    <country lang="de">US</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Der West Midlands Ambulance Service wird jährlich zu Millionen Notfällen gerufen. Oft sind die Einsätze so heftig, dass die Behandlung auf der Straße beginnt. Das Team aus engagierten Ärzten und Sanitätern hat die tägliche Aufgabe Leben zu retten. (Senderinfo).</desc>
+    <date>2020</date>
+    <category lang="de">Doku-Soap</category>
+    <icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg" />
+    <country lang="de">USA</country>
   </programme>
-  <programme start="20260608044500 +0000" stop="20260608051500 +0000" channel="Motorvision+.de">
+  <programme start="20260608044500 +0000" stop="20260608051500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Motorcycles</title>
     <sub-title lang="de">Triumph Tiger 800 XC</sub-title>
-    <desc lang="de">Diesmal geht es um Motorradfahren "Made in England". Da darf DIE britische Kultmarke schlechthin natürlich nicht fehlen, Triumph. Wir testen die Tiger 800 und die Tiger 1050. Mit ihr bieten die Engländer ein absolutes Funbike.</desc>
-    <date>2014</date>
+    <desc lang="de">Diesmal in Motorcycles: Motorradfahren Made in England. Da darf DIE britische Kultmarke schlechthin natürlich nicht fehlen, Triumph. Wir testen die Tiger 800 und die Tiger 1050. Mit ihr bieten die Engländer ein absolutes Funbike, das mit typischem Triple und strammer Abstimmung konkurrenzfähiger ist denn je. Und um dem british way of drive weiter auf den Grund zu gehen, ist Schottland das Ziel einer Motorrad-Tour: In die Highlands mit einer BMW R 1200 RT. (Senderinfo).</desc>
+    <date>2012</date>
     <category lang="de">Magazin</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608051500 +0000" stop="20260608063500 +0000" channel="Motorvision+.de">
+  <programme start="20260608051500 +0000" stop="20260608063500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Mission Mobility</title>
-    <sub-title lang="de">Folge 9</sub-title>
-    <desc lang="de">Benjamin Ketterl ist einer von 58 Einsatzfahrern im Raum München. Meist ist der Gelbe Engel in der City unterwegs, aber auch Autobahn-Patrouillen gehören zum Dienstplan. Die Sendung begleitet den ADAC-Mitarbeiter in seinem Arbeitsalltag.</desc>
-    <date>2015</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Reality</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Benjamin Ketterl ist einer von 58 Einsatzfahrern im Raum München. Meist ist der Gelbe Engel in der City unterwegs, aber auch Autobahn-Patrouillen gehören zum Dienstplan. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608063500 +0000" stop="20260608070000 +0000" channel="Motorvision+.de">
+  <programme start="20260608063500 +0000" stop="20260608070000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Made in....</title>
     <sub-title lang="de">Brabus</sub-title>
-    <desc lang="de">Brabus zählt zu den bekanntesten Tuning-Unternehmen auf der ganzen Welt. Hier ist Exklusivität angesagt. Wer die Leistung eines Mercedes-AMG als zu gering empfindet, sollte sich diesen Tuner aus Bottrop genauer ansehen.</desc>
-    <date>2018</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">In Bottrop entstehen Männerträume. Wer Exklusivität sucht und selbst die Leistung eines Mercedes AMG als zu gering empfindet, ist hier genau richtig: Die Firma Brabus ist einer der bekanntesten Tuner der Welt. Motorvision zeigt was einen Brabus so einzigartig macht. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E27</episode-num>
   </programme>
-  <programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="Motorvision+.de">
+  <programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Grüne Welle</title>
     <sub-title lang="de">Nachhaltigkeit in der Mobilität 1: Optimierte Verbrennungsmotoren</sub-title>
-    <desc lang="de">Seit 125 Jahren sorgen Verbrennungsmotoren für unser Fortkommen. Die Weltbevölkerung wächst, und immer mehr Autos werden verkauft. Damit die Umwelt weiter erhalten bleibt, versuchen Hersteller Maßnahmen zu ergreifen, um die Emissionswerte zu senken.</desc>
+    <desc lang="de">Seit 125 Jahren sorgen Verbrennungsmotoren für unser Fortkommen. Mit dem Preis schädlicher Emissionen. Dazu wächst die Weltbevölkerung immer weiter und immer mehr Autos werden verkauft. Doch das funktioniert für unsere Erde/Umwelt auf Dauer nur, wenn die Abgase der Fahrzeuge gleichzeitig drastisch gesenkt werden. Grüne Welle – Nachhaltigkeit in der Mobilität zeigt Entwicklungen, wie die Hersteller den Verbrauch ihrer Fahrzeuge in Zukunft weiter senken wollen. (Senderinfo).</desc>
     <date>2015</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="Motorvision+.de">
+  <programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Dream Cars</title>
     <sub-title lang="de">Deutsche Limousinen</sub-title>
-    <desc lang="de">Deutsche Limousinen sind berühmt für ihr Perfektion und ihr Prestige. Sie sind der Inbegriff von Status und sie setzen die Maßstäbe bei Komfort, zukunftsweisender Technik und Sicherheitssysteme. Gezeigt werden die bekanntesten Modelle.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Ob Mercedes S-Klasse, BMW 7er oder Audi A8, deutsche Limousinen genießen Weltruf. Sie sind berühmt für ihr Perfektion und ihr Prestige. Limousinen Made in Germany sind der Inbegriff von Status und sie setzen die Maßstäbe bei Komfort, zukunftsweisender Technik und Sicherheitssysteme. DreamCars präsentiert die berühmtesten, schönsten und luxuriösesten deutschen Limousinen. (Senderinfo).</desc>
+    <credits>
+      <director>Nick Gomez</director>
+      <actor role="Jason Petty">Sharron Corley</actor>
+      <actor role="Midget">Gabriel Casseus</actor>
+      <actor role="Roscoe">Saul Stein</actor>
+      <actor role="Rene Petty">Gwen McGee</actor>
+      <actor role="Ritchie">Andre Moore</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20260608080000 +0000" stop="20260608082500 +0000" channel="Motorvision+.de">
+  <programme start="20260608080000 +0000" stop="20260608082500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Crash</title>
-    <sub-title lang="de">Folge 12</sub-title>
-    <desc lang="de">Sehen Sie spektakuläre Auto-Stunts und Crashs, bei denen niemand zu Schaden gekommen ist!</desc>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
     <date>2015</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608082500 +0000" stop="20260608085000 +0000" channel="Motorvision+.de">
+  <programme start="20260608082500 +0000" stop="20260608085000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Classic Ride</title>
     <sub-title lang="de">Classic-Hybriden</sub-title>
-    <desc lang="de">Tarnen und täuschen, das wollten die Schöpfer des Apollo 3500 GT. Die Anmutung des 1962 erschienenen schnittigen Zweisitzers ist Italien pur, von den Chromspeichenrädern, dem mit Leder ausgeschlagenen Interieur bis zur Karosserie im Pininfarina-Stil.</desc>
-    <date>2014</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Tarnen und täuschen, das wollten die Schöpfer des Apollo 3500 GT. Die Anmutung des 1962 erschienenen schnittigen Zweisitzers ist Italien pur, von den Chromspeichenrädern, dem mit Leder ausgeschlagenen Interieur bis zur Karosserie im Pininfarina-Stil. Dabei stammen Schöpfer und Technik des Apollo aus den USA. Unter der langen Motorhaube steckt aus gutem Grund ein V8-Triebwerk von Buick. Die günstige Technik sollte den GT 3500 auf dem amerikanischen Markt erschwinglich machen. Trotzdem war dem Projekt kein großer Erfolg beschieden. Nur knapp 100 Stück wurden gefertigt. Heute ist der Apollo 3500 GT rarer als so manch klassischer Ferrari. (Senderinfo).</desc>
+    <date>2013</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608085000 +0000" stop="20260608092000 +0000" channel="Motorvision+.de">
+  <programme start="20260608085000 +0000" stop="20260608092000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Cars + Life</title>
-    <sub-title lang="de">Folge 10</sub-title>
-    <desc lang="de">Der Hamburger Flughafen experimentiert mit der klimaneutralen Produktion von Kerosin. Außerdem geht es um den Porsche 911 Turbo am Hockenheimring mit Ex-Rallye-Weltmeister Walter Röhrl. Zudem testen alle den Aston Martin DBS Superleggera.</desc>
-    <date>2020</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Ratgeber</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Treibstoff der Zukunft? Wasserstoff und Windkraft? Der Hamburger Flughafen experimentiert mit der klimaneutralen Produktion von Kerosin. Außerdem: sechs Generationen Porsche 911 Turbo am Hockenheimring mit Ex-Rallye-Weltmeister Walter Röhrl. Und: der Supersportwagen Aston Martin DBS Superleggera im Fahrbericht sowie der Q2, Audis kleinster SUV, im Test. (Senderinfo).</desc>
+    <date>2021</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608092000 +0000" stop="20260608095000 +0000" channel="Motorvision+.de">
+  <programme start="20260608092000 +0000" stop="20260608095000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Car History</title>
     <sub-title lang="de">AMG</sub-title>
-    <desc lang="de">AMG steht für Exklusivität, automobile Höchstleistung und dynamischen Fahrspaß. Das Unternehmen gehört zur Daimler AG und ist zuständig für die High-Performance-Fahrzeuge.</desc>
-    <date>2018</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">A M G: Seit jeher Inbegriff für automobile Höchstleistung, Exklusivität und dynamischen Fahrspaß. (Senderinfo).</desc>
+    <credits>
+      <director>Peter Schöllhorn</director>
+    </credits>
+    <date>2013</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/3d/ef/f4/68ac2b60d1fc432d2af4ef3d.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20260608095000 +0000" stop="20260608102000 +0000" channel="Motorvision+.de">
+  <programme start="20260608095000 +0000" stop="20260608102000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Nordschleife</title>
     <sub-title lang="de">Touristen in der Grünen Hölle 15</sub-title>
-    <desc lang="de">Als vielgliedriges Ungeheuer bezeichnete einst Rennfahrerlegende Jackie Stewart die Nordschleife des Nürburgrings und gab ihr den Namen Grüne Hölle. Regelmäßig ist der legendäre Track auch der breiten Öffentlichkeit zugänglich.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Als vielgliedriges Ungeheuer bezeichnete einst Rennfahrerlegende Jackie Stewart die Nordschleife des Nürburgrings und gab ihr den Namen "Grüne Hölle". Regelmäßig ist der legendäre Track auch der breiten Öffentlichkeit zugänglich. Viele "Racer im Herzen" brettern mit ihren Privatwägen durch Schwedenkreuz, Fuchsröhre, Kesselchen und Karussell. Einmal durch die "Grüne Hölle" – ein Traum für viele, der keiner bleiben muss. Nordschleifen-Fans nehmen die Zuschauer mit an Bord und erzählen, was sie mit dem Ring verbinden. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E15</episode-num>
   </programme>
-  <programme start="20260608102000 +0000" stop="20260608104500 +0000" channel="Motorvision+.de">
+  <programme start="20260608102000 +0000" stop="20260608104500 +0000" channel="Motorvision.TV.de">
     <title lang="de">On Tour</title>
     <sub-title lang="de">ADAC Supercross München</sub-title>
-    <desc lang="de">Die Sendung zeigt ein Motorradrennen mit Motocross-Maschinen aus München, den „ADAC Supercross".</desc>
-    <date>2014</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Heute vom Supercross Cup in München. Mit den besten Fahrerern aus aller Welt, die angereist sind, um die Krone mit nach Hause zu nehmen – Wer wird König von München? Jetzt wissen wir es noch nicht, aber in wenigen Minuten, sind wir ein bisschen schlauer – das Highlight der Indoor-Motorsport Szene dieser Saison. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608104500 +0000" stop="20260608111500 +0000" channel="Motorvision+.de">
+  <programme start="20260608104500 +0000" stop="20260608111500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Perfect Ride</title>
     <sub-title lang="de">Highlights Genfer Autosalon</sub-title>
-    <desc lang="de">Der Internationale Auto-Salon Genf gehört zu den 5 wichtigsten Automessen weltweit.</desc>
-    <date>2014</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Der Internationale Auto Salon Genf ist traditionell die erste europäische Automesse des Jahre und gehört zu den 5 wichtigsten Automessen weltweit! Neue Generationen, Top-Modelle, Fahrzeuge mit Elektro- oder Alternativantrieb, Hersteller fast aller Auto-Marken zeigen Neuheiten und Autos, die man morgen auf den Straßen sieht. Perfect Ride zeigt die Highlights. (Senderinfo).</desc>
+    <date>2013</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E15</episode-num>
   </programme>
-  <programme start="20260608111500 +0000" stop="20260608114500 +0000" channel="Motorvision+.de">
+  <programme start="20260608111500 +0000" stop="20260608114500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Rückspiegel</title>
     <sub-title lang="de">BMW CS und CSL</sub-title>
-    <desc lang="de">Der "Rückspiegel" wirft einen Blick auf 40 Jahre Mercedes-Tuning: die AMG CLK 63 Black Edition. Außerdem in dieser Ausgabe des Magazins: Sibirien total - 33 Teams nehmen an der "Transsyberia Rallye" über eine Länge von 7.100 km teil.</desc>
-    <date>2018</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">40 Jahre Mercedes-Tuning: AMG CLK 63 Black Edition. Sibirien total: 7100 km, und 33 Teams bei der Transsyberia Rallye. Audi RS 4 und Porsche 911 4S: Oberklasse der Kurvenräuber. Der VW Tiguan im Offroad-Test. Hummer H3 gegen Toyota FJ Cruiser: Zwei Offroader im Vergleich. Subaru Impreza WRX und Mitsubishi Lancer EVO 9 im Vergleich (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Reportage</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20260608114500 +0000" stop="20260608121500 +0000" channel="Motorvision+.de">
-    <title lang="de">Tuning - Tiefer geht`s nicht!</title>
+  <programme start="20260608114500 +0000" stop="20260608121500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Tuning – Tiefer geht's nicht!</title>
     <sub-title lang="de">Performance versus Show and Shine</sub-title>
-    <desc lang="de">Die German Race Wars laden ein zum Sprint über die Viertelmeile mit schnellen Autos.</desc>
-    <date>2016</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Edeltuner und Werkstuner: Immer mehr PS, immer besserer Sound, immer tiefere Fahrwerke, es gibt keine Limits. Das edelste, was Tuning zu bieten hat. Tipps und Tricks rund ums Tiefer- legen, Reparieren und Aufmotzen. Wir zeigen, was man darf und wie mans macht. Die German Race Wars laden ein zum Sprint über die Viertel Meile. Schnelle Autos, rauchende Reifen und Vollgas an der Startampel. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E23</episode-num>
   </programme>
-  <programme start="20260608121500 +0000" stop="20260608124000 +0000" channel="Motorvision+.de">
+  <programme start="20260608121500 +0000" stop="20260608124000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Stunt Heroes</title>
-    <sub-title lang="de">Behind the Scene</sub-title>
-    <desc lang="de">Die Stunt Heroes von Action Concept sind knallharte Profis. Sie stürzen sich von Häusern, bringen Autos zum Fliegen oder Explodieren. Ohne den nötigen Ernst und ständige Konzentration bei der Durchführung ihrer Arbeit geht nichts.</desc>
-    <date>2014</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Unterhaltung</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <sub-title lang="de">Special – Behind the Scenes</sub-title>
+    <desc lang="de">Die Stuntheroes von Action Concept sind knallharte Profis. Sie stürzen sich von Häusern, bringen Autos zum fliegen oder explodieren. Ohne den nötigen Ernst und ständiger Konzentration bei der Durchführung ihrer Arbeit geht nichts. Wir haben unseren Reporter Dean Malay zu Action Concept geschickt um die Personen, die Charaktere hinter der harten Schale kennenzulernen. Stuntkoordinator Domi zeigt Dean die Arbeitsabläufe bei Action Concept, erklärt aber auch warum Stuntman Tobi, Heidi genannt wird. (Senderinfo).</desc>
+    <credits>
+      <actor role="Self">Christopher Domansky</actor>
+      <actor role="Self">Teresa Henn</actor>
+      <actor role="Self">Tobias Nied</actor>
+      <producer>Volkmar Balensiefer</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20260608124000 +0000" stop="20260608131000 +0000" channel="Motorvision+.de">
+  <programme start="20260608124000 +0000" stop="20260608131000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Top Speed Classic</title>
     <sub-title lang="de">Top Speed Bleibt Zuhause 1</sub-title>
-    <desc lang="de">Es geht um schnelle Autos und die berühmtesten Renn- und Rallyestrecken. Der Moderator Martin Utberg nimmt aktiv an den schönsten Oldtimerveranstaltungen der Welt teil. Man erlebt die ganze Geschichte der klassischen Juwelen.</desc>
+    <desc lang="de">In diese Folgen schauen wir zurück auf Highlights von tollen Veranstaltungen, Martin Utberg führt Interviews mit Gästen und Veranstalter über Skype. Diesmal Classica Eismarathon, Planai Classic und Schwarzwald Winter Challenge. (Senderinfo).</desc>
     <date>2020</date>
-    <category lang="de">Sport</category>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S4 E46</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
   </programme>
-  <programme start="20260608131000 +0000" stop="20260608134000 +0000" channel="Motorvision+.de">
+  <programme start="20260608131000 +0000" stop="20260608134000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Super Cars</title>
     <sub-title lang="de">BMW-Power</sub-title>
-    <desc lang="de">Kein Automobilhersteller schafft den Spagat zwischen Fahrspaß und Komfort so gut wie BMW. So ist der M4 CSL mit 550 PS und Leichtbau eine Rennstrecken-Ikone, während der BMW M760e mit hoher Leistung und luxuriöser Ausstattung beeindruckt.</desc>
+    <desc lang="de">Von Rennstreckenlegenden bis zu sportlichen Luxusstraßenkreuzern: Kein Automobilhersteller schafft den Spagat zwischen Fahrspaß und Komfort so gut wie BMW. Mit 550 PS und Leichtbau ist der M4 CSL eine Rennstrecken-Ikone. Wir testen ihn und zeigen seine Geschichte. Für was steht der BMW M760e? Die Power sagt Fahrerlimousine! Die luxuriöse Ausstattung spricht fürs Gefahrenwerden. Wir findens raus. (Senderinfo).</desc>
     <date>2024</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S16 E229</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E229</episode-num>
   </programme>
-  <programme start="20260608134000 +0000" stop="20260608142500 +0000" channel="Motorvision+.de">
+  <programme start="20260608134000 +0000" stop="20260608142500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Road Wars Staffel 7</title>
-    <desc lang="de">Ganz gleich, ob es um Drogenkriminalität, Hausdurchsuchungen und Verfolgungsjagden geht: Die Serie begleitet eine Spezialeinheit der britischen Polizei. Zusammen mit der Hundestaffel sagen sie den Langfingern im Themse Valley den Kampf an.</desc>
-    <date>2010</date>
-    <category lang="de">Reality</category>
-    <category lang="de">Krimi</category>
-    <country lang="de">GB</country>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">S7 E15</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <date>2022</date>
+    <category lang="de">Doku-Soap</category>
+    <icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg" />
+    <country lang="de">USA</country>
   </programme>
-  <programme start="20260608142500 +0000" stop="20260608145500 +0000" channel="Motorvision+.de">
+  <programme start="20260608142500 +0000" stop="20260608145500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Belgian Rally Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">BE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <sub-title lang="de">TAC Rally</sub-title>
+    <desc lang="de">Die Belgian Rally Championship ist eine der am härtesten umkämpften Rally-Meisterschaften auf nationaler Ebene. Das lockt auch prominente Gaststarter an wie Thierry Neuville, Craig Breen und Stéphane Lefebvre. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">B</country>
   </programme>
-  <programme start="20260608145500 +0000" stop="20260608155000 +0000" channel="Motorvision+.de">
+  <programme start="20260608145500 +0000" stop="20260608155000 +0000" channel="Motorvision.TV.de">
     <title lang="de">BTRDA Rallycross 2025</title>
-    <sub-title lang="de">BTRDA Rallycross 2025 - Round 8, Knockhill</sub-title>
-    <desc lang="de">Die Sendung präsentiert Highlights und Zusammenfassungen vom Rallycross.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
+    <sub-title lang="de">Round 8, Knockhill</sub-title>
+    <desc lang="de">Die Rennen des British Trial and Rally Drivers Associations, die 1938 gegründet wurde, sind hart umkämpft. Die Rallycross-Strecke mit wechselndem Streckenbelag fordert die besten Fahrer der Welt heraus. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Autosport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
   </programme>
-  <programme start="20260608155000 +0000" stop="20260608163500 +0000" channel="Motorvision+.de">
+  <programme start="20260608155000 +0000" stop="20260608163500 +0000" channel="Motorvision.TV.de">
     <title lang="de">British Rally Championship 2025</title>
-    <sub-title lang="de">2025 Season Review</sub-title>
-    <desc lang="de">Gezeigt werden die Höhepunkte und Zusammenfassungen der British Rally Championship.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
+    <sub-title lang="de">Season Review</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
   </programme>
-  <programme start="20260608163500 +0000" stop="20260608173000 +0000" channel="Motorvision+.de">
+  <programme start="20260608163500 +0000" stop="20260608173000 +0000" channel="Motorvision.TV.de">
     <title lang="de">NZ Rally Championship 2025</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
+    <sub-title lang="de">Round 5, Bay of Plenty</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">NZ</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
   </programme>
-  <programme start="20260608173000 +0000" stop="20260608180000 +0000" channel="Motorvision+.de">
+  <programme start="20260608173000 +0000" stop="20260608180000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Tour European Rally 2026</title>
-    <desc lang="de">Die Tour European Rally 2023 startet traditionell mit dem Promo-Event in Finnland. Die 58. Ausgabe der spektakulären Arctic Lapland Rally bietet Action sowie Spannung pur und das auf den Schnee- und Eispisten von Finnland.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260608180000 +0000" stop="20260608185000 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2026</title>
-    <desc lang="de">Eigentlich sollte es der Finaltag sein, doch letztendlich starteten nur die Supersportler und Seitenwagen, während das Senior auf den nächsten Tag verschoben wurde. Im äusserst umkämpften 2. Supersportrennen wurde allerdings ein weiteres Mal Geschichte geschrieben.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260608185000 +0000" stop="20260608201500 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM X-Trial World Championship 2026</title>
-    <sub-title lang="de">FIM X-Trial World Championship 2026 - Grand Prix of Tarragona, Spain</sub-title>
-    <desc lang="de">Die Übertragung von nationalen und internationalen Trial-Wettkämpfen.</desc>
+    <sub-title lang="de">Rallye Porec, Krtoatien</sub-title>
+    <desc lang="de">Die Tour European Rally 2023 startet traditionell mit dem Promo-Event in Finnland. Die 58. Ausgabe der spektakulären Arctic Lapland Rally bietet Action sowie Spannung pur und das auf den Schnee- und Eispisten von Finnland. (Senderinfo).</desc>
     <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
   </programme>
-  <programme start="20260608201500 +0000" stop="20260608211000 +0000" channel="Motorvision+.de">
+  <programme start="20260608180000 +0000" stop="20260608185000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Supersport Race 2</sub-title>
+    <desc lang="de">Eigentlich sollte es der Finaltag sein, doch letztendlich starteten nur die Supersportler und Seitenwagen, während das Senior auf den nächsten Tag verschoben wurde. Im äusserst umkämpften 2. Supersportrennen wurde allerdings ein weiteres Mal Geschichte geschrieben. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260608185000 +0000" stop="20260608201500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM X-Trial World Championship 2026</title>
+    <sub-title lang="de">Grand Prix of Tarragona, Spain</sub-title>
+    <desc lang="de">Die Fédération Internationale de Motocyclisme organisiert seit 1993 jährlich die X-Trial World Championship. Die X-Trail-Wettkämpfe finden, im Gegensatz zur Outdoor-Disziplin, in der Halle statt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260608201500 +0000" stop="20260608211000 +0000" channel="Motorvision.TV.de">
     <title lang="de">FIM Sidecarcross World Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <sub-title lang="de">GP of France, Castelnau de Levis</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20260608211000 +0000" stop="20260608214000 +0000" channel="Motorvision+.de">
+  <programme start="20260608211000 +0000" stop="20260608214000 +0000" channel="Motorvision.TV.de">
     <title lang="de">FIM Supermoto World and European Championship 2026</title>
-    <sub-title lang="de">Albaida, Spanien</sub-title>
-    <desc lang="de">Die Teams versammeln sich in Albaida in Spanien zur Eröffnungsrunde der Supermoto-Saison 2025, dem Grand Prix of Comunitat Valenciana.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <sub-title lang="de">GP Communidad Valenciana, Albaida, Spain</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
   </programme>
-  <programme start="20260608214000 +0000" stop="20260608221000 +0000" channel="Motorvision+.de">
+  <programme start="20260608214000 +0000" stop="20260608221000 +0000" channel="Motorvision.TV.de">
     <title lang="de">FIM Enduro World Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">PT</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <sub-title lang="de">Grand Prix of Italy, Custonaci</sub-title>
+    <desc lang="de">In der Sendung werden besten Enduro-Piloten der Welt bei ihren Wettkämpfen rund um den Erdball begleitet. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">P</country>
   </programme>
-  <programme start="20260608221000 +0000" stop="20260608230000 +0000" channel="Motorvision+.de">
+  <programme start="20260608221000 +0000" stop="20260608230000 +0000" channel="Motorvision.TV.de">
     <title lang="de">King of the Roads 2024</title>
-    <sub-title lang="de">Armoy Teil 2</sub-title>
-    <desc lang="de">Die mutigsten Motorradrennfahrer treten auf abgesperrten öffentlichen Straßen gegeneinander an.</desc>
+    <sub-title lang="de">Armoy</sub-title>
+    <desc lang="de">Kind of the Roads ist eine Straßenrennserie für Motorräder, bei der die Fahrer Geschwindigkeiten von bis zu 200 mp/h erreichen (Senderinfo).</desc>
     <date>2024</date>
-    <category lang="de">Auto</category>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20260608230000 +0000" stop="20260608233000 +0000" channel="Motorvision+.de">
+  <programme start="20260608230000 +0000" stop="20260608233000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
   </programme>
-  <programme start="20260608233000 +0000" stop="20260609000000 +0000" channel="Motorvision+.de">
+  <programme start="20260608233000 +0000" stop="20260609000000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609000000 +0000" stop="20260609003000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609003000 +0000" stop="20260609011000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609011000 +0000" stop="20260609013500 +0000" channel="Motorvision+.de">
-    <title lang="de">Nordschleife</title>
-    <sub-title lang="de">Touristen in der Grünen Hölle 15</sub-title>
-    <desc lang="de">Als vielgliedriges Ungeheuer bezeichnete einst Rennfahrerlegende Jackie Stewart die Nordschleife des Nürburgrings und gab ihr den Namen Grüne Hölle. Regelmäßig ist der legendäre Track auch der breiten Öffentlichkeit zugänglich.</desc>
-    <date>2019</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609013500 +0000" stop="20260609020500 +0000" channel="Motorvision+.de">
-    <title lang="de">On Tour</title>
-    <sub-title lang="de">ADAC Supercross München</sub-title>
-    <desc lang="de">Die Sendung zeigt ein Motorradrennen mit Motocross-Maschinen aus München, den „ADAC Supercross".</desc>
-    <date>2014</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609020500 +0000" stop="20260609023000 +0000" channel="Motorvision+.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Highlights Genfer Autosalon</sub-title>
-    <desc lang="de">Der Internationale Auto-Salon Genf gehört zu den 5 wichtigsten Automessen weltweit.</desc>
-    <date>2014</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609023000 +0000" stop="20260609030000 +0000" channel="Motorvision+.de">
-    <title lang="de">Rückspiegel</title>
-    <sub-title lang="de">BMW CS und CSL</sub-title>
-    <desc lang="de">Der "Rückspiegel" wirft einen Blick auf 40 Jahre Mercedes-Tuning: die AMG CLK 63 Black Edition. Außerdem in dieser Ausgabe des Magazins: Sibirien total - 33 Teams nehmen an der "Transsyberia Rallye" über eine Länge von 7.100 km teil.</desc>
-    <date>2018</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609030000 +0000" stop="20260609033000 +0000" channel="Motorvision+.de">
-    <title lang="de">Tuning - Tiefer geht`s nicht!</title>
-    <sub-title lang="de">Performance versus Show and Shine</sub-title>
-    <desc lang="de">Die German Race Wars laden ein zum Sprint über die Viertelmeile mit schnellen Autos.</desc>
-    <date>2016</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609033000 +0000" stop="20260609040000 +0000" channel="Motorvision+.de">
-    <title lang="de">Stunt Heroes</title>
-    <sub-title lang="de">Behind the Scene</sub-title>
-    <desc lang="de">Die Stunt Heroes von Action Concept sind knallharte Profis. Sie stürzen sich von Häusern, bringen Autos zum Fliegen oder Explodieren. Ohne den nötigen Ernst und ständige Konzentration bei der Durchführung ihrer Arbeit geht nichts.</desc>
-    <date>2014</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Unterhaltung</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609040000 +0000" stop="20260609044500 +0000" channel="Motorvision+.de">
-    <title lang="de">A&amp;E</title>
-    <desc lang="de">Dr. Clark und der Medizinstudent Luke Hawkins behandeln eine Zweijährige, die einen Anfall hatte.</desc>
-    <credits>
-      <producer>Steve Warr</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Ratgeber</category>
-    <category lang="de">Reality</category>
-    <country lang="de">US</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609044500 +0000" stop="20260609051500 +0000" channel="Motorvision+.de">
-    <title lang="de">Motorcycles</title>
-    <sub-title lang="de">BMW S 1000 XR und Harley-Davidson LiveWire</sub-title>
-    <desc lang="de">Die neue BMW S 1000 XR ist so etwas, wie ein BMW X6 auf zwei Rädern. Außerdem: Es wird dem Mythos Tourist Trophy auf den Grund gegangen. Und: Eine Elektro-Harley düst derzeit als Prototyp namens LiveWire über Straßen in aller Welt.</desc>
-    <date>2016</date>
-    <category lang="de">Magazin</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609051500 +0000" stop="20260609054000 +0000" channel="Motorvision+.de">
-    <title lang="de">Mission Mobility</title>
-    <sub-title lang="de">Folge 14</sub-title>
-    <desc lang="de">Rennlegende Hans Joachim Stuck nimmt beim 24-Stunden-Rennen Abschied vom aktiven Rennsport. Er hatte mit nur 19 Jahren hier das erste 24-Stunden-Rennen gewonnen und sich deshalb den Nürburgring für seine Abschiedsvorstellung ausgesucht.</desc>
-    <date>2018</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Reality</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609054000 +0000" stop="20260609063000 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2026</title>
-    <desc lang="de">Eigentlich sollte es der Finaltag sein, doch letztendlich starteten nur die Supersportler und Seitenwagen, während das Senior auf den nächsten Tag verschoben wurde. Im äusserst umkämpften 2. Supersportrennen wurde allerdings ein weiteres Mal Geschichte geschrieben.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609063000 +0000" stop="20260609065500 +0000" channel="Motorvision+.de">
-    <title lang="de">Made in....</title>
-    <sub-title lang="de">Schuberth Helme</sub-title>
-    <desc lang="de">Motorradfahren kann ein Hobby sein, oder Sport mit Adrenalin-Kick, birgt aber auch ein Risiko. Dass die Zahl der Toten bei Motorradunfällen in Deutschland sinkt, liegt unter anderem an der steten Verbesserung der Sturzhelme. Großen Anteil an diesen lebensrettenden Entwicklungen hat der Helm-Hersteller Schuberth in Magdeburg. Rund 350 Mitarbeiter fertigen hier Schutzhelme aller Art.</desc>
-    <date>2020</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609065500 +0000" stop="20260609072500 +0000" channel="Motorvision+.de">
-    <title lang="de">Grüne Welle</title>
-    <sub-title lang="de">Autonomes Fahren und Konnektivität</sub-title>
-    <desc lang="de">Die Autos von heute entwickeln sich zu komplett vernetzten Digital-Devices. In der Zukunft soll sich die Verkehrssicherheit erheblich verbessern. Die zuständigen Ingenieure von Daimler geben Einblicke in ihre Arbeit.</desc>
-    <date>2018</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E24</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609072500 +0000" stop="20260609075500 +0000" channel="Motorvision+.de">
-    <title lang="de">Dream Cars</title>
-    <sub-title lang="de">Englische Limousinen</sub-title>
-    <desc lang="de">Die englischen Limousinen sind der Inbegriff des Luxus, unwiderstehlich und atemberaubend. Diese Folge präsentiert die exklusivsten und teuersten englischen Limousinen. Ob Bentley, Rolls-Royce oder Jaguar, gebaut mit den teuersten Materialien vereinen englische Limousinen zeitlosen Luxus, einzigartigen Komfort und überlegene Kraft.</desc>
-    <date>2016</date>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609075500 +0000" stop="20260609082000 +0000" channel="Motorvision+.de">
-    <title lang="de">Crash</title>
-    <sub-title lang="de">Folge 28</sub-title>
-    <desc lang="de">Wir sehen, was passiert, wenn der Ehrgeiz das Fahrkönnen übersteigt und Rennprofis aus der Kurve getragen werden. Präsentiert werden atemberaubende Stunts professioneller Fahrer und spektakuläre Szenen, bei denen niemand Schaden nimmt.</desc>
-    <date>2016</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2 E28</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609082000 +0000" stop="20260609085000 +0000" channel="Motorvision+.de">
-    <title lang="de">Classic Ride</title>
-    <sub-title lang="de">Klassischer Motorsport at its best</sub-title>
-    <desc lang="de">Das weltweit größte Renn-Event historischer Fahrzeuge ist das Goodwood Revival in England. Über 150.000 Fans strömen auf den Landsitz des adeligen Earl of March. Die Besucher erwarten viele Highlights wie das Rennen um den Shelby Cup.</desc>
-    <date>2015</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S2 E22</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609085000 +0000" stop="20260609092000 +0000" channel="Motorvision+.de">
-    <title lang="de">Cars + Life</title>
-    <sub-title lang="de">Folge 16</sub-title>
-    <desc lang="de">Der Porsche Taycan hat sich mit einem Weltrekord ins Guinessbuch der Rekorde gefahren.</desc>
-    <date>2021</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Ratgeber</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E16</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609092000 +0000" stop="20260609095000 +0000" channel="Motorvision+.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">Mercedes - Die Silberpfeile</sub-title>
-    <desc lang="de">Die Silberpfeile stehen für eine beispiellose Ära des Motorsports. Sie dominierten die Rennszene in den 1930er Jahren. Rudolf Caracciola, Hermann Lang, Juan Manuel Fangio und Stirling Moss sind die Helden jener Zeit.</desc>
-    <date>2016</date>
-    <category lang="de">Geschichte</category>
-    <category lang="de">Auto</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609095000 +0000" stop="20260609101500 +0000" channel="Motorvision+.de">
-    <title lang="de">Nordschleife</title>
-    <sub-title lang="de">Touristen in der Grünen Hölle 6</sub-title>
-    <desc lang="de">Als vielgliedriges Ungeheuer bezeichnete einst Rennfahrerlegende Jackie Stewart die Nordschleife des Nürburgrings und gab ihr den Namen Grüne Hölle.</desc>
-    <date>2014</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609101500 +0000" stop="20260609104500 +0000" channel="Motorvision+.de">
-    <title lang="de">On Tour</title>
-    <sub-title lang="de">Bike and Music Weekend</sub-title>
-    <desc lang="de">Das Bike and Music Weekend ist eine der Veranstaltungen für Motorradfans. Jeden Sommer treffen sich Tausende von Bikern und Motorradfans aus der ganzen Welt in Geiselwind, Deutschland, um ihre Fahrzeuge zu präsentieren und Spaß zu haben.</desc>
-    <date>2014</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609104500 +0000" stop="20260609111000 +0000" channel="Motorvision+.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">SUV - Auf der Überholspur</sub-title>
-    <desc lang="de">Die Sendung thematisiert den Boom des SUV vom Mini-Geländewagen bis zum Luxus-Gefährt.</desc>
-    <date>2013</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609111000 +0000" stop="20260609114000 +0000" channel="Motorvision+.de">
-    <title lang="de">Rückspiegel</title>
-    <sub-title lang="de">Porsche-Killer und Wankel-Benz</sub-title>
-    <desc lang="de">Der BMW 2002 Turbo war zu seiner Zeit ein absoluter Knaller. Ein echter Renner und Porschekiller. Der Mercedes C111 wurde als Konzeptstudie entwickelt. Mit Wankelmotor, ausgefeilter Aerodynamik und einer Reihe technischer Innovationen.</desc>
-    <date>2018</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609114000 +0000" stop="20260609120500 +0000" channel="Motorvision+.de">
-    <title lang="de">Tuning - Tiefer geht`s nicht!</title>
-    <sub-title lang="de">Messebesuch mit Promibonus</sub-title>
-    <desc lang="de">Tuning ist für viele Autofans eine Lebenseinstellung: die Suche nach immer mehr PS, besserem Sound und außergewöhnlichem Design. Die Sendung wirft einen Blick hinter die Kulissen bekannter, renommierter und privater Tuning-Schmieden.</desc>
-    <date>2016</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609120500 +0000" stop="20260609123500 +0000" channel="Motorvision+.de">
-    <title lang="de">Stunt Heroes</title>
-    <sub-title lang="de">Massenkarambolage</sub-title>
-    <desc lang="de">Nebel, Dunkelheit, ein Auffahrunfall mit vielen Autos. Das passiert auf deutschen Autobahnen immer wieder. Die "Stunt Heroes" stellen eine solche Szenerie nach. Sie ist Ausgangspunkt für einen Stunt mit brennenden Personen und einem Feuerwehrmann.</desc>
-    <date>2013</date>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Unterhaltung</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609123500 +0000" stop="20260609130000 +0000" channel="Motorvision+.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Oldtimer Galerie Toffen</sub-title>
-    <desc lang="de">In der Sendung wird von einem Besuch der Oldtimer Gallery in Toffen in der Schweiz berichtet.</desc>
-    <date>2020</date>
-    <category lang="de">Sport</category>
-    <country lang="de">NL</country>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S4 E49</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609130000 +0000" stop="20260609133000 +0000" channel="Motorvision+.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">Porsche 911 Speed Dating</sub-title>
-    <desc lang="de">Alle 27 Varianten des Porsche 911 werden gezeigt und ihre Eigenschaften eingehend vorgestellt. Während eines Tests und Roadtrips durch den Schwarzwald und die Pfalz kürt der Moderator schließlich sein bevorzugtes 911-Modell.</desc>
-    <date>2024</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Sport</category>
-    <category lang="de">Abenteuer</category>
-    <category lang="de">Action</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S16 E230</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609133000 +0000" stop="20260609141500 +0000" channel="Motorvision+.de">
-    <title lang="de">Road Wars Staffel 7</title>
-    <sub-title lang="de">Aggressive Jugendliche</sub-title>
-    <desc lang="de">Colin und sein Schäferhund Raven werden zu einer Ruhestörung durch Jugendliche gerufen, Simon und das TAG-Team führen eine Drogenrazzia durch, und Roger und Giles machen eine Fahrzeugkontrolle.</desc>
-    <date>2010</date>
-    <category lang="de">Reality</category>
-    <category lang="de">Krimi</category>
-    <country lang="de">GB</country>
-    <country lang="de">US</country>
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609141500 +0000" stop="20260609154000 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM X-Trial World Championship 2026</title>
-    <sub-title lang="de">FIM X-Trial World Championship 2026 - Grand Prix of Tarragona, Spain</sub-title>
-    <desc lang="de">Die Übertragung von nationalen und internationalen Trial-Wettkämpfen.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">FR</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609154000 +0000" stop="20260609163500 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM Sidecarcross World Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609163500 +0000" stop="20260609170000 +0000" channel="Motorvision+.de">
-    <title lang="de">FIM Enduro World Championship 2026</title>
-    <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
-    <country lang="de">PT</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609170000 +0000" stop="20260609180000 +0000" channel="Motorvision+.de">
-    <title lang="de">King of the Roads 2024</title>
-    <sub-title lang="de">Armoy Teil 2</sub-title>
-    <desc lang="de">Die mutigsten Motorradrennfahrer treten auf abgesperrten öffentlichen Straßen gegeneinander an.</desc>
-    <date>2024</date>
-    <category lang="de">Auto</category>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609180000 +0000" stop="20260609193500 +0000" channel="Motorvision+.de">
-    <title lang="de">Isle of Man Tourist Trophy 2026</title>
-    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen.</desc>
-    <country lang="de">GB</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609193500 +0000" stop="20260609200000 +0000" channel="Motorvision+.de">
-    <title lang="de">Going Pro 2026</title>
-    <sub-title lang="de">Episode 1</sub-title>
-    <desc lang="de">Wir begleiten den kanadischen Nachwuchsrennfahrer Damon Surzyshyn und das Rennteam TechSport Racing.</desc>
-    <date>2026</date>
-    <category lang="de">Unterhaltung</category>
-    <country lang="de">DE</country>
-    <country lang="de">CA</country>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609200000 +0000" stop="20260609203000 +0000" channel="Motorvision+.de">
-    <title lang="de">Fastzone 2026</title>
-    <desc lang="de">Die Sendung zeigt einige der besten Motorsport-Momente, von Karts bis zur Formel Eins.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">DE</country>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609203000 +0000" stop="20260609205500 +0000" channel="Motorvision+.de">
-    <title lang="de">Biker Lifestyle</title>
-    <sub-title lang="de">Ride Thailand 2025, Motorradabenteuer Nordthailand Teil 1</sub-title>
-    <desc lang="de">Der Norden Thailands ist ein beliebtes Reiseziel, nicht nur für abenteuerlustige individuelle Touristen. Bekannt ist der Norden für seine bergigen dicht bewaldeten Gebiete und somit ist diese Region auch ein Paradies für Motorradfahrer.</desc>
-    <date>2026</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S14</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609205500 +0000" stop="20260609212000 +0000" channel="Motorvision+.de">
-    <title lang="de">Biker Lifestyle</title>
-    <sub-title lang="de">Ride Thailand 2025, Motorradabenteuer Nordthailand Teil 2</sub-title>
-    <desc lang="de">Der Norden Thailands ist ein beliebtes Reiseziel, nicht nur für abenteuerlustige individuelle Touristen. Bekannt ist der Norden für seine bergigen dicht bewaldeten Gebiete und somit ist diese Region auch ein Paradies für Motorradfahrer.</desc>
-    <date>2026</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S14</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609212000 +0000" stop="20260609214500 +0000" channel="Motorvision+.de">
-    <title lang="de">Grüne Welle</title>
-    <sub-title lang="de">Transport der Zukunft</sub-title>
-    <desc lang="de">Wie transportieren wir Güter und Personen in Zukunft? Auch die Lastenesel unserer Straßen entwickeln sich weiter und gehen mit der Zeit.</desc>
-    <date>2026</date>
-    <category lang="de">Auto</category>
-    <category lang="de">Dokumentation</category>
-    <category lang="de">Wissen</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">E73</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609214500 +0000" stop="20260609221500 +0000" channel="Motorvision+.de">
-    <title lang="de">4x4 - Das Allrad Magazin</title>
-    <sub-title lang="de">Smart Adventures</sub-title>
-    <desc lang="de">Der Can-Am Outlander und Maverick R sind die ultimativen Fun-Geräte für Offroad-Fahrspaß.</desc>
-    <date>2025</date>
-    <category lang="de">Sport</category>
-    <category lang="de">Magazin</category>
-    <country lang="de">DE</country>
-    <episode-num system="onscreen">S3 E86</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609221500 +0000" stop="20260609230000 +0000" channel="Motorvision+.de">
-    <title lang="de">Road Wars Staffel 7</title>
-    <sub-title lang="de">Der Raser</sub-title>
-    <desc lang="de">Mike und Chris stoppen einen rücksichtslosen Raser auf der Autobahn. Außerdem muss das TAG Team am Silvesterabend einen Mann wegen Körperverletzung verhaften. Und nach einer verdächtigen Autodurchsuchung geht den Fahndern ein Dealer ins Netz.</desc>
-    <date>2019</date>
-    <category lang="de">Krimi</category>
-    <category lang="de">Reality</category>
-    <category lang="de">Dokumentation</category>
-    <country lang="de">GB</country>
-    <episode-num system="onscreen">S7 E6</episode-num>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609230000 +0000" stop="20260609233000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260609233000 +0000" stop="20260610000000 +0000" channel="Motorvision+.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Teleshopping für z.B. Kosmetik, Schmuck, Mode oder Haushaltsgeräte. Dem Konsumenten wird die Möglichkeit angeboten, ein Produkt seiner Wahl im Fernsehen auszuwählen und dieses per Telefon, Fax, Onlineshop oder E-Mail bei einem Händler zu bestellen.</desc>
-    <date>2014</date>
-    <category lang="de">Lifestyle</category>
-    <country lang="de">DE</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
+    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
   </programme>
   <channel id="plex.tv.Action.Hollywood.Movies.plex">
     <display-name lang="en">Action Hollywood Movies</display-name>
