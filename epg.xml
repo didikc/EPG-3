@@ -9,45 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260617010000 +0000" stop="20260617012500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Classic Ride</title>
-    <desc lang="de">Opel-Rekord-Rennwagen, genannt die 'Schwarze Witwe'. Gebaut als inoffizielles Geheimprojekt sorgte die vom Biedermann zum Brandstifter umgebaute Limousine Ende der Sechziger Jahre für Furore auf der Rennstrecke. Bekannte Fahrer wie Erich Bitter und Niki Lauda fuhren mit dem 180 PS starken Rüsselsheimer zahlreiche Erfolge ein. Dann verschwand der Rennwagen auf mysteriöse Weise. Jetzt gibt es die Schwarze Witwe wieder und Motorvision war beim ersten Rollout auf der Rennstrecke dabei. (Senderinfo).</desc>
-    <date>2013</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260617012500 +0000" stop="20260617015500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Cars + Life</title>
-    <desc lang="de">Mit dem E-Tron S erweitert Audi seine Flotte an Fahrzeugen mit Elektroantrieb und liefert gleichzeitig ein leistungsstarkes Sportback-Modell. Außerdem: der Brandlhof bei Salzburg ist einer der größten Offroad-Parks in Europa. Toyota bietet dort etwas ganz Besonderes: eine Fahrschule, wo SUV- und Geländewagenfahrer*innen abseits vom Asphalt ihre Fähigkeiten im Gelände schärfen können. Und: die dritte Generation des Porsche Panamera. (Senderinfo).</desc>
-    <date>2020</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260617015500 +0000" stop="20260617022000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">VW Golf – Der Megaseller</sub-title>
-    <desc lang="de">Er ist das Auto der Vernunft, er ist nicht aufregend, aber er ist der Megaseller: Der VW Golf, das erfolgreichste Auto Europas, 30Millionen mal verkauft. Der Golf ist massenkompatibel, klassenlos und er dominiert die Klasse der Kompaktwagen. Die heißt wegen seines Erfolgs schon längst die Golf-Klasse. Die Modelle der der Baureihe I sind längst schon Kult, allen voran der legendäre Golf Gti und das Golf-Cabrio. Car History erzählt die Geschichte der Generation Golf und klärt das Geheimnis seines Erfolges. (Senderinfo).</desc>
-    <credits>
-      <director>Peter Schöllhorn</director>
-    </credits>
-    <date>2013</date>
-    <category lang="de">Dokuserie</category>
-    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E23</episode-num>
-  </programme>
-  <programme start="20260617022000 +0000" stop="20260617025000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Nordschleife</title>
-    <sub-title lang="de">Touristen in der Grünen Hölle 23</sub-title>
-    <desc lang="de">Als vielgliedriges Ungeheuer bezeichnete einst Rennfahrerlegende Jackie Stewart die Nordschleife des Nürburgrings und gab ihr den Namen 'Grüne Hölle'. Regelmäßig ist der legendäre Track auch der breiten Öffentlichkeit zugänglich. Viele "Racer im Herzen" brettern mit ihren Privatwägen durch Schwedenkreuz, Fuchsröhre, Kesselchen und Karussell. Einmal durch die "Grüne Hölle" ein Traum für viele, der keiner bleiben muss. Nordschleifen-Fans nehmen die Zuschauer mit an Bord und erzählen, was sie mit dem Ring verbinden. (Senderinfo).</desc>
-    <date>2011</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E23</episode-num>
-  </programme>
   <programme start="20260617025000 +0000" stop="20260617031000 +0000" channel="Motorvision.TV.de">
     <title lang="de">On Tour</title>
     <sub-title lang="de">Airshow in Montabaur</sub-title>
@@ -1193,6 +1154,284 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">D</country>
     <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20260620031000 +0000" stop="20260620033500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Perfect Ride</title>
+    <sub-title lang="de">Robust und beliebt</sub-title>
+    <desc lang="de">Robust und beliebt das sind die Stichwörter bei diesen Modellen. Subaru hat den XV umbenannt. Rundumerneuert und mit dem neuen Namen Cros-strek geht das SUV nun auf Kundenfang. Wir verraten, was dahintersteckt. Und Cupra spendiert seinem Bestseller Formentor ein Update, das vor allem optisch für Furore sorgt. Wir erklären, warum. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E102</episode-num>
+  </programme>
+  <programme start="20260620033500 +0000" stop="20260620040500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2015</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260620040500 +0000" stop="20260620044000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Going Pro 2026</title>
+    <desc lang="de">Die siebte Staffel der Going Pro TV-Serie begleitet Damon Surzyshyn und die gesamte PROsport Racing-Mannschaft in der ADAC GT4 Germany-Saison 2026 (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260620044000 +0000" stop="20260620050500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Fastzone 2026</title>
+    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260620050500 +0000" stop="20260620053500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Biker Lifestyle</title>
+    <sub-title lang="de">Ride Thailand 2025, Motorradabenteuer Nordthailand</sub-title>
+    <desc lang="de">Der Norden Thailands ein beliebtes Reiseziel, nicht nur für abenteuerlustige individual Touristen. Bekannt ist der Norden für seine bergigen dichtbewaldeten Gebiete und somit ist diese Region auch ein Paradies für Motorradfahrer. Tausende von Kurven auf gut ausgebauten Straßen mit wenig Verkehr und einer Vielfalt an Kultur und Landschaft machen diese Region für uns nun schon zum 4. Mal zu einem perfekten Urlaubsziel um den Winter in Deutschland zu entfliehen. Wir nehmen Euch mit auf einer 1600 Km langen Motorradtour zu den schönsten Orten Nordthailands. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E273</episode-num>
+  </programme>
+  <programme start="20260620053500 +0000" stop="20260620060000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Biker Lifestyle</title>
+    <sub-title lang="de">Ride Thailand 2025, Motorradabenteuer Nordthailand</sub-title>
+    <desc lang="de">Der Norden Thailands ein beliebtes Reiseziel, nicht nur für abenteuerlustige individual Touristen. Bekannt ist der Norden für seine bergigen dichtbewaldeten Gebiete und somit ist diese Region auch ein Paradies für Motorradfahrer. Tausende von Kurven auf gut ausgebauten Straßen mit wenig Verkehr und einer Vielfalt an Kultur und Landschaft machen diese Region für uns nun schon zum 4. Mal zu einem perfekten Urlaubsziel um den Winter in Deutschland zu entfliehen. Wir nehmen Euch mit auf einer 1600 Km langen Motorradtour zu den schönsten Orten Nordthailands. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E274</episode-num>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620065000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Supersport Race 1</sub-title>
+    <desc lang="de">Erneut wetterbedingter Totalausfall des Renntags auf der Isle of Man, aber dafür die Gelegenheit uns ausführlicher mit den Crowe-Brüdern und Davey Todd zu unterhalten und einen Blick zurück auf die spektakulärsten Rennen der Woche zu werfen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260620065000 +0000" stop="20260620072500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">4x4 – Das Allrad Magazin</title>
+    <sub-title lang="de">Allrad-Fun On_ und Offroad</sub-title>
+    <desc lang="de">Allrad macht nur im Gelände Spaß? Keineswegs! Und diese zwei sind der Beweis: Der Subaru Forester startet durch in neuer sechster Generation. Wir checken seine Qualitäten on- und offroad und ergründen sein Erfolgsgeheimnis. Und diese Allrad-Knallbüchse ist wohl eines der außergewöhnlichsten E-Autos. Auf euch warten fünf spannende Fakten und ein Bonus zum Hyundai Ioniq 5 N. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E87</episode-num>
+  </programme>
+  <programme start="20260620072500 +0000" stop="20260620081000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">UIM E1 World Championship 2025</title>
+    <sub-title lang="de">E1 Monaco, Monaco</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260620081000 +0000" stop="20260620090500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NZ Jetsprint Championship 2025</title>
+    <sub-title lang="de">World Championship 1, Superboats</sub-title>
+    <desc lang="de">The New Zealand Jetsprint Championship is the most important sprint boat competition from New Zealand, the country where the sport was founded in 1981. Jetsprinting is comparable to rally sports, but there is only one boat on the track at any given time and boats drive at very high speeds. The up to 500 HP strong jet sprint boats therefore try to achieve the best time on the tracks. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Wassersport</category>
+    <icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg" />
+    <country lang="de">NZ</country>
+  </programme>
+  <programme start="20260620090500 +0000" stop="20260620091500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260620091500 +0000" stop="20260620101000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Australian Boat Racing 2026</title>
+    <sub-title lang="de">National Driver's Championship, Mildura</sub-title>
+    <date>2026</date>
+    <category lang="de">Wassersport</category>
+    <icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260620101000 +0000" stop="20260620114000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM X-Trial World Championship 2026</title>
+    <sub-title lang="de">Grand Prix of Andorra, Andorra</sub-title>
+    <date>2025</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260620114000 +0000" stop="20260620123500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Sidecarcross World Championship 2026</title>
+    <sub-title lang="de">GP of France, Castelnau de Levis</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260620123500 +0000" stop="20260620130000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Supermoto: FIM Supermoto World and European Championship</title>
+    <sub-title lang="de">GP Communidad Valenciana, Albaida, Spain</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260620130000 +0000" stop="20260620133000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Enduro World Championship 2026</title>
+    <sub-title lang="de">Grand Prix of Italy, Custonaci</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">P</country>
+  </programme>
+  <programme start="20260620133000 +0000" stop="20260620142000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">King of the Roads 2024</title>
+    <sub-title lang="de">Aberdare</sub-title>
+    <desc lang="de">Kind of the Roads ist eine Straßenrennserie für Motorräder, bei der die Fahrer Geschwindigkeiten von bis zu 200 mp/h erreichen (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260620142000 +0000" stop="20260620144500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Icelandic Formula Offroad 2025</title>
+    <sub-title lang="de">Egilsstadir, Round 2</sub-title>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">Isl.</country>
+  </programme>
+  <programme start="20260620144500 +0000" stop="20260620151500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Monster Jam Championship 2025</title>
+    <sub-title lang="de">Anaheim, California</sub-title>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260620151500 +0000" stop="20260620154000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Quadcross World Championship 2026</title>
+    <sub-title lang="de">GP Czech Republic, Kramolin</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20260620154000 +0000" stop="20260620163500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Legends Cars National Championship</title>
+    <sub-title lang="de">Donington Park, Round 7</sub-title>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260620163500 +0000" stop="20260620170000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Africa Eco Race 2025</title>
+    <sub-title lang="de">Stage 1 &amp; 2, Tanger-Tarda; Tarda-Tagounite</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260620170000 +0000" stop="20260620173000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Africa Eco Race 2025</title>
+    <sub-title lang="de">Stage 3 &amp; 4, Tagounite-Touizgui; Touizgui-Laayoune</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260620173000 +0000" stop="20260620180000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">EMX Quad European Championship 2025</title>
+    <sub-title lang="de">Vesoul, France</sub-title>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+  </programme>
+  <programme start="20260620180000 +0000" stop="20260620184500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">SportBike Race 1</sub-title>
+    <desc lang="de">Bei einem auf 3 Runden verkürzten ersten Supersport-Rennen war die Frage ob Hicky seine Dominanz aus dem Superbikerennen wieder ausspielen könnte, ob Lee Johnston seinen Vorjahreserfolg wiederholen kann oder ob Michael Dunlup hier seiner Favoritenrolle gerecht wird. Es war ein heißer Kampf! (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260620184500 +0000" stop="20260620191500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Belgian Rally Championship 2026</title>
+    <sub-title lang="de">Rallye de Wallonie</sub-title>
+    <date>2024</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">B</country>
+  </programme>
+  <programme start="20260620191500 +0000" stop="20260620194500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Tour European Rally 2026</title>
+    <sub-title lang="de">Rallye du Chablais, Schweiz</sub-title>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+  </programme>
+  <programme start="20260620194500 +0000" stop="20260620201000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Border Counties Rally (gravel)</title>
+    <sub-title lang="de">Border Counties Rally (gravel)</sub-title>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20260620201000 +0000" stop="20260620210000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">British Rally Championship 2025</title>
+    <sub-title lang="de">Severn Valley Stages, Builth Wells</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260620210000 +0000" stop="20260620215500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rallye: NZ Rally Championship</title>
+    <sub-title lang="de">Round 6, International Rally of Whangarei</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NZ</country>
+  </programme>
+  <programme start="20260620215500 +0000" stop="20260620230000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rallye: Dubai International Baja Rally</title>
+    <sub-title lang="de">Dubai International Baja</sub-title>
+    <desc lang="de">Die internationale Rallye-Veranstaltung ist seit 2017 Bestandteil des "FIA Marathonrallye Worldcup". Zuvor war es Abschlussveranstaltung der "Middle East Rally Championship". Rekordsieger ist Mohammed bin Sulayem. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">Ver. Arab. Emir.</country>
+  </programme>
+  <programme start="20260620230000 +0000" stop="20260620235000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">SportBike Race 1</sub-title>
+    <desc lang="de">Bei einem auf 3 Runden verkürzten ersten Supersport-Rennen war die Frage ob Hicky seine Dominanz aus dem Superbikerennen wieder ausspielen könnte, ob Lee Johnston seinen Vorjahreserfolg wiederholen kann oder ob Michael Dunlup hier seiner Favoritenrolle gerecht wird. Es war ein heißer Kampf! (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260620235000 +0000" stop="20260621010000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">A&amp;E</title>
+    <desc lang="de">Der West Midlands Ambulance Service wird jährlich zu Millionen Notfällen gerufen. Oft sind die Einsätze so heftig, dass die Behandlung auf der Straße beginnt. Das Team aus engagierten Ärzten und Sanitätern hat die tägliche Aufgabe Leben zu retten. (Senderinfo).</desc>
+    <date>2020</date>
+    <category lang="de">Doku-Soap</category>
+    <icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg" />
+    <country lang="de">USA</country>
   </programme>
   <programme start="20260617010000 +0000" stop="20260617012500 +0000" channel="Motorvision+.de">
     <title lang="de">Classic Ride</title>
