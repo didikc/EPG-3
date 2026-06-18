@@ -9,42 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260618010000 +0000" stop="20260618012500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Classic Ride</title>
-    <desc lang="de">Er ist der "Heilige Gral" für Porsche-Fans und der erste Porsche, der den berühmten Namen des Konstrukteur-Genies aus Österreich überhaupt trägt: Der Typ 64, ein Rennwagen von 1938, der auf dem von Professor Ferdinand Porsche entwickelten Volkswagen basiert. Nur zwei der Stromlinienwagen wurden gebaut und sollten an einem Rennen von Berlin nach Rom teilnehmen. Doch der Krieg kam dazwischen... (Senderinfo).</desc>
-    <date>2013</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260618012500 +0000" stop="20260618015500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Cars + Life</title>
-    <desc lang="de">Nach über 70 Jahren präsentiert Land Rover eine Neuauflage des Geländewagen-Klassikers Defender. Außerdem: der Weltrekordversuch im Driften im Porsche Taycan am Hockenheimring. Und: der Porsche 911 Turbo und der 718 Spyder im Test. (Senderinfo).</desc>
-    <date>2021</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260618015500 +0000" stop="20260618022000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">Opel Klassiker</sub-title>
-    <desc lang="de">Die 60er und 70er – die goldenen Jahre für Opel. Die Traditionsmarke läuft zur Höchstform auf. Ascona, Manta, Rekord und GT: Opel ist mehr als nur ein Auto, Opel ist ein Lebensgefühl. Opel ist bunt, modisch, aufregend – und baut einen Klassiker nach dem anderen. Heute sind sie alle Kult. Car History zeigt die Blütezeit von Opel. (Senderinfo).</desc>
-    <date>2013</date>
-    <category lang="de">Dokuserie</category>
-    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20260618022000 +0000" stop="20260618024500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Nordschleife</title>
-    <sub-title lang="de">Touristen in der Grünen Hölle 7</sub-title>
-    <desc lang="de">Und nur hier findet das größte Motorsportspektakel der Welt statt. 210 Rennwagen, mehr als 1000 Fahrer und Helfer, dazu über 200 000 Fans. Das 24 Stundenrennen lässt keinen kalt. (Senderinfo).</desc>
-    <date>2011</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
   <programme start="20260618024500 +0000" stop="20260618031000 +0000" channel="Motorvision.TV.de">
     <title lang="de">On Tour</title>
     <sub-title lang="de">Boot Düsseldorf</sub-title>
@@ -1133,6 +1097,153 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
     <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20260621030500 +0000" stop="20260621040000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rolex Monterey Motorsports Reunion</title>
+    <sub-title lang="de">Highlight Day 2 2025</sub-title>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260621040000 +0000" stop="20260621063500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Bommarito Automotive Group 500, WW Technology Raceway, Illinois</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20260621063500 +0000" stop="20260621073500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Barber 1</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20260621073500 +0000" stop="20260621084000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Barber 2</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260621084000 +0000" stop="20260621094000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Indianapolis 1</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20260621094000 +0000" stop="20260621103000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Bommarito Automotive Group 500, WW Technology Raceway, Illinois</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E27</episode-num>
+  </programme>
+  <programme start="20260621103000 +0000" stop="20260621111500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Qualifying</sub-title>
+    <desc lang="de">Zum Auftakt der TT 2025 werfen wir einen Blick auf die ersten Qualifyings und freuen uns auf Lee Johnston als Co-Commentator (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260621111500 +0000" stop="20260621120500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Superstock Race 1</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260621120500 +0000" stop="20260621134000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Superbike Race</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260621134000 +0000" stop="20260621142500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Hutchy – The Legend</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260621142500 +0000" stop="20260621152500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Gateway</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20260621152500 +0000" stop="20260621163000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Detroit</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20260621163000 +0000" stop="20260621180000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Bommarito Automotive Group 500, WW Technology Raceway, Illinois</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E28</episode-num>
+  </programme>
+  <programme start="20260621180000 +0000" stop="20260621203500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">LIVE XPEL GP at Road America, Road America, Wisconsin</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E28</episode-num>
+  </programme>
+  <programme start="20260621203500 +0000" stop="20260621221500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Tourist Trophy Film</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260621221500 +0000" stop="20260621231000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Hutchy – The Legend</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260621231000 +0000" stop="20260622000000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Bommarito Automotive Group 500, WW Technology Raceway, Illinois</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E27</episode-num>
   </programme>
   <programme start="20260618010000 +0000" stop="20260618012500 +0000" channel="Motorvision+.de">
     <title lang="de">Classic Ride</title>
