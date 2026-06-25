@@ -9,45 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Classic Ride</title>
-    <desc lang="de">Viel Chrom, freistehende Lampentöpfe, bauchige Kotflügel, schwellende Formen wohin man blickt – typisch Vorkriegs-Optik. Dabei war der Triumph 1800 die erste Neukonstruktion des britischen Herstellers nach dem zweiten Weltkrieg. Der 1947 präsentierte Viersitzer mit Schwiegermuttersitz begründet die lange Tradition des britischen Nachkriegs-Roadsters. Dabei ist der 1800 kein kerniger Kurvenräuber, sondern eher ein gemütlicher Tourer für die gemütliche Landpartie. Außerdem in der Sendung: BMW 507 und Porsche 356 Cabrio. (Senderinfo).</desc>
-    <date>2014</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260625013000 +0000" stop="20260625015500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Cars + Life</title>
-    <desc lang="de">Ein Weltrekord der Superlative. Der Porsche Taycan fährt ins Guinessbuch der Rekorde. Außerdem: Der Wasserstoff-Hyundai Nexo, am Hockenheimring mit Walter Röhrl und der Skoda Trekka aus den 1960ern. (Senderinfo).</desc>
-    <date>2021</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260625015500 +0000" stop="20260625022000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Car History</title>
-    <sub-title lang="de">Lamborghini</sub-title>
-    <desc lang="de">Und der Mythos Lamborghini beginnt beim Namen. Chronik des Stierkampfes 1879. In der Arena von Cordoba widersteht ein Stier den Torreros und überlebt trotz 24 Stichen. Sein Name: Murcielago (Senderinfo).</desc>
-    <credits>
-      <director>Peter Schöllhorn</director>
-    </credits>
-    <date>2012</date>
-    <category lang="de">Dokuserie</category>
-    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20260625022000 +0000" stop="20260625025000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Nordschleife</title>
-    <sub-title lang="de">Touristen in der Grünen Hölle 9</sub-title>
-    <desc lang="de">Heute stellen wir einen Mann vor, der Geschichte im Motorsport geschrieben hat. Er hat vier Mal hintereinander das 24h-Rennen gewonnen: Olaf Manthey. (Senderinfo).</desc>
-    <date>2011</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
   <programme start="20260625025000 +0000" stop="20260625031500 +0000" channel="Motorvision.TV.de">
     <title lang="de">On Tour</title>
     <sub-title lang="de">125 Jahre Mercedes</sub-title>
@@ -1103,6 +1064,135 @@
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628032500 +0000" stop="20260628040000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Racing Files</title>
+    <sub-title lang="de">Duelle in der Formel 1</sub-title>
+    <desc lang="de">Erbitterte Kämpfe um Meistertitel, heftige Duelle um Rennsiege und sogar Dispute unter Teamkollegen: Der Motorsport ist seit seinen Anfangszeiten von Fehden geprägt. Auch in der Formel 1 kommt es immer wieder zu hitzigen Rivalitäten und Zweikämpfen. The Racing Files blickt auf die spannenden Kämpfe um Weltmeistertitel in der Königsklasse des Formelsports. (Senderinfo).</desc>
+    <date>2019</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20260628040000 +0000" stop="20260628052500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Children's of Alabama Indy GP, Barber Motorsports Park, Alabama</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20260628052500 +0000" stop="20260628061000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Review 1</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628061000 +0000" stop="20260628070000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Supersport Race 1</sub-title>
+    <desc lang="de">Erneut wetterbedingter Totalausfall des Renntags auf der Isle of Man, aber dafür die Gelegenheit uns ausführlicher mit den Crowe-Brüdern und Davey Todd zu unterhalten und einen Blick zurück auf die spektakulärsten Rennen der Woche zu werfen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628070000 +0000" stop="20260628074500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">SportBike Race 1</sub-title>
+    <desc lang="de">Bei einem auf 3 Runden verkürzten ersten Supersport-Rennen war die Frage ob Hicky seine Dominanz aus dem Superbikerennen wieder ausspielen könnte, ob Lee Johnston seinen Vorjahreserfolg wiederholen kann oder ob Michael Dunlup hier seiner Favoritenrolle gerecht wird. Es war ein heißer Kampf! (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628074500 +0000" stop="20260628083500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">John McGuinness: TT Winner</sub-title>
+    <desc lang="de">Würde das Superstockrennen zu einer Blaupause des Superbike-Rennens werden? Mit einer weiteren dominanten Vorstellung von Hicky? Darüber waren sich die Experten nicht so ganz einig. Ein Rennen voller Überraschungen und einem interessanten Podium. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628083500 +0000" stop="20260628092500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Supersport Race 2</sub-title>
+    <desc lang="de">Eigentlich sollte es der Finaltag sein, doch letztendlich starteten nur die Supersportler und Seitenwagen, während das Senior auf den nächsten Tag verschoben wurde. Im äusserst umkämpften 2. Supersportrennen wurde allerdings ein weiteres Mal Geschichte geschrieben. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628092500 +0000" stop="20260628110000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20260628110000 +0000" stop="20260628112000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Fastzone 2026</title>
+    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260628112000 +0000" stop="20260628134500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2025</title>
+    <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260628134500 +0000" stop="20260628145500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Road America 1</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20260628145500 +0000" stop="20260628160000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Road America 2</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E27</episode-num>
+  </programme>
+  <programme start="20260628160000 +0000" stop="20260628221000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA Sportscar Championship</title>
+    <sub-title lang="de">Sahlen's Six Hours of the Glen, Watkins Glen International Raceway</sub-title>
+    <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260628221000 +0000" stop="20260628231000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy</title>
+    <sub-title lang="de">Review 1</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260628231000 +0000" stop="20260629010000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E30</episode-num>
   </programme>
   <programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="Motorvision+.de">
     <title lang="de">Classic Ride</title>
