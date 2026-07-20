@@ -5151,723 +5151,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260718044500 +0000" stop="20260718062200 +0000">
-    <title lang="en">Skincare</title>
-    <desc lang="en">Famed aesthetician Hope Goldman is about to take her career to the next level by launching her very own skin care line. However, she soon faces a new challenge when a rival opens a boutique directly across from her store. Suspecting that someone is trying to sabotage her, she embarks on a quest to unravel the mystery of who's trying to destroy her life.</desc>
-    <credits>
-      <actor>Elizabeth Banks</actor>
-      <actor>Nathan Fillion</actor>
-      <actor>Lewis Pullman</actor>
-      <director>Austin Peters</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27608268_v_h8_af.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718062200 +0000" stop="20260718075600 +0000">
-    <title lang="en">Hot Milk</title>
-    <desc lang="en">Sofia travels to the Spanish coast with her domineering mother, who seeks a cure for a strange illness. A tantalizing world awaits Sofia, if she can escape her mother's demands.</desc>
-    <credits>
-      <actor>Emma Mackey</actor>
-      <actor>Fiona Shaw</actor>
-      <actor>Vincent Perez</actor>
-      <director>Rebecca Lenkiewicz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29481725_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718075600 +0000" stop="20260718094200 +0000">
-    <title lang="en">A Lot of Nothing</title>
-    <desc lang="en">James and Vanessa are ostensibly the perfect married couple. Their lives spiral out of control when they decide to seek justice against a neighbor they saw commit a crime on the evening news.</desc>
-    <credits>
-      <actor>Y'lan Noel</actor>
-      <actor>Cleopatra Coleman</actor>
-      <actor>Justin Hartley</actor>
-      <director>Mo McRae</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23782757_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718094200 +0000" stop="20260718100300 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Heir Apparent</sub-title>
-    <desc lang="en">Kevin Smith sends his daughter to The Stash to learn how to be a clerk; a customer wants to sell rare and unusual "Rocky" action figures.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-      <actor>Walt Flanagan</actor>
-      <actor>Bryan Johnson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11036687_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718100300 +0000" stop="20260718102500 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Walt's Treehouse</sub-title>
-    <desc lang="en">A returning customer brings in a toy that Walt always coveted; an aspiring student brings in an autographed book.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-      <actor>Walt Flanagan</actor>
-      <actor>Bryan Johnson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11036687_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718102500 +0000" stop="20260718104700 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Stand Up Guys</sub-title>
-    <desc lang="en">Walt challenges the others to perform stand-up routines; a collector brings in Marvel Comics from the 1960s.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-      <actor>Walt Flanagan</actor>
-      <actor>Bryan Johnson</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11036687_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718104700 +0000" stop="20260718113500 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Detroit</sub-title>
-    <desc lang="en">Lestat reflects on the events leading to his tour, including the formation of his band and the publication of a certain book, while experiencing a disquieting, drug-fueled spiritual trip and going head-to-head with a resentful coven.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Eric Bogosian</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718113500 +0000" stop="20260718120100 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Detroit</sub-title>
-    <desc lang="en">Guests discuss Episode 1 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718120100 +0000" stop="20260718124800 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Toledo</sub-title>
-    <desc lang="en">Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718124800 +0000" stop="20260718132200 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Toledo</sub-title>
-    <desc lang="en">Guests discuss Episode 2 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718132200 +0000" stop="20260718141500 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Toronto</sub-title>
-    <desc lang="en">Molloy finally lands an unsurprisingly difficult Lestat in the hot seat, probing him about his time as a Parisian actor, relationship with a childhood friend and transformation; Louis tends to some long-unfinished business in Detroit.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718141500 +0000" stop="20260718144600 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Toronto</sub-title>
-    <desc lang="en">Guests discuss Episode 3 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718144600 +0000" stop="20260718153900 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">The Devil's Road</sub-title>
-    <desc lang="en">Armand goes on an apology tour; Lestat is triggered and lashes out as only he can, publicly embarrassing a personally invited concert attendee with a shoutout; Louis seeks comfort in a familiar face.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718153900 +0000" stop="20260718160600 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Devil's Road</sub-title>
-    <desc lang="en">Guests discuss Episode 4 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718160600 +0000" stop="20260718170000 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">New York</sub-title>
-    <desc lang="en">The band records their album, as Lestat revisits his musical origins and pushes them all to new extremes; Louis comes clean about his guilty pleasure; Molloy gets a gift from the last person he expected.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718170000 +0000" stop="20260718173500 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After New York</sub-title>
-    <desc lang="en">Guests discuss Episode 5 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718173500 +0000" stop="20260718182300 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Detroit</sub-title>
-    <desc lang="en">Lestat reflects on the events leading to his tour, including the formation of his band and the publication of a certain book, while experiencing a disquieting, drug-fueled spiritual trip and going head-to-head with a resentful coven.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Eric Bogosian</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718182300 +0000" stop="20260718184900 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Detroit</sub-title>
-    <desc lang="en">Guests discuss Episode 1 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718184900 +0000" stop="20260718193600 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Toledo</sub-title>
-    <desc lang="en">Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718193600 +0000" stop="20260718201000 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Toledo</sub-title>
-    <desc lang="en">Guests discuss Episode 2 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718201000 +0000" stop="20260718210300 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Toronto</sub-title>
-    <desc lang="en">Molloy finally lands an unsurprisingly difficult Lestat in the hot seat, probing him about his time as a Parisian actor, relationship with a childhood friend and transformation; Louis tends to some long-unfinished business in Detroit.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718210300 +0000" stop="20260718213400 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Toronto</sub-title>
-    <desc lang="en">Guests discuss Episode 3 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718213400 +0000" stop="20260718222700 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">The Devil's Road</sub-title>
-    <desc lang="en">Armand goes on an apology tour; Lestat is triggered and lashes out as only he can, publicly embarrassing a personally invited concert attendee with a shoutout; Louis seeks comfort in a familiar face.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718222700 +0000" stop="20260718225400 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Devil's Road</sub-title>
-    <desc lang="en">Guests discuss Episode 4 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260718225400 +0000" stop="20260718234800 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">New York</sub-title>
-    <desc lang="en">The band records their album, as Lestat revisits his musical origins and pushes them all to new extremes; Louis comes clean about his guilty pleasure; Molloy gets a gift from the last person he expected.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260718234800 +0000" stop="20260719002300 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After New York</sub-title>
-    <desc lang="en">Guests discuss Episode 5 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260719002300 +0000" stop="20260719011700 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Montreal</sub-title>
-    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260719011700 +0000" stop="20260719014500 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Montreal</sub-title>
-    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260719014500 +0000" stop="20260719023900 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Montreal</sub-title>
-    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260719023900 +0000" stop="20260719030700 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Montreal</sub-title>
-    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260719030700 +0000" stop="20260719040100 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Montreal</sub-title>
-    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260719040100 +0000" stop="20260719042900 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Montreal</sub-title>
-    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260719042900 +0000" stop="20260719051700 +0000">
     <title lang="en">The Vampire Lestat</title>
     <sub-title lang="en">Detroit</sub-title>
@@ -8345,54 +7640,1087 @@
       <value>13+</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260718050000 +0000" stop="20260718090000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Umag-ATP Semifinals; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis highlights from recent matches.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260722052700 +0000" stop="20260722061300 +0000">
+    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
+    <desc lang="en">Michael's affair leads detectives to investigate his alleged mistress Sheila; a lead on the costume from a store puts Sheila firmly in the frame, but without evidence the case goes cold; then in 2017, new DNA evidence leads detectives to an arrest.</desc>
+    <credits>
+      <director>Ellie Merz</director>
+    </credits>
+    <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260718090000 +0000" stop="20260718100000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Umag-ATP Singles Final; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Semifinals</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260718100000 +0000" stop="20260718180000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Umag-ATP Singles Final; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Semifinals</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260722061300 +0000" stop="20260722070000 +0000">
+    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
+    <desc lang="en">After Sheila's arrest, the prosecution prepares for trial and the stakes are high; the prosecution's case centers on new DNA and fiber evidence; Sheila's defense attorney attempts to get the evidence thrown out.</desc>
+    <credits>
+      <director>Ellie Merz</director>
+    </credits>
+    <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260718180000 +0000" stop="20260718203000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Umag-ATP Singles Final; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Semifinals</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260722070000 +0000" stop="20260722074700 +0000">
+    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
+    <desc lang="en">In 1990, Marlene is shot by a clown and detectives try to find a motive for her murder; her husband Michael becomes the prime suspect after detectives learn their marriage was on the rocks, but an anonymous tip leads investigators to another suspect.</desc>
+    <credits>
+      <director>Ellie Merz</director>
+    </credits>
+    <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260718203000 +0000" stop="20260719043000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Umag-ATP Singles Final; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis highlights from recent matches.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260722074700 +0000" stop="20260722083300 +0000">
+    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
+    <desc lang="en">Michael's affair leads detectives to investigate his alleged mistress Sheila; a lead on the costume from a store puts Sheila firmly in the frame, but without evidence the case goes cold; then in 2017, new DNA evidence leads detectives to an arrest.</desc>
+    <credits>
+      <director>Ellie Merz</director>
+    </credits>
+    <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722083300 +0000" stop="20260722092000 +0000">
+    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
+    <desc lang="en">After Sheila's arrest, the prosecution prepares for trial and the stakes are high; the prosecution's case centers on new DNA and fiber evidence; Sheila's defense attorney attempts to get the evidence thrown out.</desc>
+    <credits>
+      <director>Ellie Merz</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722092000 +0000" stop="20260722100600 +0000">
+    <title lang="en">The Killer Clown: Murder on the Doorstep</title>
+    <desc lang="en">In 1990, Marlene is shot by a clown and detectives try to find a motive for her murder; her husband Michael becomes the prime suspect after detectives learn their marriage was on the rocks, but an anonymous tip leads investigators to another suspect.</desc>
+    <credits>
+      <director>Ellie Merz</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30132545_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722100600 +0000" stop="20260722105000 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722105000 +0000" stop="20260722113300 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">America Divided</sub-title>
+    <desc lang="en">In order to ensure the survival of his family, Jesse James forms a gang; Custer seeks glory in the Indian Wars; Crazy Horse fights against the U.S.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722113300 +0000" stop="20260722121700 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Two Front War</sub-title>
+    <desc lang="en">Jesse James targets the railroads; Custer goes on a secret mission in Sioux Territory; Grant contends with the growing unrest in the South and West.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722121700 +0000" stop="20260722130100 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Blood &amp; Gold</sub-title>
+    <desc lang="en">Allan Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722130100 +0000" stop="20260722134500 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Showdown</sub-title>
+    <desc lang="en">Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722134500 +0000" stop="20260722142900 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Outlaw Rising</sub-title>
+    <desc lang="en">Billy the Kid uses his talent with a gun to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722142900 +0000" stop="20260722151300 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Big Killing</sub-title>
+    <desc lang="en">Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722151300 +0000" stop="20260722155700 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722155700 +0000" stop="20260722164100 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722164100 +0000" stop="20260722172500 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">Detectives Agnew and Geddes murder a fellow DPD officer; IA investigates the case; Maya and Damon discuss plans for the future.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722172500 +0000" stop="20260722180900 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">The Goat Rodeo</sub-title>
+    <desc lang="en">The DPD searches McCann's house; Frank finds game-changing evidence; Maya and Damon reevaluate plans.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722180900 +0000" stop="20260722185300 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">No Rounds</sub-title>
+    <desc lang="en">Frank and Geddes work to cover up the evidence in McCann's murder; Damon's crew prepares for the opening.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722185300 +0000" stop="20260722193700 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">Catacombs</sub-title>
+    <desc lang="en">Frank searches for Katia; Geddes deals with family issues; tension rises in the Blind Pig.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722193700 +0000" stop="20260722202100 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">Cake on the Way</sub-title>
+    <desc lang="en">A low-level murder is linked to McCann, escalating the DPD's investigation; Damon pays for his ambitions.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722202100 +0000" stop="20260722210500 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">The Way Things Are</sub-title>
+    <desc lang="en">Frank searches unfamiliar territory for Katia; Damon must ask an enemy for help; Nick proves his worth.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722210500 +0000" stop="20260722214900 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">There Was a Girl</sub-title>
+    <desc lang="en">The DPD catches a break on the case; Damon and Maya's freedom is in jeopardy; Geddes and Frank have a confrontation.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722214900 +0000" stop="20260722223300 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">Revelations</sub-title>
+    <desc lang="en">Frank testifies; Geddes and his family take a trip; Damon and Maya start their new lives.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722223300 +0000" stop="20260722231700 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">Ann Arbor</sub-title>
+    <desc lang="en">Frank wrestles with his sanity as the realities of his actions take their toll; Geddes makes some choices about family and work.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260722231700 +0000" stop="20260723000100 +0000">
+    <title lang="en">Low Winter Sun</title>
+    <sub-title lang="en">Surrender</sub-title>
+    <desc lang="en">The DPD gets close to solving McCann's murder; Frank is forced to make a critical decision; Damon makes his boldest move yet.</desc>
+    <credits>
+      <actor>Mark Strong</actor>
+      <actor>Lennie James</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9924296_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723000100 +0000" stop="20260723004400 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">America Divided</sub-title>
+    <desc lang="en">In order to ensure the survival of his family, Jesse James forms a gang; Custer seeks glory in the Indian Wars; Crazy Horse fights against the U.S.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723004400 +0000" stop="20260723012800 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Two Front War</sub-title>
+    <desc lang="en">Jesse James targets the railroads; Custer goes on a secret mission in Sioux Territory; Grant contends with the growing unrest in the South and West.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723012800 +0000" stop="20260723021200 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Blood &amp; Gold</sub-title>
+    <desc lang="en">Allan Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723021200 +0000" stop="20260723025600 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Showdown</sub-title>
+    <desc lang="en">Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723025600 +0000" stop="20260723034000 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Outlaw Rising</sub-title>
+    <desc lang="en">Billy the Kid uses his talent with a gun to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723034000 +0000" stop="20260723042400 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Big Killing</sub-title>
+    <desc lang="en">Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260723042400 +0000" stop="20260723050800 +0000">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.</desc>
+    <credits>
+      <actor>Bert Thomas Morris</actor>
+      <actor>David H. Stevens</actor>
+      <actor>Will Strongheart</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">History</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12834819_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260719043000 +0000" stop="20260719093000 +0000">
     <title lang="en">Courtside</title>
     <sub-title lang="en">Umag-ATP Singles Final; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Semifinals</sub-title>
@@ -8585,6 +8913,54 @@
     <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260722030000 +0000" stop="20260722090000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Kitzbuhel-ATP, Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis highlights from recent matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260722090000 +0000" stop="20260722100000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Kitzbuhel-ATP, Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Early Rounds</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260722100000 +0000" stop="20260722180000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Kitzbuhel-ATP, Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Early Rounds</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260722180000 +0000" stop="20260722200000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Kitzbuhel-ATP, Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Early Rounds</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260722200000 +0000" stop="20260723040000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Kitzbuhel-ATP, Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis highlights from recent matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260723040000 +0000" stop="20260723090000 +0000">
     <title lang="en">Courtside</title>
     <sub-title lang="en">Kitzbuhel-ATP, Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Early Rounds</sub-title>
     <desc lang="en">Tennis highlights from recent matches.</desc>
