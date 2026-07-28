@@ -5932,1005 +5932,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260726043200 +0000" stop="20260726052300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Power Equals Power</sub-title>
-    <desc lang="en">In the war for control of Manhattan, Maggie and Negan find themselves trapped on opposite sides of the war.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726052300 +0000" stop="20260726060700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Another S... Lesson</sub-title>
-    <desc lang="en">Maggie begins a journey back to the island; Negan joins the fight.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726060700 +0000" stop="20260726065700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Why Did the Mainlanders Cross the River?</sub-title>
-    <desc lang="en">Negan tries something new with The Croat; Maggie travels into a dangerous, surprising place.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726065700 +0000" stop="20260726074600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Feisty Friendly</sub-title>
-    <desc lang="en">Maggie uncovers information; Negan attempts to outmaneuver a slippery foe.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726074600 +0000" stop="20260726083600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">The Bird Always Knows</sub-title>
-    <desc lang="en">Negan makes some big moves, while Maggie takes matters into her own hands.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726083600 +0000" stop="20260726092600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Bridge Partners Are Hard to Come By These Days</sub-title>
-    <desc lang="en">Maggie considers making an alliance, as the outcome of Negan's actions comes to a head.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Cohan</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726092600 +0000" stop="20260726101300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Novi Dan, Novi Početak</sub-title>
-    <desc lang="en">Negan and Maggie go on harrowing journeys and face unexpected challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726101300 +0000" stop="20260726110700 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">New York</sub-title>
-    <desc lang="en">The band records their album, as Lestat revisits his musical origins and pushes them all to new extremes; Louis comes clean about his guilty pleasure; Molloy gets a gift from the last person he expected.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726110700 +0000" stop="20260726114200 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After New York</sub-title>
-    <desc lang="en">Guests discuss Episode 5 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726114200 +0000" stop="20260726123600 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Montreal</sub-title>
-    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726123600 +0000" stop="20260726130400 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Montreal</sub-title>
-    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726130400 +0000" stop="20260726135900 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">The Failures</sub-title>
-    <desc lang="en">The night of the band's final show, factions become clear when Lestat is the surprise guest of honor at a fancy dinner party where he must confront past and present demons.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726135900 +0000" stop="20260726143300 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After the Failures</sub-title>
-    <desc lang="en">Guests discuss the Season Finale of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726143300 +0000" stop="20260726152100 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Detroit</sub-title>
-    <desc lang="en">Lestat reflects on the events leading to his tour, including the formation of his band and the publication of a certain book, while experiencing a disquieting, drug-fueled spiritual trip and going head-to-head with a resentful coven.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Eric Bogosian</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726152100 +0000" stop="20260726154700 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Detroit</sub-title>
-    <desc lang="en">Guests discuss Episode 1 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726154700 +0000" stop="20260726163400 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Toledo</sub-title>
-    <desc lang="en">Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726163400 +0000" stop="20260726170800 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Toledo</sub-title>
-    <desc lang="en">Guests discuss Episode 2 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726170800 +0000" stop="20260726180100 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Toronto</sub-title>
-    <desc lang="en">Molloy finally lands an unsurprisingly difficult Lestat in the hot seat, probing him about his time as a Parisian actor, relationship with a childhood friend and transformation; Louis tends to some long-unfinished business in Detroit.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726180100 +0000" stop="20260726183200 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Toronto</sub-title>
-    <desc lang="en">Guests discuss Episode 3 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726183200 +0000" stop="20260726192500 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">The Devil's Road</sub-title>
-    <desc lang="en">Armand goes on an apology tour; Lestat is triggered and lashes out as only he can, publicly embarrassing a personally invited concert attendee with a shoutout; Louis seeks comfort in a familiar face.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726192500 +0000" stop="20260726195200 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Devil's Road</sub-title>
-    <desc lang="en">Guests discuss Episode 4 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726195200 +0000" stop="20260726204600 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">New York</sub-title>
-    <desc lang="en">The band records their album, as Lestat revisits his musical origins and pushes them all to new extremes; Louis comes clean about his guilty pleasure; Molloy gets a gift from the last person he expected.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726204600 +0000" stop="20260726212100 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After New York</sub-title>
-    <desc lang="en">Guests discuss Episode 5 of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726212100 +0000" stop="20260726221500 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">Montreal</sub-title>
-    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726221500 +0000" stop="20260726224300 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After Montreal</sub-title>
-    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260726224300 +0000" stop="20260726233800 +0000">
-    <title lang="en">The Vampire Lestat</title>
-    <sub-title lang="en">The Failures</sub-title>
-    <desc lang="en">The night of the band's final show, factions become clear when Lestat is the surprise guest of honor at a fancy dinner party where he must confront past and present demons.</desc>
-    <credits>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <actor>Delainey Hayles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260726233800 +0000" stop="20260727001200 +0000">
-    <title lang="en">The Vampire Lestat: After Dark</title>
-    <sub-title lang="en">After the Failures</sub-title>
-    <desc lang="en">Guests discuss the Season Finale of The Vampire Lestat.</desc>
-    <credits>
-      <actor>Lizzie Bassett</actor>
-      <actor>Sam Reid</actor>
-      <actor>Jacob Anderson</actor>
-      <director>Joe Randazzo</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260727001200 +0000" stop="20260727010300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Old Acquaintances</sub-title>
-    <desc lang="en">Maggie finds Negan, and they travel to Manhattan; a marshal named Armstrong follows Negan; they meet a girl named Ginny.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Loren Yaconelli</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260727010300 +0000" stop="20260727014200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Who's There?</sub-title>
-    <desc lang="en">Maggie and Negan encounter native New Yorkers; Armstrong revisits a trauma; Ginny attempts to adapt to change.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Loren Yaconelli</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260727014200 +0000" stop="20260727022700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">People Are a Resource</sub-title>
-    <desc lang="en">Dark instincts reveal themselves as Maggie and Negan form a strategy; Armstrong is tested; Ginny embarks on a journey.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260727022700 +0000" stop="20260727030800 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Everybody Wins a Prize</sub-title>
-    <desc lang="en">Maggie and Negan carry out an attack, but not everything unfolds according to plan; Ginny and Armstrong make unexpected contact with others.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260727030800 +0000" stop="20260727035600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Stories We Tell Ourselves</sub-title>
-    <desc lang="en">Truths are unearthed and motives are revealed as Maggie, Negan and the others travel further into the city's depths.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Gandja Monteiro</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260727035600 +0000" stop="20260727044000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Doma Smo</sub-title>
-    <desc lang="en">Tensions between Maggie and Negan come to a head; Ginny's search continues; questions arise around Armstrong's path forward.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Gandja Monteiro</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260727044000 +0000" stop="20260727053100 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
     <sub-title lang="en">Power Equals Power</sub-title>
@@ -9503,53 +8516,800 @@
       <value>15 år</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260726043000 +0000" stop="20260726120000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Kitzbuhel-ATP Final; Estoril-ATP, Hamburg-WTA, &amp; Prague-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis highlights from recent matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260726120000 +0000" stop="20260726140000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Hamburg-WTA &amp; Prague-WTA Finals</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260730050700 +0000" stop="20260730071300 +0000">
+    <title lang="en">True History of the Kelly Gang</title>
+    <desc lang="en">An exploration of Australian bushranger Ned Kelly and his gang as they attempt to evade authorities during the 1870s.</desc>
+    <credits>
+      <actor>George MacKay</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Nicholas Hoult</actor>
+      <director>Justin Kurzel</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17760742_v_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>18</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260726140000 +0000" stop="20260726163000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Kitzbuhel-ATP, Hamburg-WTA, &amp; Prague-WTA Finals</sub-title>
-    <desc lang="en">Tennis highlights from recent matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260726163000 +0000" stop="20260726183000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Estoril-ATP Singles Final</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260730071300 +0000" stop="20260730085400 +0000">
+    <title lang="en">Black '47</title>
+    <desc lang="en">In 1847 an Irish mercenary fighting for the British army abandons his post to seek revenge on those responsible for the death of his family.</desc>
+    <credits>
+      <actor>Hugo Weaving</actor>
+      <actor>James Frecheville</actor>
+      <actor>Stephen Rea</actor>
+      <director>Lance Daly</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Historical drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15828333_v_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260726183000 +0000" stop="20260727023000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Kitzbuhel-ATP &amp; Prague-WTA Finals</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2025</date>
+  <programme channel="AMC+.us2" start="20260730085400 +0000" stop="20260730103800 +0000">
+    <title lang="en">Kill or Be Killed</title>
+    <desc lang="en">In 1900, Claude (Justin Meeks) leads his gang across Texas to recover cash from a botched train robbery.</desc>
+    <credits>
+      <actor>Justin Meeks</actor>
+      <actor>Paul McCarthy-Boyington</actor>
+      <actor>Bridger Zadina</actor>
+      <director>Duane Graves</director>
+      <director>Justin Meeks</director>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12592549_v_h10_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730103800 +0000" stop="20260730113100 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Eighteen Rectangles</sub-title>
+    <desc lang="en">Justine's actions damage her reputation further, as Longwood prepares for the biggest Grand Slam event of the year; Justine looks to repair her friendship with Renee, and help her friend reach new heights at the tournament.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730113100 +0000" stop="20260730122300 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Headspace</sub-title>
+    <desc lang="en">Steve realizes he might have made a mistake with Luisa, and attempts to put things right; Justine wonders if there might be other women out there who can help them nail Glenn, as Renee prepares for the match of a lifetime.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730122300 +0000" stop="20260730132200 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You Know the Rules</sub-title>
+    <desc lang="en">Renee has qualified for the quarter-finals of The Championships, but wants to keep her friendship; Justine must come to terms with what Glenn did to her and make a final attempt to bring him to justice.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730132200 +0000" stop="20260730141100 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You're the Fire</sub-title>
+    <desc lang="en">Teen tennis prodigy Justine Pearce's French Open success is shattered by a tragedy; five years later, her world is rocked once more when her former coach, Glenn Lapthorn, returns home having won the French with his new player.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730141100 +0000" stop="20260730150200 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">The Perfect Shot</sub-title>
+    <desc lang="en">Justine's allegation causes rifts in her closest relationships, and she must fight to control the truth of her and Glenn's past, enlisting the help of a new flame, Mikki; Glenn struggles to tell his story and prove his innocence.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730150200 +0000" stop="20260730155500 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Squeeze</sub-title>
+    <desc lang="en">As Justine spirals in the aftermath of the tribunal, she begins to obsess over an American exchange player who reminds her of her teenage self; Mikki gets closer to Glenn, who thinks a new PR manager might be just what he needs.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730155500 +0000" stop="20260730164800 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Eighteen Rectangles</sub-title>
+    <desc lang="en">Justine's actions damage her reputation further, as Longwood prepares for the biggest Grand Slam event of the year; Justine looks to repair her friendship with Renee, and help her friend reach new heights at the tournament.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730164800 +0000" stop="20260730174000 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Headspace</sub-title>
+    <desc lang="en">Steve realizes he might have made a mistake with Luisa, and attempts to put things right; Justine wonders if there might be other women out there who can help them nail Glenn, as Renee prepares for the match of a lifetime.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730174000 +0000" stop="20260730183900 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You Know the Rules</sub-title>
+    <desc lang="en">Renee has qualified for the quarter-finals of The Championships, but wants to keep her friendship; Justine must come to terms with what Glenn did to her and make a final attempt to bring him to justice.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730183900 +0000" stop="20260730192800 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You're the Fire</sub-title>
+    <desc lang="en">Teen tennis prodigy Justine Pearce's French Open success is shattered by a tragedy; five years later, her world is rocked once more when her former coach, Glenn Lapthorn, returns home having won the French with his new player.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730192800 +0000" stop="20260730201900 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">The Perfect Shot</sub-title>
+    <desc lang="en">Justine's allegation causes rifts in her closest relationships, and she must fight to control the truth of her and Glenn's past, enlisting the help of a new flame, Mikki; Glenn struggles to tell his story and prove his innocence.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730201900 +0000" stop="20260730211200 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Squeeze</sub-title>
+    <desc lang="en">As Justine spirals in the aftermath of the tribunal, she begins to obsess over an American exchange player who reminds her of her teenage self; Mikki gets closer to Glenn, who thinks a new PR manager might be just what he needs.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730211200 +0000" stop="20260730220500 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Eighteen Rectangles</sub-title>
+    <desc lang="en">Justine's actions damage her reputation further, as Longwood prepares for the biggest Grand Slam event of the year; Justine looks to repair her friendship with Renee, and help her friend reach new heights at the tournament.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730220500 +0000" stop="20260730225700 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Headspace</sub-title>
+    <desc lang="en">Steve realizes he might have made a mistake with Luisa, and attempts to put things right; Justine wonders if there might be other women out there who can help them nail Glenn, as Renee prepares for the match of a lifetime.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730225700 +0000" stop="20260730235600 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You Know the Rules</sub-title>
+    <desc lang="en">Renee has qualified for the quarter-finals of The Championships, but wants to keep her friendship; Justine must come to terms with what Glenn did to her and make a final attempt to bring him to justice.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260730235600 +0000" stop="20260731004500 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You're the Fire</sub-title>
+    <desc lang="en">Teen tennis prodigy Justine Pearce's French Open success is shattered by a tragedy; five years later, her world is rocked once more when her former coach, Glenn Lapthorn, returns home having won the French with his new player.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260731004500 +0000" stop="20260731013600 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">The Perfect Shot</sub-title>
+    <desc lang="en">Justine's allegation causes rifts in her closest relationships, and she must fight to control the truth of her and Glenn's past, enlisting the help of a new flame, Mikki; Glenn struggles to tell his story and prove his innocence.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260731013600 +0000" stop="20260731022900 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Squeeze</sub-title>
+    <desc lang="en">As Justine spirals in the aftermath of the tribunal, she begins to obsess over an American exchange player who reminds her of her teenage self; Mikki gets closer to Glenn, who thinks a new PR manager might be just what he needs.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260731022900 +0000" stop="20260731032200 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Eighteen Rectangles</sub-title>
+    <desc lang="en">Justine's actions damage her reputation further, as Longwood prepares for the biggest Grand Slam event of the year; Justine looks to repair her friendship with Renee, and help her friend reach new heights at the tournament.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260731032200 +0000" stop="20260731041400 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">Headspace</sub-title>
+    <desc lang="en">Steve realizes he might have made a mistake with Luisa, and attempts to put things right; Justine wonders if there might be other women out there who can help them nail Glenn, as Renee prepares for the match of a lifetime.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260731041400 +0000" stop="20260731051300 +0000">
+    <title lang="en">Fifteen-Love</title>
+    <sub-title lang="en">You Know the Rules</sub-title>
+    <desc lang="en">Renee has qualified for the quarter-finals of The Championships, but wants to keep her friendship; Justine must come to terms with what Glenn did to her and make a final attempt to bring him to justice.</desc>
+    <credits>
+      <actor>Ella Lily Hyland</actor>
+      <actor>Aidan Turner</actor>
+      <actor>Maria Almeida</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22740566_b_h11_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260727023000 +0000" stop="20260727100000 +0000">
     <title lang="en">Courtside - Live</title>
     <sub-title lang="en">Kitzbuhel-ATP &amp; Prague-WTA Finals</sub-title>
@@ -9697,6 +9457,58 @@
   <programme channel="Tennis.Channel.HD.us2" start="20260730020000 +0000" stop="20260730073000 +0000">
     <title lang="en">Courtside - Live</title>
     <sub-title lang="en">Los Cabos-ATP Early Rounds</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260730073000 +0000" stop="20260730100000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E69</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260730100000 +0000" stop="20260730150000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E69</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260730150000 +0000" stop="20260730230000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E80</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260730230000 +0000" stop="20260731020000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E80</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260731020000 +0000" stop="20260731073000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Los Cabos-ATP Quarterfinals</sub-title>
     <desc lang="en">Coverage of professional tennis matches.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
