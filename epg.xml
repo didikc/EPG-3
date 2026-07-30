@@ -5635,726 +5635,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260728042300 +0000" stop="20260728051200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Feisty Friendly</sub-title>
-    <desc lang="en">Maggie uncovers information; Negan attempts to outmaneuver a slippery foe.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728051200 +0000" stop="20260728060200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">The Bird Always Knows</sub-title>
-    <desc lang="en">Negan makes some big moves, while Maggie takes matters into her own hands.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728060200 +0000" stop="20260728065200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Bridge Partners Are Hard to Come By These Days</sub-title>
-    <desc lang="en">Maggie considers making an alliance, as the outcome of Negan's actions comes to a head.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Cohan</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728065200 +0000" stop="20260728074000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Novi Dan, Novi Početak</sub-title>
-    <desc lang="en">Negan and Maggie go on harrowing journeys and face unexpected challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728074000 +0000" stop="20260728082400 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">If History Were a Conflagration</sub-title>
-    <desc lang="en">Maggie makes a painful choice; Negan puts on a show.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728082400 +0000" stop="20260728091700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728091700 +0000" stop="20260728100900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260728100900 +0000" stop="20260728105300 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Actress: Award Worthy Movies</sub-title>
-    <desc lang="en">Six of the most talented actresses in Hollywood -- Annette Bening, Lily Gladstone, Greta Lee, Carey Mulligan, Margot Robbie and Emma Stone -- meet up for a conversation about the year's biggest films and creating indelible characters on screen.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Annette Bening</actor>
-      <actor>Lily Gladstone</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728105300 +0000" stop="20260728113700 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Director: Award Worthy Movies</sub-title>
-    <desc lang="en">Directing a blockbuster movie takes skill, stamina and vision; directors Blitz Bazawule, Bradley Cooper, Ava DuVernay, Greta Gerwig, Todd Haynes and Michael Mann share secrets of the art of moviemaking.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Blitz Bazawule</actor>
-      <actor>Bradley Cooper</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728113700 +0000" stop="20260728122100 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Actor: Award Worthy Movies</sub-title>
-    <desc lang="en">Acclaimed actors Colman Domingo, Robert Downey Jr., Paul Giamatti, Mark Ruffalo, Andrew Scott and Jeffrey Wright on their first big breaks, the person they'd most want to work with, and what they'd be doing if they weren't actors.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Robert Downey</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728122100 +0000" stop="20260728130400 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Producer: Award Worthy Movies</sub-title>
-    <desc lang="en">Six top film producers -- Tom Ackerley, Ed Guiney, Natalie Portman, Scott Sanders, Christine Vachon and George C. Wolfe -- share behind-the-scenes stories of how movies get made and what it takes to get audiences into theaters.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Tom Ackerley</actor>
-      <actor>Ed Guiney</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728130400 +0000" stop="20260728134700 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Comedy Actress: Award Worthy Television</sub-title>
-    <desc lang="en">Six comedy actresses tell stories from set: Quinta Brunson, Michelle Buteau, Renee Elise Goldsberry, Ego Nwodim, Maya Rudolph, Kristen Wiig.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Quinta Brunson</actor>
-      <actor>Michelle Buteau</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728134700 +0000" stop="20260728143100 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Drama Actress: Award Worthy Television</sub-title>
-    <desc lang="en">Jennifer Aniston, Jodie Foster, Brie Larson, Nicole Kidman, Anna Sawai, Sofia Vergara, Naomi Watts talk about their roles in this year's biggest dramas.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Jennifer Aniston</actor>
-      <actor>Jodie Foster</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728143100 +0000" stop="20260728151500 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Drama Actor: Award Worthy Television</sub-title>
-    <desc lang="en">Matt Bomer, Nicholas Galitzine, Jon Hamm, Clive Owen, David Oyelowo, Callum Turner cover it all from characters to pierced prosthetic nipples.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Matt Bomer</actor>
-      <actor>Nicholas Galitzine</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728151500 +0000" stop="20260728155900 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Comedy Actor: Award Worthy Television</sub-title>
-    <desc lang="en">Funny guys John Goodman, Kelsey Grammer, Theo James, Anthony Mackie, Ricky Martin, Bowen Yang share a few laughs and some behind the scenes stories.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>John Goodman</actor>
-      <actor>Kelsey Grammer</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728155900 +0000" stop="20260728164300 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Stand-Up: Award Worthy Television</sub-title>
-    <desc lang="en">Six comedians: Mike Birbiglia, Alex Edelman, Jacqueline Novak, Jenny Slate, Taylor Tomlinson, Ramy Youssef on what's funny today.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Mike Birbiglia</actor>
-      <actor>Alex Edelman</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728164300 +0000" stop="20260728172700 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Songwriter: Award Worthy Movies</sub-title>
-    <desc lang="en">Songwriters Jon Batiste, Billie Eilish, Cynthia Erivo, Dua Lipa, Julia Michaels and Olivia Rodrigo share stories and secrets about how to make a hit song for a movie, sources of inspiration, and their go-to karaoke bangers.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Jon Batiste</actor>
-      <actor>Billie Eilish</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728172700 +0000" stop="20260728181100 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Actress: Award Worthy Movies</sub-title>
-    <desc lang="en">Six of the most talented actresses in Hollywood -- Annette Bening, Lily Gladstone, Greta Lee, Carey Mulligan, Margot Robbie and Emma Stone -- meet up for a conversation about the year's biggest films and creating indelible characters on screen.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Annette Bening</actor>
-      <actor>Lily Gladstone</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728181100 +0000" stop="20260728185500 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Director: Award Worthy Movies</sub-title>
-    <desc lang="en">Directing a blockbuster movie takes skill, stamina and vision; directors Blitz Bazawule, Bradley Cooper, Ava DuVernay, Greta Gerwig, Todd Haynes and Michael Mann share secrets of the art of moviemaking.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Blitz Bazawule</actor>
-      <actor>Bradley Cooper</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728185500 +0000" stop="20260728193900 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Actor: Award Worthy Movies</sub-title>
-    <desc lang="en">Acclaimed actors Colman Domingo, Robert Downey Jr., Paul Giamatti, Mark Ruffalo, Andrew Scott and Jeffrey Wright on their first big breaks, the person they'd most want to work with, and what they'd be doing if they weren't actors.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Robert Downey</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728193900 +0000" stop="20260728202200 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Producer: Award Worthy Movies</sub-title>
-    <desc lang="en">Six top film producers -- Tom Ackerley, Ed Guiney, Natalie Portman, Scott Sanders, Christine Vachon and George C. Wolfe -- share behind-the-scenes stories of how movies get made and what it takes to get audiences into theaters.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Tom Ackerley</actor>
-      <actor>Ed Guiney</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728202200 +0000" stop="20260728210500 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Comedy Actress: Award Worthy Television</sub-title>
-    <desc lang="en">Six comedy actresses tell stories from set: Quinta Brunson, Michelle Buteau, Renee Elise Goldsberry, Ego Nwodim, Maya Rudolph, Kristen Wiig.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Quinta Brunson</actor>
-      <actor>Michelle Buteau</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728210500 +0000" stop="20260728214900 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Drama Actress: Award Worthy Television</sub-title>
-    <desc lang="en">Jennifer Aniston, Jodie Foster, Brie Larson, Nicole Kidman, Anna Sawai, Sofia Vergara, Naomi Watts talk about their roles in this year's biggest dramas.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Jennifer Aniston</actor>
-      <actor>Jodie Foster</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728214900 +0000" stop="20260728223300 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Drama Actor: Award Worthy Television</sub-title>
-    <desc lang="en">Matt Bomer, Nicholas Galitzine, Jon Hamm, Clive Owen, David Oyelowo, Callum Turner cover it all from characters to pierced prosthetic nipples.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Matt Bomer</actor>
-      <actor>Nicholas Galitzine</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728223300 +0000" stop="20260728231700 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Comedy Actor: Award Worthy Television</sub-title>
-    <desc lang="en">Funny guys John Goodman, Kelsey Grammer, Theo James, Anthony Mackie, Ricky Martin, Bowen Yang share a few laughs and some behind the scenes stories.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>John Goodman</actor>
-      <actor>Kelsey Grammer</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260728231700 +0000" stop="20260729000100 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Stand-Up: Award Worthy Television</sub-title>
-    <desc lang="en">Six comedians: Mike Birbiglia, Alex Edelman, Jacqueline Novak, Jenny Slate, Taylor Tomlinson, Ramy Youssef on what's funny today.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Mike Birbiglia</actor>
-      <actor>Alex Edelman</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260729000100 +0000" stop="20260729004500 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Songwriter: Award Worthy Movies</sub-title>
-    <desc lang="en">Songwriters Jon Batiste, Billie Eilish, Cynthia Erivo, Dua Lipa, Julia Michaels and Olivia Rodrigo share stories and secrets about how to make a hit song for a movie, sources of inspiration, and their go-to karaoke bangers.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Jon Batiste</actor>
-      <actor>Billie Eilish</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260729004500 +0000" stop="20260729012900 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Actress: Award Worthy Movies</sub-title>
-    <desc lang="en">Six of the most talented actresses in Hollywood -- Annette Bening, Lily Gladstone, Greta Lee, Carey Mulligan, Margot Robbie and Emma Stone -- meet up for a conversation about the year's biggest films and creating indelible characters on screen.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Annette Bening</actor>
-      <actor>Lily Gladstone</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260729012900 +0000" stop="20260729021300 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Director: Award Worthy Movies</sub-title>
-    <desc lang="en">Directing a blockbuster movie takes skill, stamina and vision; directors Blitz Bazawule, Bradley Cooper, Ava DuVernay, Greta Gerwig, Todd Haynes and Michael Mann share secrets of the art of moviemaking.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Blitz Bazawule</actor>
-      <actor>Bradley Cooper</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260729021300 +0000" stop="20260729025700 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Actor: Award Worthy Movies</sub-title>
-    <desc lang="en">Acclaimed actors Colman Domingo, Robert Downey Jr., Paul Giamatti, Mark Ruffalo, Andrew Scott and Jeffrey Wright on their first big breaks, the person they'd most want to work with, and what they'd be doing if they weren't actors.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Robert Downey</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260729025700 +0000" stop="20260729034000 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Producer: Award Worthy Movies</sub-title>
-    <desc lang="en">Six top film producers -- Tom Ackerley, Ed Guiney, Natalie Portman, Scott Sanders, Christine Vachon and George C. Wolfe -- share behind-the-scenes stories of how movies get made and what it takes to get audiences into theaters.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Tom Ackerley</actor>
-      <actor>Ed Guiney</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260729034000 +0000" stop="20260729042300 +0000">
-    <title lang="en">Off Script With The Hollywood Reporter</title>
-    <sub-title lang="en">Comedy Actress: Award Worthy Television</sub-title>
-    <desc lang="en">Six comedy actresses tell stories from set: Quinta Brunson, Michelle Buteau, Renee Elise Goldsberry, Ego Nwodim, Maya Rudolph, Kristen Wiig.</desc>
-    <credits>
-      <actor>Yvonne Orji</actor>
-      <actor>Quinta Brunson</actor>
-      <actor>Michelle Buteau</actor>
-      <director>David Rowe</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26109465_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260729042300 +0000" stop="20260729050700 +0000">
     <title lang="en">Off Script With The Hollywood Reporter</title>
     <sub-title lang="en">Drama Actress: Award Worthy Television</sub-title>
@@ -8253,57 +7545,879 @@
       <value>-12</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260728020000 +0000" stop="20260728073000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Los Cabos-ATP Early Rounds</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260801050700 +0000" stop="20260801064800 +0000">
+    <title lang="en">No Man of God</title>
+    <desc lang="en">Sentenced to death by electrocution, serial killer Ted Bundy develops a strange and complicated relationship with FBI agent Bill Hagmaier while detailing his heinous crimes.</desc>
+    <credits>
+      <actor>Elijah Wood</actor>
+      <actor>Luke Kirby</actor>
+      <actor>Aleksa Palladino</actor>
+      <director>Amber Sealey</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19959655_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260728073000 +0000" stop="20260728100000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E67</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260728100000 +0000" stop="20260728150000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E67</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260728150000 +0000" stop="20260728230000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E78</episode-num>
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260801064800 +0000" stop="20260801081900 +0000">
+    <title lang="en">Sympathy for the Devil</title>
+    <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Kaiwi Lyman</actor>
+      <director>Yuval Adler</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24534318_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260728230000 +0000" stop="20260729020000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Washington D.C. - ATP/WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260801081900 +0000" stop="20260801095700 +0000">
+    <title lang="en">Taurus</title>
+    <desc lang="en">A rising but troubled musician searches for the inspiration to record his next song, pushing himself deep into the void.</desc>
+    <credits>
+      <actor>Colson Baker</actor>
+      <actor>Maddie Hasson</actor>
+      <actor>Demetrius "Lil Meech" Flenory</actor>
+      <director>Tim Sutton</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <category lang="en">Rock</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23069817_v_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801095700 +0000" stop="20260801105100 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">New York</sub-title>
+    <desc lang="en">The band records their album, as Lestat revisits his musical origins and pushes them all to new extremes; Louis comes clean about his guilty pleasure; Molloy gets a gift from the last person he expected.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E78</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801105100 +0000" stop="20260801112600 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After New York</sub-title>
+    <desc lang="en">Guests discuss Episode 5 of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801112600 +0000" stop="20260801122000 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Montreal</sub-title>
+    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801122000 +0000" stop="20260801124800 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Montreal</sub-title>
+    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801124800 +0000" stop="20260801134300 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">The Failures</sub-title>
+    <desc lang="en">The night of the band's final show, factions become clear when Lestat is the surprise guest of honor at a fancy dinner party where he must confront past and present demons.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801134300 +0000" stop="20260801141700 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After the Failures</sub-title>
+    <desc lang="en">Guests discuss the Season Finale of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801141700 +0000" stop="20260801150500 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Detroit</sub-title>
+    <desc lang="en">Lestat reflects on the events leading to his tour, including the formation of his band and the publication of a certain book, while experiencing a disquieting, drug-fueled spiritual trip and going head-to-head with a resentful coven.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Eric Bogosian</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801150500 +0000" stop="20260801153100 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Detroit</sub-title>
+    <desc lang="en">Guests discuss Episode 1 of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801153100 +0000" stop="20260801161800 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Toledo</sub-title>
+    <desc lang="en">Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801161800 +0000" stop="20260801165200 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Toledo</sub-title>
+    <desc lang="en">Guests discuss Episode 2 of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801165200 +0000" stop="20260801174500 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Toronto</sub-title>
+    <desc lang="en">Molloy finally lands an unsurprisingly difficult Lestat in the hot seat, probing him about his time as a Parisian actor, relationship with a childhood friend and transformation; Louis tends to some long-unfinished business in Detroit.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801174500 +0000" stop="20260801181600 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Toronto</sub-title>
+    <desc lang="en">Guests discuss Episode 3 of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801181600 +0000" stop="20260801190900 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">The Devil's Road</sub-title>
+    <desc lang="en">Armand goes on an apology tour; Lestat is triggered and lashes out as only he can, publicly embarrassing a personally invited concert attendee with a shoutout; Louis seeks comfort in a familiar face.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801190900 +0000" stop="20260801193600 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Devil's Road</sub-title>
+    <desc lang="en">Guests discuss Episode 4 of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801193600 +0000" stop="20260801203000 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">New York</sub-title>
+    <desc lang="en">The band records their album, as Lestat revisits his musical origins and pushes them all to new extremes; Louis comes clean about his guilty pleasure; Molloy gets a gift from the last person he expected.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801203000 +0000" stop="20260801210500 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After New York</sub-title>
+    <desc lang="en">Guests discuss Episode 5 of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801210500 +0000" stop="20260801215900 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Montreal</sub-title>
+    <desc lang="en">The newly released "The Vampire Lestat" album makes the charts; Lestat and Louis debate whether to meet an old neighbor with potential to reveal some painful truths; Louis learns Lestat's biggest secret and is less than understanding.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801215900 +0000" stop="20260801222700 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Montreal</sub-title>
+    <desc lang="en">Guests discuss Episode 6 of "The Vampire Lestat.".</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801222700 +0000" stop="20260801232200 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">The Failures</sub-title>
+    <desc lang="en">The night of the band's final show, factions become clear when Lestat is the surprise guest of honor at a fancy dinner party where he must confront past and present demons.</desc>
+    <credits>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <actor>Delainey Hayles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32048312_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801232200 +0000" stop="20260801235600 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After the Failures</sub-title>
+    <desc lang="en">Guests discuss the Season Finale of The Vampire Lestat.</desc>
+    <credits>
+      <actor>Lizzie Bassett</actor>
+      <actor>Sam Reid</actor>
+      <actor>Jacob Anderson</actor>
+      <director>Joe Randazzo</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33018649_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260801235600 +0000" stop="20260802004900 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Trillium</sub-title>
+    <desc lang="en">Maggie and Negan are back.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260802004900 +0000" stop="20260802014200 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Trillium</sub-title>
+    <desc lang="en">Maggie and Negan are back.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260802014200 +0000" stop="20260802023300 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Power Equals Power</sub-title>
+    <desc lang="en">In the war for control of Manhattan, Maggie and Negan find themselves trapped on opposite sides of the war.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260802023300 +0000" stop="20260802031700 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Another S... Lesson</sub-title>
+    <desc lang="en">Maggie begins a journey back to the island; Negan joins the fight.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Michael E. Satrazemis</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260802031700 +0000" stop="20260802040700 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Why Did the Mainlanders Cross the River?</sub-title>
+    <desc lang="en">Negan tries something new with The Croat; Maggie travels into a dangerous, surprising place.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260802040700 +0000" stop="20260802045600 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Feisty Friendly</sub-title>
+    <desc lang="en">Maggie uncovers information; Negan attempts to outmaneuver a slippery foe.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260802045600 +0000" stop="20260802054600 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">The Bird Always Knows</sub-title>
+    <desc lang="en">Negan makes some big moves, while Maggie takes matters into her own hands.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260729020000 +0000" stop="20260729073000 +0000">
     <title lang="en">Courtside - Live</title>
@@ -8464,6 +8578,73 @@
   <programme channel="Tennis.Channel.HD.us2" start="20260801030000 +0000" stop="20260801063000 +0000">
     <title lang="en">Courtside - Live</title>
     <sub-title lang="en">Los Cabos-ATP Semifinals</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260801063000 +0000" stop="20260801100000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E72</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260801100000 +0000" stop="20260801160000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E72</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260801160000 +0000" stop="20260802000000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Semifinals; WTA Doubles Final</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E82</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260802000000 +0000" stop="20260802023000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Washington D.C. - ATP/WTA Semifinals; WTA Doubles Final</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E82</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260802023000 +0000" stop="20260802030000 +0000">
+    <title lang="en">ATP Tour This Week</title>
+    <date>2025</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29449278_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260802030000 +0000" stop="20260802050000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Los Cabos-ATP Singles Final</sub-title>
     <desc lang="en">Coverage of professional tennis matches.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
