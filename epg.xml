@@ -9,53 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260730001500 +0000" stop="20260730005500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">FastZone 2026</title>
-    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260730005500 +0000" stop="20260730012500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">On Tour</title>
-    <sub-title lang="de">Stockcar Rennen Herzefelde</sub-title>
-    <desc lang="de">Crashen oder gecrasht werden, dass ist beim Stockcar Rennen in Herzfelde die große Frage! Um seine Konkurrenten aus dem Rennen zu katapultieren, bedarf es wenig. Man nehme ein schrottreifes Fahrzeug, entferne Glasscheiben, Kleinteile, Rücksitzbank und Beifahrersitz. Airbags sind unerwünscht. Sturzhelm, Sicherheitsgurt und Überrollbügel reichen hier vollkommen aus. (Senderinfo).</desc>
-    <date>2011</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20260730012500 +0000" stop="20260730015000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">SUV – Auf der Überholspur</sub-title>
-    <desc lang="de">Sie machen keinen Platz auf der Überholspur: Sportliche Geländewagen. Vom Mini-SUV bis zum Luxus-Geländewagen, der Boom flacht nicht ab. In Perfect Ride gehen wir dem Ganzen auf den Grund. (Senderinfo).</desc>
-    <date>2013</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/80/90/2f/6a0c3f8d8e74f1576c2f9080.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E16</episode-num>
-  </programme>
-  <programme start="20260730015000 +0000" stop="20260730021500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Rückspiegel</title>
-    <sub-title lang="de">Schwimmwagen-Treffen</sub-title>
-    <desc lang="de">Ein Boot mit vier Räder: ein Schwimmwagen! Es gibt immer noch einige Exemplare davon und wir haben die schönsten für Sie gefunden! (Senderinfo).</desc>
-    <date>2009</date>
-    <category lang="de">Reportage</category>
-    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260730021500 +0000" stop="20260730024500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Tuning – Tiefer geht's nicht!</title>
-    <sub-title lang="de">Car and Sound Messe</sub-title>
-    <desc lang="de">Eine schöne Frau und ein Autoradio ist für diese Veranstaltung zu wenig. Leistung und Druck sind es die in Sinsheim zählen. Nur hier auf der Car and Sound Messe wird der Pegelton zum Erlebnis. (Senderinfo).</desc>
-    <date>2010</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E39</episode-num>
-  </programme>
   <programme start="20260730024500 +0000" stop="20260730031500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Stunt Heroes</title>
     <sub-title lang="de">Das Action-Special</sub-title>
@@ -1259,6 +1212,138 @@
     <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
     <country lang="de">D</country>
     <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20260802031500 +0000" stop="20260802033500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">333 Minuten Rallye 2025</sub-title>
+    <desc lang="de">Die Rallyes von Pascal Kapp sind anders als alle anderen Oldtimer-Rallyes. Dazu gehören die Oberbayerische Meister Classic, die Sächsische Meister Classic, die 10-Seen-Rallye und nicht zuletzt die Eintagesrallye 333 Minuten Rallye, die – wie der Name schon sagt – in genau 333 Minuten gefahren werden muss. Ein Tag voller Fahrspaß für die Teilnehmer mit den unterschiedlichsten Sonderprüfungen garantiert auch in dieser Folge beste Unterhaltung für die Top-Speed-Zuschauer. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20260802033500 +0000" stop="20260802040000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Super Cars</title>
+    <sub-title lang="de">Mansory Conquistador</sub-title>
+    <desc lang="de">Edeltuning der Superlative – der Mansory Conquistador. Ein Auto für 750.000 Euro. Pure Kraft und keine Spur von Understatement. Mit dem Mercedes CLK DTM AMG wird die Straße zur Rennstrecke. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20260802040000 +0000" stop="20260802045500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20260802045500 +0000" stop="20260802055000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Indianapolis 500, Indianapolis Motor Speedway, Indiana</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260802055000 +0000" stop="20260802064500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Chevrolet Detroit GP, Streets of Detroit, Michigan</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20260802064500 +0000" stop="20260802081500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM X-Trial World Championship 2026</title>
+    <sub-title lang="de">Grand Prix of Andorra, Andorra</sub-title>
+    <desc lang="de">Die Fédération Internationale de Motocyclisme organisiert seit 1993 jährlich die X-Trial World Championship. Die X-Trail-Wettkämpfe finden, im Gegensatz zur Outdoor-Disziplin, in der Halle statt. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260802081500 +0000" stop="20260802091000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NZ Speedway Championship 2026</title>
+    <sub-title lang="de">Sprintcar 50 Lapper</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NZ</country>
+  </programme>
+  <programme start="20260802091000 +0000" stop="20260802095500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">British GT Championship 2026</title>
+    <sub-title lang="de">Silverstone 500, Round 1</sub-title>
+    <date>2026</date>
+    <category lang="de">Autosport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260802095500 +0000" stop="20260802123000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Borchetta Bourbon Music City GP, Nashville Superspeedway, Tennessee</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20260802123000 +0000" stop="20260802153000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Indianapolis 500, Indianapolis Motor Speedway, Indiana 1</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20260802153000 +0000" stop="20260802184000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA WeatherTech SportsCar Championship 2026</title>
+    <sub-title lang="de">LIVE Sportscar Weekend, Road America</sub-title>
+    <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260802184000 +0000" stop="20260802201000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20260802201000 +0000" stop="20260802212000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Good Ranchers 250, Phoenix Raceway, Arizona</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20260802212000 +0000" stop="20260802225500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
+    <sub-title lang="de">Java House Grand Prix of Arlington, Streets of Arlington, Texas</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260802225500 +0000" stop="20260803013500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E32</episode-num>
   </programme>
   <programme start="20260730001500 +0000" stop="20260730005500 +0000" channel="Motorvision+.de">
     <title lang="de">FastZone 2026</title>
