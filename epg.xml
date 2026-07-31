@@ -9,54 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260731001500 +0000" stop="20260731005000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">FastZone 2026</title>
-    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
-    <date>2026</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260731005000 +0000" stop="20260731011500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">On Tour</title>
-    <sub-title lang="de">Night of the Jumps</sub-title>
-    <desc lang="de">Miriam Höller besucht für Motorvision TV heiße Events und coole Challenges der Motorwelt. In der ersten Episode berichtet sie von der "Night of the Jumps" in der Münchner Olympiahalle. Das Event ist Teil der Night of the Jumps Tour, der offiziellen FIM-WM im Motocross. (Senderinfo).</desc>
-    <date>2011</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260731011500 +0000" stop="20260731015000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Freiluft Fahren</sub-title>
-    <desc lang="de">Eines der Topthemen in dieser Episode Perfect Ride: Oben-Ohne-Modelle. Mit ihnen beginnt jedes Abenteuer mit einem Prickeln: Spyder, Speedster, Roadster – Kurz: Cabriolets. Freies Fahr- und Lebensgefühl in allen Variationen (Senderinfo).</desc>
-    <date>2013</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E17</episode-num>
-  </programme>
-  <programme start="20260731015000 +0000" stop="20260731021500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Rückspiegel</title>
-    <sub-title lang="de">Ferrari 550 Maranello</sub-title>
-    <desc lang="de">Die Höhepunkte aus allen Epochen der Automobilgeschichte: Als die brandneue Mercedes A-Klasse im Elchtest umfiel, als Stirling Moss die Mille Miglia in Rekordzeit gewann, als Ferdinand Porsche 1900 mit einem Elektrowagen die Weltöffentlichkeit verblüffte. Spannende Bilder zeigen dem Zuschauer, was wirklich geschah. Zeitzeugen berichten von ihren Erlebnissen. 1997 feierte Ferrari den 50. Firmen-Geburtstag. Wolfgang Rother ging damals dem Ferrari-Mythos nach und sammelte erste Fahreindrücke mit dem Ferrari 550 Maranello. (Senderinfo).</desc>
-    <date>2009</date>
-    <category lang="de">Reportage</category>
-    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20260731021500 +0000" stop="20260731024500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Tuning – Tiefer geht's nicht!</title>
-    <sub-title lang="de">Cult Society</sub-title>
-    <desc lang="de">Edeltuner und Werkstuner: Immer mehr PS, immer besserer Sound, immer tiefere Fahrwerke, es gibt keine Limits. Das edelste, was Tuning zu bieten hat. Tipps und Tricks rund ums Tiefer- legen, Reparieren und Aufmotzen. (Senderinfo).</desc>
-    <date>2010</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E40</episode-num>
-  </programme>
   <programme start="20260731024500 +0000" stop="20260731031500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Stunt Heroes</title>
     <sub-title lang="de">Car-Action Highlights</sub-title>
@@ -483,7 +435,7 @@
     <country lang="de">NL</country>
     <episode-num system="onscreen">E184</episode-num>
   </programme>
-  <programme start="20260801034000 +0000" stop="20260801040500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801034000 +0000" stop="20260801040000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Super Cars</title>
     <sub-title lang="de">Mobilität von \"Morgan\"</sub-title>
     <desc lang="de">Er ist die Vision einer elektrischen Zukunft von AMG: Der Concept AMG GT XX leistet unfassbare 1360 PS und lädt schneller als man Reichweitenangst sagen kann. Wir waren bei der spektakulären Weltpremiere dabei. Und: Dieser Renner sieht aus wie aus einem Retro-Film entsprungen ist aber das brandneue Topmodell von Morgan. Wir verraten fünf spannende Fakten zu diesem britischen Kunstwerk. (Senderinfo).</desc>
@@ -493,7 +445,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E232</episode-num>
   </programme>
-  <programme start="20260801040500 +0000" stop="20260801043000 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801040000 +0000" stop="20260801042000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Biker Lifestyle</title>
     <sub-title lang="de">Kreta 2024,</sub-title>
     <desc lang="de">Teneriffa ist nicht nur ein Paradies für Rentner und Winterflüchtige. Die Insel lockt auch Abenteurer an, die mit ihren Motorrädern eine atemberaubende Landschaft auf kurvenreichen Straßen erkunden wollen. Die einzigartige Naturkulisse mit dem allgegenwärtigen, 3715m hohen Teide, üppigen Wäldern und tiefblauen Ozeanen hat auch M-Motorradreisen nun schon zum zweiten Mal mit in seinem Programm. Diese Reisedokumentation zeigt die schönsten Touren auf den beiden Kanareninseln. (Senderinfo).</desc>
@@ -503,7 +455,15 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E270</episode-num>
   </programme>
-  <programme start="20260801043000 +0000" stop="20260801045500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801042000 +0000" stop="20260801043500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260801043500 +0000" stop="20260801045500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Grüne Welle</title>
     <sub-title lang="de">Schweden-Roadtrip mit dem VW ID.7 Tour</sub-title>
     <desc lang="de">Lange Strecken und Elektroautos die waren bisher keine Freunde. Doch das soll sich ändern zum Beispiel mit diesem Fahrzeug: Der VW ID.7 bietet in der Pro S-Version ca. 700 km Reichweite und als Tourer auch reichlich Platz der perfekte Begleiter für einen Roadtrip. Wir fahren mit dem Elektro-Kombi durch Schweden und checken Verbrauch, Fahreigenschaften und Komfort. (Senderinfo).</desc>
@@ -588,16 +548,16 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">USA</country>
   </programme>
-  <programme start="20260801114500 +0000" stop="20260801121000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">FIM Supermoto World and European Championship 2026</title>
+  <programme start="20260801114500 +0000" stop="20260801121500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Supermoto: FIM Supermoto World and European Championship</title>
     <sub-title lang="de">GP Sardinia, Tramatza, Italy</sub-title>
     <date>2026</date>
     <category lang="de">Motorradsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">F</country>
   </programme>
-  <programme start="20260801121000 +0000" stop="20260801124000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">FIM Enduro World Championship 2026</title>
+  <programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Motorradsport: FIM Enduro World Championship</title>
     <sub-title lang="de">Grand Prix of Spain, Oliana</sub-title>
     <desc lang="de">In der Sendung werden besten Enduro-Piloten der Welt bei ihren Wettkämpfen rund um den Erdball begleitet. (Senderinfo).</desc>
     <date>2026</date>
@@ -605,9 +565,9 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">P</country>
   </programme>
-  <programme start="20260801124000 +0000" stop="20260801133000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">King of the Roads 2024</title>
-    <sub-title lang="de">Southern 100</sub-title>
+  <programme start="20260801124500 +0000" stop="20260801133500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Southern 100</title>
+    <sub-title lang="de">Southern 100 (2)</sub-title>
     <desc lang="de">Kind of the Roads ist eine Straßenrennserie für Motorräder, bei der die Fahrer Geschwindigkeiten von bis zu 200 mp/h erreichen (Senderinfo).</desc>
     <date>2024</date>
     <category lang="de">Motorradsport</category>
@@ -615,8 +575,8 @@
     <country lang="de">GB</country>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20260801133000 +0000" stop="20260801135500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Icelandic Formula Offroad 2025</title>
+  <programme start="20260801133500 +0000" stop="20260801140000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Icelandic Formula Off-Road</title>
     <sub-title lang="de">Norway World Cup, Blonduos</sub-title>
     <desc lang="de">Formula Off Road wurde in Island erfunden. In der Hoffnung, mehr Geld für die isländischen Rettungsteams einzubringen, begannen die Teams, ihre 4WD-Autos in den isländischen Hügeln in Aktion zu zeigen. (Senderinfo).</desc>
     <date>2025</date>
@@ -624,8 +584,8 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">Isl.</country>
   </programme>
-  <programme start="20260801135500 +0000" stop="20260801142500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Monster Jam Championship 2025</title>
+  <programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">San Francisco, California</title>
     <sub-title lang="de">San Francisco, California</sub-title>
     <desc lang="de">Seit 1992 wird in jedem Jahr eine Wettkampfserie ausgetragen, an deren Ende die Monster Jam World Finals in Las Vegas stehen. Es gibt Racing- und Freestyle-Wettbewerbe für Monster Trucks. (Senderinfo).</desc>
     <date>2025</date>
@@ -650,24 +610,24 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">F</country>
   </programme>
-  <programme start="20260801151500 +0000" stop="20260801154000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">EMX Quad European Championship 2025</title>
-    <sub-title lang="de">Madona, Latvia</sub-title>
+  <programme start="20260801151500 +0000" stop="20260801154500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Quad: EMX Quad European Championship</title>
+    <sub-title lang="de">Madona, Litauen</sub-title>
     <date>2025</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
   </programme>
-  <programme start="20260801154000 +0000" stop="20260801163000 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801154500 +0000" stop="20260801163500 +0000" channel="Motorvision.TV.de">
     <title lang="de">UK National Legends Cars Championship 2024</title>
-    <sub-title lang="de">Donington Park, Round 1 &amp; 2</sub-title>
+    <sub-title lang="de">Donington Park, Runde 7</sub-title>
     <date>2024</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
   </programme>
-  <programme start="20260801163000 +0000" stop="20260801172000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">EMX Quad European Championship 2025</title>
-    <sub-title lang="de">Nepomuk, Czeck Republic</sub-title>
+  <programme start="20260801163500 +0000" stop="20260801172000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Quad: EMX Quad European Championship</title>
+    <sub-title lang="de">Nepomuk, Czech Republic</sub-title>
     <date>2025</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
@@ -687,15 +647,15 @@
     <category lang="de">Rallye</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
   </programme>
-  <programme start="20260801184000 +0000" stop="20260801190500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801184000 +0000" stop="20260801191000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Rallye: Tour European Rally</title>
     <sub-title lang="de">Rallye du Chablais, Schweiz</sub-title>
     <date>2026</date>
     <category lang="de">Rallye</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
   </programme>
-  <programme start="20260801190500 +0000" stop="20260801193000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Belgian Rally Championship 2026</title>
+  <programme start="20260801191000 +0000" stop="20260801193500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rallye: Belgische Meisterschaft</title>
     <sub-title lang="de">Sezoensrally</sub-title>
     <desc lang="de">Die Belgian Rally Championship ist eine der am härtesten umkämpften Rally-Meisterschaften auf nationaler Ebene. Das lockt auch prominente Gaststarter an wie Thierry Neuville, Craig Breen und Stéphane Lefebvre. (Senderinfo).</desc>
     <date>2026</date>
@@ -703,24 +663,24 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">B</country>
   </programme>
-  <programme start="20260801193000 +0000" stop="20260801202000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">British Rally Championship 2025</title>
+  <programme start="20260801193500 +0000" stop="20260801202500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rallye: Britische Meisterschaft</title>
     <sub-title lang="de">Rali Ceredigion, Aberystwyth</sub-title>
     <date>2025</date>
     <category lang="de">Rallye</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
   </programme>
-  <programme start="20260801202000 +0000" stop="20260801210500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">NZ Rally Championship 2025</title>
+  <programme start="20260801202500 +0000" stop="20260801211500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rallye: NZ Rally Championship</title>
     <sub-title lang="de">Round 6, International Rally of Whangarei</sub-title>
     <date>2025</date>
     <category lang="de">Rallye</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">NZ</country>
   </programme>
-  <programme start="20260801210500 +0000" stop="20260801213500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Belgian Rallycross Championship 2025</title>
+  <programme start="20260801211500 +0000" stop="20260801214000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Rallycross: Belgische Meisterschaft</title>
     <sub-title lang="de">Round 1 &amp; 2 &amp; 3</sub-title>
     <desc lang="de">Ein Filmteam zeigt die Highlights der belgischen Rallycross-Meisterschaften. Rasante Kopf-an-Kopf-Rennen der Teilnehmer auf gemischten Oberflächen begeistern die Rallycross-Fans aus aller Welt. (Senderinfo).</desc>
     <date>2025</date>
@@ -728,8 +688,8 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">B</country>
   </programme>
-  <programme start="20260801213500 +0000" stop="20260801223000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">World Rally Raid Championship 2026</title>
+  <programme start="20260801214000 +0000" stop="20260801223500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Ultimate Rally Raid Portugal</title>
     <sub-title lang="de">Ultimate Rally Raid Portugal</sub-title>
     <date>2026</date>
     <category lang="de">Rallye</category>
@@ -737,7 +697,7 @@
     <country lang="de">F</country>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20260801223000 +0000" stop="20260801232500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801223500 +0000" stop="20260801232500 +0000" channel="Motorvision.TV.de">
     <title lang="de">IndyNXT 2026</title>
     <sub-title lang="de">Indianapolis 2</sub-title>
     <category lang="de">Programm nach Ansage</category>
@@ -745,7 +705,7 @@
     <country lang="de">USA</country>
     <episode-num system="onscreen">E23</episode-num>
   </programme>
-  <programme start="20260801232500 +0000" stop="20260802001500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260801232500 +0000" stop="20260802001000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Road Wars Staffel 6</title>
     <desc lang="de">Drogenkriminalität, Hausdurchsuchungen, Verfolgungsjagden: Roadwars begleitet eine Spezialeinheit der britischen Polizei. Zusammen mit der Hundestaffel sagen sie den Langfingern im Thamse Vally den Kampf an. (Senderinfo).</desc>
     <date>2019</date>
@@ -753,7 +713,7 @@
     <icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg" />
     <country lang="de">GB</country>
   </programme>
-  <programme start="20260802001500 +0000" stop="20260802004000 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802001000 +0000" stop="20260802003500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Car History</title>
     <sub-title lang="de">Porsche Le Mans</sub-title>
     <desc lang="de">Le Mans. Das härteste Autorennen der Welt. Seit 1951 startet Porsche jedes Jahr bei den 24 Stunden-Klassiker. 16 mal gewinnen die Prototypen aus Zuffenhausen – öfters als jeder andere Hersteller in der Le Mans Geschichte. Dazu kommen über 100 Klassensiege. Keine andere Marke hat das Rennen so geprägt wie Porsche. Und kein anderes Rennen wird mit Porsche so sehr in Verbindung gebracht wie Le Mans. Porsche in Le Mans, das ist eine unglaubliche Erfolgsgeschichte. (Senderinfo).</desc>
@@ -766,7 +726,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E39</episode-num>
   </programme>
-  <programme start="20260802004000 +0000" stop="20260802010500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802003500 +0000" stop="20260802010000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Nordschleife</title>
     <sub-title lang="de">Touristen in der Grünen Hölle 6</sub-title>
     <desc lang="de">Heute beginnen wir mit unseren Nordschleifen-Touristen, die – kaum ist die Strecke etwas trockener – wieder am Ring auftauchen und ihrem liebsten Hobby nachgehen: Gas geben und die Reifen qualmen lassen! (Senderinfo).</desc>
@@ -776,7 +736,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20260802010500 +0000" stop="20260802013000 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802010000 +0000" stop="20260802012500 +0000" channel="Motorvision.TV.de">
     <title lang="de">On Tour</title>
     <sub-title lang="de">BMW M1 Treffen</sub-title>
     <desc lang="de">BMW M1 die legendären Fahrzeuge der Procarserie gehen in Salzburg erstmals wieder allesamt an den Start. (Senderinfo).</desc>
@@ -786,7 +746,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20260802013000 +0000" stop="20260802015500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802012500 +0000" stop="20260802015000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Perfect Ride</title>
     <sub-title lang="de">PS-Schleuder</sub-title>
     <desc lang="de">Bei Perfect Ride werden die PS geschleudert. Bei Armin Schwarz in Finnland glühen die Reifen auf Ice und Schnee. Driften bis die Schneewacht kommt. Außerdem: Ein extravagantes Duell auf der CES in Vegas: Mercedes, der Krieger der Sterne versus Audi, Herr der Ringe. Die neuesten Technikwunder im direkten Vergleich. (Senderinfo).</desc>
@@ -796,7 +756,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20260802015500 +0000" stop="20260802022000 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802015000 +0000" stop="20260802021500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Rückspiegel</title>
     <sub-title lang="de">Wartburg 313</sub-title>
     <desc lang="de">Die Höhepunkte aus allen Epochen der Automobilgeschichte: Als die brandneue Mercedes A-Klasse im Elchtest umfiel, als Stirling Moss die Mille Miglia in Rekordzeit gewann, als Ferdinand Porsche 1900 mit einem Elektrowagen die Weltöffentlichkeit verblüffte. Spannende Bilder zeigen dem Zuschauer, was wirklich geschah. Zeitzeugen berichten von ihren Erlebnissen. Ein halbes Jahrhundert Ferrari. Rückspiegel geht dem Mythos Ferrari auf den Grund und nimmt die roten Renner aus Maranello unter die Lupe. (Senderinfo).</desc>
@@ -806,7 +766,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20260802022000 +0000" stop="20260802024500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802021500 +0000" stop="20260802024500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Tuning – Tiefer geht's nicht!</title>
     <sub-title lang="de">Lowrider, die Zweite</sub-title>
     <desc lang="de">Edeltuner und Werkstuner: Immer mehr PS, immer besserer Sound, immer tiefere Fahrwerke, es gibt keine Limits. Das edelste, was Tuning zu bieten hat. Tipps und Tricks rund ums Tiefer- legen, Reparieren und Aufmotzen. (Senderinfo).</desc>
@@ -816,7 +776,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E37</episode-num>
   </programme>
-  <programme start="20260802024500 +0000" stop="20260802031500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802024500 +0000" stop="20260802031000 +0000" channel="Motorvision.TV.de">
     <title lang="de">Stunt Heroes</title>
     <sub-title lang="de">Special – Behind the Scenes</sub-title>
     <desc lang="de">Die Stuntheroes von Action Concept sind knallharte Profis. Sie stürzen sich von Häusern, bringen Autos zum fliegen oder explodieren. Ohne den nötigen Ernst und ständiger Konzentration bei der Durchführung ihrer Arbeit geht nichts. Wir haben unseren Reporter Dean Malay zu Action Concept geschickt um die Personen, die Charaktere hinter der harten Schale kennenzulernen. Stuntkoordinator Domi zeigt Dean die Arbeitsabläufe bei Action Concept, erklärt aber auch warum Stuntman Tobi, Heidi genannt wird. (Senderinfo).</desc>
@@ -832,7 +792,7 @@
     <country lang="de">D</country>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20260802031500 +0000" stop="20260802033500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802031000 +0000" stop="20260802033500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Top Speed Classic</title>
     <sub-title lang="de">333 Minuten Rallye 2025</sub-title>
     <desc lang="de">Die Rallyes von Pascal Kapp sind anders als alle anderen Oldtimer-Rallyes. Dazu gehören die Oberbayerische Meister Classic, die Sächsische Meister Classic, die 10-Seen-Rallye und nicht zuletzt die Eintagesrallye 333 Minuten Rallye, die – wie der Name schon sagt – in genau 333 Minuten gefahren werden muss. Ein Tag voller Fahrspaß für die Teilnehmer mit den unterschiedlichsten Sonderprüfungen garantiert auch in dieser Folge beste Unterhaltung für die Top-Speed-Zuschauer. (Senderinfo).</desc>
@@ -879,8 +839,8 @@
     <country lang="de">USA</country>
     <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20260802064500 +0000" stop="20260802081500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">FIM X-Trial World Championship 2026</title>
+  <programme start="20260802064500 +0000" stop="20260802081000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM X-Trial World Championship</title>
     <sub-title lang="de">Grand Prix of Andorra, Andorra</sub-title>
     <desc lang="de">Die Fédération Internationale de Motocyclisme organisiert seit 1993 jährlich die X-Trial World Championship. Die X-Trail-Wettkämpfe finden, im Gegensatz zur Outdoor-Disziplin, in der Halle statt. (Senderinfo).</desc>
     <date>2025</date>
@@ -888,13 +848,21 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">F</country>
   </programme>
-  <programme start="20260802081500 +0000" stop="20260802091000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">NZ Speedway Championship 2026</title>
+  <programme start="20260802081000 +0000" stop="20260802090000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NZ Speedway Championship</title>
     <sub-title lang="de">Sprintcar 50 Lapper</sub-title>
     <date>2026</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">NZ</country>
+  </programme>
+  <programme start="20260802090000 +0000" stop="20260802091000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
   </programme>
   <programme start="20260802091000 +0000" stop="20260802095500 +0000" channel="Motorvision.TV.de">
     <title lang="de">British GT Championship 2026</title>
@@ -904,14 +872,21 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">GB</country>
   </programme>
-  <programme start="20260802095500 +0000" stop="20260802123000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">NTT Indycar Series 2026</title>
+  <programme start="20260802095500 +0000" stop="20260802120000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Borchetta Bourbon Music City GP, Nashville Superspeedway, Tennessee</title>
     <sub-title lang="de">Borchetta Bourbon Music City GP, Nashville Superspeedway, Tennessee</sub-title>
     <date>2026</date>
     <category lang="de">Indycar</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">USA</country>
     <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20260802120000 +0000" stop="20260802123000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Tour European Rally 2026</title>
+    <sub-title lang="de">Arctic Lapland Rallly Promo Event</sub-title>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
   </programme>
   <programme start="20260802123000 +0000" stop="20260802153000 +0000" channel="Motorvision.TV.de">
     <title lang="de">NTT Indycar Series 2026 Qualifying</title>
@@ -922,41 +897,25 @@
     <country lang="de">USA</country>
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20260802153000 +0000" stop="20260802184000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">IMSA WeatherTech SportsCar Championship 2026</title>
-    <sub-title lang="de">LIVE Sportscar Weekend, Road America</sub-title>
+  <programme start="20260802153000 +0000" stop="20260802215000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA Sportscar Championship</title>
+    <sub-title lang="de">Sportscar Weekend, Road America</sub-title>
     <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
     <date>2026</date>
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">USA</country>
   </programme>
-  <programme start="20260802184000 +0000" stop="20260802201000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana</sub-title>
+  <programme start="20260802215000 +0000" stop="20260802231500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana</title>
+    <sub-title lang="de">Qualifying, Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana</sub-title>
     <date>2026</date>
     <category lang="de">Indycar</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">USA</country>
     <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20260802201000 +0000" stop="20260802212000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Good Ranchers 250, Phoenix Raceway, Arizona</sub-title>
-    <category lang="de">Programm nach Ansage</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">USA</country>
-    <episode-num system="onscreen">E20</episode-num>
-  </programme>
-  <programme start="20260802212000 +0000" stop="20260802225500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Java House Grand Prix of Arlington, Streets of Arlington, Texas</sub-title>
-    <category lang="de">Programm nach Ansage</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">USA</country>
-    <episode-num system="onscreen">E21</episode-num>
-  </programme>
-  <programme start="20260802225500 +0000" stop="20260803013500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260802231500 +0000" stop="20260803013500 +0000" channel="Motorvision.TV.de">
     <title lang="de">NTT Indycar Series 2026</title>
     <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
     <category lang="de">Programm nach Ansage</category>
@@ -964,13 +923,329 @@
     <country lang="de">USA</country>
     <episode-num system="onscreen">E32</episode-num>
   </programme>
-  <programme start="20260803013500 +0000" stop="20260803030500 +0000" channel="Motorvision.TV.de">
+  <programme start="20260803013500 +0000" stop="20260803023000 +0000" channel="Motorvision.TV.de">
     <title lang="de">NTT Indycar Series 2026 Qualifying</title>
     <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
     <category lang="de">Programm nach Ansage</category>
     <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
     <country lang="de">USA</country>
     <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20260803023000 +0000" stop="20260803030500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic Races</title>
+    <sub-title lang="de">Africa Rallye 1959</sub-title>
+    <desc lang="de">In Algier startet 1959 eine der schwierigsten und längsten Rallies seit dem Krieg, die Afrika-Rallye. Die Route führt von Algier nach Kapstadt, 14.000 Kilometer Wüstensand, Steppe und Geröll. Am Start sind viele Rallye- und Geländeautos und auch ein Mercedes 190Diesel, ein ganz normales Serienauto, mit 50PS und Heckantrieb. Der Diesel ist nicht der schnellste, aber er hat einen großen Trumpf: Seine Zuverlässigkeit. (Senderinfo).</desc>
+    <date>2013</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E26</episode-num>
+  </programme>
+  <programme start="20260803030500 +0000" stop="20260803040000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Indianapolis 500, Indianapolis Motor Speedway, Indiana</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260803040000 +0000" stop="20260803044500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Australian Drag Racing Championship 2024</title>
+    <sub-title lang="de">Top Doorslammer Runde 1, the Bend</sub-title>
+    <desc lang="de">Die "Australian Drag Racing Championship" ist eine regionale Motorsportserie für Top-Benzin-Dragster, die in unter 5 Sekunden Geschwindigkeiten von rund 500 km/h erreichen (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260803044500 +0000" stop="20260803051000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2015</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260803051000 +0000" stop="20260803053500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Dumbest Stuff on Wheels</title>
+    <sub-title lang="de">; Staffel 1</sub-title>
+    <desc lang="de">Skurrile Pannen, schräge Crashes und unglaublicher Nonsense auf vier Rädern, fabriziert im täglichen Leben und mit der Kamera verewigt. Super Training für die Lachmuskeln! (Senderinfo).</desc>
+    <credits>
+      <actor role="Narrator">Matt Iseman</actor>
+      <producer>Burt Kearns</producer>
+      <producer>Frank Sinton</producer>
+      <producer>Arthur Smith</producer>
+      <producer>Kent Weed</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260803053500 +0000" stop="20260803063000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IndyNXT 2026</title>
+    <sub-title lang="de">Indianapolis 2</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20260803063000 +0000" stop="20260803065500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic Ride</title>
+    <sub-title lang="de">VW Kübel</sub-title>
+    <desc lang="de">Classic Rides kramt in der automobilen Schatzkiste und befördert teils fast vergessene, teils edle, teils skurrile Autos aus den letzten Jahrzehnten ans Tageslicht. Der VW 181, genannt ''Kübel'', wird 1969 als eines der skurrilsten Autos präsentiert, die je gebaut wurden: offen, geräumig, solide, billig und viertürig. Konstruiert für die Bundeswehr findet er anfangs kaum zivile Käufer. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260803065500 +0000" stop="20260803072500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">Frankophile Tour mit 007 Gefühl</sub-title>
+    <desc lang="de">Martin Uttberg nimmt Teil an der Frankophile Tour mit 007 Gefühl, eine eintägige Tour, die die Teilnehmer an verschiednen unbekannte Locations führt. Unter anderem führt sie zu dem Weltgrössten Mercedes Restaurator Kienlie, aber die grösste Überraschung wartet am Ende Tages. (Senderinfo).</desc>
+    <date>2021</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+    <episode-num system="onscreen">E78</episode-num>
+  </programme>
+  <programme start="20260803072500 +0000" stop="20260803075500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Stunt Heroes</title>
+    <sub-title lang="de">Massenkarambolage</sub-title>
+    <desc lang="de">Nebel, Dunkelheit, ein Auffahrunfall mit vielen Autos. Das passiert auf deutschen Autobahnen immer wieder. Die "Stunt Heroes" stellen eine solche Szenerie nach. Sie ist Ausgangspunkt für einen Stunt mit brennenden Personen, einem Feuerwehrmann der zu spät kommt und einem Auto das in die Luft fliegt. Wie das funktioniert sehen Sie in dieser Folge der Stunt-Reportagereihe. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260803075500 +0000" stop="20260803082000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Biker Lifestyle</title>
+    <sub-title lang="de">Mallorca 2024, Berge, Kurven &amp; Klöster,</sub-title>
+    <desc lang="de">Mallorca mit dem eigenen Motorrad zu Erfahren ist ein besonderes Erlebnis. Die Vielseitigkeit der Baleareninsel ist einfach unglaublich. Dieser Film zeigt die schönsten und einzigartigen Motorradstraßen auf Mallorca. Auf unseren Touren besuchen wir immer wieder Klöster hoch oben auf den Bergen, zu welchen uns kurvenreiche Straßen führen. Highlights wie Sa Calobra und Cap Formentor besuchen wir zu Tageszeiten wo noch keine Touristen unterwegs sind. Spektakuläre Drohnenaufnahmen gehören selbstverständlich ebenso zu dieser fantastischen Dokumentation. (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E255</episode-num>
+  </programme>
+  <programme start="20260803082000 +0000" stop="20260803084500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">On Tour</title>
+    <sub-title lang="de">Night of the Jumps</sub-title>
+    <desc lang="de">Miriam Höller besucht für Motorvision TV heiße Events und coole Challenges der Motorwelt. In der ersten Episode berichtet sie von der "Night of the Jumps" in der Münchner Olympiahalle. Das Event ist Teil der Night of the Jumps Tour, der offiziellen FIM-WM im Motocross. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260803084500 +0000" stop="20260803091500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic</title>
+    <desc lang="de">Oldtimer und alles, was dazu gehört: Events, Rennsport, Portraits, Schraubertipps und die schönsten Bilder der Automobil-Archive aus aller Welt. Die schönsten Oldies, die schärfsten Rennwagen aus vergangenen Epochen. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260803091500 +0000" stop="20260803094000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Grüne Welle</title>
+    <sub-title lang="de">Establishment Reloaded</sub-title>
+    <desc lang="de">Establishment Reloaded: Luxus- und Oberklasseautos machen sich bereit für die Zukunft. Neuer Name, mehr Reichweite. Audi präsentiert den Q8 e-tron. Ist das Fahrzeug jetzt wieder up to date? Und: Ein Klassiker wird elektrifiziert. Wir dürfen exklusiv in der elektrischen Mercedes G-Klasse mitfahren. Wird der Spagat zwischen zukunftsweisendem Antrieb und absoluter Offroadtauglichkeit gelingen? (Senderinfo).</desc>
+    <date>2023</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20260803094000 +0000" stop="20260803101000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Made in....</title>
+    <sub-title lang="de">Autonomes Fahren</sub-title>
+    <desc lang="de">Ein Auto fährt auf Kollisionskurs mit einem anderen Fahrzeug. Doch es kommt nicht zum Unfall. Denn in dem PKW sitzen keine Fahrer. Computer steuern die Fahrt. Ein anderes Auto bewegt sich ohne Eingreifen des Fahrers auf einem Renn-Kurs, ein zweites im realen Stadtverkehr und ein drittes jagt gänzlich führerlos einen Berg hinauf. Autonomes Fahren nennt sich das – das Auto handelt eigenständig. Klingt verrückt, ist aber machbar. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20260803101000 +0000" stop="20260803104000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Abenteuer Allrad</title>
+    <desc lang="de">Ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. (Senderinfo).</desc>
+    <date>2010</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260803104000 +0000" stop="20260803111000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Perfect Ride</title>
+    <sub-title lang="de">Klein und Kompakt</sub-title>
+    <desc lang="de">Der Corsa ist Opels meistverkauftes Auto. Die 6. Generation will mit mehr Sportlichkeit den Erfolg fortführen. Eine der günstigsten Möglichkeiten Auto zu fahren, ist der Mitsubushi Space Star. Braucht es mehr? Oder kann der Japan-Zwerg eigentlich alle Bedürfnisse befriedigen? Und: Seat macht dem Golf Feuer unterm hintern – mit seinem Temperament und dem jetzt neun Zentimeter längeren Leon. (Senderinfo).</desc>
+    <date>2020</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E88</episode-num>
+  </programme>
+  <programme start="20260803111000 +0000" stop="20260803113500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">4x4 – Das Allrad Magazin</title>
+    <sub-title lang="de">Kompakt-SUVs aus Fernost</sub-title>
+    <desc lang="de">Asiatisches Autodesign hat sich in den letzten Jahren stark verändert. Bei Lexus, dem Premium-Hersteller von Toyota, geht der Trend vor allem hin zu kantigen Formen und aggressivem Auftreten. Das Mittelklasse-SUV Lexus NX fällt mit seinem extravaganten Design unter den biederen europäischen Pendants auf jeden Fall auf. Bei Infiniti, der Edel-Sparte von Nissan, ist man da etwas zurückhaltender: Der QX30 hat das klassische Infiniti-Design mit gewölbter Motorhaube und schwungvollem Blechkleid. Die Technik stammt allerdings unter anderem von Mercedes-Benz aus Deutschland. 4x4 – Das Allrad Magazin schaut sich die SUV-Trends aus Fernost genauer a (Senderinfo).</desc>
+    <date>2017</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20260803113500 +0000" stop="20260803120500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Tuning – Tiefer geht's nicht!</title>
+    <sub-title lang="de">Pirelli Tuning Award</sub-title>
+    <desc lang="de">Edeltuner und Werkstuner: Immer mehr PS, immer besserer Sound, immer tiefere Fahrwerke, es gibt keine Limits. Das edelste, was Tuning zu bieten hat. Tipps und Tricks rund ums Tiefer- legen, Reparieren und Aufmotzen. Wir zeigen, was man darf und wie mans macht. Heute geht's um die Schrauber-Ehre: Der Pirelli Tuning Award gilt als größtes Tuning-Event Europas. Wir begleiten einen der Topfavoriten auf den Titel. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260803120500 +0000" stop="20260803123000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">Die Meistermacher</sub-title>
+    <desc lang="de">In der neuen Top-Speed-Winterserie bringt Moderator Martin Utberg einen Oldtimer oder Youngtimer in eine Werkstatt, um ihn sowohl technisch als auch optisch überprüfen zu lassen. In dieser Folge Meistermacher Teil 2 steht, wie letzter Woche der BMW 635 M im Mittelpunkt und wird von einem KFZ-Meister von Meistermacher in Freilassing, unweit von Salzburg genauestens unter die Lupe genommen. Für die Untersuchung des Lacks und der Oberfläche wird Michael Steenhuis von Carus Finance hinzugezogen. Michael kann mit einem Thermografie-Gerät unter den Lack schauen. Markus Neser von der Württembergischen Oldtimerversicherung gibt wertvolle Versicherung (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+    <episode-num system="onscreen">E141</episode-num>
+  </programme>
+  <programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Porsche 911</sub-title>
+    <desc lang="de">Der Porsche 911 – diese drei Zahlen stehen für eine Legende, für einen Mythos, für ein Gefühl. Sechs Zylinder im Boxerformat, Heckmotor und eine einzigartige Form schufen das Sportwagen-Monument. Seit 50 Jahren ist der 911er weltweit der Inbegriff eines Sportwagens. Car History erklärt das Geheimnis der Faszinationskraft, das sich auf jede neue Modell-Generation überträgt, vom Ur-11er von 1963 mit 130PS bis zum GT2RS mit 620PS und dem neuen Modell, dem 911-991. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/d9/41/09/6a54da8637d24c784f0941d9.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Super Cars</title>
+    <sub-title lang="de">Performance-Hybride</sub-title>
+    <desc lang="de">Hybride mit Power erobern die Straßen. Der McLaren Artura kombiniert revolutionäre Hybridtechnologie mit Rennsport-DNA. Auch Ferrari setzt beim 296 GTB auf kombinierte Power aus Strom und Benzin. Der Mercedes S 580e soll durch Hybridtechnik weniger als 1 Liter auf 100 km verbrauchen. Für die Familie gibt es den Cupra Leon Sportstourer mit Platz, Power und geringem Verbrauch. (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E224</episode-num>
+  </programme>
+  <programme start="20260803133000 +0000" stop="20260803142000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">XPEL GP at Road America, Road America, Wisconsin</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20260803142000 +0000" stop="20260803151000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NZ Rally Championship 2025</title>
+    <sub-title lang="de">Round 6, International Rally of Whangarei</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NZ</country>
+  </programme>
+  <programme start="20260803151000 +0000" stop="20260803154000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Belgian Rallycross Championship 2025</title>
+    <sub-title lang="de">Round 1 &amp; 2 &amp; 3</sub-title>
+    <desc lang="de">Ein Filmteam zeigt die Highlights der belgischen Rallycross-Meisterschaften. Rasante Kopf-an-Kopf-Rennen der Teilnehmer auf gemischten Oberflächen begeistern die Rallycross-Fans aus aller Welt. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">B</country>
+  </programme>
+  <programme start="20260803154000 +0000" stop="20260803161000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Scottish Rally Championship 2026</title>
+    <sub-title lang="de">Jim Clark Rally (tarmac)</sub-title>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+  </programme>
+  <programme start="20260803161000 +0000" stop="20260803164000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">TER Series 2026</title>
+    <sub-title lang="de">Rallye du Chablais, Schweiz</sub-title>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+  </programme>
+  <programme start="20260803164000 +0000" stop="20260803171000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Belgian Rally Championship 2026</title>
+    <sub-title lang="de">Sezoensrally</sub-title>
+    <desc lang="de">Die Belgian Rally Championship ist eine der am härtesten umkämpften Rally-Meisterschaften auf nationaler Ebene. Das lockt auch prominente Gaststarter an wie Thierry Neuville, Craig Breen und Stéphane Lefebvre. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">B</country>
+  </programme>
+  <programme start="20260803171000 +0000" stop="20260803180000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">British Rally Championship 2025</title>
+    <sub-title lang="de">Rali Ceredigion, Aberystwyth</sub-title>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260803180000 +0000" stop="20260803194000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Superbike Race</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260803194000 +0000" stop="20260803203500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Sidecarcross World Championship 2026</title>
+    <sub-title lang="de">GP of Germany, Kleinhau</sub-title>
+    <desc lang="de">Die zweite Liga und der Nachwuchs der Australian ProMX Championship 2022 treffen sich an der Ostküste in Mackay für den zweiten Saisonlauf. Die Titelkämpfe spitzen sich in beiden Meisterschaften bereits in der frühen Phase des Jahres zu! (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260803203500 +0000" stop="20260803210500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Supermoto World and European Championship 2026</title>
+    <sub-title lang="de">GP Piemonte, Busca, Italy</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260803210500 +0000" stop="20260803213500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Enduro World Championship 2026</title>
+    <sub-title lang="de">Grand Prix of Portugal, Fafe</sub-title>
+    <desc lang="de">In der Sendung werden besten Enduro-Piloten der Welt bei ihren Wettkämpfen rund um den Erdball begleitet. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">P</country>
+  </programme>
+  <programme start="20260803213500 +0000" stop="20260803223500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM X-Trial World Championship</title>
+    <sub-title lang="de">Grand Prix von Frankreich, Chambery</sub-title>
+    <desc lang="de">Die X-Trial World Championship ist eine Indoor-Motorradserie, bei der Fahrer Hindernisse auf der Strecke bewältigen müssen (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260803223500 +0000" stop="20260804001500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Superbike Race</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
   </programme>
   <programme start="20260731001500 +0000" stop="20260731005000 +0000" channel="Motorvision+.de">
     <title lang="de">FastZone 2026</title>
@@ -1595,7 +1870,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801034000 +0000" stop="20260801040500 +0000" channel="Motorvision+.de">
+  <programme start="20260801034000 +0000" stop="20260801040000 +0000" channel="Motorvision+.de">
     <title lang="de">Super Cars</title>
     <sub-title lang="de">Mobilität von Morgan</sub-title>
     <desc lang="de">Er ist die Vision einer elektrischen Zukunft von AMG: Der Concept AMG GT XX leistet unfassbare 1360 PS und lädt schneller als man „Reichweitenangst" sagen kann. Wir waren bei der spektakulären Weltpremiere dabei.</desc>
@@ -1608,7 +1883,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801040500 +0000" stop="20260801043000 +0000" channel="Motorvision+.de">
+  <programme start="20260801040000 +0000" stop="20260801042000 +0000" channel="Motorvision+.de">
     <title lang="de">Biker Lifestyle</title>
     <sub-title lang="de">Kreta 2024, Teil 3</sub-title>
     <desc lang="de">Teneriffa ist nicht nur ein Paradies für Rentner und Winterflüchtige. Die Insel lockt auch Abenteurer an, die mit ihren Motorrädern eine atemberaubende Landschaft auf kurvenreichen Straßen erkunden wollen.</desc>
@@ -1620,7 +1895,15 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801043000 +0000" stop="20260801045500 +0000" channel="Motorvision+.de">
+  <programme start="20260801042000 +0000" stop="20260801043500 +0000" channel="Motorvision+.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt.</desc>
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>Keine Altersangabe</value>
+    </rating>
+  </programme>
+  <programme start="20260801043500 +0000" stop="20260801045500 +0000" channel="Motorvision+.de">
     <title lang="de">Grüne Welle</title>
     <sub-title lang="de">Schweden-Roadtrip mit dem VW ID.7 Tour</sub-title>
     <desc lang="de">Lange Strecken und Elektroautos waren bisher keine Freunde, doch das soll sich ändern. Zum Beispiel mit diesem Fahrzeug: Der VW ID.7 bietet in der Pro-S-Version etwa 700 Kilometer Reichweite und als Tourer auch reichlich Platz.</desc>
@@ -1720,7 +2003,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801114500 +0000" stop="20260801121000 +0000" channel="Motorvision+.de">
+  <programme start="20260801114500 +0000" stop="20260801121500 +0000" channel="Motorvision+.de">
     <title lang="de">FIM Supermoto World and European Championship 2026</title>
     <sub-title lang="de">GP Sardinia, Tramatza, Italy</sub-title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
@@ -1731,7 +2014,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801121000 +0000" stop="20260801124000 +0000" channel="Motorvision+.de">
+  <programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="Motorvision+.de">
     <title lang="de">FIM Enduro World Championship 2026</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <country lang="de">PT</country>
@@ -1739,7 +2022,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801124000 +0000" stop="20260801133000 +0000" channel="Motorvision+.de">
+  <programme start="20260801124500 +0000" stop="20260801133500 +0000" channel="Motorvision+.de">
     <title lang="de">King of the Roads 2024</title>
     <sub-title lang="de">Southern 100 Teil 2</sub-title>
     <desc lang="de">Die Southern 100 auf der Isle of Man geht in die nächste Runde. Auf dem 4,25 Meilen langen Billown Circuit liefern sich Fahrer der Solo- und Seitenwagenklassen packende Duelle und kämpfen um jede Sekunde.</desc>
@@ -1750,7 +2033,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801133000 +0000" stop="20260801135500 +0000" channel="Motorvision+.de">
+  <programme start="20260801133500 +0000" stop="20260801140000 +0000" channel="Motorvision+.de">
     <title lang="de">Icelandic Formula Offroad 2025</title>
     <sub-title lang="de">2025 - Norway World Cup, Blonduos</sub-title>
     <desc lang="de">Die Sendung berichtet von der „Formula Off Road", die in Island ihren Ursprung hat.</desc>
@@ -1761,7 +2044,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801135500 +0000" stop="20260801142500 +0000" channel="Motorvision+.de">
+  <programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="Motorvision+.de">
     <title lang="de">Monster Jam Championship 2025</title>
     <sub-title lang="de">2025 San Francisco, California</sub-title>
     <desc lang="de">Erleben Sie die Monster Jam Championship Series 2025 mit den Höhepunkten aus San Francisco! In spektakulären Rennen und Freestyle-Wettbewerben treten riesige Monstertrucks gegeneinander an und begeistern dabei das Publikum.</desc>
@@ -1794,21 +2077,21 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801151500 +0000" stop="20260801154000 +0000" channel="Motorvision+.de">
+  <programme start="20260801151500 +0000" stop="20260801154500 +0000" channel="Motorvision+.de">
     <title lang="de">EMX Quad European Championship 2025</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <rating system="FSK">
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801154000 +0000" stop="20260801163000 +0000" channel="Motorvision+.de">
+  <programme start="20260801154500 +0000" stop="20260801163500 +0000" channel="Motorvision+.de">
     <title lang="de">UK National Legends Cars Championship 2024</title>
     <country lang="de">GB</country>
     <rating system="FSK">
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801163000 +0000" stop="20260801172000 +0000" channel="Motorvision+.de">
+  <programme start="20260801163500 +0000" stop="20260801172000 +0000" channel="Motorvision+.de">
     <title lang="de">EMX Quad European Championship 2025</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <rating system="FSK">
@@ -1834,15 +2117,15 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801184000 +0000" stop="20260801190500 +0000" channel="Motorvision+.de">
-    <title lang="de">TER Series 2026</title>
+  <programme start="20260801184000 +0000" stop="20260801191000 +0000" channel="Motorvision+.de">
+    <title lang="de">Tour European Rally 2026</title>
     <desc lang="de">Die TER ist eine Rallye-Europameisterschaft für moderne Rallyefahrzeuge.</desc>
     <country lang="de">GB</country>
     <rating system="FSK">
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801190500 +0000" stop="20260801193000 +0000" channel="Motorvision+.de">
+  <programme start="20260801191000 +0000" stop="20260801193500 +0000" channel="Motorvision+.de">
     <title lang="de">Belgian Rally Championship 2026</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <country lang="de">BE</country>
@@ -1850,7 +2133,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801193000 +0000" stop="20260801202000 +0000" channel="Motorvision+.de">
+  <programme start="20260801193500 +0000" stop="20260801202500 +0000" channel="Motorvision+.de">
     <title lang="de">British Rally Championship 2025</title>
     <sub-title lang="de">Rali Ceredigion, Aberystwyth</sub-title>
     <desc lang="de">Gezeigt werden die Höhepunkte und Zusammenfassungen der British Rally Championship.</desc>
@@ -1861,7 +2144,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801202000 +0000" stop="20260801210500 +0000" channel="Motorvision+.de">
+  <programme start="20260801202500 +0000" stop="20260801211500 +0000" channel="Motorvision+.de">
     <title lang="de">NZ Rally Championship 2025</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <country lang="de">NZ</country>
@@ -1869,7 +2152,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801210500 +0000" stop="20260801213500 +0000" channel="Motorvision+.de">
+  <programme start="20260801211500 +0000" stop="20260801214000 +0000" channel="Motorvision+.de">
     <title lang="de">Belgian Rallycross Championship 2025</title>
     <sub-title lang="de">Round 1 &amp; 2 &amp; 3</sub-title>
     <desc lang="de">In der Sendung werden die Höhepunkte der belgischen Rallycross-Meisterschaft präsentiert.</desc>
@@ -1880,7 +2163,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801213500 +0000" stop="20260801223000 +0000" channel="Motorvision+.de">
+  <programme start="20260801214000 +0000" stop="20260801223500 +0000" channel="Motorvision+.de">
     <title lang="de">World Rally Raid Championship 2026</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <country lang="de">FR</country>
@@ -1888,7 +2171,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801223000 +0000" stop="20260801232500 +0000" channel="Motorvision+.de">
+  <programme start="20260801223500 +0000" stop="20260801232500 +0000" channel="Motorvision+.de">
     <title lang="de">IndyNXT 2026</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <country lang="de">US</country>
@@ -1896,7 +2179,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260801232500 +0000" stop="20260802001500 +0000" channel="Motorvision+.de">
+  <programme start="20260801232500 +0000" stop="20260802001000 +0000" channel="Motorvision+.de">
     <title lang="de">Road Wars Staffel 6</title>
     <sub-title lang="de">Ultimate Road Wars</sub-title>
     <desc lang="de">Die Beamten erleben eine adrenalingeladene Verfolgungsjagd einer problematischen Drogenrazzia.</desc>
@@ -1909,7 +2192,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802001500 +0000" stop="20260802004000 +0000" channel="Motorvision+.de">
+  <programme start="20260802001000 +0000" stop="20260802003500 +0000" channel="Motorvision+.de">
     <title lang="de">Car History</title>
     <sub-title lang="de">Porsche Le Mans</sub-title>
     <desc lang="de">Das Rennen in Le Mans ist das härteste Autorennen der Welt und dauert 24 Stunden. Porsche startet jedes Jahr. Dabei hat keine andere Marke das legendäre Rennen so sehr geprägt. Die Sendung erzählt von der Erfolgsgeschichte von Porsche in Le Mans.</desc>
@@ -1922,7 +2205,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802004000 +0000" stop="20260802010500 +0000" channel="Motorvision+.de">
+  <programme start="20260802003500 +0000" stop="20260802010000 +0000" channel="Motorvision+.de">
     <title lang="de">Nordschleife</title>
     <sub-title lang="de">Touristen in der Grünen Hölle 6</sub-title>
     <desc lang="de">Als vielgliedriges Ungeheuer bezeichnete einst Rennfahrerlegende Jackie Stewart die Nordschleife des Nürburgrings und gab ihr den Namen Grüne Hölle.</desc>
@@ -1935,7 +2218,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802010500 +0000" stop="20260802013000 +0000" channel="Motorvision+.de">
+  <programme start="20260802010000 +0000" stop="20260802012500 +0000" channel="Motorvision+.de">
     <title lang="de">On Tour</title>
     <sub-title lang="de">BMW M1 Treffen</sub-title>
     <desc lang="de">Jedes Jahr pilgern tausende Motorsportfans zum Histo-Cup Austria am Salzburgring, um mehr als 200 historische Rennwagen in Aktion zu bewundern. Wir haben dort die erste Präsentation der BMW M1 Procar Serie seit 1979 erlebt.</desc>
@@ -1946,7 +2229,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802013000 +0000" stop="20260802015500 +0000" channel="Motorvision+.de">
+  <programme start="20260802012500 +0000" stop="20260802015000 +0000" channel="Motorvision+.de">
     <title lang="de">Perfect Ride</title>
     <sub-title lang="de">PS-Schleuder</sub-title>
     <desc lang="de">Bei Armin Schwarz in Finnland glühen die Reifen auf Eis und Schnee. Driften, bis die Schneewacht kommt. Außerdem gibt es ein extravagantes Duell auf der CES in Vegas: Mercedes, der Krieger der Sterne versus Audi, Herr der Ringe.</desc>
@@ -1959,7 +2242,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802015500 +0000" stop="20260802022000 +0000" channel="Motorvision+.de">
+  <programme start="20260802015000 +0000" stop="20260802021500 +0000" channel="Motorvision+.de">
     <title lang="de">Rückspiegel</title>
     <sub-title lang="de">Wartburg 313</sub-title>
     <desc lang="de">Gezeigt werden die Höhepunkte der Automobilgeschichte: Diesmal geht es um den Wartburg 313.</desc>
@@ -1973,7 +2256,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802022000 +0000" stop="20260802024500 +0000" channel="Motorvision+.de">
+  <programme start="20260802021500 +0000" stop="20260802024500 +0000" channel="Motorvision+.de">
     <title lang="de">Tuning - Tiefer geht`s nicht!</title>
     <sub-title lang="de">Lowrider, die Zweite</sub-title>
     <desc lang="de">Tuning ist für viele Autofans eine Lebenseinstellung: die Suche nach immer mehr PS, besserem Sound und außergewöhnlichem Design. Die Sendung wirft einen Blick hinter die Kulissen bekannter, renommierter und privater Tuning-Schmieden.</desc>
@@ -1986,7 +2269,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802024500 +0000" stop="20260802031500 +0000" channel="Motorvision+.de">
+  <programme start="20260802024500 +0000" stop="20260802031000 +0000" channel="Motorvision+.de">
     <title lang="de">Stunt Heroes</title>
     <sub-title lang="de">Behind the Scene</sub-title>
     <desc lang="de">Die Stunt Heroes von Action Concept sind knallharte Profis. Sie stürzen sich von Häusern, bringen Autos zum Fliegen oder Explodieren. Ohne den nötigen Ernst und ständige Konzentration bei der Durchführung ihrer Arbeit geht nichts.</desc>
@@ -1998,7 +2281,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802031500 +0000" stop="20260802033500 +0000" channel="Motorvision+.de">
+  <programme start="20260802031000 +0000" stop="20260802033500 +0000" channel="Motorvision+.de">
     <title lang="de">Top Speed Classic</title>
     <sub-title lang="de">333 Minuten Rallye 2025</sub-title>
     <desc lang="de">Die Oldtimer-Rallyes von Pascal Kapp überzeugen durch ihre Einzigartigkeit. Hier steht Fahrspaß stets im Fokus. Ein besonderes Highlight ist die 333-Minuten-Rallye. Sie erfordert absolute Konzentration. Wir werfen einen Blick hinter die Kulissen.</desc>
@@ -2054,7 +2337,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802064500 +0000" stop="20260802081500 +0000" channel="Motorvision+.de">
+  <programme start="20260802064500 +0000" stop="20260802081000 +0000" channel="Motorvision+.de">
     <title lang="de">FIM X-Trial World Championship 2026</title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <country lang="de">FR</country>
@@ -2062,13 +2345,21 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802081500 +0000" stop="20260802091000 +0000" channel="Motorvision+.de">
+  <programme start="20260802081000 +0000" stop="20260802090000 +0000" channel="Motorvision+.de">
     <title lang="de">NZ Speedway Championship 2026</title>
     <sub-title lang="de">Sprintcar 50 Lapper</sub-title>
     <desc lang="de">Für diesen Beitrag liegen keine weiteren Informationen vor.</desc>
     <date>2026</date>
     <category lang="de">Sport</category>
     <country lang="de">NZ</country>
+    <rating system="FSK">
+      <value>Keine Altersangabe</value>
+    </rating>
+  </programme>
+  <programme start="20260802090000 +0000" stop="20260802091000 +0000" channel="Motorvision+.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt.</desc>
+    <country lang="de">DE</country>
     <rating system="FSK">
       <value>Keine Altersangabe</value>
     </rating>
@@ -2081,13 +2372,21 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802095500 +0000" stop="20260802123000 +0000" channel="Motorvision+.de">
+  <programme start="20260802095500 +0000" stop="20260802120000 +0000" channel="Motorvision+.de">
     <title lang="de">NTT Indycar Series 2026</title>
     <sub-title lang="de">Borchetta Bourbon Music City Grand Prix</sub-title>
     <desc lang="de">From Nashville Superspeedway in Nashville, Tenn.</desc>
     <date>2026</date>
     <category lang="de">Sport</category>
     <country lang="de">US</country>
+    <rating system="FSK">
+      <value>Keine Altersangabe</value>
+    </rating>
+  </programme>
+  <programme start="20260802120000 +0000" stop="20260802123000 +0000" channel="Motorvision+.de">
+    <title lang="de">Tour European Rally 2026</title>
+    <desc lang="de">Die TER ist eine Rallye-Europameisterschaft für moderne Rallyefahrzeuge.</desc>
+    <country lang="de">GB</country>
     <rating system="FSK">
       <value>Keine Altersangabe</value>
     </rating>
@@ -2103,7 +2402,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802153000 +0000" stop="20260802184000 +0000" channel="Motorvision+.de">
+  <programme start="20260802153000 +0000" stop="20260802215000 +0000" channel="Motorvision+.de">
     <title lang="de">IMSA WeatherTech SportsCar Championship 2026</title>
     <sub-title lang="de">Sportscar Weekend, Road America</sub-title>
     <desc lang="de">Die Sendereihe überträgt die Rennen der IMSA WeatherTech SportsCar Championship.</desc>
@@ -2114,29 +2413,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802184000 +0000" stop="20260802201000 +0000" channel="Motorvision+.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Sonsio Grand Prix: Qualifying</sub-title>
-    <desc lang="de">Übertragung von Rennen der IndyCar Serie.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260802201000 +0000" stop="20260802212000 +0000" channel="Motorvision+.de">
-    <title lang="de">NTT Indycar Series 2026 Qualifying</title>
-    <sub-title lang="de">Good Ranchers 250: Qualifying in Phoenix (Arizona)</sub-title>
-    <desc lang="de">Übertragung von Rennen der IndyCar Serie.</desc>
-    <date>2026</date>
-    <category lang="de">Sport</category>
-    <country lang="de">US</country>
-    <rating system="FSK">
-      <value>Keine Altersangabe</value>
-    </rating>
-  </programme>
-  <programme start="20260802212000 +0000" stop="20260802225500 +0000" channel="Motorvision+.de">
+  <programme start="20260802215000 +0000" stop="20260802231500 +0000" channel="Motorvision+.de">
     <title lang="de">NTT Indycar Series 2026 Qualifying</title>
     <sub-title lang="de">Java House Grand Prix of Arlington: Qualifying</sub-title>
     <desc lang="de">Übertragung von Rennen der IndyCar Serie.</desc>
@@ -2147,7 +2424,7 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260802225500 +0000" stop="20260803013500 +0000" channel="Motorvision+.de">
+  <programme start="20260802231500 +0000" stop="20260803013500 +0000" channel="Motorvision+.de">
     <title lang="de">NTT Indycar Series 2026</title>
     <sub-title lang="de">Honda Indy 200 at Mid Ohio</sub-title>
     <desc lang="de">From Mid-Ohio Sports Car Course in Lexington, Ohio.</desc>
@@ -2158,12 +2435,20 @@
       <value>Keine Altersangabe</value>
     </rating>
   </programme>
-  <programme start="20260803013500 +0000" stop="20260803030500 +0000" channel="Motorvision+.de">
+  <programme start="20260803013500 +0000" stop="20260803023000 +0000" channel="Motorvision+.de">
     <title lang="de">NTT Indycar Series 2026 Qualifying</title>
     <desc lang="de">Übertragung von Rennen der IndyCar Series.</desc>
     <date>2000</date>
     <category lang="de">Sport</category>
     <country lang="de">US</country>
+    <rating system="FSK">
+      <value>Keine Altersangabe</value>
+    </rating>
+  </programme>
+  <programme start="20260803023000 +0000" stop="20260803030500 +0000" channel="Motorvision+.de">
+    <title lang="de">Classic Races</title>
+    <desc lang="de">In Algier startet 1959 eine der schwierigsten und längsten Rallies seit dem Krieg, die Afrika-Rallye. Die Route führt von Algier nach Kapstadt, 14.000 Kilometer Wüstensand, Steppe und Geröll. Am Start sind viele Rallye- und Geländeautos und auch ein Mercedes 190Diesel, ein ganz normales Serienauto, mit 50PS und Heckantrieb. Der Diesel ist nicht der schnellste, aber er hat einen großen Trumpf: Seine Zuverlässigkeit.</desc>
+    <country lang="de">DE</country>
     <rating system="FSK">
       <value>Keine Altersangabe</value>
     </rating>
@@ -2465,7 +2750,7 @@
     </rating>
   </programme>
   <programme start="20260803161000 +0000" stop="20260803164000 +0000" channel="Motorvision+.de">
-    <title lang="de">TER Series 2026</title>
+    <title lang="de">Tour European Rally 2026</title>
     <desc lang="de">Die TER ist eine Rallye-Europameisterschaft für moderne Rallyefahrzeuge.</desc>
     <country lang="de">GB</country>
     <rating system="FSK">
