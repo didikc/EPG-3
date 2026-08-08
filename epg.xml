@@ -8,56 +8,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260808001000 +0000" stop="20260808004000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Mehr Sport als Utility</sub-title>
-    <desc lang="de">SUV steht bekanntermaßen für Sports Utility Vehicle dabei sind die wenigsten SUVs wirklich sportlich. Nicht so diese: Beim Alfa Romeo Tonale sind Fahrspaß und Emotionen fest in der Marken-DNA verankert. Und mit bis zu 408 Elektro-PS und markanter Coupe-Form ist der Volvo C40 auch ein wahrer Leistungssportler unter den SUVs. (Senderinfo).</desc>
-    <date>2023</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E92</episode-num>
-  </programme>
-  <programme start="20260808004000 +0000" stop="20260808010500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">4x4 – Das Allrad Magazin</title>
-    <sub-title lang="de">Kompakt_ und Mini-SUVs</sub-title>
-    <desc lang="de">SUVs sind nach wie vor beliebt und das Segment wird immer größer. Besonders kleine SUVs drängen auf den Markt. Sie sind optimal für die Stadt, Offroad-Fähigkeiten spielen kaum noch eine Rolle. Der Seat Arona ist mit knapp über vier Metern Länge ein typischer Vertreter. Ein anderer Pseudo-Offroader ist der VW T-Roc. Kann das kleinste VW-SUV an den Erfolg des Bestsellers VW Tiguan anschließen? (Senderinfo).</desc>
-    <date>2018</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E68</episode-num>
-  </programme>
-  <programme start="20260808010500 +0000" stop="20260808013500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Tuning – Tiefer geht's nicht!</title>
-    <sub-title lang="de">X-Mas Race in Eisenach</sub-title>
-    <desc lang="de">Zu Weihnachten nur das Beste. Die Themen heute bei Tuning: Unsere Redaktion gibt immer Vollgas. Best of Erotik. Beschauliche Weihnachtszeit? Nicht beim X-mas Race in Eisenach. Hier gehts auch im Winter voll zur Sache. Abt und MTM legen den Audi R8 auf den Gabentisch. Welcher ist das bessere Paket? Und: Lauscher auf! Die besten Sounds mit Gänsehaut-Garantie. (Senderinfo).</desc>
-    <date>2009</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E25</episode-num>
-  </programme>
-  <programme start="20260808013500 +0000" stop="20260808023000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Top Speed Stories mit Christian Danner und Lutz Leif Linden</sub-title>
-    <desc lang="de">In Seefeld in Tirol empfängt Top Speed Moderator Martin Utberg in jeder Folge zwei prominente Gäste aus der Welt des Motorsports. Die Gäste stehen 24 Stunden im Mittelpunkt der Aufmerksamkeit, und die Zuschauer erhalten die einzigartige Gelegenheit, sie auf eine ganz andere Weise kennenzulernen, als sie es gewohnt sind. In dieser Sendung sind RTL F1 Kommentator und FIA Chef Deutschland Lutz Leif Linden die Gäste. (Senderinfo).</desc>
-    <date>2024</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">NL</country>
-    <episode-num system="onscreen">E162</episode-num>
-  </programme>
-  <programme start="20260808023000 +0000" stop="20260808030000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">BMW M2</sub-title>
-    <desc lang="de">Kompakte High-Performance-Modelle haben bei BMW eine langjährige Tradition. Vom 2002 turbo, über das 1er M Coupe bis zum aktuellen M2. Wir nehmen die zweite Generation unter die Lupe und testen Driftpotenti-al, Racing- und Alltagsqualitäten des M2. Was kann er am besten? Außerdem schauen wir uns seine Historie und Entwicklung an und werfen einen Blick auf die Konkurrenten. (Senderinfo).</desc>
-    <date>2024</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E228</episode-num>
-  </programme>
   <programme start="20260808030000 +0000" stop="20260808040000 +0000" channel="Motorvision.TV.de">
     <title lang="de">NTT Indycar Series 2026</title>
     <sub-title lang="de">Chevrolet Detroit GP, Streets of Detroit, Michigan</sub-title>
@@ -852,6 +802,369 @@
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">NL</country>
     <episode-num system="onscreen">E212</episode-num>
+  </programme>
+  <programme start="20260811030000 +0000" stop="20260811033000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Die Geschichte von Volkswagen</sub-title>
+    <desc lang="de">Es ist der zweitgrößte Automobil-Hersteller der Welt, die Volkswagen AG. Doch Anfang der Siebziger Jahre steckt VW in einer Krise. VW hat keine Antwort auf den Ölpreisschock und keinen Nachfolger für den Käfer. Erst mit den Autos der neuen Generation Passat und Golf kommt das Werk auf die Überholspur zurück. (Senderinfo).</desc>
+    <date>2014</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E43</episode-num>
+  </programme>
+  <programme start="20260811033000 +0000" stop="20260811040000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Super Cars</title>
+    <sub-title lang="de">Cabrio-Power</sub-title>
+    <desc lang="de">Der Audi R8 Spyder ist das extremste Cabrio der Marke mit den vier Ringen. Sein 5,2 Liter V10 schießt den offenen Zweisitzer in 3,6 Sekunden von Null auf Hundert. Begleitet von einem atemberaubenden Sound und enormer Fahrleistung bildet der R8 Spyder die perfekte Symbiose aus Sportlichkeit und Open-Air-Fahrspaß. (Senderinfo).</desc>
+    <date>2017</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E201</episode-num>
+  </programme>
+  <programme start="20260811040000 +0000" stop="20260811044500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Australian Drag Racing Championship 2024</title>
+    <sub-title lang="de">Top Doorslammer Runde 2, Perth</sub-title>
+    <desc lang="de">Die "Australian Drag Racing Championship" ist eine regionale Motorsportserie für Top-Benzin-Dragster, die in unter 5 Sekunden Geschwindigkeiten von rund 500 km/h erreichen (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260811044500 +0000" stop="20260811051000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2015</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811051000 +0000" stop="20260811053500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Dumbest Stuff on Wheels</title>
+    <sub-title lang="de">; Staffel 2</sub-title>
+    <desc lang="de">Skurrile Pannen, schräge Crashes und unglaublicher Nonsense auf vier Rädern, fabriziert im täglichen Leben und mit der Kamera verewigt. Super Training für die Lachmuskeln! (Senderinfo).</desc>
+    <credits>
+      <actor role="Self - Narrator">Matt Iseman</actor>
+      <producer>Burt Kearns</producer>
+      <producer>Frank Sinton</producer>
+      <producer>Arthur Smith</producer>
+      <producer>Kent Weed</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260811053500 +0000" stop="20260811071500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">Tourist Trophy Film</sub-title>
+    <desc lang="de">Die Isle of Man Tourist Trophy gilt als das härteste und gefährlichste Motorradrennen der Welt, bei dem die Fahrer Geschwindigkeiten von bis zu 320 km/h erreichen. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260811071500 +0000" stop="20260811074500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">Top Speed Bleibt Zuhause 2</sub-title>
+    <desc lang="de">In diese Folgen schauen wir zurück auf Highlights von tollen Veranstaltungen, Martin Utberg führt Interviews mit Gästen und Veranstalter über Skype. Diesmal Franken Classic, Mille Miglia und Paul Pietsch Classic. (Senderinfo).</desc>
+    <date>2020</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260811074500 +0000" stop="20260811081000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Stunt Heroes</title>
+    <sub-title lang="de">Jump'n Crash</sub-title>
+    <desc lang="de">In dieser Folge der Stunt Heroes dreht sich alles um Stuntfahrer Christoph Knobloch genannt Knobi. Er fährt mit 50 km/h über eine Rampe und crasht in übereinander gestapelte Autos. Das Gefährliche an dem Stunt: zeitgleich explodieren mehrere Benzinfässer! Wenn da was schiefgeht, ist auch Knobi in Gefahr.... (Senderinfo).</desc>
+    <date>2013</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20260811081000 +0000" stop="20260811083500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Biker Lifestyle</title>
+    <sub-title lang="de">Ride Thailand 2025, Motorradabenteuer Nordthailand</sub-title>
+    <desc lang="de">Der Norden Thailands ein beliebtes Reiseziel, nicht nur für abenteuerlustige individual Touristen. Bekannt ist der Norden für seine bergigen dichtbewaldeten Gebiete und somit ist diese Region auch ein Paradies für Motorradfahrer. Tausende von Kurven auf gut ausgebauten Straßen mit wenig Verkehr und einer Vielfalt an Kultur und Landschaft machen diese Region für uns nun schon zum 4. Mal zu einem perfekten Urlaubsziel um den Winter in Deutschland zu entfliehen. Wir nehmen Euch mit auf einer 1600 Km langen Motorradtour zu den schönsten Orten Nordthailands. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E272</episode-num>
+  </programme>
+  <programme start="20260811083500 +0000" stop="20260811091000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">On Tour</title>
+    <sub-title lang="de">Kings of Xtreme</sub-title>
+    <desc lang="de">On Tour heute bei der Kings of Xtreme in Leipzig. Und Kings of Xtreme bedeutet auf jeden Fall eins, nämlich extrem! Und zwar Freestyle Motocross, nicht nur auf gewöhnlichen Motocross Bikes sondern auch auf BMX-Rädern, Quads und einem Snowmobil. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811091000 +0000" stop="20260811093500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic</title>
+    <sub-title lang="de">Grab the Flag Rijeka</sub-title>
+    <desc lang="de">1963 ist das Jahr großer Sportikonen: Porsche präsentiert den 911, Lamborghini den 350 GT und Chevrolet die Corvette Sting Ray. Als Konkurrent, entwickelt das amerikanische Unternehmen Studebaker das Sportcoupe Avanti. Entworfen wurde das Coupe vom wichtigsten amerikanischen Industriedesigner Raymond Loewy. Doch gilt der Avanti als Designikone oder ist er ein stilistischer Missgriff? (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E111</episode-num>
+  </programme>
+  <programme start="20260811093500 +0000" stop="20260811100000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Grüne Welle</title>
+    <sub-title lang="de">IAA Mobility 2021 – Eine Messe zieht um</sub-title>
+    <desc lang="de">Es musste was passieren! Neuer Name, neuer Standort, neues Messekonzept. Nach dem Besucherrückgang der letzten Jahre zieht die Internationale Automobilausstellung von Frankfurt nach München. Neben den Messehallen können die Besucher den kostenlosen Open Space besuchen oder Probefahrten machen. Über 100 Premieren aus dem Autosektor zeigen, wo die Mobilität der Zukunft hingeht. (Senderinfo).</desc>
+    <date>2021</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E53</episode-num>
+  </programme>
+  <programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Made in....</title>
+    <sub-title lang="de">Die Geschichte der Feuerwehr</sub-title>
+    <desc lang="de">Die Geschichte der Feuerwehr reicht bis in die Römerzeit zurück. Damals mussten sich vornehmlich Sklaven der brennenden Gefahr aussetzen. Im Mittelalter sorgten die Zünfte für die Brandbekämpfung aber erst mit einem Mann wurde in Deutschland die Feuerwehr nachhaltig strukturiert: Conrad Dietrich Magirus. Er gilt als der Pionier in der Feuerwehrtechnik. In seiner Heimatstadt Ulm werden bis heute die modernsten Feuerwehrfahrzeuge zu 100 Prozent von Hand gebaut. MOTORVISION TV blickt hinter die Kulissen des Unternehmens mit über 150-jähriger Geschichte und zeigt die Fertigung von Drehleiter- und Löschfahrzeugen. (Senderinfo).</desc>
+    <date>2016</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20260811103000 +0000" stop="20260811110000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Abenteuer Allrad</title>
+    <desc lang="de">Ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811110000 +0000" stop="20260811112500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Perfect Ride</title>
+    <sub-title lang="de">Audi Q3 Weltpremiere</sub-title>
+    <desc lang="de">Audis wirtschaftliche Lage ist angespannt. Kosten müssen runter Gewinne müssen hoch. Und als eines der meistverkauften Modelle hat der Erfolg des neuen Q3 großen Einfluss auf die Zukunft der bayrischen Marke. Wir sind bei der Weltpremiere dabei, haben Platz genommen im neue Kompakt-SUV und mit Experten gesprochen. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E104</episode-num>
+  </programme>
+  <programme start="20260811112500 +0000" stop="20260811115500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">4x4 – Das Allrad Magazin</title>
+    <sub-title lang="de">Smart Adventures</sub-title>
+    <desc lang="de">Sand, Geröll, Wasser oder Asphalt Abenteuer gibt es auf jeglichem Untergrund wenn man das passende Gefährt hat. Der Can-Am Outlander und Maverick R sind die ultimativen Fun-Geräte für Offroad-Fahrspaß. Wir stellen sie in Portugal auf die Probe. Und das hier soll ein Smart sein? Ja tatsächlich der #5 stellt alles auf den Kopf, was wir bisher über die beliebte Knutschkugel zu wissen glaubten. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E86</episode-num>
+  </programme>
+  <programme start="20260811115500 +0000" stop="20260811122000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Tuning – Tiefer geht's nicht!</title>
+    <sub-title lang="de">Kadett C Coupe_ Finale</sub-title>
+    <desc lang="de">Die Crew von BSG Racing kennt sich mit spektakulären Umbauten bestens aus. Dirk Hattenhauer und seine Jungs haben sich ein ganz besonderes Projekt vorgenommen. Sie wollen ein altes Opel Kadett C Coupe aufmöbeln. Das Auto soll das spektakulärste Custom Car werden, das die europäische Tuning-Szene je gesehen hat. Auf der Tuning World Bodensee wird das fertige Auto erstmals präsentiert und tritt im European Tuning Showdown gegen die besten Showcars Europas an. Wird es der Kadett schaffen, die Tuning-Krone zu holen? (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E115</episode-num>
+  </programme>
+  <programme start="20260811122000 +0000" stop="20260811125000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">Rückblick 2025</sub-title>
+    <desc lang="de">In dieser Folge blickt Moderator Martin Utberg auf das Jahr 2025 zurück, mit vielen Höhepunkten, aber auch mit einem persönlichen Verlust, der auch die Oldtimerwelt erschüttert hat. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+    <episode-num system="onscreen">E232</episode-num>
+  </programme>
+  <programme start="20260811125000 +0000" stop="20260811132000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Opel Motorsport</sub-title>
+    <desc lang="de">Ob Raketenauto, Ascona oder Calibra, seit über 100 Jahren ist Rennsport der Motor von Opel: Bereits zwei Jahre nach Beginn der Opel-Automobilproduktion gewinnt 1901 das erste Auto mit dem Blitz ein Rennen. Tausende weitere Siege folgen, Opel schreibt Motorsportgeschichte: Allein der frühe Held Carl Jörns gewinnt mit Opel bis 1920 fast 300 Rennen. Unvergessen sind die Rekordversuche mit dem ersten Raketenfahrzeug RAK, mit dem Fritz von Opel neue Geschwindigkeitsrekorde aufstellen will. (Senderinfo).</desc>
+    <date>2014</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E44</episode-num>
+  </programme>
+  <programme start="20260811132000 +0000" stop="20260811135000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Super Cars</title>
+    <sub-title lang="de">AMG GT R – The Beast of the Green Hell</sub-title>
+    <desc lang="de">Es ist einer der spektakulärsten Auto-Spots der letzten zehn Jahre, 'The Beast of the Green Hell'. Stars des Spots sind der viermalige F1-Weltmeister Lewis Hamilton und einer der spektakulärsten Supersportwagen seit langem, der Mercedes-AMG GT R. Gedreht wird der Spot mit Hollywood-ähnlichem Aufwand am Nürburgring und in einer "grünen Hölle" in einem Dschungel in Thailand. The Beast of the Green Hell zeigt die atemberaubende Fahrt des Mercedes-AMG GT R durch die Grüne Hölle des Nürburgrings und durch die Grüne Hölle des Dschungels in Thailand – ein Spot der die Zuschauer in den Sitz presst wie die unglaubliche Kraft des GT R seinen Piloten be (Senderinfo).</desc>
+    <date>2017</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E202</episode-num>
+  </programme>
+  <programme start="20260811135000 +0000" stop="20260811144500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2026</title>
+    <sub-title lang="de">Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana</sub-title>
+    <date>2026</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20260811144500 +0000" stop="20260811151500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Superenduro World Championship 2023</title>
+    <sub-title lang="de">Grand Prix of Poland, Gliwice</sub-title>
+    <desc lang="de">Superenduro ist eine Indoor-Motorradmeisterschaft, bei der Fahrer ihre Konkurrenz in Sprintrennen schlagen müssen, während sie über Hindernisse auf der Strecke fahren (Senderinfo).</desc>
+    <date>2023</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20260811151500 +0000" stop="20260811160500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Sidecarcross World Championship 2026</title>
+    <sub-title lang="de">GP of Germany, Kleinhau</sub-title>
+    <desc lang="de">Die zweite Liga und der Nachwuchs der Australian ProMX Championship 2022 treffen sich an der Ostküste in Mackay für den zweiten Saisonlauf. Die Titelkämpfe spitzen sich in beiden Meisterschaften bereits in der frühen Phase des Jahres zu! (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260811160500 +0000" stop="20260811163500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Supermoto World and European Championship 2026</title>
+    <sub-title lang="de">GP Piemonte, Busca, Italy</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260811163500 +0000" stop="20260811170500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM Enduro World Championship 2026</title>
+    <sub-title lang="de">Grand Prix of Portugal, Fafe</sub-title>
+    <desc lang="de">In der Sendung werden besten Enduro-Piloten der Welt bei ihren Wettkämpfen rund um den Erdball begleitet. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">P</country>
+  </programme>
+  <programme start="20260811170500 +0000" stop="20260811180000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM X-Trial World Championship 2025</title>
+    <sub-title lang="de">Grand Prix von Österreich, Wiener Neustadt</sub-title>
+    <desc lang="de">Die X-Trial World Championship ist eine Indoor-Motorradserie, bei der Fahrer Hindernisse auf der Strecke bewältigen müssen (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811184500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">SportBike Race 1</sub-title>
+    <desc lang="de">In dieser Folge von der TT2024 bringen wir im Doppelpack die 2. Rennen der Supersportler und der Supertwins. Die Möglichkeit für Hicky und Davey zu kontern und für Michael Dunlop sein Rekordsiegerkonto bei der TT weiter aufzustocken. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260811184500 +0000" stop="20260811191500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Going Pro 2026</title>
+    <desc lang="de">Die siebte Staffel der Going Pro TV-Serie begleitet Damon Surzyshyn und die gesamte PROsport Racing-Mannschaft in der ADAC GT4 Germany-Saison 2026 (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811191500 +0000" stop="20260811194000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FastZone 2026</title>
+    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811194000 +0000" stop="20260811201000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Perfect Ride</title>
+    <sub-title lang="de">Deutsche Alltagshelden</sub-title>
+    <desc lang="de">Praktisch, komfortabel und Autobahn-erprobt. Diese deutschen Alltagshelden bringen den Einkauf nach Hause oder machen höllisch Spaß. Auf dem Lausitzring lassen wir die beiden stärksten VW Golfs gegeneinander antreten: GTI Clubsport versus R. Wer macht den Job besser? Und der neue VW Passat wird komfortabler und effizienter. Bringt er Volkswagen wieder auf Kurs? (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E106</episode-num>
+  </programme>
+  <programme start="20260811201000 +0000" stop="20260811203500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Super Cars</title>
+    <sub-title lang="de">Porsche Motorlegenden</sub-title>
+    <desc lang="de">Welcher Sportwagenfan träumt nicht insgeheim von einem Porsche 911. Es ist DER Sportwagen aus Deutschland. Kompakt, ikonisch und wertstabil. Und das, obwohl er mit über 1,3 Millionen Einheiten einer der meistgebauten Sportwagen aller Zeiten ist. Oldtimer-Händler Michael Schnabl, Gründer von Motorlegenden, macht Autoträume wahr. Sein Spezialgebiet: seltene und sündhaft teure Porsche-Modelle. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E234</episode-num>
+  </programme>
+  <programme start="20260811203500 +0000" stop="20260811210500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Grüne Welle</title>
+    <sub-title lang="de">Erfrischende Zukunft</sub-title>
+    <desc lang="de">Elektrisierende Innovationen und autonome Wunder: Die Zukunft des Autofahrens ist erfrischender als je zuvor! Zum Beispiel mit dem Ora Funky Cat. Ein charmantes E-Fahrzeug aus China mit einigen Besonderheiten. Und der Audi Activesphere Concept zeigt, wie die nächste Generation des Automobils aussieht. Hier wird die Grenze zwischen Realität und virtueller Welt aufgehoben. (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E64</episode-num>
+  </programme>
+  <programme start="20260811210500 +0000" stop="20260811213000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">On Tour</title>
+    <sub-title lang="de">Snow Mobile</sub-title>
+    <desc lang="de">In Saalbach Hinterglemm findet ein ganz besonderes Rennen statt: Der Snow Mobile Grand Prix. Beim großen Winteropening der Alpen scheut man keine Kosten und Mühen.15.000 Kubikmeter Schnee werden angekarrt, um den österreichischen Ort zum fünften Mal in eine weiße Rennstrecke zu verwandeln. Hier liefern sich Profis und Prominente Kufe an Kufe eine Schneeschlacht, die ihresgleichen sucht. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811213000 +0000" stop="20260811220000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">MotorStories</title>
+    <sub-title lang="de">Oldtimer Show and Race at Airport</sub-title>
+    <desc lang="de">Kati und Patrick aus München sind absolute US-Car Fans und stolze Besitzer einer 72er Chevrolet Chevelle. US-Car Spezialist Frank Slopianka von Special Cars Berlin hat das seltene Stück aufgestöbert und restauriert. In Paaren; Glien bei Berlin treffen sie Frank auf der alljährlichen Oldtimer Show, die bei über 5.000 Fahrzeugexponaten um die 45.000 Zuschauer anlockt. Der nächste Tag wird actionreich: Speed Junkie Frank muss sich mit seinem Dragster Camaro beim Race at Airport auf dem Flugplatz Werneuchen im Meile Racing gegen PS-starke Boliden batteln. Wird der 700 PS Renner gegen die harte Konkurrenz bestehen? (Senderinfo).</desc>
+    <date>2016</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20260811220000 +0000" stop="20260811225500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Isle of Man Tourist Trophy 2026</title>
+    <sub-title lang="de">SportBike Race 1</sub-title>
+    <desc lang="de">In dieser Folge von der TT2024 bringen wir im Doppelpack die 2. Rennen der Supersportler und der Supertwins. Die Möglichkeit für Hicky und Davey zu kontern und für Michael Dunlop sein Rekordsiegerkonto bei der TT weiter aufzustocken. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260811225500 +0000" stop="20260811231000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2009</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811231000 +0000" stop="20260811234000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">On Tour</title>
+    <sub-title lang="de">Kings of Xtreme</sub-title>
+    <desc lang="de">On Tour heute bei der Kings of Xtreme in Leipzig. Und Kings of Xtreme bedeutet auf jeden Fall eins, nämlich extrem! Und zwar Freestyle Motocross, nicht nur auf gewöhnlichen Motocross Bikes sondern auch auf BMX-Rädern, Quads und einem Snowmobil. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260811234000 +0000" stop="20260812000500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic</title>
+    <sub-title lang="de">Grab the Flag Rijeka</sub-title>
+    <desc lang="de">1963 ist das Jahr großer Sportikonen: Porsche präsentiert den 911, Lamborghini den 350 GT und Chevrolet die Corvette Sting Ray. Als Konkurrent, entwickelt das amerikanische Unternehmen Studebaker das Sportcoupe Avanti. Entworfen wurde das Coupe vom wichtigsten amerikanischen Industriedesigner Raymond Loewy. Doch gilt der Avanti als Designikone oder ist er ein stilistischer Missgriff? (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E111</episode-num>
   </programme>
   <channel id="plex.tv.MyTime.Movie.Network.plex">
     <display-name lang="en">MyTime Movie Network</display-name>
