@@ -853,12 +853,6 @@
     <country lang="de">NL</country>
     <episode-num system="onscreen">E212</episode-num>
   </programme>
-  <channel id="plex.tv.Action.Hollywood.Movies.plex">
-    <display-name lang="en">Action Hollywood Movies</display-name>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/21a23cba9cde4b4ab4ff43b5f9945498.jpg" />
-    <icon src="https://metadata-static.plex.tv/2/gracenote/21a23cba9cde4b4ab4ff43b5f9945498.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
   <channel id="plex.tv.MyTime.Movie.Network.plex">
     <display-name lang="en">MyTime Movie Network</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/1be8da4c-3ba8-48b6-98ea-e0272c6807ad/MT_PLEX_US_2000x3000_-_Sam_Abraham.jpg" />
@@ -871,542 +865,12 @@
     <icon src="https://metadata-static.plex.tv/0/gracenote/079fdb4784800f977d27debfcbbca8d3.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <programme start="20260808000000 +0000" stop="20260808021000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Assassination Bureau</title>
-    <desc lang="en">Ivan is a self-confident chief of an association of hit men for hire, who will refuse no well-paid offer--especially the lucrative challenge of an aspiring reporter. Reasoning that a running cat-and-mouse duel with his henchmen will rid the organization of incompetents, Ivan agrees to become the object of a nonstop hunt.</desc>
-    <date>1969</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9703e43aa73e7b08f5c20dca3ab96193.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808021000 +0000" stop="20260808040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Violent City</title>
-    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
-    <date>1970</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808040000 +0000" stop="20260808060000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Hit</title>
-    <desc lang="en">Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-    <date>1984</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/68af8b23310991f3cfcaf586ca7f53ef.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808060000 +0000" stop="20260808081000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Assassination Bureau</title>
-    <desc lang="en">Ivan is a self-confident chief of an association of hit men for hire, who will refuse no well-paid offer--especially the lucrative challenge of an aspiring reporter. Reasoning that a running cat-and-mouse duel with his henchmen will rid the organization of incompetents, Ivan agrees to become the object of a nonstop hunt.</desc>
-    <date>1969</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9703e43aa73e7b08f5c20dca3ab96193.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808081000 +0000" stop="20260808100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Violent City</title>
-    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
-    <date>1970</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808100000 +0000" stop="20260808120500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Red Sun</title>
-    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
-    <date>1971</date>
-    <category lang="en">Action</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808120500 +0000" stop="20260808140000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Breakout</title>
-    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
-    <date>1975</date>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Puppet On A Chain</title>
-    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
-    <date>1971</date>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808160000 +0000" stop="20260808180500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Red Sun</title>
-    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
-    <date>1971</date>
-    <category lang="en">Action</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808180500 +0000" stop="20260808200000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Breakout</title>
-    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
-    <date>1975</date>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808200000 +0000" stop="20260808220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Puppet On A Chain</title>
-    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
-    <date>1971</date>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260808220000 +0000" stop="20260809000500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Red Sun</title>
-    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
-    <date>1971</date>
-    <category lang="en">Action</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809000500 +0000" stop="20260809020000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Breakout</title>
-    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
-    <date>1975</date>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809020000 +0000" stop="20260809040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Puppet On A Chain</title>
-    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
-    <date>1971</date>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809040000 +0000" stop="20260809060500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Red Sun</title>
-    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
-    <date>1971</date>
-    <category lang="en">Action</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809060500 +0000" stop="20260809080000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Breakout</title>
-    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
-    <date>1975</date>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809080000 +0000" stop="20260809100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Puppet On A Chain</title>
-    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
-    <date>1971</date>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809100000 +0000" stop="20260809115000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Italian Connection</title>
-    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809115000 +0000" stop="20260809134500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Grand Duel</title>
-    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809134500 +0000" stop="20260809160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Farewell, Friend</title>
-    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
-    <date>1968</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809160000 +0000" stop="20260809175000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Italian Connection</title>
-    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809175000 +0000" stop="20260809194500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Grand Duel</title>
-    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809194500 +0000" stop="20260809220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Farewell, Friend</title>
-    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
-    <date>1968</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809220000 +0000" stop="20260809235000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Italian Connection</title>
-    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260809235000 +0000" stop="20260810014500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Grand Duel</title>
-    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810014500 +0000" stop="20260810040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Farewell, Friend</title>
-    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
-    <date>1968</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810040000 +0000" stop="20260810055000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Italian Connection</title>
-    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810055000 +0000" stop="20260810074500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Grand Duel</title>
-    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810074500 +0000" stop="20260810100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Farewell, Friend</title>
-    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
-    <date>1968</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810100000 +0000" stop="20260810120000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Mckenzie Break</title>
-    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
-    <date>1970</date>
-    <category lang="en">Action</category>
-    <category lang="en">War</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810120000 +0000" stop="20260810134500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Mad Bomber</title>
-    <desc lang="en">William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810134500 +0000" stop="20260810160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">My Name Is Nobody</title>
-    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810160000 +0000" stop="20260810180000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Mckenzie Break</title>
-    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
-    <date>1970</date>
-    <category lang="en">Action</category>
-    <category lang="en">War</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810180000 +0000" stop="20260810194500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Mad Bomber</title>
-    <desc lang="en">William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810194500 +0000" stop="20260810220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">My Name Is Nobody</title>
-    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260810220000 +0000" stop="20260811000000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Mckenzie Break</title>
-    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
-    <date>1970</date>
-    <category lang="en">Action</category>
-    <category lang="en">War</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811014500 +0000" stop="20260811040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">My Name Is Nobody</title>
-    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811040000 +0000" stop="20260811060000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Mckenzie Break</title>
-    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
-    <date>1970</date>
-    <category lang="en">Action</category>
-    <category lang="en">War</category>
-    <category lang="en">Drama</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811074500 +0000" stop="20260811100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">My Name Is Nobody</title>
-    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
-    <category lang="en">Adrenaline + Sci-Fi</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811100000 +0000" stop="20260811120000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">White Fang</title>
-    <desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>1973</date>
-    <category lang="en">Family</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811120000 +0000" stop="20260811135500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Violent City</title>
-    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
-    <date>1970</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811135500 +0000" stop="20260811160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Hit</title>
-    <desc lang="en">Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-    <date>1984</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/68af8b23310991f3cfcaf586ca7f53ef.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">White Fang</title>
-    <desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>1973</date>
-    <category lang="en">Family</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811180000 +0000" stop="20260811195500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Violent City</title>
-    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
-    <date>1970</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811195500 +0000" stop="20260811220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">The Hit</title>
-    <desc lang="en">Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-    <date>1984</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/68af8b23310991f3cfcaf586ca7f53ef.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260811220000 +0000" stop="20260812000000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">White Fang</title>
-    <desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>1973</date>
-    <category lang="en">Family</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
+  <channel id="plex.tv.Action.Hollywood.Movies.plex">
+    <display-name lang="en">Action Hollywood Movies</display-name>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/21a23cba9cde4b4ab4ff43b5f9945498.jpg" />
+    <icon src="https://metadata-static.plex.tv/2/gracenote/21a23cba9cde4b4ab4ff43b5f9945498.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
   <programme start="20260808004500 +0000" stop="20260808024000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
     <title lang="en">Fatal Memories</title>
     <desc lang="en">In this thriller, a woman tries to help her sister recall the events of the fatal stabbing of their mother.</desc>
@@ -2590,6 +2054,542 @@
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
     <icon src="https://metadata-static.plex.tv/2/gracenote/284ad895b22ebb5daf1d11afbf5aa963.jpg" />
+  </programme>
+  <programme start="20260808000000 +0000" stop="20260808021000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Assassination Bureau</title>
+    <desc lang="en">Ivan is a self-confident chief of an association of hit men for hire, who will refuse no well-paid offer--especially the lucrative challenge of an aspiring reporter. Reasoning that a running cat-and-mouse duel with his henchmen will rid the organization of incompetents, Ivan agrees to become the object of a nonstop hunt.</desc>
+    <date>1969</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9703e43aa73e7b08f5c20dca3ab96193.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808021000 +0000" stop="20260808040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Violent City</title>
+    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
+    <date>1970</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808040000 +0000" stop="20260808060000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Hit</title>
+    <desc lang="en">Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
+    <date>1984</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/68af8b23310991f3cfcaf586ca7f53ef.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808060000 +0000" stop="20260808081000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Assassination Bureau</title>
+    <desc lang="en">Ivan is a self-confident chief of an association of hit men for hire, who will refuse no well-paid offer--especially the lucrative challenge of an aspiring reporter. Reasoning that a running cat-and-mouse duel with his henchmen will rid the organization of incompetents, Ivan agrees to become the object of a nonstop hunt.</desc>
+    <date>1969</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9703e43aa73e7b08f5c20dca3ab96193.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808081000 +0000" stop="20260808100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Violent City</title>
+    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
+    <date>1970</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808100000 +0000" stop="20260808120500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Red Sun</title>
+    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
+    <date>1971</date>
+    <category lang="en">Action</category>
+    <category lang="en">Western</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808120500 +0000" stop="20260808140000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Breakout</title>
+    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
+    <date>1975</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Puppet On A Chain</title>
+    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
+    <date>1971</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260808180500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Red Sun</title>
+    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
+    <date>1971</date>
+    <category lang="en">Action</category>
+    <category lang="en">Western</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808180500 +0000" stop="20260808200000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Breakout</title>
+    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
+    <date>1975</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808200000 +0000" stop="20260808220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Puppet On A Chain</title>
+    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
+    <date>1971</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260808220000 +0000" stop="20260809000500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Red Sun</title>
+    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
+    <date>1971</date>
+    <category lang="en">Action</category>
+    <category lang="en">Western</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809000500 +0000" stop="20260809020000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Breakout</title>
+    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
+    <date>1975</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809020000 +0000" stop="20260809040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Puppet On A Chain</title>
+    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
+    <date>1971</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809040000 +0000" stop="20260809060500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Red Sun</title>
+    <desc lang="en">In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift for the U.S. President, prompting a manhunt to retrieve it.</desc>
+    <date>1971</date>
+    <category lang="en">Action</category>
+    <category lang="en">Western</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3f429928af994d34c6c2db2e92abe885.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809060500 +0000" stop="20260809080000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Breakout</title>
+    <desc lang="en">A bush pilot is hired for '300,000 to go to Mexico to free an innocent prisoner.</desc>
+    <date>1975</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cb318987106ff180419d6ad7484b84ba.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809080000 +0000" stop="20260809100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Puppet On A Chain</title>
+    <desc lang="en">Following a triple professional hit a U.S. agent arrives in Amsterdam to investigate a heroin smuggling ring. He finds a city rife with drugs and a police force unable or unwilling to do much about it. With his incognito female fellow agent the American is soon stirring things up.</desc>
+    <date>1971</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a94ff24ce83f3baa88799436a0294c16.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809100000 +0000" stop="20260809115000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Italian Connection</title>
+    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809115000 +0000" stop="20260809134500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Grand Duel</title>
+    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809134500 +0000" stop="20260809160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Farewell, Friend</title>
+    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
+    <date>1968</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809160000 +0000" stop="20260809175000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Italian Connection</title>
+    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809175000 +0000" stop="20260809194500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Grand Duel</title>
+    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809194500 +0000" stop="20260809220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Farewell, Friend</title>
+    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
+    <date>1968</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809220000 +0000" stop="20260809235000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Italian Connection</title>
+    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260809235000 +0000" stop="20260810014500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Grand Duel</title>
+    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810014500 +0000" stop="20260810040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Farewell, Friend</title>
+    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
+    <date>1968</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810040000 +0000" stop="20260810055000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Italian Connection</title>
+    <desc lang="en">The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810055000 +0000" stop="20260810074500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Grand Duel</title>
+    <desc lang="en">A grizzled ex-sheriff helps a man framed for murder to confront the powerful trio of brothers who want him dead.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810074500 +0000" stop="20260810100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Farewell, Friend</title>
+    <desc lang="en">After an overseas deployment, two former French Foreign Legion members plan to break into the vault of a French corporation.</desc>
+    <date>1968</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1b8d7e13d78a8ba23a472cc9bd8a9eb8.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810100000 +0000" stop="20260810120000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Mckenzie Break</title>
+    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
+    <date>1970</date>
+    <category lang="en">Action</category>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810120000 +0000" stop="20260810134500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Mad Bomber</title>
+    <desc lang="en">William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810134500 +0000" stop="20260810160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">My Name Is Nobody</title>
+    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810160000 +0000" stop="20260810180000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Mckenzie Break</title>
+    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
+    <date>1970</date>
+    <category lang="en">Action</category>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810180000 +0000" stop="20260810194500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Mad Bomber</title>
+    <desc lang="en">William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810194500 +0000" stop="20260810220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">My Name Is Nobody</title>
+    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260810220000 +0000" stop="20260811000000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Mckenzie Break</title>
+    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
+    <date>1970</date>
+    <category lang="en">Action</category>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811014500 +0000" stop="20260811040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">My Name Is Nobody</title>
+    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811040000 +0000" stop="20260811060000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Mckenzie Break</title>
+    <desc lang="en">During WW2, German POWs in Britain plot to escape from their prison camp in Scotland.</desc>
+    <date>1970</date>
+    <category lang="en">Action</category>
+    <category lang="en">War</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7d22c94d0893d31b5d3443b9a7189b04.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811074500 +0000" stop="20260811100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">My Name Is Nobody</title>
+    <desc lang="en">A young, easygoing gunman worships and competes with an old gunfighter who only wants to retire.</desc>
+    <category lang="en">Adrenaline + Sci-Fi</category>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811100000 +0000" stop="20260811120000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">White Fang</title>
+    <desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
+    <date>1973</date>
+    <category lang="en">Family</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811120000 +0000" stop="20260811135500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Violent City</title>
+    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
+    <date>1970</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811135500 +0000" stop="20260811160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Hit</title>
+    <desc lang="en">Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
+    <date>1984</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/68af8b23310991f3cfcaf586ca7f53ef.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">White Fang</title>
+    <desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
+    <date>1973</date>
+    <category lang="en">Family</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811195500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">Violent City</title>
+    <desc lang="en">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
+    <date>1970</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/286893703f72dcb3ae56af80ab33c56f.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811195500 +0000" stop="20260811220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">The Hit</title>
+    <desc lang="en">Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
+    <date>1984</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/68af8b23310991f3cfcaf586ca7f53ef.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260811220000 +0000" stop="20260812000000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
+    <title lang="en">White Fang</title>
+    <desc lang="en">The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
+    <date>1973</date>
+    <category lang="en">Family</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6ef7ef3d4130e99efa68ab4795d61f72.jpg" />
+    <rating system="US">
+      <value>PG</value>
+    </rating>
   </programme>
   <channel id="Rally.TV.de">
     <display-name lang="en">Rally TV</display-name>
