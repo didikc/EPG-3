@@ -6066,1490 +6066,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260809042400 +0000" stop="20260809050600 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Monsters</sub-title>
-    <desc lang="en">Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria; morality proves tricky in wartime.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Greg Nicotero</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E3</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809050600 +0000" stop="20260809054900 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Some Guy</sub-title>
-    <desc lang="en">A new weapon in the Savior arsenal proves to be a giant hurdle as fighting continues between Rick's forces and those of the Saviors.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E4</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809054900 +0000" stop="20260809064200 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">The Big Scary U</sub-title>
-    <desc lang="en">A close look at Negan and the lives of the Saviors during the conflict through a familiar set of eyes.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809064200 +0000" stop="20260809072800 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">The King, the Widow, and Rick</sub-title>
-    <desc lang="en">With things looking up for Rick and the group, an argument breaks out at the Hilltop; the consequences of the decision are life versus death.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E6</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809072800 +0000" stop="20260809081300 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Time for After</sub-title>
-    <desc lang="en">Negan has to enlist the help of his lieutenants in solving a huge issue facing the Sanctuary; Rick and the group continue to enact the plan.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E7</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809081300 +0000" stop="20260809091600 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">How It's Gotta Be</sub-title>
-    <desc lang="en">Every story and battle from the first half of the season comes crashing together in this action-packed, emotional mid-season finale.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E8</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809091600 +0000" stop="20260809101300 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Honor</sub-title>
-    <desc lang="en">Rick faces new difficulties after a battle; the fight continues in other communities as core members face hard decisions.</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Greg Nicotero</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E9</episode-num>
-    <previously-shown />  <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809101300 +0000" stop="20260809110100 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Novi Dan, Novi Početak</sub-title>
-    <desc lang="en">Negan and Maggie go on harrowing journeys and face unexpected challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809110100 +0000" stop="20260809114500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">If History Were a Conflagration</sub-title>
-    <desc lang="en">Maggie makes a painful choice; Negan puts on a show.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809114500 +0000" stop="20260809123600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Power Equals Power</sub-title>
-    <desc lang="en">In the war for control of Manhattan, Maggie and Negan find themselves trapped on opposite sides of the war.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809123600 +0000" stop="20260809132000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Another S... Lesson</sub-title>
-    <desc lang="en">Maggie begins a journey back to the island; Negan joins the fight.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809132000 +0000" stop="20260809141000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Why Did the Mainlanders Cross the River?</sub-title>
-    <desc lang="en">Negan tries something new with The Croat; Maggie travels into a dangerous, surprising place.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Edward Ornelas</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809141000 +0000" stop="20260809145900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Feisty Friendly</sub-title>
-    <desc lang="en">Maggie uncovers information; Negan attempts to outmaneuver a slippery foe.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809145900 +0000" stop="20260809154900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">The Bird Always Knows</sub-title>
-    <desc lang="en">Negan makes some big moves, while Maggie takes matters into her own hands.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809154900 +0000" stop="20260809163900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Bridge Partners Are Hard to Come By These Days</sub-title>
-    <desc lang="en">Maggie considers making an alliance, as the outcome of Negan's actions comes to a head.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Cohan</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809163900 +0000" stop="20260809172700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Novi Dan, Novi Početak</sub-title>
-    <desc lang="en">Negan and Maggie go on harrowing journeys and face unexpected challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809172700 +0000" stop="20260809181100 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">If History Were a Conflagration</sub-title>
-    <desc lang="en">Maggie makes a painful choice; Negan puts on a show.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809181100 +0000" stop="20260809190200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Power Equals Power</sub-title>
-    <desc lang="en">In the war for control of Manhattan, Maggie and Negan find themselves trapped on opposite sides of the war.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809190200 +0000" stop="20260809194600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Another S... Lesson</sub-title>
-    <desc lang="en">Maggie begins a journey back to the island; Negan joins the fight.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809194600 +0000" stop="20260809203600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Why Did the Mainlanders Cross the River?</sub-title>
-    <desc lang="en">Negan tries something new with The Croat; Maggie travels into a dangerous, surprising place.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Edward Ornelas</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809203600 +0000" stop="20260809212500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Feisty Friendly</sub-title>
-    <desc lang="en">Maggie uncovers information; Negan attempts to outmaneuver a slippery foe.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809212500 +0000" stop="20260809221500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">The Bird Always Knows</sub-title>
-    <desc lang="en">Negan makes some big moves, while Maggie takes matters into her own hands.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809221500 +0000" stop="20260809230500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Bridge Partners Are Hard to Come By These Days</sub-title>
-    <desc lang="en">Maggie considers making an alliance, as the outcome of Negan's actions comes to a head.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Cohan</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809230500 +0000" stop="20260809235300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Novi Dan, Novi Početak</sub-title>
-    <desc lang="en">Negan and Maggie go on harrowing journeys and face unexpected challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260809235300 +0000" stop="20260810003700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">If History Were a Conflagration</sub-title>
-    <desc lang="en">Maggie makes a painful choice; Negan puts on a show.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260810003700 +0000" stop="20260810013000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260810013000 +0000" stop="20260810021900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260810021900 +0000" stop="20260810031200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260810031200 +0000" stop="20260810040100 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260810040100 +0000" stop="20260810045200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Power Equals Power</sub-title>
-    <desc lang="en">In the war for control of Manhattan, Maggie and Negan find themselves trapped on opposite sides of the war.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Michael E. Satrazemis</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24459486_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260810045200 +0000" stop="20260810053600 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
     <sub-title lang="en">Another S... Lesson</sub-title>
@@ -11687,36 +10215,1069 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260809030000 +0000" stop="20260809100000 +0000">
-    <title lang="en">ATP/WTA Tennis</title>
-    <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16775787_b_h8_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260809100000 +0000" stop="20260809153000 +0000">
-    <title lang="en">ATP/WTA Tennis</title>
-    <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16775787_b_h8_af.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260809153000 +0000" stop="20260809163000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2025</date>
+  <programme channel="AMC+.us2" start="20260813051100 +0000" stop="20260813055500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">The Male Rain Approaches</sub-title>
+    <desc lang="en">Leaphorn and Chee interview the surviving witness to the Big Rock Motel murders; Chee meets with the coroner; the cause of death remains a mystery; Sgt. Manuelito makes a chilling discovery of her own.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260809163000 +0000" stop="20260810030000 +0000">
-    <title lang="en">Live: ATP/WTA Tennis</title>
-    <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16775787_b_h8_af.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260813055500 +0000" stop="20260813064000 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">K'e</sub-title>
+    <desc lang="en">Leaphorn's niece celebrates her Kinaaldá as Leaphorn retrieves the bodies of the murder victims; Manuelito and Chee investigate the whereabouts of the missing Mormon family.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813064000 +0000" stop="20260813072400 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Hooghandi</sub-title>
+    <desc lang="en">Leaphorn suspects all the crimes on the reservation are related; there is a big break in the case; Leaphorn invites Chee over for dinner; Manuelito makes a discovery of her own.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813072400 +0000" stop="20260813080800 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ha'íínlni</sub-title>
+    <desc lang="en">With a major suspect in custody, Leaphorn discovers that there is more to this crime than he would have ever imagined; Manuelito faces her worst fears; Chee must make a choice between his career and his people.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813080800 +0000" stop="20260813084800 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">HózhóoNaasháa</sub-title>
+    <desc lang="en">Leaphorn, Chee and Manuelito descend on the hiding place of the Buffalo Society, only to be confronted with hard decisions that could change the outcome of the rest of their lives.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+      <director>Sanford Bookstaver</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813084800 +0000" stop="20260813093800 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Monster Slayer</sub-title>
+    <desc lang="en">Navajo Tribal Policeman Joe Leaphorn must solve a series of crimes; he partners with new deputy, Jim Chee, who is back on the reservation for the first time since he was a child; together they face down evil forces, both earthly and supernatural.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813093800 +0000" stop="20260813102100 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">The Male Rain Approaches</sub-title>
+    <desc lang="en">Leaphorn and Chee interview the surviving witness to the Big Rock Motel murders; Chee meets with the coroner; the cause of death remains a mystery; Sgt. Manuelito makes a chilling discovery of her own.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813102100 +0000" stop="20260813111000 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Blood</sub-title>
+    <desc lang="en">After a locksmith's murder, Billie recognizes the victim, and the investigation forces her to wrestle with her personal and professional ethics; Vivienne pleads with her ex-husband to do the right thing, but he fears they're both in danger.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813111000 +0000" stop="20260813115600 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Control Freak</sub-title>
+    <desc lang="en">When the police inform a new widow of her husband's murder, she seems unaffected and points the finger at her brother-in-law, who points his finger right back; David tries to convince Mulgrew to reveal what he knows.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813115600 +0000" stop="20260813124300 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Crossing the Line</sub-title>
+    <desc lang="en">With the murder of another black police officer, the team suspects the killer cop harbors racial motivations and move quickly to save a high-profile target; David and Vivienne cross a huge line.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813124300 +0000" stop="20260813133100 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Grace</sub-title>
+    <desc lang="en">A series of murders point to a killer lurking within the police force; the case holds deeply personal ramifications for the team led by DI David Bradford, involving DS Cole's ex-husband and threats to DC Brady's family.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813133100 +0000" stop="20260813141700 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Cyber Bully</sub-title>
+    <desc lang="en">After the discovery of schoolboy Luis Moretti dead in a lake, the detectives learn of a potential connection to the recent suicide of a young girl; Vivienne shares her suspicions with David and reveals her past relationship with the chief.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813141700 +0000" stop="20260813150600 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Blood</sub-title>
+    <desc lang="en">After a locksmith's murder, Billie recognizes the victim, and the investigation forces her to wrestle with her personal and professional ethics; Vivienne pleads with her ex-husband to do the right thing, but he fears they're both in danger.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813150600 +0000" stop="20260813155200 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Control Freak</sub-title>
+    <desc lang="en">When the police inform a new widow of her husband's murder, she seems unaffected and points the finger at her brother-in-law, who points his finger right back; David tries to convince Mulgrew to reveal what he knows.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813155200 +0000" stop="20260813163900 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Crossing the Line</sub-title>
+    <desc lang="en">With the murder of another black police officer, the team suspects the killer cop harbors racial motivations and move quickly to save a high-profile target; David and Vivienne cross a huge line.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813163900 +0000" stop="20260813172600 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Wake-up Call</sub-title>
+    <desc lang="en">DC Rob Brady wakes up in his car with a witness lying dead next to him and is arrested on suspicion of murder; in his eagerness to clear Rob's name, DI David Bradford interferes with the investigation against DS Vivienne Cole's advice.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813172600 +0000" stop="20260813181200 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Fallout</sub-title>
+    <desc lang="en">When Major Len Miller is found dead at the bottom of his stairs, a bloody fingerprint implicates his grandson; as David and Vivienne shed light on a dark secret from the major's past, they also must deal with the fallout from their indiscretion.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813181200 +0000" stop="20260813185900 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Old Wounds</sub-title>
+    <desc lang="en">After young medical student Japesh Patel is stabbed to death, Billie wonders if it's connected to a similar, non-fatal attack on a gang member; tensions between David and Vivienne reach a breaking point.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813185900 +0000" stop="20260813194500 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Amnesia</sub-title>
+    <desc lang="en">A delivery driver is killed, and a trace of his movements places him at a pub that his wife frequents; she has a motive, but she's an alcoholic and can't remember if she killed him or not; when David doesn't turn up for work, Vivienne confronts him.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813194500 +0000" stop="20260813203300 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Vendetta</sub-title>
+    <desc lang="en">A boxer confesses to killing her manager, but the detectives think she may be covering for her father; when a suspect accuses David of planting evidence, he's devastated to realize the team has doubts, and he makes a decision about his future.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813203300 +0000" stop="20260813212000 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Wake-up Call</sub-title>
+    <desc lang="en">DC Rob Brady wakes up in his car with a witness lying dead next to him and is arrested on suspicion of murder; in his eagerness to clear Rob's name, DI David Bradford interferes with the investigation against DS Vivienne Cole's advice.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813212000 +0000" stop="20260813220600 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Fallout</sub-title>
+    <desc lang="en">When Major Len Miller is found dead at the bottom of his stairs, a bloody fingerprint implicates his grandson; as David and Vivienne shed light on a dark secret from the major's past, they also must deal with the fallout from their indiscretion.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813220600 +0000" stop="20260813225300 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Old Wounds</sub-title>
+    <desc lang="en">After young medical student Japesh Patel is stabbed to death, Billie wonders if it's connected to a similar, non-fatal attack on a gang member; tensions between David and Vivienne reach a breaking point.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813225300 +0000" stop="20260813233900 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Amnesia</sub-title>
+    <desc lang="en">A delivery driver is killed, and a trace of his movements places him at a pub that his wife frequents; she has a motive, but she's an alcoholic and can't remember if she killed him or not; when David doesn't turn up for work, Vivienne confronts him.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260813233900 +0000" stop="20260814002700 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Vendetta</sub-title>
+    <desc lang="en">A boxer confesses to killing her manager, but the detectives think she may be covering for her father; when a suspect accuses David of planting evidence, he's devastated to realize the team has doubts, and he makes a decision about his future.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260814002700 +0000" stop="20260814011500 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Grace</sub-title>
+    <desc lang="en">A series of murders point to a killer lurking within the police force; the case holds deeply personal ramifications for the team led by DI David Bradford, involving DS Cole's ex-husband and threats to DC Brady's family.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260814011500 +0000" stop="20260814020100 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Cyber Bully</sub-title>
+    <desc lang="en">After the discovery of schoolboy Luis Moretti dead in a lake, the detectives learn of a potential connection to the recent suicide of a young girl; Vivienne shares her suspicions with David and reveals her past relationship with the chief.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260814020100 +0000" stop="20260814025000 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Blood</sub-title>
+    <desc lang="en">After a locksmith's murder, Billie recognizes the victim, and the investigation forces her to wrestle with her personal and professional ethics; Vivienne pleads with her ex-husband to do the right thing, but he fears they're both in danger.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260814025000 +0000" stop="20260814033600 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Control Freak</sub-title>
+    <desc lang="en">When the police inform a new widow of her husband's murder, she seems unaffected and points the finger at her brother-in-law, who points his finger right back; David tries to convince Mulgrew to reveal what he knows.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260814033600 +0000" stop="20260814042300 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Crossing the Line</sub-title>
+    <desc lang="en">With the murder of another black police officer, the team suspects the killer cop harbors racial motivations and move quickly to save a high-profile target; David and Vivienne cross a huge line.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16592335_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260814042300 +0000" stop="20260814051000 +0000">
+    <title lang="en">London Kills</title>
+    <sub-title lang="en">Wake-up Call</sub-title>
+    <desc lang="en">DC Rob Brady wakes up in his car with a witness lying dead next to him and is arrested on suspicion of murder; in his eagerness to clear Rob's name, DI David Bradford interferes with the investigation against DS Vivienne Cole's advice.</desc>
+    <credits>
+      <actor>Hugo Speer</actor>
+      <actor>Sharon Small</actor>
+      <actor>Bailey Patrick</actor>
+      <director>Craig Pickles</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24969231_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260810030000 +0000" stop="20260810100000 +0000">
     <title lang="en">ATP/WTA Tennis</title>
@@ -11830,6 +11391,52 @@
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260813030000 +0000" stop="20260813100000 +0000">
+    <title lang="en">ATP/WTA Tennis</title>
+    <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16775787_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260813100000 +0000" stop="20260813140000 +0000">
+    <title lang="en">ATP/WTA Tennis</title>
+    <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16775787_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260813140000 +0000" stop="20260813150000 +0000">
+    <title lang="en">Tennis Channel Live at Cincinnati</title>
+    <desc lang="en">Tennis Channel is live from the Lindner Family Tennis Center in Cincinnati for the 2025 Cincinnati Open Tennis tournament.</desc>
+    <date>2025</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30676192_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260813150000 +0000" stop="20260813220000 +0000">
+    <title lang="en">Live: 2026 Cincinnati Open Tennis</title>
+    <desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33188385_b_h8_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260813220000 +0000" stop="20260814020000 +0000">
+    <title lang="en">Live: ATP/WTA Tennis</title>
+    <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16775787_b_h8_af.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260814020000 +0000" stop="20260814030000 +0000">
+    <title lang="en">Live: 2026 Cincinnati Open Tennis</title>
+    <desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33188385_b_h8_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260814030000 +0000" stop="20260814100000 +0000">
     <title lang="en">ATP/WTA Tennis</title>
     <desc lang="en">Coverage and highlights of ATP/WTA action.</desc>
     <category lang="en">Sports</category>
