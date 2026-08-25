@@ -6044,1847 +6044,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260823045400 +0000" stop="20260823054300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823054300 +0000" stop="20260823062600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823062600 +0000" stop="20260823071000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823071000 +0000" stop="20260823080300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823080300 +0000" stop="20260823085200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823085200 +0000" stop="20260823093500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823093500 +0000" stop="20260823101800 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823101800 +0000" stop="20260823110300 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">On the Inside</sub-title>
-    <desc lang="en">Escaping from walkers, Connie and Virgil hide in a house occupied by mysterious creatures; Pope tests Daryl's loyalty to the Reapers with a conflicting mission; Kelly leaves Alexandria in search of Connie.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E6</episode-num>
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823110300 +0000" stop="20260823114900 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Promises Broken</sub-title>
-    <desc lang="en">Maggie and Elijah learn a new survival tactic from Negan; Eugene's group clears walkers to pay their fines; Yumiko interviews for an upper-class job; Daryl learns more about Leah and the Reapers; Gabriel encounters a man of God.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E7</episode-num>
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823114900 +0000" stop="20260823123100 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">For Blood</sub-title>
-    <desc lang="en">The Reapers defend Meridian from an incoming herd; Pope suspects Maggie is behind the attack, while Daryl treads carefully; Alexandrians scramble to protect themselves when a violent storm leaves them vulnerable to walkers.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E8</episode-num>
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823123100 +0000" stop="20260823131600 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">No Other Way</sub-title>
-    <desc lang="en">Daryl, Maggie, Gabriel, Negan and Elijah battle the Reapers for food; Aaron and the Alexandrians must survive a storm.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Jon Amiel</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E9</episode-num>
-    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823131600 +0000" stop="20260823140200 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">New Haunts</sub-title>
-    <desc lang="en">The heroes experience Halloween in the Commonwealth; Daryl and Rosita undergo military training led by Mercer; Carol investigates Ezekiel's medical condition.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Jon Amiel</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E10</episode-num>
-    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823140200 +0000" stop="20260823145000 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Rogue Element</sub-title>
-    <desc lang="en">Eugene looks for Stephanie after she mysteriously goes missing; Connie investigates a story on Trooper Davis; Carol helps Hornsby with a labor dispute at a drug farm.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Michael Cudlitz</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E11</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823145000 +0000" stop="20260823153600 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">The Lucky Ones</sub-title>
-    <desc lang="en">Aaron and Maggie meet Gov. Pamela Milton as she tours Alexandria, Oceanside and Hilltop; Ezekiel finds himself lucky during a routine checkup; Eugene processes Max's story.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Tawnia McKiernan</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E12</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823153600 +0000" stop="20260823162100 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Warlords</sub-title>
-    <desc lang="en">Maggie, Lydia and Elijah help a stranger from another community called Riverbend; they run into Aaron, who tells them about a mission he embarked on with Gabriel as emissaries for the Commonwealth.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Loren Yaconelli</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E13</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823162100 +0000" stop="20260823170500 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">The Rotten Core</sub-title>
-    <desc lang="en">Maggie, Lydia and Elijah help Aaron and Gabriel on a rescue mission; in the chaos, Negan finds himself watching over Hershel; Sebastian coerces Daryl and Rosita into pulling a heist.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Marcus Stokes</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E14</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823170500 +0000" stop="20260823175100 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Trust</sub-title>
-    <desc lang="en">Hornsby marches Daryl and troops to confront Maggie at Hilltop; after a harrowing heist, Rosita gets Connie, Kelly, Eugene, and Max to investigate the Miltons; Ezekiel helps hospital patients in need.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Lily Mariye</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E15</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823175100 +0000" stop="20260823183300 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Acts of God</sub-title>
-    <desc lang="en">Maggie prepares to defend Hilltop and the people of Riverbend against Hornsby; Hornsby hires Leah to kill Maggie.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Catriona McKenzie</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E16</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823183300 +0000" stop="20260823191800 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Lockdown</sub-title>
-    <desc lang="en">Daryl and Negan rush to the Commonwealth to stop Hornsby from going after their families; Pamela deals with protestors demanding justice for Sebastian's crimes; Mercer needs Rosita's help to fight a swarm.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Greg Nicotero</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E17</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823191800 +0000" stop="20260823200400 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">A New Deal</sub-title>
-    <desc lang="en">Carol makes a deal with Pamela to wipe the slate clean on behalf of her friends; Aaron, Jerry, Lydia and Elijah get on the road to Oceanside to fill them in on a plan; the Commonwealth celebrates Founders Day.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Jeffrey F. January</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E18</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823200400 +0000" stop="20260823205300 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Variant</sub-title>
-    <desc lang="en">Eugene goes on the run after the Founders Day incident; Pamela tasks Mercer to investigate his whereabouts, to Max and Princess' dismay; Aaron, Jerry, Lydia and Elijah encounter an unusual complication at an abandoned Renaissance Faire.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Karen Gaviola</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E19</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823205300 +0000" stop="20260823213600 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">What's Been Lost</sub-title>
-    <desc lang="en">Daryl and Carol investigate the whereabouts of their friends after Pamela disappears them from the Commonwealth; Pamela asks Yumiko to prosecute Eugene on behalf of the Commonwealth.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Aisha Tyler</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E20</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823213600 +0000" stop="20260823222400 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Outpost 22</sub-title>
-    <desc lang="en">Separated from their children, Maggie, Gabriel and Rosita track a military convoy to a mysterious destination; Ezekiel, Kelly, Negan and Annie find themselves at a work site; Daryl and Carol follow a train that has taken Connie aboard.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Tawnia McKiernan</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E21</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823222400 +0000" stop="20260823230900 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Faith</sub-title>
-    <desc lang="en">Ezekiel and Negan team up to lead a clandestine labor revolt against the warden; Aaron, Jerry, Lydia and Elijah catch up with Luke and Jules fleeing Oceanside; Eugene stands trial with Yumiko as his defense attorney.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Rose Troche</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E22</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823230900 +0000" stop="20260823235300 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Family</sub-title>
-    <desc lang="en">The Alexandrians and the prisoners head back to the Commonwealth to confront Pamela Milton; a swarm approaches the city.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E23</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260823235300 +0000" stop="20260824005800 +0000">
-    <title lang="en">The Walking Dead</title>
-    <sub-title lang="en">Rest in Peace</sub-title>
-    <desc lang="en">Daryl and Carol rush Judith to the hospital; Rosita, Eugene and Gabriel search for Coco; Maggie and Negan take arms against Pamela; as the citizens of the Commonwealth deal with the herd, the heroes assemble for one last stand to save their future.</desc>
-    <credits>
-      <actor>Norman Reedus</actor>
-      <actor>Melissa McBride</actor>
-      <actor>Lauren Cohan</actor>
-      <director>Greg Nicotero</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8282918_b_h8_bo.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S11 E24</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260824005800 +0000" stop="20260824015100 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260824015100 +0000" stop="20260824024000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260824024000 +0000" stop="20260824032300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260824032300 +0000" stop="20260824040700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260824040700 +0000" stop="20260824050000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are back.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260824050000 +0000" stop="20260824054900 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
     <sub-title lang="en">Haven</sub-title>
@@ -8259,6 +6430,7 @@
       <actor>Lauren Cohan</actor>
       <actor>Jeffrey Dean Morgan</actor>
       <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -8464,6 +6636,7 @@
       <actor>Lauren Cohan</actor>
       <actor>Jeffrey Dean Morgan</actor>
       <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -8669,6 +6842,7 @@
       <actor>Lauren Cohan</actor>
       <actor>Jeffrey Dean Morgan</actor>
       <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -8874,6 +7048,7 @@
       <actor>Lauren Cohan</actor>
       <actor>Jeffrey Dean Morgan</actor>
       <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -9079,6 +7254,7 @@
       <actor>Lauren Cohan</actor>
       <actor>Jeffrey Dean Morgan</actor>
       <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -9284,6 +7460,7 @@
       <actor>Lauren Cohan</actor>
       <actor>Jeffrey Dean Morgan</actor>
       <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -11259,55 +9436,884 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260823013000 +0000" stop="20260823100000 +0000">
-    <title lang="en">2026 Cincinnati Open Tennis</title>
-    <desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33450738_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260823100000 +0000" stop="20260823170000 +0000">
-    <title lang="en">2026 Cincinnati Open Tennis</title>
-    <desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33450738_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260823170000 +0000" stop="20260823180000 +0000">
-    <title lang="en">Tennis Channel Live at Cincinnati</title>
-    <desc lang="en">Tennis Channel is live from the Lindner Family Tennis Center in Cincinnati for the 2025 Cincinnati Open Tennis tournament.</desc>
-    <date>2025</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30676192_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260823180000 +0000" stop="20260824010000 +0000">
-    <title lang="en">Live: 2026 Cincinnati Open Tennis</title>
-    <desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33450746_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260824010000 +0000" stop="20260824020000 +0000">
-    <title lang="en">The Big T Podcast</title>
-    <desc lang="en">Observations and conversations about the sport of tennis.</desc>
+  <programme channel="AMC+.us2" start="20260827051100 +0000" stop="20260827055500 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">T'áá Áłts'íísígo (Just a Small Piece)</sub-title>
+    <desc lang="en">Leaphorn and Chee retrace their steps after uncovering a vital clue; Special Agent Washington presses for more information; Manuelito moves quickly to execute a search warrant.</desc>
     <credits>
-      <actor>Brad Gilbert</actor>
-      <actor>CoCo Vandeweghe</actor>
-      <actor>Andrea Petkovic</actor>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Steven Judd</director>
+      <director>Steven Paul Judd</director>
     </credits>
-    <date>2026</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32116522_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating>
     <rating system="Régie du cinéma">
-      <value>G</value>
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827055500 +0000" stop="20260827064100 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Béésh Łį́į́ (Iron Horse)</sub-title>
+    <desc lang="en">Leaphorn and Chee call upon all their resources to solve the case and serve justice after learning the identity of the killer; Bernadette fights for her life after coming face-to-face with the truth.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Chris Eyre</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827064100 +0000" stop="20260827072900 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ye'iitsoh (Big Monster)</sub-title>
+    <desc lang="en">Lt. Joe Leaphorn and Sgt. Jim Chee investigate the disappearance of a Navajo boy; Manuelito makes a sinister discovery while adjusting to life on the border patrol; an FBI agent comes to solve a case linked to Leaphorn's recent past.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827072900 +0000" stop="20260827081600 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Náá'tsoh (Big Eyes)</sub-title>
+    <desc lang="en">Leaphorn and Chee find themselves on a manhunt after making a shocking discovery; Special Agent Washington questions Leaphorn about a person of interest; Manuelito puts her job on the line when she searches for answers at a local ranch.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+      <director>Michael Nankin</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827081600 +0000" stop="20260827090200 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Ch'į́į́dii (Ghosts)</sub-title>
+    <desc lang="en">After a close call, Leaphorn and Chee follow the trail of a new suspect; the discovery of a body sends Special Agent Washington in a different direction; Manuelito puts a target on her back as she digs deeper into the mystery.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827090200 +0000" stop="20260827095100 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Chahałheeł (Darkness Falls)</sub-title>
+    <desc lang="en">Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827095100 +0000" stop="20260827103900 +0000">
+    <title lang="en">Dark Winds</title>
+    <sub-title lang="en">Tsékǫ̨' Hasą́ní (Coal Mine Canyon)</sub-title>
+    <desc lang="en">Following a grisly murder, Leaphorn and Chee strike out on their own when the FBI take over their case; Special Agent Washington pays the Leaphorns an unexpected visit; Manuelito searches for evidence south of the border.</desc>
+    <credits>
+      <actor>Zahn McClarnon</actor>
+      <actor>Kiowa Gordon</actor>
+      <actor>Jessica Matten</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827103900 +0000" stop="20260827113600 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">To Live with the Living</sub-title>
+    <desc lang="en">Mary finds herself in danger and turns to Jay for help, but as the threat closes in, Jay struggles to keep Mary safe; Fran digs deeper into Zoe's disappearance and feels betrayed.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827113600 +0000" stop="20260827122900 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">What You Do Now</sub-title>
+    <desc lang="en">An epic gun battle erupts after Jay gets lured into a trap in an attempt to rescue Mary; Fran gets some answers and closure about Zoe, but it's not what she expected to find.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827122900 +0000" stop="20260827132400 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">The Road</sub-title>
+    <desc lang="en">Jay Swan heads to the township of Gideon after a decapitated body washes up in the mangroves, partnering with a local cop to uncover what the community knows.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827132400 +0000" stop="20260827142200 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">The Flare</sub-title>
+    <desc lang="en">A local businessman causes trouble for Jay and Fran when he bails Dylan out; Jay attempts to take control of the situation.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827142200 +0000" stop="20260827151500 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">Artefacts</sub-title>
+    <desc lang="en">Jay struggles with Mary's new relationship and reluctantly uses Simon's help to close in on the drug and murder investigation; Fran tries to reopen Zoe's case on her own.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827151500 +0000" stop="20260827161000 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">Broken</sub-title>
+    <desc lang="en">With the case apparently solved, Jay is encouraged to leave town but senses that something is not right; Jay questions the motives of those around him; Fran's search for justice experiences another blow.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827161000 +0000" stop="20260827170700 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">To Live with the Living</sub-title>
+    <desc lang="en">Mary finds herself in danger and turns to Jay for help, but as the threat closes in, Jay struggles to keep Mary safe; Fran digs deeper into Zoe's disappearance and feels betrayed.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827170700 +0000" stop="20260827180000 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">What You Do Now</sub-title>
+    <desc lang="en">An epic gun battle erupts after Jay gets lured into a trap in an attempt to rescue Mary; Fran gets some answers and closure about Zoe, but it's not what she expected to find.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827180000 +0000" stop="20260827185500 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">The Road</sub-title>
+    <desc lang="en">Jay Swan heads to the township of Gideon after a decapitated body washes up in the mangroves, partnering with a local cop to uncover what the community knows.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827185500 +0000" stop="20260827195300 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">The Flare</sub-title>
+    <desc lang="en">A local businessman causes trouble for Jay and Fran when he bails Dylan out; Jay attempts to take control of the situation.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827195300 +0000" stop="20260827204600 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">Artefacts</sub-title>
+    <desc lang="en">Jay struggles with Mary's new relationship and reluctantly uses Simon's help to close in on the drug and murder investigation; Fran tries to reopen Zoe's case on her own.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827204600 +0000" stop="20260827214100 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">Broken</sub-title>
+    <desc lang="en">With the case apparently solved, Jay is encouraged to leave town but senses that something is not right; Jay questions the motives of those around him; Fran's search for justice experiences another blow.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827214100 +0000" stop="20260827223800 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">To Live with the Living</sub-title>
+    <desc lang="en">Mary finds herself in danger and turns to Jay for help, but as the threat closes in, Jay struggles to keep Mary safe; Fran digs deeper into Zoe's disappearance and feels betrayed.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827223800 +0000" stop="20260827233000 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">What You Do Now</sub-title>
+    <desc lang="en">An epic gun battle erupts after Jay gets lured into a trap in an attempt to rescue Mary; Fran gets some answers and closure about Zoe, but it's not what she expected to find.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260827233000 +0000" stop="20260828002500 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">The Road</sub-title>
+    <desc lang="en">Jay Swan heads to the township of Gideon after a decapitated body washes up in the mangroves, partnering with a local cop to uncover what the community knows.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260828002500 +0000" stop="20260828012300 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">The Flare</sub-title>
+    <desc lang="en">A local businessman causes trouble for Jay and Fran when he bails Dylan out; Jay attempts to take control of the situation.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260828012300 +0000" stop="20260828021600 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">Artefacts</sub-title>
+    <desc lang="en">Jay struggles with Mary's new relationship and reluctantly uses Simon's help to close in on the drug and murder investigation; Fran tries to reopen Zoe's case on her own.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260828021600 +0000" stop="20260828031100 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">Broken</sub-title>
+    <desc lang="en">With the case apparently solved, Jay is encouraged to leave town but senses that something is not right; Jay questions the motives of those around him; Fran's search for justice experiences another blow.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260828031100 +0000" stop="20260828040800 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">To Live with the Living</sub-title>
+    <desc lang="en">Mary finds herself in danger and turns to Jay for help, but as the threat closes in, Jay struggles to keep Mary safe; Fran digs deeper into Zoe's disappearance and feels betrayed.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260828040800 +0000" stop="20260828050100 +0000">
+    <title lang="en">Mystery Road</title>
+    <sub-title lang="en">What You Do Now</sub-title>
+    <desc lang="en">An epic gun battle erupts after Jay gets lured into a trap in an attempt to rescue Mary; Fran gets some answers and closure about Zoe, but it's not what she expected to find.</desc>
+    <credits>
+      <actor>Aaron Pedersen</actor>
+      <actor>Jada Alberts</actor>
+      <actor>Tasma Walton</actor>
+      <director>Rachel Perkins</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260824020000 +0000" stop="20260824100000 +0000">
@@ -11434,6 +10440,58 @@
     <category lang="en">Tennis</category>
     <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E87</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260827050000 +0000" stop="20260827053000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E87</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260827053000 +0000" stop="20260827100000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E79</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260827100000 +0000" stop="20260827150000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E79</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260827150000 +0000" stop="20260827170000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E80</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260827170000 +0000" stop="20260828050000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E88</episode-num>
     <premiere lang="en" />
   </programme>
   </tv>
