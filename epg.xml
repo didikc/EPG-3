@@ -5080,596 +5080,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260828040800 +0000" stop="20260828050100 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">What You Do Now</sub-title>
-    <desc lang="en">An epic gun battle erupts after Jay gets lured into a trap in an attempt to rescue Mary; Fran gets some answers and closure about Zoe, but it's not what she expected to find.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828050100 +0000" stop="20260828055600 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">The Road</sub-title>
-    <desc lang="en">Jay Swan heads to the township of Gideon after a decapitated body washes up in the mangroves, partnering with a local cop to uncover what the community knows.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828055600 +0000" stop="20260828065400 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">The Flare</sub-title>
-    <desc lang="en">A local businessman causes trouble for Jay and Fran when he bails Dylan out; Jay attempts to take control of the situation.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828065400 +0000" stop="20260828074700 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">Artefacts</sub-title>
-    <desc lang="en">Jay struggles with Mary's new relationship and reluctantly uses Simon's help to close in on the drug and murder investigation; Fran tries to reopen Zoe's case on her own.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828074700 +0000" stop="20260828084200 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">Broken</sub-title>
-    <desc lang="en">With the case apparently solved, Jay is encouraged to leave town but senses that something is not right; Jay questions the motives of those around him; Fran's search for justice experiences another blow.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828084200 +0000" stop="20260828093900 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">To Live with the Living</sub-title>
-    <desc lang="en">Mary finds herself in danger and turns to Jay for help, but as the threat closes in, Jay struggles to keep Mary safe; Fran digs deeper into Zoe's disappearance and feels betrayed.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828093900 +0000" stop="20260828103100 +0000">
-    <title lang="en">Mystery Road</title>
-    <sub-title lang="en">What You Do Now</sub-title>
-    <desc lang="en">An epic gun battle erupts after Jay gets lured into a trap in an attempt to rescue Mary; Fran gets some answers and closure about Zoe, but it's not what she expected to find.</desc>
-    <credits>
-      <actor>Aaron Pedersen</actor>
-      <actor>Jada Alberts</actor>
-      <actor>Tasma Walton</actor>
-      <director>Rachel Perkins</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15560338_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828103100 +0000" stop="20260828122600 +0000">
-    <title lang="en">Corsage</title>
-    <desc lang="en">Faced with a future of strict ceremonies and royal duties, Empress Elisabeth of Austria rebels against her public image and comes up with a plan to protect her legacy.</desc>
-    <credits>
-      <actor>Vicky Krieps</actor>
-      <actor>Colin Morgan</actor>
-      <actor>Florian Teichtmeister</actor>
-      <director>Marie Kreutzer</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21827304_v_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>11</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="映倫">
-      <value>PG12</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828122600 +0000" stop="20260828142400 +0000">
-    <title lang="en">Both Sides of the Blade</title>
-    <desc lang="en">A woman's life spirals out of control when she becomes involved in a passionate love triangle.</desc>
-    <credits>
-      <actor>Juliette Binoche</actor>
-      <actor>Vincent Lindon</actor>
-      <actor>Grégoire Colin</actor>
-      <director>Claire Denis</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21710617_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>11</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828142400 +0000" stop="20260828155500 +0000">
-    <title lang="en">Sympathy for the Devil</title>
-    <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
-    <credits>
-      <actor>Nicolas Cage</actor>
-      <actor>Joel Kinnaman</actor>
-      <actor>Kaiwi Lyman</actor>
-      <director>Yuval Adler</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24534318_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828155500 +0000" stop="20260828174100 +0000">
-    <title lang="en">A Lot of Nothing</title>
-    <desc lang="en">James and Vanessa are ostensibly the perfect married couple. Their lives spiral out of control when they decide to seek justice against a neighbor they saw commit a crime on the evening news.</desc>
-    <credits>
-      <actor>Y'lan Noel</actor>
-      <actor>Cleopatra Coleman</actor>
-      <actor>Justin Hartley</actor>
-      <director>Mo McRae</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23782757_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260828174100 +0000" stop="20260828192100 +0000">
-    <title lang="en">Inheritance</title>
-    <desc lang="en">When Maya learns that her father was once a spy, she suddenly finds herself at the center of an international conspiracy. In her quest for answers, she must travel the globe, mastering her father's skills and unraveling the mysteries of his past.</desc>
-    <credits>
-      <actor>Phoebe Dynevor</actor>
-      <actor>Rhys Ifans</actor>
-      <actor>Necar Zadegan</actor>
-      <director>Neil Burger</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28418378_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828192100 +0000" stop="20260828205300 +0000">
-    <title lang="en">Tornado</title>
-    <desc lang="en">When her father's puppet samurai show gets ambushed by a notorious gang, Tornado vows to seek vengeance and forge her own destiny by stealing their ill-gotten gold.</desc>
-    <credits>
-      <actor>Tim Roth</actor>
-      <actor>Jack Lowden</actor>
-      <actor>Takehiro Hira</actor>
-      <director>John Maclean</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29674460_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828205300 +0000" stop="20260828221700 +0000">
-    <title lang="en">Bloody Axe Wound</title>
-    <desc lang="en">In the small town of Clover Falls, Abbie Bladecut navigates the inheritance of her father's real-life slasher business.</desc>
-    <credits>
-      <actor>Sari Arambulo</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Billy Burke</actor>
-      <director>Matthew John Lawrence</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28511492_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828221700 +0000" stop="20260828234800 +0000">
-    <title lang="en">Sympathy for the Devil</title>
-    <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
-    <credits>
-      <actor>Nicolas Cage</actor>
-      <actor>Joel Kinnaman</actor>
-      <actor>Kaiwi Lyman</actor>
-      <director>Yuval Adler</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24534318_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260828234800 +0000" stop="20260829012200 +0000">
-    <title lang="en">Neighborhood Watch</title>
-    <desc lang="en">Believing he witnessed an abduction, a young man turns to his next-door neighbor, a retired security guard, to help him find the missing woman.</desc>
-    <credits>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Jack Quaid</actor>
-      <actor>Malin Akerman</actor>
-      <director>Duncan Skiles</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28644600_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260829012200 +0000" stop="20260829031400 +0000">
-    <title lang="en">Last Looks</title>
-    <desc lang="en">Charlie Waldo is a former cop who left the force to live a life of simplicity and solitude in the woods. Alistair Pinch is an eccentric actor who spends his days drunk on the set of his TV show. When Pinch's wife is found dead, he becomes the prime suspect and convinces Waldo to come out of retirement to investigate what happened. The case finds Charlie contending with gangsters, Hollywood executives and pre-school teachers, all in pursuit of clearing Pinch's name -- or confirming his guilt.</desc>
-    <credits>
-      <actor>Charlie Hunnam</actor>
-      <actor>Mel Gibson</actor>
-      <actor>Morena Baccarin</actor>
-      <director>Tim Kirkby</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21244646_v_h8_ao.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>15</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260829031400 +0000" stop="20260829050100 +0000">
     <title lang="en">American Star</title>
     <desc lang="en">An assassin on his last assignment travels to Fuerteventura to kill a man he's never met.</desc>
@@ -6018,6 +5440,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260829134500 +0000" stop="20260829143400 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -6223,6 +5648,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260829173900 +0000" stop="20260829182800 +0000">
@@ -6430,6 +5858,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260829213300 +0000" stop="20260829222200 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -6635,6 +6066,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260830012700 +0000" stop="20260830021600 +0000">
@@ -6842,6 +6276,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260830052100 +0000" stop="20260830061000 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -7047,6 +6484,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260830091500 +0000" stop="20260830100300 +0000">
@@ -7296,6 +6736,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260830135700 +0000" stop="20260830144600 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -7501,6 +6944,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260830175100 +0000" stop="20260830184000 +0000">
@@ -7708,6 +7154,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260830214500 +0000" stop="20260830223400 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -7913,6 +7362,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260831013900 +0000" stop="20260831022800 +0000">
@@ -8120,6 +7572,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260831053300 +0000" stop="20260831062200 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -8326,6 +7781,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260831092700 +0000" stop="20260831101500 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -8409,6 +7867,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260831110800 +0000" stop="20260831115700 +0000">
@@ -8657,6 +8118,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260831155300 +0000" stop="20260831164200 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -8903,6 +8367,9 @@
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260831203800 +0000" stop="20260831212700 +0000">
@@ -9151,6 +8618,9 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="AMC+.us2" start="20260901012300 +0000" stop="20260901021200 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
@@ -9357,63 +8827,789 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260828050000 +0000" stop="20260828053000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260901051500 +0000" stop="20260901060800 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Trillium</sub-title>
+    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E88</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260828053000 +0000" stop="20260828100000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260901060800 +0000" stop="20260901065700 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Haven</sub-title>
+    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E81</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260828100000 +0000" stop="20260828150000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E81</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260828150000 +0000" stop="20260828190000 +0000">
-    <title lang="en">Roland Garros Encore</title>
-    <desc lang="en">Roger Federer vs. Novak Djokovic.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18168270_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260828190000 +0000" stop="20260828200000 +0000">
-    <title lang="en">Tennis Channel Live at the US Open</title>
-    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
-    <date>2016</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260828200000 +0000" stop="20260829030000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Winston-Salem-ATP &amp; Monterrey-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260901065700 +0000" stop="20260901074000 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Emigrants</sub-title>
+    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E89</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901074000 +0000" stop="20260901082400 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Found/Lost</sub-title>
+    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901082400 +0000" stop="20260901090900 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Imperialis</sub-title>
+    <desc lang="en">Maggie, Negan, Dillard, and Renata go on a hunt to resupply their dwindling resources.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901090900 +0000" stop="20260901095900 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Genesis</sub-title>
+    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901095900 +0000" stop="20260901104300 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 1</sub-title>
+    <desc lang="en">The twisted tale of an Orange County crime that set off an international manhunt and a Houdini-style jailbreak; and one detective will stop at nothing to get justice.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E41 P1/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901104300 +0000" stop="20260901112700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Revenge of the PTA Mom</sub-title>
+    <desc lang="en">A wealthy Orange County mom and her husband, both attorneys, plot revenge on the PTA president for not properly supervising their son at school; it starts with a smear campaign, then escalates to police reports; eventually, she takes it too far.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Amy Bandlien Storkel</director>
+      <director>Bryan Storkel</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901112700 +0000" stop="20260901121100 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: A Special Investigation</sub-title>
+    <desc lang="en">One woman's prestigious pedigree and dedication to social justice almost garner her a top-ranking political appointment, until her actions reveal a corruption scandal that goes deeper than ever expected.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901121100 +0000" stop="20260901125500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Fishing for the Truth</sub-title>
+    <desc lang="en">After an astounding winning streak made these Lake Erie partners the best fishermen at the year's top Walleye tournament, an unbelievable catch turns out to be just as implausible as it looks, shocking people world-wide.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901125500 +0000" stop="20260901133900 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Affluenza</sub-title>
+    <desc lang="en">A wealthy Texas teen has a deadly drunk driving accident; his lawyers claim he suffers from affluenza, and it works, no jail time; caught violating his probation, he flees to Mexico, but there is more to this story than just the headlines.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Clay Jeter</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901133900 +0000" stop="20260901142300 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 1</sub-title>
+    <desc lang="en">The twisted tale of an Orange County crime that set off an international manhunt and a Houdini-style jailbreak; and one detective will stop at nothing to get justice.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E41 P1/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901142300 +0000" stop="20260901150700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 2</sub-title>
+    <desc lang="en">The suspect slips through law enforcement's fingers, but the detective finds the perfect partner to help with the case, the fugitive's wife; together they'll set a trap that even this criminal can't escape, until he does.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42 P2/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901150700 +0000" stop="20260901155100 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Revenge of the PTA Mom</sub-title>
+    <desc lang="en">A wealthy Orange County mom and her husband, both attorneys, plot revenge on the PTA president for not properly supervising their son at school; it starts with a smear campaign, then escalates to police reports; eventually, she takes it too far.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Amy Bandlien Storkel</director>
+      <director>Bryan Storkel</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901155100 +0000" stop="20260901163500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: A Special Investigation</sub-title>
+    <desc lang="en">One woman's prestigious pedigree and dedication to social justice almost garner her a top-ranking political appointment, until her actions reveal a corruption scandal that goes deeper than ever expected.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901163500 +0000" stop="20260901171900 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Fishing for the Truth</sub-title>
+    <desc lang="en">After an astounding winning streak made these Lake Erie partners the best fishermen at the year's top Walleye tournament, an unbelievable catch turns out to be just as implausible as it looks, shocking people world-wide.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901171900 +0000" stop="20260901180300 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Affluenza</sub-title>
+    <desc lang="en">A wealthy Texas teen has a deadly drunk driving accident; his lawyers claim he suffers from affluenza, and it works, no jail time; caught violating his probation, he flees to Mexico, but there is more to this story than just the headlines.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Clay Jeter</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901180300 +0000" stop="20260901184700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 1</sub-title>
+    <desc lang="en">The twisted tale of an Orange County crime that set off an international manhunt and a Houdini-style jailbreak; and one detective will stop at nothing to get justice.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E41 P1/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901184700 +0000" stop="20260901193000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 2</sub-title>
+    <desc lang="en">The suspect slips through law enforcement's fingers, but the detective finds the perfect partner to help with the case, the fugitive's wife; together they'll set a trap that even this criminal can't escape, until he does.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42 P2/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901193000 +0000" stop="20260901201400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Revenge of the PTA Mom</sub-title>
+    <desc lang="en">A wealthy Orange County mom and her husband, both attorneys, plot revenge on the PTA president for not properly supervising their son at school; it starts with a smear campaign, then escalates to police reports; eventually, she takes it too far.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Amy Bandlien Storkel</director>
+      <director>Bryan Storkel</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901201400 +0000" stop="20260901205800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: A Special Investigation</sub-title>
+    <desc lang="en">One woman's prestigious pedigree and dedication to social justice almost garner her a top-ranking political appointment, until her actions reveal a corruption scandal that goes deeper than ever expected.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901205800 +0000" stop="20260901214200 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Fishing for the Truth</sub-title>
+    <desc lang="en">After an astounding winning streak made these Lake Erie partners the best fishermen at the year's top Walleye tournament, an unbelievable catch turns out to be just as implausible as it looks, shocking people world-wide.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901214200 +0000" stop="20260901222600 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Affluenza</sub-title>
+    <desc lang="en">A wealthy Texas teen has a deadly drunk driving accident; his lawyers claim he suffers from affluenza, and it works, no jail time; caught violating his probation, he flees to Mexico, but there is more to this story than just the headlines.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Clay Jeter</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901222600 +0000" stop="20260901231000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 1</sub-title>
+    <desc lang="en">The twisted tale of an Orange County crime that set off an international manhunt and a Houdini-style jailbreak; and one detective will stop at nothing to get justice.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E41 P1/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901231000 +0000" stop="20260901235400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 2</sub-title>
+    <desc lang="en">The suspect slips through law enforcement's fingers, but the detective finds the perfect partner to help with the case, the fugitive's wife; together they'll set a trap that even this criminal can't escape, until he does.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42 P2/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260901235400 +0000" stop="20260902003800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Revenge of the PTA Mom</sub-title>
+    <desc lang="en">A wealthy Orange County mom and her husband, both attorneys, plot revenge on the PTA president for not properly supervising their son at school; it starts with a smear campaign, then escalates to police reports; eventually, she takes it too far.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Amy Bandlien Storkel</director>
+      <director>Bryan Storkel</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260902003800 +0000" stop="20260902012200 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: A Special Investigation</sub-title>
+    <desc lang="en">One woman's prestigious pedigree and dedication to social justice almost garner her a top-ranking political appointment, until her actions reveal a corruption scandal that goes deeper than ever expected.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260902012200 +0000" stop="20260902020600 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Fishing for the Truth</sub-title>
+    <desc lang="en">After an astounding winning streak made these Lake Erie partners the best fishermen at the year's top Walleye tournament, an unbelievable catch turns out to be just as implausible as it looks, shocking people world-wide.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260902020600 +0000" stop="20260902025000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Affluenza</sub-title>
+    <desc lang="en">A wealthy Texas teen has a deadly drunk driving accident; his lawyers claim he suffers from affluenza, and it works, no jail time; caught violating his probation, he flees to Mexico, but there is more to this story than just the headlines.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Clay Jeter</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260902025000 +0000" stop="20260902033400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 1</sub-title>
+    <desc lang="en">The twisted tale of an Orange County crime that set off an international manhunt and a Houdini-style jailbreak; and one detective will stop at nothing to get justice.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E41 P1/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260902033400 +0000" stop="20260902041800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Dickweed: Part 2</sub-title>
+    <desc lang="en">The suspect slips through law enforcement's fingers, but the detective finds the perfect partner to help with the case, the fugitive's wife; together they'll set a trap that even this criminal can't escape, until he does.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42 P2/2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260902041800 +0000" stop="20260902050200 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Smugshot: Revenge of the PTA Mom</sub-title>
+    <desc lang="en">A wealthy Orange County mom and her husband, both attorneys, plot revenge on the PTA president for not properly supervising their son at school; it starts with a smear campaign, then escalates to police reports; eventually, she takes it too far.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+      <director>Amy Bandlien Storkel</director>
+      <director>Bryan Storkel</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260829030000 +0000" stop="20260829100000 +0000">
     <title lang="en">Center Court</title>
@@ -9627,6 +9823,44 @@
     <icon src="http://dtil.tmsimg.com/assets/p28296696_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260901040000 +0000" stop="20260901100000 +0000">
+    <title lang="en">US Open ENCORE</title>
+    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260901100000 +0000" stop="20260901130000 +0000">
+    <title lang="en">US Open ENCORE</title>
+    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260901130000 +0000" stop="20260901153000 +0000">
+    <title lang="en">Tennis Channel Live at the US Open</title>
+    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
+    <date>2016</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260901153000 +0000" stop="20260902033000 +0000">
+    <title lang="en">Tennis Encore</title>
+    <desc lang="en">Replay of a recent tennis match.</desc>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14665818_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260902033000 +0000" stop="20260902040000 +0000">
+    <title lang="en">Tennis Encore</title>
+    <desc lang="en">Replay of a recent tennis match.</desc>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14665818_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260902040000 +0000" stop="20260902100000 +0000">
     <title lang="en">US Open ENCORE</title>
     <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
     <category lang="en">Sports</category>
