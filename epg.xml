@@ -5330,1140 +5330,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260912035300 +0000" stop="20260912054500 +0000">
-    <title lang="en">Last Looks</title>
-    <desc lang="en">Charlie Waldo is a former cop who left the force to live a life of simplicity and solitude in the woods. Alistair Pinch is an eccentric actor who spends his days drunk on the set of his TV show. When Pinch's wife is found dead, he becomes the prime suspect and convinces Waldo to come out of retirement to investigate what happened. The case finds Charlie contending with gangsters, Hollywood executives and pre-school teachers, all in pursuit of clearing Pinch's name -- or confirming his guilt.</desc>
-    <credits>
-      <actor>Charlie Hunnam</actor>
-      <actor>Mel Gibson</actor>
-      <actor>Morena Baccarin</actor>
-      <director>Tim Kirkby</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21244646_v_h8_ao.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912054500 +0000" stop="20260912071600 +0000">
-    <title lang="en">Sympathy for the Devil</title>
-    <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
-    <credits>
-      <actor>Nicolas Cage</actor>
-      <actor>Joel Kinnaman</actor>
-      <actor>Kaiwi Lyman</actor>
-      <director>Yuval Adler</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24534318_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912071600 +0000" stop="20260912085200 +0000">
-    <title lang="en">Neighborhood Watch</title>
-    <desc lang="en">Believing he witnessed an abduction, a young man turns to his next-door neighbor, a retired security guard, to help him find the missing woman.</desc>
-    <credits>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Jack Quaid</actor>
-      <actor>Malin Akerman</actor>
-      <director>Duncan Skiles</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28644600_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912085200 +0000" stop="20260912103000 +0000">
-    <title lang="en">Section 8</title>
-    <desc lang="en">A good kid in an awful situation and two cops near the bust of their careers cross paths when the kid falls witness to his father's death.</desc>
-    <credits>
-      <actor>Tavares Walker</actor>
-      <actor>Joe W Nowland</actor>
-      <actor>Rich Pintello</actor>
-      <director>Chad Hendricks</director>
-      <director>Tavares Walker</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22513678_v_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20260912103000 +0000" stop="20260912111300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912111300 +0000" stop="20260912115700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912115700 +0000" stop="20260912124200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Imperialis</sub-title>
-    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sylvain White</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912124200 +0000" stop="20260912133300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Genesis</sub-title>
-    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Wolkstein</director>
-      <director>Michael E. Satrazemis</director>
-      <director>Gandja Monteiro</director>
-      <director>Sharat Raju</director>
-      <director>Sylvain White</director>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912133300 +0000" stop="20260912141900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Hourglass</sub-title>
-    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912141900 +0000" stop="20260912151200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912151200 +0000" stop="20260912160100 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912160100 +0000" stop="20260912164400 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912164400 +0000" stop="20260912172800 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912172800 +0000" stop="20260912181300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Imperialis</sub-title>
-    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sylvain White</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912181300 +0000" stop="20260912190400 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Genesis</sub-title>
-    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Wolkstein</director>
-      <director>Michael E. Satrazemis</director>
-      <director>Gandja Monteiro</director>
-      <director>Sharat Raju</director>
-      <director>Sylvain White</director>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912190400 +0000" stop="20260912195000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Hourglass</sub-title>
-    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912195000 +0000" stop="20260912204300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912204300 +0000" stop="20260912213200 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912213200 +0000" stop="20260912221500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912221500 +0000" stop="20260912225900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912225900 +0000" stop="20260912234400 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Imperialis</sub-title>
-    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sylvain White</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260912234400 +0000" stop="20260913003500 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Genesis</sub-title>
-    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Wolkstein</director>
-      <director>Michael E. Satrazemis</director>
-      <director>Gandja Monteiro</director>
-      <director>Sharat Raju</director>
-      <director>Sylvain White</director>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260913003500 +0000" stop="20260913012100 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Hourglass</sub-title>
-    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260913012100 +0000" stop="20260913021400 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260913021400 +0000" stop="20260913030300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260913030300 +0000" stop="20260913034600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260913034600 +0000" stop="20260913043000 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260913043000 +0000" stop="20260913051500 +0000">
     <title lang="en">The Walking Dead: Dead City</title>
     <sub-title lang="en">Imperialis</sub-title>
@@ -9924,77 +8802,1091 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912020000 +0000" stop="20260912080000 +0000">
-    <title lang="en">US Open ENCORE</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912080000 +0000" stop="20260912100000 +0000">
-    <title lang="en">US Open ENCORE</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912100000 +0000" stop="20260912130000 +0000">
-    <title lang="en">US Open ENCORE</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912130000 +0000" stop="20260912153000 +0000">
-    <title lang="en">Tennis Channel Live at the US Open</title>
-    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
-    <date>2016</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912153000 +0000" stop="20260912170000 +0000">
-    <title lang="en">2026 Cincinnati Open Tennis</title>
-    <desc lang="en">Coco Gauff vs. Jessica Pegula.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33188385_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912170000 +0000" stop="20260912180000 +0000">
-    <title lang="en">Laver Cup Review Show</title>
-    <sub-title lang="en">2025 Laver Cup</sub-title>
-    <desc lang="en">Tennis highlights from the Laver Cup event.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260916053800 +0000" stop="20260916062100 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Iaeger, W.Va</sub-title>
+    <desc lang="en">In this true-crime story, a beloved town doctor perishes in a deadly house fire -- which investigators conclude was arson; but after securing a murder conviction, the prosecutor doubts his own evidence and joins the fight to free an innocent man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31024441_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912180000 +0000" stop="20260912230000 +0000">
-    <title lang="en">Australian Open Encore</title>
-    <desc lang="en">Carlos Alcaraz vs. Alexander Zverev.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18270743_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260912230000 +0000" stop="20260913000000 +0000">
-    <title lang="en">Tennis Channel Live at the US Open</title>
-    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
-    <date>2016</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260913000000 +0000" stop="20260913040000 +0000">
-    <title lang="en">US Open ENCORE</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916062100 +0000" stop="20260916070400 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Atwater, Ohio</sub-title>
+    <desc lang="en">In this true-crime story, cold-case investigators looking into a double murder elicit a series of confessions from a group of teens; years later, the teens recant their statements; aggressive tactics may have sent an innocent man to death row.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916070400 +0000" stop="20260916074700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Turlock, California</sub-title>
+    <desc lang="en">A criminal defense attorney known for uncovering corruption finds himself on trial; accused of a complex murder-for-hire plot, along with eight others, he fights to clear his name and show the holes in the state's case.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916074700 +0000" stop="20260916083000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Royse City, Texas</sub-title>
+    <desc lang="en">A couple are found brutally murdered in their home; investigators learn that the last person to see them alive had secrets of his own; some question whether prejudice led police to arrest the wrong man.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916083000 +0000" stop="20260916091300 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Edgewater, Florida</sub-title>
+    <desc lang="en">A dentist is killed by a masked gunman; the media reports salacious details as investigators uncover a sinister plot led by the dentist's wife and stepson, but a private investigator shares a startling alternate theory.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916091300 +0000" stop="20260916095800 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">It Couldn't Happen Here: Adel, Georgia</sub-title>
+    <desc lang="en">The town of Adel, Ga., is rocked by a brutal robbery homicide, and locals quickly point to an outsider as the killer; over 20 years later, new evidence raises the startling question if an innocent man is serving life for another man's crime.</desc>
+    <credits>
+      <actor>Hilarie Burton Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916095800 +0000" stop="20260916104200 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Plum Tree</sub-title>
+    <desc lang="en">Young Eli learns to live among the Comanches; Eli and Pete clash over a response to an attack on their home.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+      <director>Kevin Dowling</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916104200 +0000" stop="20260916112500 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Second Empire</sub-title>
+    <desc lang="en">Young Eli trains as a warrior, but makes enemies; Eli and Phineas struggle to help the family in Austin; Pete faces his demons.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916112500 +0000" stop="20260916120900 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Death Song</sub-title>
+    <desc lang="en">Young Eli faces a test of survival; the McCulloughs enact a dangerous plan to take the fight to their enemy.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916120900 +0000" stop="20260916125300 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">No Prisoners</sub-title>
+    <desc lang="en">An enemy forces Young Eli to question his loyalties; the McCulloughs' past comes back to haunt them, with deadly results.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916125300 +0000" stop="20260916133700 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Buffalo Hunter</sub-title>
+    <desc lang="en">Young Eli makes a choice with dangerous consequences; the McCulloughs deal with a tragedy; Jeannie wants to save the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916133700 +0000" stop="20260916142100 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Marriage Bond</sub-title>
+    <desc lang="en">Young Eli must navigate tribal politics; a crisis forces Pete and Sally into a decision that will change the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916142100 +0000" stop="20260916150500 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Honey Hunt</sub-title>
+    <desc lang="en">Prairie Flower is torn between love and duty; Pete grows closer to Maria; Eli brings Phineas in on a dangerous secret.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916150500 +0000" stop="20260916154900 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Prophecy</sub-title>
+    <desc lang="en">Young Eli must trust a strange ally to survive; Eli's past guides him to a choice that puts him and Phineas at odds.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916154900 +0000" stop="20260916163200 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Scalps</sub-title>
+    <desc lang="en">The tribe faces an unexpected return; Eli's plan for the future forces Pete into a life-or-death decision about his loyalties.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916163200 +0000" stop="20260916172200 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">First Son of Texas</sub-title>
+    <desc lang="en">Eli McCullough survives a Comanche attack in 1849, and in 1915, leads his family's empire through difficult times.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916172200 +0000" stop="20260916180600 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Plum Tree</sub-title>
+    <desc lang="en">Young Eli learns to live among the Comanches; Eli and Pete clash over a response to an attack on their home.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+      <director>Kevin Dowling</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916180600 +0000" stop="20260916184900 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Second Empire</sub-title>
+    <desc lang="en">Young Eli trains as a warrior, but makes enemies; Eli and Phineas struggle to help the family in Austin; Pete faces his demons.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916184900 +0000" stop="20260916193300 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Death Song</sub-title>
+    <desc lang="en">Young Eli faces a test of survival; the McCulloughs enact a dangerous plan to take the fight to their enemy.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916193300 +0000" stop="20260916201700 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">No Prisoners</sub-title>
+    <desc lang="en">An enemy forces Young Eli to question his loyalties; the McCulloughs' past comes back to haunt them, with deadly results.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916201700 +0000" stop="20260916210100 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Buffalo Hunter</sub-title>
+    <desc lang="en">Young Eli makes a choice with dangerous consequences; the McCulloughs deal with a tragedy; Jeannie wants to save the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916210100 +0000" stop="20260916214500 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Marriage Bond</sub-title>
+    <desc lang="en">Young Eli must navigate tribal politics; a crisis forces Pete and Sally into a decision that will change the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916214500 +0000" stop="20260916222900 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Honey Hunt</sub-title>
+    <desc lang="en">Prairie Flower is torn between love and duty; Pete grows closer to Maria; Eli brings Phineas in on a dangerous secret.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916222900 +0000" stop="20260916231300 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Prophecy</sub-title>
+    <desc lang="en">Young Eli must trust a strange ally to survive; Eli's past guides him to a choice that puts him and Phineas at odds.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916231300 +0000" stop="20260916235700 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Scalps</sub-title>
+    <desc lang="en">The tribe faces an unexpected return; Eli's plan for the future forces Pete into a life-or-death decision about his loyalties.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260916235700 +0000" stop="20260917004700 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">First Son of Texas</sub-title>
+    <desc lang="en">Eli McCullough survives a Comanche attack in 1849, and in 1915, leads his family's empire through difficult times.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260917004700 +0000" stop="20260917013100 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Plum Tree</sub-title>
+    <desc lang="en">Young Eli learns to live among the Comanches; Eli and Pete clash over a response to an attack on their home.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+      <director>Kevin Dowling</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260917013100 +0000" stop="20260917021400 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Second Empire</sub-title>
+    <desc lang="en">Young Eli trains as a warrior, but makes enemies; Eli and Phineas struggle to help the family in Austin; Pete faces his demons.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260917021400 +0000" stop="20260917025800 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Death Song</sub-title>
+    <desc lang="en">Young Eli faces a test of survival; the McCulloughs enact a dangerous plan to take the fight to their enemy.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260917025800 +0000" stop="20260917034200 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">No Prisoners</sub-title>
+    <desc lang="en">An enemy forces Young Eli to question his loyalties; the McCulloughs' past comes back to haunt them, with deadly results.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260917034200 +0000" stop="20260917042600 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">The Buffalo Hunter</sub-title>
+    <desc lang="en">Young Eli makes a choice with dangerous consequences; the McCulloughs deal with a tragedy; Jeannie wants to save the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260917042600 +0000" stop="20260917051000 +0000">
+    <title lang="en">The Son</title>
+    <sub-title lang="en">Marriage Bond</sub-title>
+    <desc lang="en">Young Eli must navigate tribal politics; a crisis forces Pete and Sally into a decision that will change the family.</desc>
+    <credits>
+      <actor>Pierce Brosnan</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Sydney Lucas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13852094_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260913040000 +0000" stop="20260913100000 +0000">
     <title lang="en">US Open ENCORE</title>
     <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
@@ -10127,6 +10019,34 @@
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260916030000 +0000" stop="20260916100000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis highlights from recent matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260916100000 +0000" stop="20260916160000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis highlights from recent matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260916160000 +0000" stop="20260917030000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260917030000 +0000" stop="20260917100000 +0000">
     <title lang="en">Courtside</title>
     <sub-title lang="en">Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds</sub-title>
     <desc lang="en">Tennis highlights from recent matches.</desc>
