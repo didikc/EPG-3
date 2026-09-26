@@ -3056,932 +3056,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260924042500 +0000" stop="20260924050900 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Somebody Get a Shovel</sub-title>
-    <desc lang="en">The Comanches go to war in 1852; in 1916, the McCulloughs' fight with Standard Oil reaches a breaking point; Eli takes a scalp.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Ellen Kuras</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924050900 +0000" stop="20260924055300 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">All Their Guilty Stains</sub-title>
-    <desc lang="en">In 1852, Young Eli's Comanche band are forced to survive on their own; in 1916, the McCulloughs search for Maria; Jeannie discovers a devastating secret.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Jeremy Webb</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924055300 +0000" stop="20260924063700 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Bear</sub-title>
-    <desc lang="en">In 1852, Young Eli's tribe encounters soldiers that make an unexpected offer; in 1916, Pete makes a decision that could tear the family apart.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Jeremy Webb</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924063700 +0000" stop="20260924072400 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Legend</sub-title>
-    <desc lang="en">In 1852, Young Eli is forced into a life-changing decision; in 1916, Eli wages a final war with Standard Oil, forcing a confrontation with Pete.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Dan Sackheim</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924072400 +0000" stop="20260924081100 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Numunuu</sub-title>
-    <desc lang="en">Young Eli leads a daring Comanche raid into Mexico in 1852; in 1915, the McCullough family confronts a threat to their growing oil business.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924081100 +0000" stop="20260924085500 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Ten Dollars and a Plucked Goose</sub-title>
-    <desc lang="en">After a devastating attack, Young Eli must help the Comanches regroup in 1852; in 1915, Pete's return causes fractures in the McCullough family.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924085500 +0000" stop="20260924093900 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">The Blind Tiger</sub-title>
-    <desc lang="en">Young Eli's Comanches must survive a dangerous journey in 1852; in 1915, Eli and Pete are forced to work together to deal with a new enemy.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Kevin Dowling</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924093900 +0000" stop="20260924102200 +0000">
-    <title lang="en">The Son</title>
-    <sub-title lang="en">Scalped a Dog</sub-title>
-    <desc lang="en">A new danger reveals old wounds in Young Eli's tribe in 1852; in 1916, Eli and Phineas try to fight off Standard Oil as Maria Garcia returns.</desc>
-    <credits>
-      <actor>Pierce Brosnan</actor>
-      <actor>Jacob Lofland</actor>
-      <actor>Sydney Lucas</actor>
-      <director>Omar Madha</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16634371_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924102200 +0000" stop="20260924111400 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924111400 +0000" stop="20260924120400 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Money</sub-title>
-    <desc lang="en">The field of suspects narrows; Sean's computer reveals a history of despicable behavior towards women, including the photos taken of Zoe without her consent.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924120400 +0000" stop="20260924130100 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924130100 +0000" stop="20260924135600 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Running</sub-title>
-    <desc lang="en">In 2003 Zoe Jacobs disappeared during her 21st birthday party; many believe Zoe ran away, but others suspect she was murdered; when police officer Sam Kahlil discovers Zoe's backpack, Detective James Cormack is called in to investigate.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924135600 +0000" stop="20260924145100 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Hope</sub-title>
-    <desc lang="en">New evidence gives Nadja and Sam hope that Zoe is still alive, but as Cormack puts together a timeline of Zoe's disappearance, the old theory that Zoe drove to Brisbane doesn't add up.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924145100 +0000" stop="20260924154500 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924154500 +0000" stop="20260924163700 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924163700 +0000" stop="20260924172700 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Money</sub-title>
-    <desc lang="en">The field of suspects narrows; Sean's computer reveals a history of despicable behavior towards women, including the photos taken of Zoe without her consent.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924172700 +0000" stop="20260924182400 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924182400 +0000" stop="20260924191900 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Running</sub-title>
-    <desc lang="en">In 2003 Zoe Jacobs disappeared during her 21st birthday party; many believe Zoe ran away, but others suspect she was murdered; when police officer Sam Kahlil discovers Zoe's backpack, Detective James Cormack is called in to investigate.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924191900 +0000" stop="20260924201400 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Hope</sub-title>
-    <desc lang="en">New evidence gives Nadja and Sam hope that Zoe is still alive, but as Cormack puts together a timeline of Zoe's disappearance, the old theory that Zoe drove to Brisbane doesn't add up.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924201400 +0000" stop="20260924210800 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924210800 +0000" stop="20260924220000 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924220000 +0000" stop="20260924225000 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Money</sub-title>
-    <desc lang="en">The field of suspects narrows; Sean's computer reveals a history of despicable behavior towards women, including the photos taken of Zoe without her consent.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924225000 +0000" stop="20260924234700 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260924234700 +0000" stop="20260925004200 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Running</sub-title>
-    <desc lang="en">In 2003 Zoe Jacobs disappeared during her 21st birthday party; many believe Zoe ran away, but others suspect she was murdered; when police officer Sam Kahlil discovers Zoe's backpack, Detective James Cormack is called in to investigate.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260925004200 +0000" stop="20260925013700 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Hope</sub-title>
-    <desc lang="en">New evidence gives Nadja and Sam hope that Zoe is still alive, but as Cormack puts together a timeline of Zoe's disappearance, the old theory that Zoe drove to Brisbane doesn't add up.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260925013700 +0000" stop="20260925023100 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260925023100 +0000" stop="20260925032300 +0000">
-    <title lang="en">Black Snow</title>
-    <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29128738_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260925032300 +0000" stop="20260925041300 +0000">
-    <title lang="en">Black Snow: Jack of Clubs</title>
-    <sub-title lang="en">Money</sub-title>
-    <desc lang="en">The field of suspects narrows; Sean's computer reveals a history of despicable behavior towards women, including the photos taken of Zoe without her consent.</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Kat Stewart</actor>
-      <actor>Jana McKinnon</actor>
-      <director>Sian Davies</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30794858_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260925041300 +0000" stop="20260925051000 +0000">
     <title lang="en">Black Snow</title>
     <desc lang="en">Detective James Cormack works to solve cold cases, uncovering long-buried secrets along the way; at the same time, he's haunted by his personal quest to find his younger brother, who vanished when they were children.</desc>
@@ -6527,98 +5613,1072 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924020000 +0000" stop="20260924100000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Billie Jean King Cup Finals Quarterfinal 3 UKR v. BEL and Quarterfinal 4 CHN v. ITA; Seoul-WTA, Singapore-WTA, Chengdu-ATP, &amp; Hangzhou-ATP Early Round</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924100000 +0000" stop="20260924150000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Billie Jean King Cup Finals Quarterfinal 3 UKR vs. BEL and Quarterfinal 4 CHN v. ITA; Seoul-WTA, Singapore-WTA, Chengdu-ATP, &amp; Hangzhou-ATP Early Roun</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924150000 +0000" stop="20260924160000 +0000">
-    <title lang="en">Race to the ATP Finals</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34139655_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924160000 +0000" stop="20260924180000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Billie Jean King Cup Finals Quarterfinal 3 UKR vs. BEL and Quarterfinal 4 CHN v. ITA; Seoul-WTA, Singapore-WTA, Chengdu-ATP, &amp; Hangzhou-ATP Early Roun</sub-title>
-    <desc lang="en">Tennis highlights from matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924180000 +0000" stop="20260924181500 +0000">
-    <title lang="en">Laver Cup Line Up Show</title>
-    <date>2026</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/assets/p34028924_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924181500 +0000" stop="20260924191500 +0000">
-    <title lang="en">Laver Cup Review Show</title>
-    <sub-title lang="en">2025 Laver Cup</sub-title>
-    <desc lang="en">Tennis highlights from the Laver Cup event.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31024441_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260924191500 +0000" stop="20260925000000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Billie Jean King Cup Finals Quarterfinal 3 UKR vs. BEL and Quarterfinal 4 CHN v. ITA; Seoul-WTA, Singapore-WTA, Chengdu-ATP, &amp; Hangzhou-ATP Early Roun</sub-title>
-    <desc lang="en">Tennis highlights from matches.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260925000000 +0000" stop="20260925010000 +0000">
-    <title lang="en">The Big T Podcast</title>
-    <desc lang="en">Observations and conversations about the sport of tennis.</desc>
+  <programme channel="AMC+.us2" start="20260928053500 +0000" stop="20260928062300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">A Mercy</sub-title>
+    <desc lang="en">With the end of their provisions in sight, officers contemplate an 800-mile walkout while planning a party to raise the men's worsening spirits.</desc>
     <credits>
-      <actor>Brad Gilbert</actor>
-      <actor>CoCo Vandeweghe</actor>
-      <actor>Andrea Petkovic</actor>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Sergio Mimica-Gezzan</director>
     </credits>
-    <date>2026</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32116522_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>G</value>
+      <value>14+</value>
     </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260925010000 +0000" stop="20260925030000 +0000">
-    <title lang="en">Laver Cup Encore</title>
-    <sub-title lang="en">2025 Day 3 Match 12</sub-title>
-    <desc lang="en">Taylor Fritz vs. Alexander Zverev.</desc>
-    <date>2025</date>
+  <programme channel="AMC+.us2" start="20260928062300 +0000" stop="20260928071100 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Horrible From Supper</sub-title>
+    <desc lang="en">As the men begin their long march south, shocking events underscore how vulnerable and exposed their situation has become.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28296696_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928071100 +0000" stop="20260928075900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Terror Camp Clear</sub-title>
+    <desc lang="en">The death of an officer under mysterious circumstances creates paranoia among the men; Capt. Crozier discovers some of the crew members may be considering mutiny.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928075900 +0000" stop="20260928085700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">The C, the C, the Open C</sub-title>
+    <desc lang="en">While hope comes in strange forms, the question of what the men are willing to do to survive begins to be settled in both noble and horrifying ways.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928085700 +0000" stop="20260928095100 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">We Are Gone</sub-title>
+    <desc lang="en">The expedition's journey reaches its climax as men find themselves in a final confrontation with the Inuit mythology they've trespassed into.</desc>
+    <credits>
+      <actor>Jared Harris</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Ciarán Hinds</actor>
+      <director>Tim Mielants</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928095100 +0000" stop="20260928103500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
+    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928103500 +0000" stop="20260928111900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928111900 +0000" stop="20260928120200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: The Weak Are Meat</sub-title>
+    <desc lang="en">Chester, in search of a better life, is treated with hostility by his fellow Americans; Luz hopes to be accepted by Henry and Asako in their new home as the Japanese American community celebrates Obon, a festival to commemorate the dead.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928120200 +0000" stop="20260928124600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Shatter Like a Pearl</sub-title>
+    <desc lang="en">The Japanese Americans are forced to undertake a humiliating exercise that divides the community; Chester comes face to face with a man who forces him to question his very nature; Luz, stricken by grief, is forced to make an important choice.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Lily Mariye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928124600 +0000" stop="20260928133000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Taizo</sub-title>
+    <desc lang="en">A story of the past provides insight into the present evil that stalks the Terminal Islanders; Chester returns home to his family; Henry and Asako are faced with a difficult decision.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Everardo Gout</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928133000 +0000" stop="20260928141400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Perfect World</sub-title>
+    <desc lang="en">The Nakayamas have been torn apart; Chester searches for the person he believes can help, by any means necessary; an outbreak in the community forces Amy to act, though she's caught between doing what she's told and doing what's right.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Meera Menon</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928141400 +0000" stop="20260928145800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Sweet Boy</sub-title>
+    <desc lang="en">Chester and Luz have reached a turning point in their relationship; Amy must take matters into her own hands as she's tormented by a powerful nemesis; Chester meets a boy who gives him answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Toa Fraser</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928145800 +0000" stop="20260928153900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Come and Get Me</sub-title>
+    <desc lang="en">The Terminal Islanders return home to find that things have changed since they left; the Nakayamas, still tense from the pain they've inflicted on one another, must come together to battle the spirit that threatens their future.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928153900 +0000" stop="20260928162700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Into the Afterlife</sub-title>
+    <desc lang="en">Henry and Asako look to the past to provide answers to their current turmoil; Chester and Luz grapple with their identities in hopes of saving those who are dearest to them; Amy and Yamato-san struggle to once again assimilate into American life.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928162700 +0000" stop="20260928171900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: A Sparrow in a Swallow's Nest</sub-title>
+    <desc lang="en">In 1941, Chester Nakayama is caught between his insular Japanese-American neighborhood on Terminal Island and his current all-American life; extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928171900 +0000" stop="20260928180300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
+    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928180300 +0000" stop="20260928184700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928184700 +0000" stop="20260928193100 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: The Weak Are Meat</sub-title>
+    <desc lang="en">Chester, in search of a better life, is treated with hostility by his fellow Americans; Luz hopes to be accepted by Henry and Asako in their new home as the Japanese American community celebrates Obon, a festival to commemorate the dead.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928193100 +0000" stop="20260928201500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Shatter Like a Pearl</sub-title>
+    <desc lang="en">The Japanese Americans are forced to undertake a humiliating exercise that divides the community; Chester comes face to face with a man who forces him to question his very nature; Luz, stricken by grief, is forced to make an important choice.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Lily Mariye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928201500 +0000" stop="20260928205900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Taizo</sub-title>
+    <desc lang="en">A story of the past provides insight into the present evil that stalks the Terminal Islanders; Chester returns home to his family; Henry and Asako are faced with a difficult decision.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Everardo Gout</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928205900 +0000" stop="20260928214300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Perfect World</sub-title>
+    <desc lang="en">The Nakayamas have been torn apart; Chester searches for the person he believes can help, by any means necessary; an outbreak in the community forces Amy to act, though she's caught between doing what she's told and doing what's right.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Meera Menon</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928214300 +0000" stop="20260928222700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Sweet Boy</sub-title>
+    <desc lang="en">Chester and Luz have reached a turning point in their relationship; Amy must take matters into her own hands as she's tormented by a powerful nemesis; Chester meets a boy who gives him answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Toa Fraser</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928222700 +0000" stop="20260928230800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Come and Get Me</sub-title>
+    <desc lang="en">The Terminal Islanders return home to find that things have changed since they left; the Nakayamas, still tense from the pain they've inflicted on one another, must come together to battle the spirit that threatens their future.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928230800 +0000" stop="20260928235600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Into the Afterlife</sub-title>
+    <desc lang="en">Henry and Asako look to the past to provide answers to their current turmoil; Chester and Luz grapple with their identities in hopes of saving those who are dearest to them; Amy and Yamato-san struggle to once again assimilate into American life.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260928235600 +0000" stop="20260929004500 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">November in My Soul</sub-title>
+    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657559_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260929004500 +0000" stop="20260929013100 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Disturbed</sub-title>
+    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260929013100 +0000" stop="20260929022000 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">November in My Soul</sub-title>
+    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657559_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260929022000 +0000" stop="20260929030600 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Disturbed</sub-title>
+    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260929030600 +0000" stop="20260929035800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: A Sparrow in a Swallow's Nest</sub-title>
+    <desc lang="en">In 1941, Chester Nakayama is caught between his insular Japanese-American neighborhood on Terminal Island and his current all-American life; extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260929035800 +0000" stop="20260929044200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
+    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260929044200 +0000" stop="20260929052600 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260925030000 +0000" stop="20260925100000 +0000">
     <title lang="en">Courtside - Live</title>
     <sub-title lang="en">Seoul-WTA &amp; Singapore-WTA Quarterfinals; Chengdu-ATP &amp; Hangzhou-ATP Early Rounds</sub-title>
@@ -6777,5 +6837,65 @@
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="http://dtil.tmsimg.com/assets/p33379731_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260928060000 +0000" stop="20260928090000 +0000">
+    <title lang="en">2026 Laver Cup Tennis</title>
+    <desc lang="en">Coverage of the 2026 international men's team tennis tournament from London.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33379731_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260928090000 +0000" stop="20260928100000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Chengdu-ATP Semifinals</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260928100000 +0000" stop="20260928130000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Chengdu-ATP Semifinals</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260928130000 +0000" stop="20260928170000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Hangzhou-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis highlights from matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260928170000 +0000" stop="20260929000000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Chengdu-ATP &amp; Hangzhou-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis highlights from matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260929000000 +0000" stop="20260929010000 +0000">
+    <title lang="en">Race to the ATP &amp; WTA Finals</title>
+    <date>2026</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/assets/p33986375_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260929010000 +0000" stop="20260929100000 +0000">
+    <title lang="en">Courtside</title>
+    <sub-title lang="en">Chengdu-ATP &amp; Hangzhou-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis highlights from matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   </tv>
