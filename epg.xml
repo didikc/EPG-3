@@ -5092,909 +5092,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20261001041700 +0000" stop="20261001050400 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter Six: To Hell</sub-title>
-    <desc lang="en">Rain comes to Greenvale, bringing with it great struggle; Bronson's men encounter McCoy and Red Bill; unexpected reunions abound.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001050400 +0000" stop="20261001055200 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter Seven: The Plan</sub-title>
-    <desc lang="en">In the wake of the shoot-offs with Bronson's men, Red Bill and McCoy must come together for a common goal; Thompson's pressure on Steve reaches a boiling point.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001055200 +0000" stop="20261001063900 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter Eight: The Great Duel</sub-title>
-    <desc lang="en">Red Bill and McCoy's quest for Bronson comes to a breaking point, as impossible decisions and realizations are made; Bronson takes a new step toward power; Steve faces Thompson in a final standoff.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001063900 +0000" stop="20261001073000 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter One: A Head Weighs Less Than a Body</sub-title>
-    <desc lang="en">Far off in the West, bounty hunter Red Bill searches for the man who slew his mother; in nearby Greenvale, where it hasn't rained for years, local farmer Steve finds gold beneath his land; Sheriff McCoy comes upon a small fortune.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001073000 +0000" stop="20261001082100 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter Two: Prisoner</sub-title>
-    <desc lang="en">After Red Bill is captured, old memories come back to haunt him; McCoy comes upon Butler's farm; Steve and Eve's relationship woes intensify.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001082100 +0000" stop="20261001090800 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter Three: Alliances</sub-title>
-    <desc lang="en">Red Bill travels the barren wastes with McCoy and Kurt; in Greenvale, Eve's struggle to maintain her business is threatened; Thompson's claim to Steve's land is taken up a notch.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001090800 +0000" stop="20261001095600 +0000">
-    <title lang="en">That Dirty Black Bag</title>
-    <sub-title lang="en">Chapter Four: Genesis</sub-title>
-    <desc lang="en">Fifteen years earlier, Red Bill learns about being a man from a rugged Civil War veteran, Anderson; McCoy and his vile older brother, Bronson, must resort to increasingly dark means as they struggle to survive the desert.</desc>
-    <credits>
-      <actor>Douglas Booth</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Niv Sultan</actor>
-      <director>Mauro Aragoni</director>
-      <director>Brian O'Malley</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21727826_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001095600 +0000" stop="20261001101700 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Stash-teroids</sub-title>
-    <desc lang="en">Walt negotiates for an original Asteroids arcade cabinet; Ming is excited for GI Joes.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9179962_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261001101700 +0000" stop="20261001103000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Three</sub-title>
-    <desc lang="en">Etta visits the scene of the crime; Lana is worried about Etta's investigation; Perry, suffering from strange symptoms, has a visit from a very unexpected guest.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001103000 +0000" stop="20261001105000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Four</sub-title>
-    <desc lang="en">A college radio DJ receives a strange call that changes the course of his life.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001105000 +0000" stop="20261001110800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Five</sub-title>
-    <desc lang="en">Rhodes confronts his suspects; Perry confides in Etta; a trip is made to Big Bear, and Etta and Perry find themselves in way over their heads.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001110800 +0000" stop="20261001112500 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Six</sub-title>
-    <desc lang="en">A mess is cleaned up; a suitcase is opened; Perry tries to make sense of what is happening to him; Etta makes a grisly discovery and questions her dedication to the case.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001112500 +0000" stop="20261001113700 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Seven</sub-title>
-    <desc lang="en">Etta and Perry meet Lily Child, who shares what she believes is the true purpose of the Lytton Lacquer.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001113700 +0000" stop="20261001115300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Eight</sub-title>
-    <desc lang="en">Etta bears witness to a gruesome transference of harmonic energy; an unexpected ally helps mount a difficult escape.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001115300 +0000" stop="20261001121000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part One</sub-title>
-    <desc lang="en">Etta Pryce is hired to find a legendary rare record that kills anyone who hears it and drives its owners mad; Len Perry, an evidence handler, investigates a mysterious death.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001121000 +0000" stop="20261001122200 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Two</sub-title>
-    <desc lang="en">On the hunt for the Lytton Lacquer, Etta visits an old friend; Perry is questioned about a bloody incident; Lana scares up a lead.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001122200 +0000" stop="20261001123500 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Three</sub-title>
-    <desc lang="en">Etta visits the scene of the crime; Lana is worried about Etta's investigation; Perry, suffering from strange symptoms, has a visit from a very unexpected guest.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001123500 +0000" stop="20261001125400 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Four</sub-title>
-    <desc lang="en">A college radio DJ receives a strange call that changes the course of his life.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001125400 +0000" stop="20261001131300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Five</sub-title>
-    <desc lang="en">Rhodes confronts his suspects; Perry confides in Etta; a trip is made to Big Bear, and Etta and Perry find themselves in way over their heads.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001131300 +0000" stop="20261001133000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Six</sub-title>
-    <desc lang="en">A mess is cleaned up; a suitcase is opened; Perry tries to make sense of what is happening to him; Etta makes a grisly discovery and questions her dedication to the case.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001133000 +0000" stop="20261001134200 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Seven</sub-title>
-    <desc lang="en">Etta and Perry meet Lily Child, who shares what she believes is the true purpose of the Lytton Lacquer.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001134200 +0000" stop="20261001135700 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Eight</sub-title>
-    <desc lang="en">Etta bears witness to a gruesome transference of harmonic energy; an unexpected ally helps mount a difficult escape.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001135700 +0000" stop="20261001144400 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Thicker Than Water</sub-title>
-    <desc lang="en">Members of the Galloway family arrive at the home of patriarch Spencer for their annual family reunion, where they receive shocking news about his end of life plans; the group is faced with the resumption of cruel family competitions from the past.</desc>
-    <credits>
-      <actor>David Cronenberg</actor>
-      <actor>Paula Brancati</actor>
-      <actor>Patrice Goodman</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001144400 +0000" stop="20261001152800 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">The Sins of the Father</sub-title>
-    <desc lang="en">Shocking revelations make the Galloway family competition even more difficult, as grizzly discoveries and panic grip the family, and the killer claims the first victims; suspicions start to mount against one outsider following an unexpected reveal.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001152800 +0000" stop="20261001162300 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">In Trust</sub-title>
-    <desc lang="en">Reeling from witnessing a gruesome murder, the remaining Galloway family regroup to try and escape the island; Seamus and Christy's marriage tensions drive them further apart as more secrets from the past are revealed.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001162300 +0000" stop="20261001170700 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Upstairs Downstairs</sub-title>
-    <desc lang="en">Paranoia and suspicion grow among the surviving group, as another body is discovered and terrible secrets from the past come to the surface.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001170700 +0000" stop="20261001175200 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Family Ties</sub-title>
-    <desc lang="en">The family devolves into more violence as both the competition and the infighting continue, leading to bloody results.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001175200 +0000" stop="20261001184100 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Face Time</sub-title>
-    <desc lang="en">After discovering Florence's selfish crime, Theo takes matters into his own hands in dealing with his wicked mother; Christy learns more about Aphra's past, with grisly results.</desc>
-    <credits>
-      <actor>David Cronenberg</actor>
-      <actor>Paula Brancati</actor>
-      <actor>Patrice Goodman</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001184100 +0000" stop="20261001192500 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Goldfinger</sub-title>
-    <desc lang="en">Despite their shared penchant for bloodshed, The Gentleman doesn't spare Aphra from a gory death. Leaving only Grace, Theo, Vincent, and Liv in the competition, Grace finds herself outnumbered and fights to continue the competition.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001192500 +0000" stop="20261001201100 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Kindred</sub-title>
-    <desc lang="en">After revealing The Gentleman's true identity, Theo, Vincent, and Liv face horrific truths about the competition and their family, and the heir to the Galloway fortune claims their prize.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001201100 +0000" stop="20261001202800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part One</sub-title>
-    <desc lang="en">Etta Pryce is hired to find a legendary rare record that kills anyone who hears it and drives its owners mad; Len Perry, an evidence handler, investigates a mysterious death.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001202800 +0000" stop="20261001204000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Two</sub-title>
-    <desc lang="en">On the hunt for the Lytton Lacquer, Etta visits an old friend; Perry is questioned about a bloody incident; Lana scares up a lead.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001204000 +0000" stop="20261001205300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Three</sub-title>
-    <desc lang="en">Etta visits the scene of the crime; Lana is worried about Etta's investigation; Perry, suffering from strange symptoms, has a visit from a very unexpected guest.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001205300 +0000" stop="20261001211300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Four</sub-title>
-    <desc lang="en">A college radio DJ receives a strange call that changes the course of his life.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001211300 +0000" stop="20261001213100 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Five</sub-title>
-    <desc lang="en">Rhodes confronts his suspects; Perry confides in Etta; a trip is made to Big Bear, and Etta and Perry find themselves in way over their heads.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001213100 +0000" stop="20261001214800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Six</sub-title>
-    <desc lang="en">A mess is cleaned up; a suitcase is opened; Perry tries to make sense of what is happening to him; Etta makes a grisly discovery and questions her dedication to the case.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001214800 +0000" stop="20261001220000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Seven</sub-title>
-    <desc lang="en">Etta and Perry meet Lily Child, who shares what she believes is the true purpose of the Lytton Lacquer.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001220000 +0000" stop="20261001221600 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Eight</sub-title>
-    <desc lang="en">Etta bears witness to a gruesome transference of harmonic energy; an unexpected ally helps mount a difficult escape.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001221600 +0000" stop="20261001223300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part One</sub-title>
-    <desc lang="en">Etta Pryce is hired to find a legendary rare record that kills anyone who hears it and drives its owners mad; Len Perry, an evidence handler, investigates a mysterious death.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001223300 +0000" stop="20261001224500 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Two</sub-title>
-    <desc lang="en">On the hunt for the Lytton Lacquer, Etta visits an old friend; Perry is questioned about a bloody incident; Lana scares up a lead.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001224500 +0000" stop="20261001225800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Three</sub-title>
-    <desc lang="en">Etta visits the scene of the crime; Lana is worried about Etta's investigation; Perry, suffering from strange symptoms, has a visit from a very unexpected guest.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001225800 +0000" stop="20261001231800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Four</sub-title>
-    <desc lang="en">A college radio DJ receives a strange call that changes the course of his life.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001231800 +0000" stop="20261001233600 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Five</sub-title>
-    <desc lang="en">Rhodes confronts his suspects; Perry confides in Etta; a trip is made to Big Bear, and Etta and Perry find themselves in way over their heads.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001233600 +0000" stop="20261001235300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Six</sub-title>
-    <desc lang="en">A mess is cleaned up; a suitcase is opened; Perry tries to make sense of what is happening to him; Etta makes a grisly discovery and questions her dedication to the case.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261001235300 +0000" stop="20261002000500 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Seven</sub-title>
-    <desc lang="en">Etta and Perry meet Lily Child, who shares what she believes is the true purpose of the Lytton Lacquer.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261002000500 +0000" stop="20261002002000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Eight</sub-title>
-    <desc lang="en">Etta bears witness to a gruesome transference of harmonic energy; an unexpected ally helps mount a difficult escape.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261002002000 +0000" stop="20261002010700 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Thicker Than Water</sub-title>
-    <desc lang="en">Members of the Galloway family arrive at the home of patriarch Spencer for their annual family reunion, where they receive shocking news about his end of life plans; the group is faced with the resumption of cruel family competitions from the past.</desc>
-    <credits>
-      <actor>David Cronenberg</actor>
-      <actor>Paula Brancati</actor>
-      <actor>Patrice Goodman</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261002010700 +0000" stop="20261002015100 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">The Sins of the Father</sub-title>
-    <desc lang="en">Shocking revelations make the Galloway family competition even more difficult, as grizzly discoveries and panic grip the family, and the killer claims the first victims; suspicions start to mount against one outsider following an unexpected reveal.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261002015100 +0000" stop="20261002024600 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">In Trust</sub-title>
-    <desc lang="en">Reeling from witnessing a gruesome murder, the remaining Galloway family regroup to try and escape the island; Seamus and Christy's marriage tensions drive them further apart as more secrets from the past are revealed.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261002024600 +0000" stop="20261002033000 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Upstairs Downstairs</sub-title>
-    <desc lang="en">Paranoia and suspicion grow among the surviving group, as another body is discovered and terrible secrets from the past come to the surface.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261002033000 +0000" stop="20261002041500 +0000">
-    <title lang="en">Slasher: Flesh &amp; Blood</title>
-    <sub-title lang="en">Family Ties</sub-title>
-    <desc lang="en">The family devolves into more violence as both the competition and the infighting continue, leading to bloody results.</desc>
-    <credits>
-      <actor>Jefferson Brown</actor>
-      <director>Adam MacDonald</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20066286_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <previously-shown /></programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20261002041500 +0000" stop="20261002050400 +0000">
     <title lang="en">Slasher: Flesh &amp; Blood</title>
     <sub-title lang="en">Face Time</sub-title>
@@ -8358,44 +7467,716 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261001020000 +0000" stop="20261001100000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Beijing-ATP/WTA &amp; Tokyo-ATP 1st Round</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261005055300 +0000" stop="20261005064800 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Weird, Wild, West</sub-title>
+    <desc lang="en">Two monsters have met their end and now the competitors must create looks inspired by the Weird, Wild, West to remain in the competition.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261001100000 +0000" stop="20261001150000 +0000">
-    <title lang="en">Courtside - Live</title>
-    <sub-title lang="en">Beijing-ATP/WTA &amp; Tokyo-ATP 1st Round</sub-title>
-    <desc lang="en">Coverage of professional tennis matches.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261005064800 +0000" stop="20261005075300 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Monsters of Rock</sub-title>
+    <desc lang="en">The Queen Mother of group challenges returns with the annual Monsters of Rock show.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261001150000 +0000" stop="20261001153000 +0000">
-    <title lang="en">Race to the ATP Finals</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">A late season look at ATP tennis.</desc>
+  <programme channel="AMC+.us2" start="20261005075300 +0000" stop="20261005085500 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Ghostship Glamour</sub-title>
+    <desc lang="en">The monsters must delve into the depths of the dark oceans for a Ghostship Glamour theme and perform a lip sync to The Boulet Brothers' newest single, "Wicked Love.".</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005085500 +0000" stop="20261005094800 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Hairy Monsters!</sub-title>
+    <desc lang="en">The competitors are challenged with creating their hairiest creatures yet for this week's theme; one monster will be a cut above the rest and another will get the chop in a truly squirm-worthy extermination.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005094800 +0000" stop="20261005105500 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Exorsisters</sub-title>
+    <desc lang="en">The monsters face their toughest challenge yet - starring in their own horror movie.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <previously-shown />  <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005105500 +0000" stop="20261005115600 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">The Blacklight Haunted House</sub-title>
+    <desc lang="en">The cast must create costumes, looks and makeup treatments using spectrums of light as a base.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005115600 +0000" stop="20261005125400 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Drag Kaiju</sub-title>
+    <desc lang="en">The Boulet Brothers welcome a fresh cast to a new set to complete challenges.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005125400 +0000" stop="20261005135500 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">The Grand Finale</sub-title>
+    <desc lang="en">After a harrowing season of incredible challenges, the Boulet Brothers crown the world's next Drag Supermonster.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+      <actor>David Dastmalchian</actor>
+      <actor>Lauren LaVera</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005135500 +0000" stop="20261005150300 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Terror in the Woods</sub-title>
+    <desc lang="en">The Boulet Brothers welcome a new cast to a fresh set with new challenges.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+      <director>Dracmorda Boulet</director>
+      <director>Swanthula Boulet</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005150300 +0000" stop="20261005155800 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Trash Can Children</sub-title>
+    <desc lang="en">After the first extermination, the cast comes together to face the next challenge and an unexpected surprise.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005155800 +0000" stop="20261005165800 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">The Haunted Hotel</sub-title>
+    <desc lang="en">The cast begins to draw battle lines with one another and choose teams.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005165800 +0000" stop="20261005175400 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Monsters of Rock Part 1</sub-title>
+    <desc lang="en">The cast must fight independently for their spot in the next challenge; a surprise elimination leaves them all shocked.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E4 P1/2</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005175400 +0000" stop="20261005184200 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Monsters of Rock Part 2</sub-title>
+    <desc lang="en">The cast is split up into teams for a group challenge, and only one group will emerge victorious.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E5 P2/2</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005184200 +0000" stop="20261005194100 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Pleasure Planet X</sub-title>
+    <desc lang="en">The mansion and entire cast are beamed to outer space for a challenge.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+      <actor>David Dastmalchian</actor>
+      <actor>Lauren LaVera</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005194100 +0000" stop="20261005204200 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">The Blacklight Haunted House</sub-title>
+    <desc lang="en">The cast must create costumes, looks and makeup treatments using spectrums of light as a base.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005204200 +0000" stop="20261005214000 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Drag Kaiju</sub-title>
+    <desc lang="en">The Boulet Brothers welcome a fresh cast to a new set to complete challenges.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005214000 +0000" stop="20261005224100 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">The Grand Finale</sub-title>
+    <desc lang="en">After a harrowing season of incredible challenges, the Boulet Brothers crown the world's next Drag Supermonster.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+      <actor>David Dastmalchian</actor>
+      <actor>Lauren LaVera</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005224100 +0000" stop="20261005233000 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">November in My Soul</sub-title>
+    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34139655_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261001153000 +0000" stop="20261002020000 +0000">
-    <title lang="en">Courtside</title>
-    <sub-title lang="en">Beijing-ATP/WTA &amp; Tokyo-ATP 1st Round</sub-title>
-    <desc lang="en">Tennis highlights from matches.</desc>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657559_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261005233000 +0000" stop="20261006001500 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Disturbed</sub-title>
+    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261006001500 +0000" stop="20261006010200 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">New York in June</sub-title>
+    <desc lang="en">Staff denies Pepper's attack; Coffee explains a beast lives behind the silver door; Anthony visits; Pepper goes off his meds; the staff take the patients for pizza, and it's total chaos; the devil shows Pepper what will happen if he doesn't comply.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261006010200 +0000" stop="20261006015100 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">November in My Soul</sub-title>
+    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657559_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261006015100 +0000" stop="20261006023700 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Disturbed</sub-title>
+    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261006023700 +0000" stop="20261006032400 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">New York in June</sub-title>
+    <desc lang="en">Staff denies Pepper's attack; Coffee explains a beast lives behind the silver door; Anthony visits; Pepper goes off his meds; the staff take the patients for pizza, and it's total chaos; the devil shows Pepper what will happen if he doesn't comply.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261006032400 +0000" stop="20261006043200 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Terror in the Woods</sub-title>
+    <desc lang="en">The Boulet Brothers welcome a new cast to a fresh set with new challenges.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+      <director>Dracmorda Boulet</director>
+      <director>Swanthula Boulet</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261006043200 +0000" stop="20261006052700 +0000">
+    <title lang="en">The Boulet Brothers' Dragula</title>
+    <sub-title lang="en">Trash Can Children</sub-title>
+    <desc lang="en">After the first extermination, the cast comes together to face the next challenge and an unexpected surprise.</desc>
+    <credits>
+      <actor>The Boulet Brothers</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Competition Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519968_b_h8_ag.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <previously-shown />  <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20261002020000 +0000" stop="20261002100000 +0000">
     <title lang="en">Courtside - Live</title>
     <sub-title lang="en">Beijing-ATP/WTA &amp; Tokyo-ATP 2nd Round</sub-title>
@@ -8592,6 +8373,47 @@
     <desc lang="en">Coverage of professional tennis matches.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261005100000 +0000" stop="20261005150000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Beijing-ATP Semifinals; Beijing-WTA 3rd Round; Tokyo-ATP Semifinals</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261005150000 +0000" stop="20261006000000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <sub-title lang="en">Beijing-ATP Semifinals; Beijing-WTA 3rd Round; Tokyo-ATP Semifinals</sub-title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261006000000 +0000" stop="20261006010000 +0000">
+    <title lang="en">Race to the ATP &amp; WTA Finals</title>
+    <desc lang="en">Late season analysis of the ATP and WTA tours.</desc>
+    <date>2026</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/assets/p33986375_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261006010000 +0000" stop="20261006030000 +0000">
+    <title lang="en">Courtside</title>
+    <desc lang="en">Tennis highlights from matches.</desc>
+    <date>2022</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21416985_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261006030000 +0000" stop="20261006100000 +0000">
+    <title lang="en">Courtside - Live</title>
+    <desc lang="en">Coverage of professional tennis matches.</desc>
+    <date>2022</date>
     <category lang="en">Tennis</category>
     <icon src="http://dtil.tmsimg.com/assets/p22031790_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
