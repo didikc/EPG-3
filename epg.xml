@@ -3809,17 +3809,17 @@
     <category lang="en">Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOT6L9J7GMQDRT2ZRJJ8.jpg/a:p/im:i:c_limit,w_1920/FOT6L9J7GMQDRT2ZRJJ8_reference_keyframe.jpg" />
   </programme>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
+  </channel>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
   <programme channel="AMC+.us2" start="20261011044400 +0000" stop="20261011053700 +0000">
     <title lang="en">The 101 Scariest Horror Movie Moments of All Time</title>
