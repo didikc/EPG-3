@@ -3920,566 +3920,18 @@
     <category lang="en">Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO0CIMZS0ZE792V2F5BK.jpg/a:p/im:i:c_limit,w_1920/FO0CIMZS0ZE792V2F5BK_reference_keyframe.jpg" />
   </programme>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20261016043700 +0000" stop="20261016052100 +0000">
-    <title lang="en">Eli Roth's History of Horror</title>
-    <sub-title lang="en">Holiday Horror</sub-title>
-    <desc lang="en">Holiday mayhem, including "Black Christmas," "Krampus," "Silent Night Deadly Night," "Terror Train," "My Bloody Valentine," "Mother's Day," "April Fool's Day," "Happy Death Day" and the 2018 "Halloween," featuring returning guest Jamie Lee Curtis.</desc>
-    <credits>
-      <actor>Eli Roth</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15814493_b_h8_ag.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016052100 +0000" stop="20261016060400 +0000">
-    <title lang="en">Eli Roth's History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring "Frankenstein," "Ex Machina," "The Invisible Man," "The Fly," "Dr. Jekyll and Mr. Hyde," "Altered States" and "The Rocky Horror Picture Show.".</desc>
-    <credits>
-      <actor>Eli Roth</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15814493_b_h8_ag.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016060400 +0000" stop="20261016065800 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Cassandra; Smile</sub-title>
-    <desc lang="en">Cassie is chased by a monster and is forced to endanger a kind stranger when she asks for help; a celebrated photographer is tormented after an award-winning photograph has more consequences than just fame.</desc>
-    <credits>
-      <actor>Cooper Bibaud</actor>
-      <actor>Ruth Codd</actor>
-      <actor>Andrea Drepaul</actor>
-      <director>Greg Nicotero</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016065800 +0000" stop="20261016075300 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">The Hat; Grieving Process</sub-title>
-    <desc lang="en">A horror novelist's agent offers him help to overcome his writer's block, and the struggling author can't resist; Richard's wife is attacked and becomes a shell of the woman he loved, and he'll do anything to help her feel better.</desc>
-    <credits>
-      <director>Kailey Spear</director>
-      <director>Sam Spear</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016075300 +0000" stop="20261016084200 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Parent Death Trap; To Grandmother's House We Go</sub-title>
-    <desc lang="en">Lyle is tired of his parents' criticisms; a gold digger fights for the fortune she is owed.</desc>
-    <credits>
-      <director>Justin G. Dyck</director>
-      <director>P.J. Pesce</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016084200 +0000" stop="20261016093100 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Meet the Belaskos; Cheat Code</sub-title>
-    <desc lang="en">The Belaskos get more than they bargained for when they move in next door to a vampire-hating suburbanite; a father and son bond by playing an old video game, but soon find out there's a reason it was abandoned.</desc>
-    <credits>
-      <actor>Karis Cameron</actor>
-      <actor>Matthew Nelson-Mahood</actor>
-      <actor>Donavon Stinson</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016093100 +0000" stop="20261016102000 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Something Burrowed, Something Blue; Doodles</sub-title>
-    <desc lang="en">A young couple are gifted everything they could ever wish for; an aspiring comic artist keeps hitting roadblocks.</desc>
-    <credits>
-      <actor>Curtis Lim</actor>
-      <actor>Kristy Dawn Dinsmore</actor>
-      <actor>Bernie Yao</actor>
-      <director>P.J. Pesce</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016102000 +0000" stop="20261016110700 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">George Romero in 3-D!; Baby Teeth</sub-title>
-    <desc lang="en">A struggling bookstore owner finds unpublished works of George Romero, but the comics lead to new troubles; Shelby's mom struggles to accept that her baby is growing up, but hanging on to childhood relics isn't as harmless as she thinks.</desc>
-    <credits>
-      <actor>Kyra Zagorsky</actor>
-      <actor>Graham Verchere</actor>
-      <actor>Megan Charpentier</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016110700 +0000" stop="20261016123100 +0000">
-    <title lang="en">Bloody Axe Wound</title>
-    <desc lang="en">In the small town of Clover Falls, Abbie Bladecut navigates the inheritance of her father's real-life slasher business.</desc>
-    <credits>
-      <actor>Sari Arambulo</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Billy Burke</actor>
-      <director>Matthew John Lawrence</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28511492_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016123100 +0000" stop="20261016135700 +0000">
-    <title lang="en">What Comes Around</title>
-    <desc lang="en">A love affair becomes a menacing game of cat and mouse where nothing is what it seems.</desc>
-    <credits>
-      <actor>Grace Van Dien</actor>
-      <actor>Summer Phoenix</actor>
-      <actor>Jesse Garcia</actor>
-      <director>Amy Redford</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23249026_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016135700 +0000" stop="20261016155200 +0000">
-    <title lang="en">Corsage</title>
-    <desc lang="en">Faced with a future of strict ceremonies and royal duties, Empress Elisabeth of Austria rebels against her public image and comes up with a plan to protect her legacy.</desc>
-    <credits>
-      <actor>Vicky Krieps</actor>
-      <actor>Colin Morgan</actor>
-      <actor>Florian Teichtmeister</actor>
-      <director>Marie Kreutzer</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21827304_v_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>11</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="映倫">
-      <value>PG12</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016155200 +0000" stop="20261016175000 +0000">
-    <title lang="en">Both Sides of the Blade</title>
-    <desc lang="en">A woman's life spirals out of control when she becomes involved in a passionate love triangle.</desc>
-    <credits>
-      <actor>Juliette Binoche</actor>
-      <actor>Vincent Lindon</actor>
-      <actor>Grégoire Colin</actor>
-      <director>Claire Denis</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21710617_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>11</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016175000 +0000" stop="20261016191400 +0000">
-    <title lang="en">God's Time</title>
-    <desc lang="en">Two best friends race against time to stop the woman they're both in love with from committing murder.</desc>
-    <credits>
-      <actor>Christiane Seidel</actor>
-      <actor>Jared Abrahamson</actor>
-      <actor>Ben Groh</actor>
-      <director>Daniel Antebi</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23249108_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261016191400 +0000" stop="20261016210000 +0000">
-    <title lang="en">A Lot of Nothing</title>
-    <desc lang="en">James and Vanessa are ostensibly the perfect married couple. Their lives spiral out of control when they decide to seek justice against a neighbor they saw commit a crime on the evening news.</desc>
-    <credits>
-      <actor>Y'lan Noel</actor>
-      <actor>Cleopatra Coleman</actor>
-      <actor>Justin Hartley</actor>
-      <director>Mo McRae</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23782757_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261016210000 +0000" stop="20261016223900 +0000">
-    <title lang="en">Taurus</title>
-    <desc lang="en">A rising but troubled musician searches for the inspiration to record his next song, pushing himself deep into the void.</desc>
-    <credits>
-      <actor>Colson Baker</actor>
-      <actor>Maddie Hasson</actor>
-      <actor>Demetrius "Lil Meech" Flenory</actor>
-      <director>Tim Sutton</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Music</category>
-    <category lang="en">Rock</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23069817_v_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261016223900 +0000" stop="20261017001600 +0000">
-    <title lang="en">Skincare</title>
-    <desc lang="en">Famed aesthetician Hope Goldman is about to take her career to the next level by launching her very own skin care line. However, she soon faces a new challenge when a rival opens a boutique directly across from her store. Suspecting that someone is trying to sabotage her, she embarks on a quest to unravel the mystery of who's trying to destroy her life.</desc>
-    <credits>
-      <actor>Elizabeth Banks</actor>
-      <actor>Nathan Fillion</actor>
-      <actor>Lewis Pullman</actor>
-      <director>Austin Peters</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27608268_v_h8_af.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017001600 +0000" stop="20261017015200 +0000">
-    <title lang="en">Night Nurse</title>
-    <desc lang="en">As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with a mysterious patient.</desc>
-    <credits>
-      <actor>Cemre Paksoy</actor>
-      <actor>Bruce McKenzie</actor>
-      <actor>Eleonore Hendricks</actor>
-      <director>Georgia Bernstein</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33299386_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017015200 +0000" stop="20261017032800 +0000">
-    <title lang="en">Night Nurse</title>
-    <desc lang="en">As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with a mysterious patient.</desc>
-    <credits>
-      <actor>Cemre Paksoy</actor>
-      <actor>Bruce McKenzie</actor>
-      <actor>Eleonore Hendricks</actor>
-      <director>Georgia Bernstein</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33299386_v_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20261017032800 +0000" stop="20261017050200 +0000">
     <title lang="en">Hot Milk</title>
     <desc lang="en">Sofia travels to the Spanish coast with her domineering mother, who seeks a cure for a strange illness. A tantalizing world awaits Sofia, if she can escape her mother's demands.</desc>
@@ -7425,67 +6877,1425 @@
       <value>A16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261016030000 +0000" stop="20261016090000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Shanghai-ATP Quarterfinal 3; Wuhan-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E125</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261016090000 +0000" stop="20261016100000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Shanghai-ATP Quarterfinal 3; Wuhan-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20261020052800 +0000" stop="20261020061400 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Disturbed</sub-title>
+    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E94</episode-num>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020061400 +0000" stop="20261020070100 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">New York in June</sub-title>
+    <desc lang="en">Staff denies Pepper's attack; Coffee explains a beast lives behind the silver door; Anthony visits; Pepper goes off his meds; the staff take the patients for pizza, and it's total chaos; the devil shows Pepper what will happen if he doesn't comply.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020070100 +0000" stop="20261020074700 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">A Number in the System</sub-title>
+    <desc lang="en">Dorry receives a twisted procedure; Dorry knows the devil Coffee, Pepper and Loochie make a plan to fight him; Pepper has a session with Dr. Walter and is reminded of his biggest shame; Coffee discovers what's past the Silver Door. Gunfire and gore.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020074700 +0000" stop="20261020083200 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Vermillion</sub-title>
+    <desc lang="en">Director Cleave investigates a death. New Hyde will be closed; Dorry's first trip to New Hyde; Dr. Walter does an unnecessary lobotomy; the devil wants out; Miss Chris opens the silver door; Dorry loses everything, Anand pays the price.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020083200 +0000" stop="20261020092100 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">November in My Soul</sub-title>
+    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020092100 +0000" stop="20261020100600 +0000">
+    <title lang="en">The Terror: Devil in Silver</title>
+    <sub-title lang="en">Disturbed</sub-title>
+    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
+    <credits>
+      <actor>Dan Stevens</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Chinaza Uche</actor>
+      <director>Karyn Kusama</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020100600 +0000" stop="20261020102900 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020102900 +0000" stop="20261020105100 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020105100 +0000" stop="20261020111400 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020111400 +0000" stop="20261020113600 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020113600 +0000" stop="20261020115900 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020115900 +0000" stop="20261020122100 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Dig Me Up, Dig Me Down</sub-title>
+    <desc lang="en">After the death of his wife, Sheriff Miller is forced into retirement and replaced by Evie Barret, who discovers the town is possessed by demons, and that Stan's wife was the only one keeping them at bay; Stan and Evie must join forces to stay alive.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020122100 +0000" stop="20261020124400 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Know, Know, Know Your Goat</sub-title>
+    <desc lang="en">Stan's daughter, Denise, goes blueberry picking and comes home with a pet goat, which also just happens to be a demon.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020124400 +0000" stop="20261020130600 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Let Your Love Groan</sub-title>
+    <desc lang="en">Stan, Evie and Denise go speed dating and suddenly find themselves involved with their perfect match; they also find themselves growing weak and rapidly aging.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020130600 +0000" stop="20261020132900 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020132900 +0000" stop="20261020135200 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020135200 +0000" stop="20261020141400 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020141400 +0000" stop="20261020143700 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020143700 +0000" stop="20261020145900 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020145900 +0000" stop="20261020152200 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Dig Me Up, Dig Me Down</sub-title>
+    <desc lang="en">After the death of his wife, Sheriff Miller is forced into retirement and replaced by Evie Barret, who discovers the town is possessed by demons, and that Stan's wife was the only one keeping them at bay; Stan and Evie must join forces to stay alive.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020152200 +0000" stop="20261020154400 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Know, Know, Know Your Goat</sub-title>
+    <desc lang="en">Stan's daughter, Denise, goes blueberry picking and comes home with a pet goat, which also just happens to be a demon.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020154400 +0000" stop="20261020160700 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Let Your Love Groan</sub-title>
+    <desc lang="en">Stan, Evie and Denise go speed dating and suddenly find themselves involved with their perfect match; they also find themselves growing weak and rapidly aging.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020160700 +0000" stop="20261020162900 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020162900 +0000" stop="20261020165200 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020165200 +0000" stop="20261020171400 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020171400 +0000" stop="20261020173700 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020173700 +0000" stop="20261020180000 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020180000 +0000" stop="20261020182200 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Dig Me Up, Dig Me Down</sub-title>
+    <desc lang="en">After the death of his wife, Sheriff Miller is forced into retirement and replaced by Evie Barret, who discovers the town is possessed by demons, and that Stan's wife was the only one keeping them at bay; Stan and Evie must join forces to stay alive.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020182200 +0000" stop="20261020184500 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Know, Know, Know Your Goat</sub-title>
+    <desc lang="en">Stan's daughter, Denise, goes blueberry picking and comes home with a pet goat, which also just happens to be a demon.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020184500 +0000" stop="20261020190700 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Let Your Love Groan</sub-title>
+    <desc lang="en">Stan, Evie and Denise go speed dating and suddenly find themselves involved with their perfect match; they also find themselves growing weak and rapidly aging.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020190700 +0000" stop="20261020193000 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020193000 +0000" stop="20261020195200 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020195200 +0000" stop="20261020201500 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020201500 +0000" stop="20261020203700 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020203700 +0000" stop="20261020210000 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020210000 +0000" stop="20261020212300 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Dig Me Up, Dig Me Down</sub-title>
+    <desc lang="en">After the death of his wife, Sheriff Miller is forced into retirement and replaced by Evie Barret, who discovers the town is possessed by demons, and that Stan's wife was the only one keeping them at bay; Stan and Evie must join forces to stay alive.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020212300 +0000" stop="20261020214500 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Know, Know, Know Your Goat</sub-title>
+    <desc lang="en">Stan's daughter, Denise, goes blueberry picking and comes home with a pet goat, which also just happens to be a demon.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020214500 +0000" stop="20261020220800 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Let Your Love Groan</sub-title>
+    <desc lang="en">Stan, Evie and Denise go speed dating and suddenly find themselves involved with their perfect match; they also find themselves growing weak and rapidly aging.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020220800 +0000" stop="20261020223000 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020223000 +0000" stop="20261020225300 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020225300 +0000" stop="20261020231500 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020231500 +0000" stop="20261020233800 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261020233800 +0000" stop="20261021000000 +0000">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+      <director>Jack Bishop</director>
+      <director>Justin Nijm</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13143367_b_h8_ae.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021000000 +0000" stop="20261021004700 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Michael Myers</sub-title>
+    <desc lang="en">A cheap film shot in 21 days changed the landscape of horror, made several careers, and gave one actress an iconic role that she's tweaking 42 years later.</desc>
+    <credits>
+      <actor>Tracie Thoms</actor>
+      <actor>Rebekah McKendry</actor>
+      <actor>Dave Schilling</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261016100000 +0000" stop="20261016120000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Shanghai-ATP &amp; Wuhan-WTA Quarterfinal 4</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261021004700 +0000" stop="20261021012300 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Candyman</sub-title>
+    <desc lang="en">The genre's first black slasher showed up in 1992, rich with subtext about racial tensions in American history; in 2021, he's coming back - and is perhaps the most relevant horror icon imaginable.</desc>
+    <credits>
+      <actor>Bernard Rose</actor>
+      <actor>Tony Todd</actor>
+      <actor>Nia DaCosta</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E103</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261016120000 +0000" stop="20261016180000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Shanghai-ATP &amp; Wuhan-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E95</episode-num>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261016180000 +0000" stop="20261016210000 +0000">
-    <title lang="en">Live: PPA Tour Pickleball</title>
-    <sub-title lang="en">PPA Virginia Beach, VA Quarterfinals</sub-title>
-    <desc lang="en">Action from the PPA Tour.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261021012300 +0000" stop="20261021015600 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Chucky</sub-title>
+    <desc lang="en">What started as a nasty spin on 80s consumerism, flourished over three decades into an unlikely progressive horror property that refuses to get back on the shelf.</desc>
+    <credits>
+      <actor>Don Mancini</actor>
+      <actor>Kevin Yagher</actor>
+      <actor>Tom Holland</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Pickleball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24599787_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261016210000 +0000" stop="20261017083000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Shanghai-ATP &amp; Wuhan-WTA Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021015600 +0000" stop="20261021024100 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Freddy Krueger</sub-title>
+    <desc lang="en">Perhaps the most recognizable horror icon, Freddy Krueger's one-liners and merchandise has proven to be enjoyed by horror and non-horror fans alike.</desc>
+    <credits>
+      <actor>Ashlee Blackwell</actor>
+      <actor>Dorina Arellano</actor>
+      <actor>Jonathan Craven</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E95</episode-num>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778250_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021024100 +0000" stop="20261021032700 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Jason Voorhees</sub-title>
+    <desc lang="en">A look at the accidental creation of a machete-wielding avatar of conservative 1980s morality - one that, absent a new entry, a fiercely loyal fan base has taken to resurrecting on their own.</desc>
+    <credits>
+      <actor>Ari Lehman</actor>
+      <actor>Elric Kane</actor>
+      <actor>C.J. Graham</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778250_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021032700 +0000" stop="20261021041600 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Pinhead</sub-title>
+    <desc lang="en">Emerging from a low budget independent film, this character who was simply called "Lead Cenobite" would become the undeniable symbol of pleasure and pain and the icon of the "Hellraiser" franchise.</desc>
+    <credits>
+      <actor>Haleigh Foutch</actor>
+      <actor>Jane Wildgoose</actor>
+      <actor>Doug Bradley</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778250_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021041600 +0000" stop="20261021050200 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Michael Myers</sub-title>
+    <desc lang="en">A cheap film shot in 21 days changed the landscape of horror, made several careers, and gave one actress an iconic role that she's tweaking 42 years later.</desc>
+    <credits>
+      <actor>Tracie Thoms</actor>
+      <actor>Rebekah McKendry</actor>
+      <actor>Dave Schilling</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20261017083000 +0000" stop="20261017100000 +0000">
     <title lang="en">Center Court Live</title>
@@ -7683,6 +8493,45 @@
     <category lang="en">Tennis</category>
     <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E109</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261020100000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E109</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261020210000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Race to the ATP &amp; WTA Finals</title>
+    <desc lang="en">Late season analysis of the ATP and WTA tours.</desc>
+    <date>2026</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33986375_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261020220000 +0000" stop="20261021023000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E99</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261021023000 +0000" stop="20261021100000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E110</episode-num>
     <premiere lang="en" />
   </programme>
   </tv>
