@@ -6259,944 +6259,18 @@
     <category lang="en">Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOK2039JVP5EUE1DMKXD.jpg/a:p/im:i:c_limit,w_1920/FOK2039JVP5EUE1DMKXD_reference_keyframe.jpg" />
   </programme>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20261017032800 +0000" stop="20261017050200 +0000">
-    <title lang="en">Hot Milk</title>
-    <desc lang="en">Sofia travels to the Spanish coast with her domineering mother, who seeks a cure for a strange illness. A tantalizing world awaits Sofia, if she can escape her mother's demands.</desc>
-    <credits>
-      <actor>Emma Mackey</actor>
-      <actor>Fiona Shaw</actor>
-      <actor>Vincent Perez</actor>
-      <director>Rebecca Lenkiewicz</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29481725_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017050200 +0000" stop="20261017070000 +0000">
-    <title lang="en">Both Sides of the Blade</title>
-    <desc lang="en">A woman's life spirals out of control when she becomes involved in a passionate love triangle.</desc>
-    <credits>
-      <actor>Juliette Binoche</actor>
-      <actor>Vincent Lindon</actor>
-      <actor>Grégoire Colin</actor>
-      <director>Claire Denis</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21710617_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>11</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017070000 +0000" stop="20261017084600 +0000">
-    <title lang="en">A Lot of Nothing</title>
-    <desc lang="en">James and Vanessa are ostensibly the perfect married couple. Their lives spiral out of control when they decide to seek justice against a neighbor they saw commit a crime on the evening news.</desc>
-    <credits>
-      <actor>Y'lan Noel</actor>
-      <actor>Cleopatra Coleman</actor>
-      <actor>Justin Hartley</actor>
-      <director>Mo McRae</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23782757_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017084600 +0000" stop="20261017104500 +0000">
-    <title lang="no">Armand</title>
-    <desc lang="en">When Elisabeth is called to a parent-teacher conference after hours, she is presented with scathing allegations that trigger a tangled web of accusations between parents and faculty.</desc>
-    <credits>
-      <actor>Renate Reinsve</actor>
-      <actor>Ellen Dorrit Petersen</actor>
-      <actor>Øystein Røger</actor>
-      <director>Halfdan Ullmann Tøndel</director>
-    </credits>
-    <date>2024</date>
-    <category lang="no">Movie</category>
-    <category lang="no">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27166539_v_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017104500 +0000" stop="20261017113000 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">All Hallows Eve; The Man in the Suitcase</sub-title>
-    <desc lang="en">Teens who go trick-or-treating are met with fear instead of smiles and sweets; Justin brings home the wrong suitcase and is shocked to find a living man stuffed inside.</desc>
-    <credits>
-      <actor>Connor Christie</actor>
-      <actor>Madison Thompson</actor>
-      <actor>Jasun Jabbar</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017113000 +0000" stop="20261017121400 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">The Companion; Lydia Layne's Better Half</sub-title>
-    <desc lang="en">Harry stumbles upon an old scarecrow and accidentally brings it to life; Lydia kills her lover and needs to hide the evidence, but she gets trapped inside an elevator with the body.</desc>
-    <credits>
-      <actor>Carey Jones</actor>
-      <actor>Logan Allen</actor>
-      <actor>Afemo Omilami</actor>
-      <director>Roxanne Benjamin</director>
-      <director>David Bruckner</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017121400 +0000" stop="20261017125900 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Night of the Paw; Times Is Tough in Musky Holler</sub-title>
-    <desc lang="en">A killer gets stranded in a funeral home with a mortician and his monkey paw; a former mayor and his followers who controlled a town through fear and intimidation get a taste of their own medicine.</desc>
-    <credits>
-      <actor>Bruce Davison</actor>
-      <actor>Hannah Barefoot</actor>
-      <actor>Susannah Devereux</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017125900 +0000" stop="20261017134400 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Skincrawlers; By the Silver Water of Lake Champlain</sub-title>
-    <desc lang="en">A doctor discovers a solution for weight loss; Rose believes she has found Champ, the legendary monster of Lake Champlain, but the real monster may still be out there.</desc>
-    <credits>
-      <actor>Dana Gould</actor>
-      <actor>Chad Michael Collins</actor>
-      <actor>Hina Kahn</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017134400 +0000" stop="20261017140100 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part One</sub-title>
-    <desc lang="en">Etta Pryce is hired to find a legendary rare record that kills anyone who hears it and drives its owners mad; Len Perry, an evidence handler, investigates a mysterious death.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017140100 +0000" stop="20261017141300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Two</sub-title>
-    <desc lang="en">On the hunt for the Lytton Lacquer, Etta visits an old friend; Perry is questioned about a bloody incident; Lana scares up a lead.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017141300 +0000" stop="20261017142600 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Three</sub-title>
-    <desc lang="en">Etta visits the scene of the crime; Lana is worried about Etta's investigation; Perry, suffering from strange symptoms, has a visit from a very unexpected guest.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017142600 +0000" stop="20261017144600 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Four</sub-title>
-    <desc lang="en">A college radio DJ receives a strange call that changes the course of his life.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017144600 +0000" stop="20261017150400 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Five</sub-title>
-    <desc lang="en">Rhodes confronts his suspects; Perry confides in Etta; a trip is made to Big Bear, and Etta and Perry find themselves in way over their heads.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017150400 +0000" stop="20261017152100 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Six</sub-title>
-    <desc lang="en">A mess is cleaned up; a suitcase is opened; Perry tries to make sense of what is happening to him; Etta makes a grisly discovery and questions her dedication to the case.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017152100 +0000" stop="20261017153300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Seven</sub-title>
-    <desc lang="en">Etta and Perry meet Lily Child, who shares what she believes is the true purpose of the Lytton Lacquer.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017153300 +0000" stop="20261017154800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Eight</sub-title>
-    <desc lang="en">Etta bears witness to a gruesome transference of harmonic energy; an unexpected ally helps mount a difficult escape.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017154800 +0000" stop="20261017160600 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part One</sub-title>
-    <desc lang="en">Etta Pryce is hired to find a legendary rare record that kills anyone who hears it and drives its owners mad; Len Perry, an evidence handler, investigates a mysterious death.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017160600 +0000" stop="20261017161800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Two</sub-title>
-    <desc lang="en">On the hunt for the Lytton Lacquer, Etta visits an old friend; Perry is questioned about a bloody incident; Lana scares up a lead.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017161800 +0000" stop="20261017163100 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Three</sub-title>
-    <desc lang="en">Etta visits the scene of the crime; Lana is worried about Etta's investigation; Perry, suffering from strange symptoms, has a visit from a very unexpected guest.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017163100 +0000" stop="20261017165000 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Four</sub-title>
-    <desc lang="en">A college radio DJ receives a strange call that changes the course of his life.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017165000 +0000" stop="20261017170900 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Five</sub-title>
-    <desc lang="en">Rhodes confronts his suspects; Perry confides in Etta; a trip is made to Big Bear, and Etta and Perry find themselves in way over their heads.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017170900 +0000" stop="20261017172600 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Six</sub-title>
-    <desc lang="en">A mess is cleaned up; a suitcase is opened; Perry tries to make sense of what is happening to him; Etta makes a grisly discovery and questions her dedication to the case.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017172600 +0000" stop="20261017173800 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Seven</sub-title>
-    <desc lang="en">Etta and Perry meet Lily Child, who shares what she believes is the true purpose of the Lytton Lacquer.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017173800 +0000" stop="20261017175300 +0000">
-    <title lang="en">deadwax</title>
-    <sub-title lang="en">Part Eight</sub-title>
-    <desc lang="en">Etta bears witness to a gruesome transference of harmonic energy; an unexpected ally helps mount a difficult escape.</desc>
-    <credits>
-      <actor>Hannah Gross</actor>
-      <actor>Evan Gamble</actor>
-      <actor>Tracy Perez</actor>
-      <director>Graham Reznick</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16768196_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="AMC+.us2" start="20261017175300 +0000" stop="20261017184000 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Gray Matter; The House of the Head</sub-title>
-    <desc lang="en">A man's drinking habit becomes insatiable, and his appetite grows to frightening proportions; a severed toy head appears in a girl's dollhouse and starts murdering.</desc>
-    <credits>
-      <actor>Adrienne Barbeau</actor>
-      <actor>Giancarlo Esposito</actor>
-      <actor>Tobin Bell</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017184000 +0000" stop="20261017192500 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Bad Wolf Down; The Finger</sub-title>
-    <desc lang="en">A platoon of American soldiers finds something more sinister than war behind enemy lines; a man with a passion for found objects finds a growing finger.</desc>
-    <credits>
-      <actor>Dave MacDonald</actor>
-      <actor>Callan Wilson</actor>
-      <actor>Scott Mescudi</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017192500 +0000" stop="20261017201000 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">All Hallows Eve; The Man in the Suitcase</sub-title>
-    <desc lang="en">Teens who go trick-or-treating are met with fear instead of smiles and sweets; Justin brings home the wrong suitcase and is shocked to find a living man stuffed inside.</desc>
-    <credits>
-      <actor>Connor Christie</actor>
-      <actor>Madison Thompson</actor>
-      <actor>Jasun Jabbar</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017201000 +0000" stop="20261017205300 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">The Companion; Lydia Layne's Better Half</sub-title>
-    <desc lang="en">Harry stumbles upon an old scarecrow and accidentally brings it to life; Lydia kills her lover and needs to hide the evidence, but she gets trapped inside an elevator with the body.</desc>
-    <credits>
-      <actor>Carey Jones</actor>
-      <actor>Logan Allen</actor>
-      <actor>Afemo Omilami</actor>
-      <director>Roxanne Benjamin</director>
-      <director>David Bruckner</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017205300 +0000" stop="20261017213800 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Night of the Paw; Times Is Tough in Musky Holler</sub-title>
-    <desc lang="en">A killer gets stranded in a funeral home with a mortician and his monkey paw; a former mayor and his followers who controlled a town through fear and intimidation get a taste of their own medicine.</desc>
-    <credits>
-      <actor>Bruce Davison</actor>
-      <actor>Hannah Barefoot</actor>
-      <actor>Susannah Devereux</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017213800 +0000" stop="20261017222300 +0000">
-    <title lang="en">Creepshow</title>
-    <sub-title lang="en">Skincrawlers; By the Silver Water of Lake Champlain</sub-title>
-    <desc lang="en">A doctor discovers a solution for weight loss; Rose believes she has found Champ, the legendary monster of Lake Champlain, but the real monster may still be out there.</desc>
-    <credits>
-      <actor>Dana Gould</actor>
-      <actor>Chad Michael Collins</actor>
-      <actor>Hina Kahn</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Dark comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17416148_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017222300 +0000" stop="20261017231200 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">November in My Soul</sub-title>
-    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017231200 +0000" stop="20261017235700 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">Disturbed</sub-title>
-    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261017235700 +0000" stop="20261018004500 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">New York in June</sub-title>
-    <desc lang="en">Staff denies Pepper's attack; Coffee explains a beast lives behind the silver door; Anthony visits; Pepper goes off his meds; the staff take the patients for pizza, and it's total chaos; the devil shows Pepper what will happen if he doesn't comply.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261018004500 +0000" stop="20261018013100 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">A Number in the System</sub-title>
-    <desc lang="en">Dorry receives a twisted procedure; Dorry knows the devil Coffee, Pepper and Loochie make a plan to fight him; Pepper has a session with Dr. Walter and is reminded of his biggest shame; Coffee discovers what's past the Silver Door. Gunfire and gore.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261018013100 +0000" stop="20261018022000 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">November in My Soul</sub-title>
-    <desc lang="en">Pepper, a moving man from Queens, is defending his girlfriend Marisol from a violent ex when he's arrested by three plainclothes cops; the cops commit Pepper to New Hyde Psychiatric Hospital for a 72-hour hold; Dr. Walter makes his first appearance.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261018022000 +0000" stop="20261018030500 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">Disturbed</sub-title>
-    <desc lang="en">Pepper meets his roommate, Coffee; weird sounds in the ceiling; Pepper is visited by a bloody former inhabitant of New Hyde and attacked by a mysterious entity; Marisol visits and Pepper gets into it with Loochie; Pepper gets ahold of staff keys.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261018030500 +0000" stop="20261018035300 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">New York in June</sub-title>
-    <desc lang="en">Staff denies Pepper's attack; Coffee explains a beast lives behind the silver door; Anthony visits; Pepper goes off his meds; the staff take the patients for pizza, and it's total chaos; the devil shows Pepper what will happen if he doesn't comply.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20261018035300 +0000" stop="20261018043900 +0000">
-    <title lang="en">The Terror: Devil in Silver</title>
-    <sub-title lang="en">A Number in the System</sub-title>
-    <desc lang="en">Dorry receives a twisted procedure; Dorry knows the devil Coffee, Pepper and Loochie make a plan to fight him; Pepper has a session with Dr. Walter and is reminded of his biggest shame; Coffee discovers what's past the Silver Door. Gunfire and gore.</desc>
-    <credits>
-      <actor>Dan Stevens</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Chinaza Uche</actor>
-      <director>Karyn Kusama</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32657586_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20261018043900 +0000" stop="20261018052500 +0000">
     <title lang="en">The Terror: Devil in Silver</title>
     <sub-title lang="en">A Number in the System</sub-title>
@@ -10636,75 +9710,900 @@
     <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017083000 +0000" stop="20261017100000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Shanghai-ATP Semifinal 1</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261021050200 +0000" stop="20261021053800 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Candyman</sub-title>
+    <desc lang="en">The genre's first black slasher showed up in 1992, rich with subtext about racial tensions in American history; in 2021, he's coming back - and is perhaps the most relevant horror icon imaginable.</desc>
+    <credits>
+      <actor>Bernard Rose</actor>
+      <actor>Tony Todd</actor>
+      <actor>Nia DaCosta</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E104</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017100000 +0000" stop="20261017103000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Shanghai-ATP Semifinal 1</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E104</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017103000 +0000" stop="20261017110000 +0000">
-    <title lang="en">ATP Tour This Week</title>
-    <date>2026</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33986332_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017110000 +0000" stop="20261017130000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">Shanghai-ATP Semifinal 2</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261021053800 +0000" stop="20261021061200 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Chucky</sub-title>
+    <desc lang="en">What started as a nasty spin on 80s consumerism, flourished over three decades into an unlikely progressive horror property that refuses to get back on the shelf.</desc>
+    <credits>
+      <actor>Don Mancini</actor>
+      <actor>Kevin Yagher</actor>
+      <actor>Tom Holland</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E105</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017130000 +0000" stop="20261017160000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Shanghai-ATP &amp; Wuhan-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E96</episode-num>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
     <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017160000 +0000" stop="20261017190000 +0000">
-    <title lang="en">Live: PPA Tour Pickleball</title>
-    <sub-title lang="en">PPA Virginia Beach, VA Semifinals</sub-title>
-    <desc lang="en">Action from the PPA Tour.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20261021061200 +0000" stop="20261021065600 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Freddy Krueger</sub-title>
+    <desc lang="en">Perhaps the most recognizable horror icon, Freddy Krueger's one-liners and merchandise has proven to be enjoyed by horror and non-horror fans alike.</desc>
+    <credits>
+      <actor>Ashlee Blackwell</actor>
+      <actor>Dorina Arellano</actor>
+      <actor>Jonathan Craven</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
     <category lang="en">Series</category>
-    <category lang="en">Pickleball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24599787_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20261017190000 +0000" stop="20261018060000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">Shanghai-ATP &amp; Wuhan-WTA Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E96</episode-num>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778250_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
     <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021065600 +0000" stop="20261021074300 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Jason Voorhees</sub-title>
+    <desc lang="en">A look at the accidental creation of a machete-wielding avatar of conservative 1980s morality - one that, absent a new entry, a fiercely loyal fan base has taken to resurrecting on their own.</desc>
+    <credits>
+      <actor>Ari Lehman</actor>
+      <actor>Elric Kane</actor>
+      <actor>C.J. Graham</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778250_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021074300 +0000" stop="20261021083100 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Pinhead</sub-title>
+    <desc lang="en">Emerging from a low budget independent film, this character who was simply called "Lead Cenobite" would become the undeniable symbol of pleasure and pain and the icon of the "Hellraiser" franchise.</desc>
+    <credits>
+      <actor>Haleigh Foutch</actor>
+      <actor>Jane Wildgoose</actor>
+      <actor>Doug Bradley</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778250_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021083100 +0000" stop="20261021091700 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Michael Myers</sub-title>
+    <desc lang="en">A cheap film shot in 21 days changed the landscape of horror, made several careers, and gave one actress an iconic role that she's tweaking 42 years later.</desc>
+    <credits>
+      <actor>Tracie Thoms</actor>
+      <actor>Rebekah McKendry</actor>
+      <actor>Dave Schilling</actor>
+      <director>Anthony Uro</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021091700 +0000" stop="20261021095400 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Candyman</sub-title>
+    <desc lang="en">The genre's first black slasher showed up in 1992, rich with subtext about racial tensions in American history; in 2021, he's coming back - and is perhaps the most relevant horror icon imaginable.</desc>
+    <credits>
+      <actor>Bernard Rose</actor>
+      <actor>Tony Todd</actor>
+      <actor>Nia DaCosta</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021095400 +0000" stop="20261021102700 +0000">
+    <title lang="en">Behind the Monsters</title>
+    <sub-title lang="en">Chucky</sub-title>
+    <desc lang="en">What started as a nasty spin on 80s consumerism, flourished over three decades into an unlikely progressive horror property that refuses to get back on the shelf.</desc>
+    <credits>
+      <actor>Don Mancini</actor>
+      <actor>Kevin Yagher</actor>
+      <actor>Tom Holland</actor>
+      <director>Gabrielle Binkley</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20778269_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021102700 +0000" stop="20261021105400 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Poltergeist</sub-title>
+    <desc lang="en">A series of untimely deaths connected to the making of the "Poltergeist" films inspire rumors that the production is cursed; suspicions are stoked by rumors that real human skeletons were used during the making of the film.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021105400 +0000" stop="20261021112300 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Crow</sub-title>
+    <desc lang="en">Years after actor Bruce Lee's mysterious death is attributed to the Lee Family Curse, his son Brandon's life is cut short due to a tragic on-set accident during the making of "The Crow.".</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021112300 +0000" stop="20261021115300 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Twilight Zone: The Movie</sub-title>
+    <desc lang="en">A horrific on-set accident during the production of "Twilight Zone: The Movie" leaves those involved in the making of the film cursed by the memory of the incident they witnessed.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021115300 +0000" stop="20261021122300 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Exorcist</sub-title>
+    <desc lang="en">The release of "The Exorcist" is surrounded by controversy, as reports of fainting theater-goers and mysterious on-set accidents raise questions whether the film itself is evil.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021122300 +0000" stop="20261021125200 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Omen</sub-title>
+    <desc lang="en">A series of unfortunate events plague the cast and crew during the making of "The Omen," raising concerns that the film might be cursed by the devil himself.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021125200 +0000" stop="20261021131900 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Poltergeist</sub-title>
+    <desc lang="en">A series of untimely deaths connected to the making of the "Poltergeist" films inspire rumors that the production is cursed; suspicions are stoked by rumors that real human skeletons were used during the making of the film.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021131900 +0000" stop="20261021134800 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Crow</sub-title>
+    <desc lang="en">Years after actor Bruce Lee's mysterious death is attributed to the Lee Family Curse, his son Brandon's life is cut short due to a tragic on-set accident during the making of "The Crow.".</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021134800 +0000" stop="20261021141800 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Twilight Zone: The Movie</sub-title>
+    <desc lang="en">A horrific on-set accident during the production of "Twilight Zone: The Movie" leaves those involved in the making of the film cursed by the memory of the incident they witnessed.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021141800 +0000" stop="20261021144800 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Exorcist</sub-title>
+    <desc lang="en">The release of "The Exorcist" is surrounded by controversy, as reports of fainting theater-goers and mysterious on-set accidents raise questions whether the film itself is evil.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021144800 +0000" stop="20261021151600 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Omen</sub-title>
+    <desc lang="en">A series of unfortunate events plague the cast and crew during the making of "The Omen," raising concerns that the film might be cursed by the devil himself.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021151600 +0000" stop="20261021154300 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Poltergeist</sub-title>
+    <desc lang="en">A series of untimely deaths connected to the making of the "Poltergeist" films inspire rumors that the production is cursed; suspicions are stoked by rumors that real human skeletons were used during the making of the film.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021154300 +0000" stop="20261021161300 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Crow</sub-title>
+    <desc lang="en">Years after actor Bruce Lee's mysterious death is attributed to the Lee Family Curse, his son Brandon's life is cut short due to a tragic on-set accident during the making of "The Crow.".</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021161300 +0000" stop="20261021164200 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Twilight Zone: The Movie</sub-title>
+    <desc lang="en">A horrific on-set accident during the production of "Twilight Zone: The Movie" leaves those involved in the making of the film cursed by the memory of the incident they witnessed.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021164200 +0000" stop="20261021171200 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Exorcist</sub-title>
+    <desc lang="en">The release of "The Exorcist" is surrounded by controversy, as reports of fainting theater-goers and mysterious on-set accidents raise questions whether the film itself is evil.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021171200 +0000" stop="20261021174100 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Omen</sub-title>
+    <desc lang="en">A series of unfortunate events plague the cast and crew during the making of "The Omen," raising concerns that the film might be cursed by the devil himself.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021174100 +0000" stop="20261021180800 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Poltergeist</sub-title>
+    <desc lang="en">A series of untimely deaths connected to the making of the "Poltergeist" films inspire rumors that the production is cursed; suspicions are stoked by rumors that real human skeletons were used during the making of the film.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021180800 +0000" stop="20261021183700 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Crow</sub-title>
+    <desc lang="en">Years after actor Bruce Lee's mysterious death is attributed to the Lee Family Curse, his son Brandon's life is cut short due to a tragic on-set accident during the making of "The Crow.".</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021183700 +0000" stop="20261021190700 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Twilight Zone: The Movie</sub-title>
+    <desc lang="en">A horrific on-set accident during the production of "Twilight Zone: The Movie" leaves those involved in the making of the film cursed by the memory of the incident they witnessed.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021190700 +0000" stop="20261021193700 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Exorcist</sub-title>
+    <desc lang="en">The release of "The Exorcist" is surrounded by controversy, as reports of fainting theater-goers and mysterious on-set accidents raise questions whether the film itself is evil.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021193700 +0000" stop="20261021200600 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Omen</sub-title>
+    <desc lang="en">A series of unfortunate events plague the cast and crew during the making of "The Omen," raising concerns that the film might be cursed by the devil himself.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021200600 +0000" stop="20261021203300 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Poltergeist</sub-title>
+    <desc lang="en">A series of untimely deaths connected to the making of the "Poltergeist" films inspire rumors that the production is cursed; suspicions are stoked by rumors that real human skeletons were used during the making of the film.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021203300 +0000" stop="20261021210200 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Crow</sub-title>
+    <desc lang="en">Years after actor Bruce Lee's mysterious death is attributed to the Lee Family Curse, his son Brandon's life is cut short due to a tragic on-set accident during the making of "The Crow.".</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021210200 +0000" stop="20261021213100 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Twilight Zone: The Movie</sub-title>
+    <desc lang="en">A horrific on-set accident during the production of "Twilight Zone: The Movie" leaves those involved in the making of the film cursed by the memory of the incident they witnessed.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021213100 +0000" stop="20261021220100 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Exorcist</sub-title>
+    <desc lang="en">The release of "The Exorcist" is surrounded by controversy, as reports of fainting theater-goers and mysterious on-set accidents raise questions whether the film itself is evil.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021220100 +0000" stop="20261021223000 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Omen</sub-title>
+    <desc lang="en">A series of unfortunate events plague the cast and crew during the making of "The Omen," raising concerns that the film might be cursed by the devil himself.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021223000 +0000" stop="20261021225700 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Poltergeist</sub-title>
+    <desc lang="en">A series of untimely deaths connected to the making of the "Poltergeist" films inspire rumors that the production is cursed; suspicions are stoked by rumors that real human skeletons were used during the making of the film.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021225700 +0000" stop="20261021232600 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">The Crow</sub-title>
+    <desc lang="en">Years after actor Bruce Lee's mysterious death is attributed to the Lee Family Curse, his son Brandon's life is cut short due to a tragic on-set accident during the making of "The Crow.".</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20261021232600 +0000" stop="20261021235600 +0000">
+    <title lang="en">Cursed Films</title>
+    <sub-title lang="en">Twilight Zone: The Movie</sub-title>
+    <desc lang="en">A horrific on-set accident during the production of "Twilight Zone: The Movie" leaves those involved in the making of the film cursed by the memory of the incident they witnessed.</desc>
+    <credits>
+      <director>Jay Cheel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18131911_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261021235600 +0000" stop="20261022005200 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">The Shorter Way</sub-title>
+    <desc lang="en">Vic, a young New Englander, discovers her supernatural abilities as the immortal Charlie Manx lures a child into a mysterious Rolls-Royce Wraith.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>Kari Skogland</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261022005200 +0000" stop="20261022014100 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">The Graveyard of What Might Be</sub-title>
+    <desc lang="en">Vic meets Maggie, a medium with more questions than answers; Manx visits Haverhill to seek The Shorter Way and finds Bing, who is eager to help.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>Kari Skogland</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261022014100 +0000" stop="20261022022700 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">The Gas Mask Man</sub-title>
+    <desc lang="en">Vic strives to live a normal life despite Maggie's warning; Charlie Manx puts Bing Partridge to work.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>John Shiban</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261022022700 +0000" stop="20261022031300 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">The House of Sleep</sub-title>
+    <desc lang="en">Vic learns that she must trust in her supernatural ability to track down the Wraith; a body, with ties to the events of a past Christmas, surfaces.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>John Shiban</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261022031300 +0000" stop="20261022040100 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">The Wraith</sub-title>
+    <desc lang="en">Vic is questioned by the police and cannot fill the holes in her story; Manx lays out his plan for Vic, but things go awry.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>Tim Southam</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261022040100 +0000" stop="20261022044600 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">The Dark Tunnels</sub-title>
+    <desc lang="en">Vic meets another strong creative who gives her some advice; Manx has an unexpected visitor.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>Tim Southam</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20261022044600 +0000" stop="20261022053100 +0000">
+    <title lang="en">NOS4A2</title>
+    <sub-title lang="en">Scissors for the Drifter</sub-title>
+    <desc lang="en">Vic finds herself stuck in the real world; Manx runs into trouble and calls Bing for help.</desc>
+    <credits>
+      <actor>Zachary Quinto</actor>
+      <actor>Ashleigh Cummings</actor>
+      <actor>Ólafur Darri Ólafsson</actor>
+      <director>Jeremy Webb</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Paranormal</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16765204_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20261018060000 +0000" stop="20261018080000 +0000">
     <title lang="en">Center Court Live</title>
     <sub-title lang="en">Shanghai-ATP Doubles Final</sub-title>
@@ -10871,6 +10770,55 @@
     <category lang="en">Tennis</category>
     <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E110</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261021100000 +0000" stop="20261021210000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E110</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261021210000 +0000" stop="20261022000000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E100</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261022000000 +0000" stop="20261022010000 +0000">
+    <title lang="en">Race to the ATP &amp; WTA Finals</title>
+    <desc lang="en">Late season analysis of the ATP and WTA tours.</desc>
+    <date>2026</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33986375_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261022010000 +0000" stop="20261022023000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p615474_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E100</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20261022023000 +0000" stop="20261022100000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E111</episode-num>
     <premiere lang="en" />
   </programme>
   </tv>
